@@ -246,26 +246,11 @@ watch/YWxwaGEvYXVzdHJpYW4tZGFydHMtb3Blbi1kYXktMS1zZXNzaW9uLTEvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",[TIME|1745578800000] Austrian Darts Open | Day 1 (Session 1) (SD|ALPHA2|DEU) [DATE]
 watch/YWxwaGEvYXVzdHJpYW4tZGFydHMtb3Blbi1kYXktMS1zZXNzaW9uLTEvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745579400000] MotoGP | Round 5 | Spain - Practice 1 (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvbW90b2dwLXJvdW5kLTUtc3BhaW4tcHJhY3RpY2UtMS1tb3RvZ3AtMS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745579400000] MotoGP | Round 5 | Spain - Practice 1 (HD|DELTA2|) [DATE]
-watch/ZGVsdGEvbW90b2dwLXJvdW5kLTUtc3BhaW4tcHJhY3RpY2UtMS1tb3RvZ3AtMS8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745579400000] MotoGP | Round 5 | Spain - Practice 1 (HD|DELTA3|) [DATE]
-watch/ZGVsdGEvbW90b2dwLXJvdW5kLTUtc3BhaW4tcHJhY3RpY2UtMS1tb3RvZ3AtMS8z
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745579700000] Court 6: Sebastian Korda v Federico Cina (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNi1zZWJhc3RpYW4ta29yZGEtdnMtZmVkZXJpY28tY2luYS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745579700000] Court 6: Sebastian Korda v Federico Cina (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNi1zZWJhc3RpYW4ta29yZGEtdnMtZmVkZXJpY28tY2luYS8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745582400000] Salzburg U19 v Trabzonspor U19 (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9zYWx6YnVyZy11MTktdnMtdHJhYnpvbnNwb3ItdTE5LTEzNjc2MjMvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745582400000] Salzburg U19 v Trabzonspor U19 (HD|CHARLIE2|ENG) [DATE]
-watch/Y2hhcmxpZS9zYWx6YnVyZy11MTktdnMtdHJhYnpvbnNwb3ItdTE5LTEzNjc2MjMvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745583000000] WTA Madrid v Court 5 Stearns - Anisimova (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTU4MzAwMDAwMC13dGEtbWFkcmlkLWNvdXJ0LTUtc3RlYXJucy1hbmlzaW1vdmEvMQ==
@@ -290,30 +275,6 @@ watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYWxleGFuZGVyLXp2ZXJldi12cy1yb2JlcnRvLWJhdXRpc3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745585100000] Zurich Classic of New Orleans: Main Feed (Second Round) (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS96dXJpY2gtY2xhc3NpYy1vZi1uZXctb3JsZWFucy1tYWluLWZlZWQtc2Vjb25kLXJvdW5kLTE2Mjk0MzkyNzkvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745586000000] Bari vs Modena (HD|ALPHA1|ITA) [DATE]
-watch/YWxwaGEvYmFyaS12cy1tb2RlbmEvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745586000000] Bari vs Modena (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvYmFyaS12cy1tb2RlbmEtZm9vdGJhbGwtMTIzNDk3MC8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745586000000] Bari vs Modena (HD|DELTA2|) [DATE]
-watch/ZGVsdGEvYmFyaS12cy1tb2RlbmEtZm9vdGJhbGwtMTIzNDk3MC8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745586000000] Bari vs Modena (SD|ALPHA2|ITA) [DATE]
-watch/YWxwaGEvYmFyaS12cy1tb2RlbmEvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745586000000] Brescia vs Pisa (HD|ALPHA1|ITA) [DATE]
-watch/YWxwaGEvYnJlc2NpYS12cy1waXNhLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745586000000] Brescia vs Pisa (SD|ALPHA2|ITA) [DATE]
-watch/YWxwaGEvYnJlc2NpYS12cy1waXNhLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745586000000] Carrarese vs Sampdoria (HD|ALPHA1|ITA) [DATE]
-watch/YWxwaGEvY2FycmFyZXNlLXZzLXNhbXBkb3JpYS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745586000000] Carrarese vs Sampdoria (SD|ALPHA2|ITA) [DATE]
-watch/YWxwaGEvY2FycmFyZXNlLXZzLXNhbXBkb3JpYS8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745586000000] Court 3: Taylor Fritz v Christopher O'Connell (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY291cnQtMy10YXlsb3ItZnJpdHotdnMtY2hyaXN0b3BoZXItby1jb25uZWxsLzE=
@@ -374,30 +335,6 @@ watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG9ncC1mcDIvMTY=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745586000000] MotoGP Spain GP: MotoGP FP2 (SD|ALPHA9|ENG) [DATE]
 watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG9ncC1mcDIvOQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745586000000] Reggiana vs Cittadella (HD|ALPHA1|ITA) [DATE]
-watch/YWxwaGEvcmVnZ2lhbmEtdnMtY2l0dGFkZWxsYS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745586000000] Reggiana vs Cittadella (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvcmVnZ2lhbmEtdnMtY2l0dGFkZWxsYS1mb290YmFsbC0xMjM0OTc3LzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745586000000] Reggiana vs Cittadella (HD|DELTA2|) [DATE]
-watch/ZGVsdGEvcmVnZ2lhbmEtdnMtY2l0dGFkZWxsYS1mb290YmFsbC0xMjM0OTc3LzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745586000000] Reggiana vs Cittadella (SD|ALPHA2|ITA) [DATE]
-watch/YWxwaGEvcmVnZ2lhbmEtdnMtY2l0dGFkZWxsYS8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745586000000] Salernitana vs Cosenza (HD|ALPHA1|ITA) [DATE]
-watch/YWxwaGEvc2FsZXJuaXRhbmEtdnMtY29zZW56YS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745586000000] Salernitana vs Cosenza (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvc2FsZXJuaXRhbmEtdnMtY29zZW56YS1mb290YmFsbC0xMjM0OTc4LzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745586000000] Salernitana vs Cosenza (HD|DELTA2|) [DATE]
-watch/ZGVsdGEvc2FsZXJuaXRhbmEtdnMtY29zZW56YS1mb290YmFsbC0xMjM0OTc4LzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745586000000] Salernitana vs Cosenza (SD|ALPHA2|ITA) [DATE]
-watch/YWxwaGEvc2FsZXJuaXRhbmEtdnMtY29zZW56YS8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745586000000] WTA Madrid v Court 7 Osorio - Mertens (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTU4NjAwMDAwMC13dGEtbWFkcmlkLWNvdXJ0LTctb3NvcmlvLW1lcnRlbnMvMQ==
@@ -504,18 +441,6 @@ watch/YWxwaGEvYWMtbWlsYW4tdy12cy1pbnRlci13LzM=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745589600000] AC Milan W v Inter W (SD|ALPHA4|ITA) [DATE]
 watch/YWxwaGEvYWMtbWlsYW4tdy12cy1pbnRlci13LzQ=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1745589600000] Chennai Super Kings vs Sunrisers Hyderabad (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY2hlbm5haS1zdXBlci1raW5ncy12cy1zdW5yaXNlcnMtaHlkZXJhYmFkLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1745589600000] Chennai Super Kings vs Sunrisers Hyderabad (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY2hlbm5haS1zdXBlci1raW5ncy12cy1zdW5yaXNlcnMtaHlkZXJhYmFkLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1745589600000] Chennai Super Kings vs Sunrisers Hyderabad (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY2hlbm5haS1zdXBlci1raW5ncy12cy1zdW5yaXNlcnMtaHlkZXJhYmFkLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1745589600000] Chennai Super Kings vs Sunrisers Hyderabad (SD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEvY2hlbm5haS1zdXBlci1raW5ncy12cy1zdW5yaXNlcnMtaHlkZXJhYmFkLzQ=
-
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1745589600000] Rally Islas Canarias: Stage 4 (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9yYWxseS1pc2xhcy1jYW5hcmlhcy1zdGFnZS00LTE2Mjk0MzkyNzQvMQ==
 
@@ -562,10 +487,10 @@ watch/YnJhdm8vMTc0NTU5MTQwMDAwMC1hbGNpb25lLW1pbGFuby1naWFuYS1lcm1pbmlvLzE=
 watch/YnJhdm8vMTc0NTU5MTQwMDAwMC1hcnppZ25hbm8tZmVyYWxwaXNhbG8vMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745591400000] Czech Republic v Slovakia (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTU5MTQwMDAwMHJlcHVibGljLXNsb3Zha2lhLWN6ZWNoLS8x
+watch/YnJhdm8vMTc0NTU5MTQwMDAwMC1jemVjaC1yZXB1YmxpYy1zbG92YWtpYS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745591400000] Czech Republic v Slovakia (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTU5MTQwMDAwMC1jemVjaC1yZXB1YmxpYy1zbG92YWtpYS8x
+watch/YnJhdm8vMTc0NTU5MTQwMDAwMHJlcHVibGljLXNsb3Zha2lhLWN6ZWNoLS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745591400000] Lecco vs Atalanta U23 (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTU5MTQwMDAwMC1sZWNjby1hdGFsYW50YS11MjMvMQ==
@@ -651,20 +576,14 @@ watch/YWxwaGEvY291cnQtNy15dWxpYS1wdXRpbnRzZXZhLXZzLXJlYmVrYS1tYXNhcm92YS8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745593200000] Court 7: Yulia Putintseva v Rebeka Masarova (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNy15dWxpYS1wdXRpbnRzZXZhLXZzLXJlYmVrYS1tYXNhcm92YS8y
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745593200000] FK Zorya Luhansk v Livyi Bereg (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvZmstem9yeWEtbHVoYW5zay12cy1saXZ5aS1iZXJlZy8x
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745593200000] FK Liepāja vs Super Nova (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTU5MzIwMDAwMC1may1saWVwYWphLXN1cGVyLW5vdmEvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1745593200000] Karachi Kings vs Quetta Gladiators (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEva2FyYWNoaS1raW5ncy12cy1xdWV0dGEtZ2xhZGlhdG9ycy8x
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1745593200000] TUTO v Tiikerit (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTU5MzIwMDAwMC10dXRvLXRpaWtlcml0LzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1745593200000] Karachi Kings vs Quetta Gladiators (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEva2FyYWNoaS1raW5ncy12cy1xdWV0dGEtZ2xhZGlhdG9ycy8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1745593200000] Karachi Kings vs Quetta Gladiators (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEva2FyYWNoaS1raW5ncy12cy1xdWV0dGEtZ2xhZGlhdG9ycy8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1745593200000] Karachi Kings vs Quetta Gladiators (SD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEva2FyYWNoaS1raW5ncy12cy1xdWV0dGEtZ2xhZGlhdG9ycy80
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745593200000] The Chevron Championship (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTU5MzIwMDAwMC10aGUtY2hldnJvbi1jaGFtcGlvbnNoaXAvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745593200000] The Chevron Championship Round 2 (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvMjAyNS10aGUtY2hldnJvbi1jaGFtcGlvbnNoaXAtc2Vjb25kLXJvdW5kLzE=
@@ -672,30 +591,9 @@ watch/YWxwaGEvMjAyNS10aGUtY2hldnJvbi1jaGFtcGlvbnNoaXAtc2Vjb25kLXJvdW5kLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745593200000] The Chevron Championship Round 2 (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvMjAyNS10aGUtY2hldnJvbi1jaGFtcGlvbnNoaXAtc2Vjb25kLXJvdW5kLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745594100000] Court 5: Coco Gauff/Robin Montgomery v Caroline Dolehide/Desirae Krawczyk (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNS1jb2NvLWdhdWZmLXJvYmluLW1vbnRnb21lcnktdnMtY2Fyb2xpbmUtZG9sZWhpZGUtZGVzaXJhZS1rcmF3Y3p5ay8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745594100000] Court 5: Coco Gauff/Robin Montgomery v Caroline Dolehide/Desirae Krawczyk (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNS1jb2NvLWdhdWZmLXJvYmluLW1vbnRnb21lcnktdnMtY2Fyb2xpbmUtZG9sZWhpZGUtZGVzaXJhZS1rcmF3Y3p5ay8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745594100000] Court 5: Coco Gauff/Robin Montgomery v Caroline Dolehide/Desirae Krawczyk (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNS1jb2NvLWdhdWZmLXJvYmluLW1vbnRnb21lcnktdnMtY2Fyb2xpbmUtZG9sZWhpZGUtZGVzaXJhZS1rcmF3Y3p5ay8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745595000000] Finland v Sweden (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvZmlubGFuZC12cy1zd2VkZW4vMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745595000000] Finland v Sweden (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvZmlubGFuZC12cy1zd2VkZW4vMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745595000000] Finland v Sweden (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvZmlubGFuZC12cy1zd2VkZW4vMw==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745595900000] Unirea Slobozia v Poli Iasi (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvdW5pcmVhLXNsb2JvemlhLXZzLXBvbGktaWFzaS8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745595900000] Unirea Slobozia v Poli Iasi (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745595900000] Unirea Slobozia v Poli Iasi (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdW5pcmVhLXNsb2JvemlhLXZzLXBvbGktaWFzaS8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745595900000] Unirea Slobozia v Poli Iasi (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvdW5pcmVhLXNsb2JvemlhLXZzLXBvbGktaWFzaS8z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745595900000] Unirea Slobozia v Poli Iasi (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvdW5pcmVhLXNsb2JvemlhLXZzLXBvbGktaWFzaS8y
 
