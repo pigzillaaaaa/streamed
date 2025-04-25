@@ -531,22 +531,22 @@ watch/YnJhdm8vMTc0NTYyMjAwMDAwMC1waW5oZWlyb3MtdW5pZmFjaXNhLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745622000000] Purdue v Illinois (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTYyMjAwMDAwMC1wdXJkdWUtdnMtaWxsaW5vaXMvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png" group-title="AFL",[TIME|1745622000000] The 2025 NFL draft Round 2-3 (HD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png" group-title="AMERICAN-FOOTBALL",[TIME|1745622000000] The 2025 NFL draft Round 2-3 (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdGhlLTIwMjUtbmZsLWRyYWZ0LXJvdW5kLTItMy8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png" group-title="AFL",[TIME|1745622000000] The 2025 NFL draft Round 2-3 (HD|ALPHA2|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png" group-title="AMERICAN-FOOTBALL",[TIME|1745622000000] The 2025 NFL draft Round 2-3 (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdGhlLTIwMjUtbmZsLWRyYWZ0LXJvdW5kLTItMy8y
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png" group-title="AFL",[TIME|1745622000000] The 2025 NFL draft Round 2-3 (HD|ALPHA3|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png" group-title="AMERICAN-FOOTBALL",[TIME|1745622000000] The 2025 NFL draft Round 2-3 (HD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvdGhlLTIwMjUtbmZsLWRyYWZ0LXJvdW5kLTItMy8z
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png" group-title="AFL",[TIME|1745622000000] The 2025 NFL draft Round 2-3 (SD|ALPHA4|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png" group-title="AMERICAN-FOOTBALL",[TIME|1745622000000] The 2025 NFL draft Round 2-3 (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvdGhlLTIwMjUtbmZsLWRyYWZ0LXJvdW5kLTItMy80
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png" group-title="AFL",[TIME|1745622000000] The 2025 NFL draft Round 2-3 (SD|ALPHA5|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png" group-title="AMERICAN-FOOTBALL",[TIME|1745622000000] The 2025 NFL draft Round 2-3 (SD|ALPHA5|ENG) [DATE]
 watch/YWxwaGEvdGhlLTIwMjUtbmZsLWRyYWZ0LXJvdW5kLTItMy81
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png" group-title="AFL",[TIME|1745622000000] The 2025 NFL draft Round 2-3 (SD|ALPHA6|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png" group-title="AMERICAN-FOOTBALL",[TIME|1745622000000] The 2025 NFL draft Round 2-3 (SD|ALPHA6|ENG) [DATE]
 watch/YWxwaGEvdGhlLTIwMjUtbmZsLWRyYWZ0LXJvdW5kLTItMy82
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745622000000] Toronto Blue Jays v New York Yankees (HD|CHARLIE1|ENG) [DATE]
@@ -615,6 +615,12 @@ watch/YWxwaGEva2Fuc2FzLWNpdHktcm95YWxzLXZzLWhvdXN0b24tYXN0cm9zLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745624400000] Kansas City Royals vs Houston Astros (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEva2Fuc2FzLWNpdHktcm95YWxzLXZzLWhvdXN0b24tYXN0cm9zLzI=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745624400000] Kansas City Royals vs Houston Astros (HD|BRAVO1|AWA) [DATE]
+watch/YnJhdm8vMTc0NTYyNDQwMDAwMC1ob3VzdG9uLWFzdHJvcy12cy1rYW5zYXMtY2l0eS1yb3lhbHMtYXdheS1mZWVkLS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745624400000] Kansas City Royals vs Houston Astros (HD|BRAVO2|HOM) [DATE]
+watch/YnJhdm8vMTc0NTYyNDQwMDAwMC1ob3VzdG9uLWFzdHJvcy12cy1rYW5zYXMtY2l0eS1yb3lhbHMtaG9tZS1mZWVkLS8y
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745624400000] Kansas City Royals vs Houston Astros (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEva2Fuc2FzLWNpdHktcm95YWxzLXZzLWhvdXN0b24tYXN0cm9zLzM=
 
@@ -626,6 +632,12 @@ watch/YWxwaGEvbWlubmVzb3RhLXR3aW5zLXZzLWxvcy1hbmdlbGVzLWFuZ2Vscy8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745624400000] Minnesota Twins vs Los Angeles Angels (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbWlubmVzb3RhLXR3aW5zLXZzLWxvcy1hbmdlbGVzLWFuZ2Vscy8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745624400000] Minnesota Twins vs Los Angeles Angels (HD|BRAVO1|AWA) [DATE]
+watch/YnJhdm8vMTc0NTYyNDQwMDAwMC1sb3MtYW5nZWxlcy1hbmdlbHMtdnMtbWlubmVzb3RhLXR3aW5zLWF3YXktZmVlZC0vMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745624400000] Minnesota Twins vs Los Angeles Angels (HD|BRAVO2|HOM) [DATE]
+watch/YnJhdm8vMTc0NTYyNDQwMDAwMC1sb3MtYW5nZWxlcy1hbmdlbHMtdnMtbWlubmVzb3RhLXR3aW5zLWhvbWUtZmVlZC0vMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745624400000] Minnesota Twins vs Los Angeles Angels (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvbWlubmVzb3RhLXR3aW5zLXZzLWxvcy1hbmdlbGVzLWFuZ2Vscy8z
