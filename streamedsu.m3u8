@@ -333,12 +333,6 @@ watch/YnJhdm8vMTc0NTU4NzgwMDAwMC13b3JsZC1jaGFtcGlvbnNoaXAtdGFibGUtMi8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745587800000] Zurich Classic of New Orleans: Featured Groups (Second Round) (Featured Groups) (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS96dXJpY2gtY2xhc3NpYy1vZi1uZXctb3JsZWFucy1mZWF0dXJlZC1ncm91cHMtc2Vjb25kLXJvdW5kLWZlYXR1cmVkLWdyb3Vwcy0xNjI5NDM5MjgyLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745587800000] Zurich Classic of New Orleans: MacIntyre & Hadwin Teams Second Round (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvenVyaWNoLWNsYXNzaWMtb2YtbmV3LW9ybGVhbnMtbWFjaW50eXJlLWhhZHdpbi10ZWFtcy1zZWNvbmQtcm91bmQvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745587800000] Zurich Classic of New Orleans: MacIntyre & Hadwin Teams Second Round (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvenVyaWNoLWNsYXNzaWMtb2YtbmV3LW9ybGVhbnMtbWFjaW50eXJlLWhhZHdpbi10ZWFtcy1zZWNvbmQtcm91bmQvMg==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745589000000] ATP Madrid v Court 6 Nakashima - Ofner (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTU4OTAwMDAwMC1hdHAtbWFkcmlkLWNvdXJ0LTYtbmFrYXNoaW1hLW9mbmVyLzE=
 
@@ -424,10 +418,10 @@ watch/YnJhdm8vMTc0NTU5MTQwMDAwMC1hbGNpb25lLW1pbGFuby1naWFuYS1lcm1pbmlvLzE=
 watch/YnJhdm8vMTc0NTU5MTQwMDAwMC1hcnppZ25hbm8tZmVyYWxwaXNhbG8vMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745591400000] Czech Republic v Slovakia (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTU5MTQwMDAwMHJlcHVibGljLXNsb3Zha2lhLWN6ZWNoLS8x
+watch/YnJhdm8vMTc0NTU5MTQwMDAwMC1jemVjaC1yZXB1YmxpYy1zbG92YWtpYS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745591400000] Czech Republic v Slovakia (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTU5MTQwMDAwMC1jemVjaC1yZXB1YmxpYy1zbG92YWtpYS8x
+watch/YnJhdm8vMTc0NTU5MTQwMDAwMHJlcHVibGljLXNsb3Zha2lhLWN6ZWNoLS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745591400000] Lecco vs Atalanta U23 (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTU5MTQwMDAwMC1sZWNjby1hdGFsYW50YS11MjMvMQ==
@@ -564,6 +558,12 @@ watch/YnJhdm8vMTc0NTU5NTAwMDAwMC12ZW50c3BpbHMtYmstb2dyZS8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745595900000] Unirea Slobozia v Poli Iasi (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdW5pcmVhLXNsb2JvemlhLXZzLXBvbGktaWFzaS8x
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745595900000] Unirea Slobozia v Poli Iasi (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTU5NTkwMDAwMC11bmlyZWEtc2xvYm96aWEtcG9saS1pYXNpLzE=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745595900000] Unirea Slobozia v Poli Iasi (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdW5pcmVhLXNsb2JvemlhLXZzLXBvbGktaWFzaS8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745595900000] WTA Madrid v Court 5 Gauff/Montgomery - Dolehide/Krawczyk (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTU5NTkwMDAwMC13dGEtbWFkcmlkLWNvdXJ0LTUtZ2F1ZmYtbW9udGdvbWVyeS1kb2xlaGlkZS1rcmF3Y3p5ay8x
 
