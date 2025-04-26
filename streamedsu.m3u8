@@ -393,9 +393,6 @@ watch/YWxwaGEvcmFsbHktaXNsYXMtY2FuYXJpYXMtc3RhZ2UtNy8y
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1745650800000] WRC | Rally Islas Canarias | Special Stage 7 | Day 3 - Starts (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvd3JjLXJhbGx5LWlzbGFzLWNhbmFyaWFzLXNwZWNpYWwtc3RhZ2UtNy1kYXktMy1zdGFydHMtcmFjZS0yMC0wNC8x
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1745650800000] WRC | Rally Islas Canarias | Special Stage 7 | Day 3 - Starts (HD|DELTA2|) [DATE]
-watch/ZGVsdGEvd3JjLXJhbGx5LWlzbGFzLWNhbmFyaWFzLXNwZWNpYWwtc3RhZ2UtNy1kYXktMy1zdGFydHMtcmFjZS0yMC0wNC8y
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1745651100000] Highlanders v Crusaders (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvaGlnaGxhbmRlcnMtdnMtY3J1c2FkZXJzLzE=
 
@@ -606,15 +603,6 @@ watch/YWxwaGEvY291cnQtNi1lcmktaG96dW1pLXVscmlra2UtZWlrZXJpLXZzLWx1aXNhLXN0ZWZhbm
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745658000000] Court 6: Eri Hozumi/ Ulrikke Eikeri v Luisa Stefani/ Timea Babos (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNi1lcmktaG96dW1pLXVscmlra2UtZWlrZXJpLXZzLWx1aXNhLXN0ZWZhbmktdGltZWEtYmFib3MvMw==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745658000000] Court 7: Giuliana Olmos/ ChanHao-ching v Jasmine Paolini/ Sara Errani (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNy1naXVsaWFuYS1vbG1vcy1jaGFuaGFvLWNoaW5nLXZzLWphc21pbmUtcGFvbGluaS1zYXJhLWVycmFuaS8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745658000000] Court 7: Giuliana Olmos/ ChanHao-ching v Jasmine Paolini/ Sara Errani (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNy1naXVsaWFuYS1vbG1vcy1jaGFuaGFvLWNoaW5nLXZzLWphc21pbmUtcGFvbGluaS1zYXJhLWVycmFuaS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745658000000] Court 7: Giuliana Olmos/ ChanHao-ching v Jasmine Paolini/ Sara Errani (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNy1naXVsaWFuYS1vbG1vcy1jaGFuaGFvLWNoaW5nLXZzLWphc21pbmUtcGFvbGluaS1zYXJhLWVycmFuaS8z
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745658000000] Madrid Day 4 Match 1-5 (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9tYWRyaWQtZGF5LTQtbWF0Y2gtMS01LTE2Mjk0MzkzNDcvMQ==
 
@@ -749,6 +737,15 @@ watch/YWxwaGEvY2gtb2Rlc2EtdnMtcnVraC1sdml2LzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745661600000] Ch. Odesa v Rukh Lviv (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvY2gtb2Rlc2EtdnMtcnVraC1sdml2LzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745661600000] Court 7: Giuliana Olmos/ ChanHao-ching v Jasmine Paolini/ Sara Errani (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNy1naXVsaWFuYS1vbG1vcy1jaGFuaGFvLWNoaW5nLXZzLWphc21pbmUtcGFvbGluaS1zYXJhLWVycmFuaS8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745661600000] Court 7: Giuliana Olmos/ ChanHao-ching v Jasmine Paolini/ Sara Errani (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNy1naXVsaWFuYS1vbG1vcy1jaGFuaGFvLWNoaW5nLXZzLWphc21pbmUtcGFvbGluaS1zYXJhLWVycmFuaS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745661600000] Court 7: Giuliana Olmos/ ChanHao-ching v Jasmine Paolini/ Sara Errani (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNy1naXVsaWFuYS1vbG1vcy1jaGFuaGFvLWNoaW5nLXZzLWphc21pbmUtcGFvbGluaS1zYXJhLWVycmFuaS8z
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745661600000] Dep. La Coruna W v Granada CF W (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvZGVwLWxhLWNvcnVuYS13LXZzLWdyYW5hZGEtY2Ytdy8x
