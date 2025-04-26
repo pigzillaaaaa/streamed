@@ -273,18 +273,6 @@ watch/YWxwaGEvd3dlLW5ldHdvcmsvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/live-logo.png" group-title="24/7",[TIME|0] WWE Network (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd3dlLW5ldHdvcmsvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745643600000] Nippon Ham Fighters v Chiba Lotte Marines (HD|ALPHA1|日本語) [DATE]
-watch/YWxwaGEvbmlwcG9uLWhhbS1maWdodGVycy12cy1jaGliYS1sb3R0ZS1tYXJpbmVzLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745643600000] Nippon Ham Fighters v Chiba Lotte Marines (SD|ALPHA2|日本語) [DATE]
-watch/YWxwaGEvbmlwcG9uLWhhbS1maWdodGVycy12cy1jaGliYS1sb3R0ZS1tYXJpbmVzLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745643600000] Rakuten Gold. Eagles v Fukuoka S. Hawks (HD|ALPHA1|日本語) [DATE]
-watch/YWxwaGEvcmFrdXRlbi1nb2xkLWVhZ2xlcy12cy1mdWt1b2thLXMtaGF3a3MvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745643600000] Rakuten Gold. Eagles v Fukuoka S. Hawks (SD|ALPHA2|日本語) [DATE]
-watch/YWxwaGEvcmFrdXRlbi1nb2xkLWVhZ2xlcy12cy1mdWt1b2thLXMtaGF3a3MvMg==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745649000000] MotoGP | Moto2 & Moto3 | Round 5 | Spain - Free Practice 2 (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvbW90b2dwLW1vdG8yLW1vdG8zLXJvdW5kLTUtc3BhaW4tZnJlZS1wcmFjdGljZS0yLW1vdG9ncC0xLzE=
 
@@ -293,12 +281,6 @@ watch/ZGVsdGEvbW90b2dwLW1vdG8yLW1vdG8zLXJvdW5kLTUtc3BhaW4tZnJlZS1wcmFjdGljZS0yLW
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745649000000] MotoGP | Moto2 & Moto3 | Round 5 | Spain - Free Practice 2 (HD|DELTA3|) [DATE]
 watch/ZGVsdGEvbW90b2dwLW1vdG8yLW1vdG8zLXJvdW5kLTUtc3BhaW4tZnJlZS1wcmFjdGljZS0yLW1vdG9ncC0xLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745650800000] Newcastle Jets vs Western Sydney Wanderers FC (HD|FOXTROT1|) [DATE]
-watch/Zm94dHJvdC9uZXdjYXN0bGUtamV0cy12cy13ZXN0ZXJuLXN5ZG5leS13YW5kZXJlcnMtMjAyNTA0MjYwNjMwLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745650800000] Newcastle Jets vs Western Sydney Wanderers FC (HD|FOXTROT2|) [DATE]
-watch/Zm94dHJvdC9uZXdjYXN0bGUtamV0cy12cy13ZXN0ZXJuLXN5ZG5leS13YW5kZXJlcnMtMjAyNTA0MjYwNjMwLzI=
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1745650800000] WRC | Rally Islas Canarias | Special Stage 7 | Day 3 - Starts (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvd3JjLXJhbGx5LWlzbGFzLWNhbmFyaWFzLXNwZWNpYWwtc3RhZ2UtNy1kYXktMy1zdGFydHMtcmFjZS0yMC0wNC8x
@@ -459,6 +441,9 @@ watch/YWxwaGEvbWVsYm91cm5lLWNpdHktZmMtdnMtYWRlbGFpZGUtdW5pdGVkLzI=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745660100000] Melbourne City FC vs Adelaide United (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTY2MDEwMDAwMC1tZWxib3VybmUtY2l0eS1hZGVsYWlkZS11bml0ZWQvMQ==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745660100000] Melbourne City FC vs Adelaide United (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9tZWxib3VybmUtY2l0eS12cy1hZGVsYWlkZS11bml0ZWQtMTI4MDgyOS8x
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745660100000] Melbourne City FC vs Adelaide United (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvbWVsYm91cm5lLWNpdHktdnMtYWRlbGFpZGUtdW5pdGVkLWZvb3RiYWxsLTEyODA4MjkvMQ==
 
@@ -563,6 +548,9 @@ watch/ZGVsdGEvdG9ycmVlbnNlLXZzLW1hcml0aW1vLWZvb3RiYWxsLTEyMzE3MDEvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745661600000] Torreense vs Maritimo (SD|ALPHA2|POR) [DATE]
 watch/YWxwaGEvdG9ycmVlbnNlLXZzLW1hcml0aW1vLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745661600000] WTA Madrid v Court 7 Chan/Olmos - Errani/Paolini (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTY2MTYwMDAwMC13dGEtbWFkcmlkLWNvdXJ0LTctY2hhbi1vbG1vcy1lcnJhbmktcGFvbGluaS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745663400000] Court 3: Liudmila Samsonova v Yuliia Starodubtseva (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY291cnQtMy1saXVkbWlsYS1zYW1zb25vdmEtdnMteXVsaWlhLXN0YXJvZHVidHNldmEvMg==
