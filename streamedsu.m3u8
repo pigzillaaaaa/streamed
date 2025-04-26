@@ -846,6 +846,9 @@ watch/YWxwaGEvY291cnQtNS1zZWJhc3RpYW4tYmFlei12cy1kYW1pci1kenVtaHVyLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745658000000] Court 6: Eri Hozumi/ Ulrikke Eikeri v Luisa Stefani/ Timea Babos (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNi1lcmktaG96dW1pLXVscmlra2UtZWlrZXJpLXZzLWx1aXNhLXN0ZWZhbmktdGltZWEtYmFib3MvMQ==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745658000000] Court 7: Giuliana Olmos/ ChanHao-ching v Jasmine Paolini/ Sara Errani (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNy1naXVsaWFuYS1vbG1vcy1jaGFuaGFvLWNoaW5nLXZzLWphc21pbmUtcGFvbGluaS1zYXJhLWVycmFuaS8x
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745658000000] Madrid Day 4 Match 1-5 (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9tYWRyaWQtZGF5LTQtbWF0Y2gtMS01LTE2Mjk0MzkzNDcvMQ==
 
@@ -993,6 +996,21 @@ watch/Y2hhcmxpZS90b3JyZWVuc2UtdnMtbWFyaXRpbW8tMTIzMTcwMS8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745661600000] Torreense vs Maritimo (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdG9ycmVlbnNlLXZzLW1hcml0aW1vLzE=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745663400000] Court 3: Liudmila Samsonova v Yuliia Starodubtseva (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtMy1saXVkbWlsYS1zYW1zb25vdmEtdnMteXVsaWlhLXN0YXJvZHVidHNldmEvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745663400000] Court 4: Jiri Lehecka v Cameron Norrie (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNC1qaXJpLWxlaGVja2EtdnMtY2FtZXJvbi1ub3JyaWUvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745663400000] Court 5: Gabriel Diallo v Kamil Majchrzak (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNS1nYWJyaWVsLWRpYWxsby12cy1rYW1pbC1tYWpjaHJ6YWsvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745663400000] Court 6: Ashlyn Krueger/ Victoria Azarenka v Peyton Stearns/ Ekaterina Alexandrova (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNi1hc2hseW4ta3J1ZWdlci12aWN0b3JpYS1hemFyZW5rYS12cy1wZXl0b24tc3RlYXJucy1la2F0ZXJpbmEtYWxleGFuZHJvdmEvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745663400000] Manolo Santana: Alexde Minaur v Lorenzo Sonego (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYWxleGRlLW1pbmF1ci12cy1sb3JlbnpvLXNvbmVnby8x
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745664600000] MotoGP Spain GP: Moto3 Qualifying 1 (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG8zLXF1YWxpZnlpbmctMS8x
 
@@ -1055,6 +1073,9 @@ watch/YWxwaGEvMi1idW5kZXNsaWdhLWtvbmZlcmVuei8z
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",[TIME|1745665200000] 2025 Elten Safety Shoes Austrian Darts Open - Day Two (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS8yMDI1LWVsdGVuLXNhZmV0eS1zaG9lcy1hdXN0cmlhbi1kYXJ0cy1vcGVuLWRheS10d28tMTYyOTQzOTM0OS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745665200000] Arantxa Sanchez: Madison Keys v Anna Kalinskaya (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LW1hZGlzb24ta2V5cy12cy1hbm5hLWthbGluc2theWEvMQ==
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1745665200000] Deutsche Tourenwagen Masters (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvZGV1dHNjaGUtdG91cmVud2FnZW4tbWFzdGVycy8y
@@ -1242,6 +1263,9 @@ watch/YWxwaGEvY2hlbHNlYS12cy1ldmVydG9uLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745667000000] Chelsea vs Everton (SD|ALPHA9|ENG) [DATE]
 watch/YWxwaGEvY2hlbHNlYS12cy1ldmVydG9uLzk=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745667000000] Court 7: Sofia Kenin/ Lyudmyla Kichenok v Katarzyna Piter/ Monica Niculescu (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNy1zb2ZpYS1rZW5pbi1seXVkbXlsYS1raWNoZW5vay12cy1rYXRhcnp5bmEtcGl0ZXItbW9uaWNhLW5pY3VsZXNjdS8x
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745667000000] Doncaster vs Bradford (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvZG9uY2FzdGVyLXJvdmVycy12cy1icmFkZm9yZC1jaXR5LzI=
 
@@ -1407,6 +1431,18 @@ watch/YWxwaGEvYWMtb3VsdS12cy1pbnRlci10dXJrdS8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745668800000] Albacete vs Cartagena FC (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYWxiYWNldGUtdnMtZmMtY2FydGFnZW5hLzE=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745668800000] Court 3: Stefanos Tsitsipas v Jan-Lennard Struff (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtMy1zdGVmYW5vcy10c2l0c2lwYXMtdnMtamFuLWxlbm5hcmQtc3RydWZmLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745668800000] Court 4: Beatriz Haddad Maia v Belinda Bencic (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNC1iZWF0cml6LWhhZGRhZC1tYWlhLXZzLWJlbGluZGEtYmVuY2ljLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745668800000] Court 5: Jacob Fearnley v Tomas Machac (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNS1qYWNvYi1mZWFybmxleS12cy10b21hcy1tYWNoYWMvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745668800000] Court 6: Ellen Perez/ Storm Hunter v Yulia Putintseva/ Leylah Fernandez (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNi1lbGxlbi1wZXJlei1zdG9ybS1odW50ZXItdnMteXVsaWEtcHV0aW50c2V2YS1sZXlsYWgtZmVybmFuZGV6LzE=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745668800000] Dortmund II v Hannover II (HD|ALPHA2|DEU) [DATE]
 watch/YWxwaGEvZG9ydG11bmQtaWktdnMtaGFubm92ZXItaWkvMg==
 
@@ -1539,6 +1575,9 @@ watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG8yLXF1YWxpZnlpbmctMi8xNg==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745669400000] MotoGP Spain GP: Moto2 Qualifying 2 (SD|ALPHA17|DUT) [DATE]
 watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG8yLXF1YWxpZnlpbmctMi8xNw==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745670600000] Arantxa Sanchez: Ann Li v Coco Gauff (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWFubi1saS12cy1jb2NvLWdhdWZmLzE=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745670600000] Bahcesehir Kol. v Turk Telekom (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYmFoY2VzZWhpci1rb2wtdnMtdHVyay10ZWxla29tLzE=
 
@@ -1577,6 +1616,9 @@ watch/YWxwaGEvbGVjaGlhLWdkYW5zay12cy1waWFzdC1nbGl3aWNlLzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745672400000] Cape Town City v Royal AM (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY2FwZS10b3duLWNpdHktdnMtcm95YWwtYW0vMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745672400000] Court 7: Erin Routliffe/ Gabriela Dabrowski v Anna Kalinskaya/ Sorana Cirstea (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNy1lcmluLXJvdXRsaWZmZS1nYWJyaWVsYS1kYWJyb3dza2ktdnMtYW5uYS1rYWxpbnNrYXlhLXNvcmFuYS1jaXJzdGVhLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745672400000] Domzale vs Primorje (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvZG9temFsZS12cy1wcmltb3JqZS8y
@@ -1767,6 +1809,9 @@ watch/YWxwaGEvZmstcm9zdG92LXZzLWxva29tb3Rpdi1tb3Njb3cvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745674200000] FK Rostov v Lokomotiv Moscow (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvZmstcm9zdG92LXZzLWxva29tb3Rpdi1tb3Njb3cvMw==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745674200000] Grigor Dimitrov v Nicolas Jarry (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvZ3JpZ29yLWRpbWl0cm92LXZzLW5pY29sYXMtamFycnkvMQ==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745674200000] Hoffenheim vs Borussia Dortmund (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdHNnLWhvZmZlbmhlaW0tdnMtYm9ydXNzaWEtZG9ydG11bmQvMg==
 
@@ -1874,6 +1919,9 @@ watch/YWxwaGEvdmZsLXdvbGZzYnVyZy12cy1zYy1mcmVpYnVyZy82
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745674200000] Wolfsburg vs Freiburg (SD|ALPHA7|DEU) [DATE]
 watch/YWxwaGEvdmZsLXdvbGZzYnVyZy12cy1zYy1mcmVpYnVyZy83
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1745676000000] 2025 ICSA Nationals (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvMjAyNS1pY3NhLW5hdGlvbmFscy8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745676000000] Aberdeen vs Hibernian (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYWJlcmRlZW4tdnMtaGliZXJuaWFuLzE=
