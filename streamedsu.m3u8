@@ -345,9 +345,6 @@ watch/YnJhdm8vMTc0NTYzOTEwMDAwMC1zdGFuZm9yZC11c2MvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745641800000] Auckland Tuatara vs Canterbury Rams (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYXVja2xhbmQtdHVhdGFyYS12cy1jYW50ZXJidXJ5LXJhbXMvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745641800000] Auckland Tuatara vs Canterbury Rams (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTY0MTgwMDAwMC1hdWNrbGFuZC10dWF0YXJhLWNhbnRlcmJ1cnktcmFtcy8x
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745641800000] Auckland Tuatara vs Canterbury Rams (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYXVja2xhbmQtdHVhdGFyYS12cy1jYW50ZXJidXJ5LXJhbXMvMg==
 
@@ -954,11 +951,17 @@ watch/YWxwaGEvcmFsbHktaXNsYXMtY2FuYXJpYXMtc3RhZ2UtOS8x
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1745661600000] Rally Islas Canarias: Stage 9 (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvcmFsbHktaXNsYXMtY2FuYXJpYXMtc3RhZ2UtOS8z
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745661600000] Torreense vs Maritimo (HD|ALPHA2|POR) [DATE]
+watch/YWxwaGEvdG9ycmVlbnNlLXZzLW1hcml0aW1vLzI=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745661600000] Torreense vs Maritimo (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS90b3JyZWVuc2UtdnMtbWFyaXRpbW8tMTIzMTcwMS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745661600000] Torreense vs Maritimo (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdG9ycmVlbnNlLXZzLW1hcml0aW1vLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745661600000] Torreense vs Maritimo (SD|ALPHA3|POR) [DATE]
+watch/YWxwaGEvdG9ycmVlbnNlLXZzLW1hcml0aW1vLzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745663400000] Court 3: Liudmila Samsonova v Yuliia Starodubtseva (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY291cnQtMy1saXVkbWlsYS1zYW1zb25vdmEtdnMteXVsaWlhLXN0YXJvZHVidHNldmEvMQ==
@@ -1443,6 +1446,12 @@ watch/YWxwaGEvcm9kZXotYXZleXJvbi12cy1wYXJpcy1mYy8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745668800000] Rodez Aveyron v Paris FC (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvcm9kZXotYXZleXJvbi12cy1wYXJpcy1mYy8z
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745668800000] Rodez Aveyron v Paris FC (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvcm9kZXotYXZleXJvbi12cy1wYXJpcy1mYy80
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745668800000] Rodez Aveyron v Paris FC (SD|ALPHA5|ENG) [DATE]
+watch/YWxwaGEvcm9kZXotYXZleXJvbi12cy1wYXJpcy1mYy81
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745668800000] Rodez v Paris FC (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9yb2Rlei12cy1wYXJpcy1mYy0xMjEyNzE5LzE=
 
@@ -1683,11 +1692,17 @@ watch/YWxwaGEvcG9sb2t3YW5lLWNpdHktdnMtc3VwZXJzcG9ydC11bml0ZWQvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745672400000] Sivasspor vs Antalyaspor (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvc2l2YXNzcG9yLXZzLWFudGFseWFzcG9yLzE=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745672400000] Vizela vs Felgueiras (HD|ALPHA2|POR) [DATE]
+watch/YWxwaGEvdml6ZWxhLXZzLWZlbGd1ZWlyYXMvMg==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745672400000] Vizela vs Felgueiras (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS92aXplbGEtdnMtZmVsZ3VlaXJhcy0xOTMyLTEyMzE2OTkvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745672400000] Vizela vs Felgueiras (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdml6ZWxhLXZzLWZlbGd1ZWlyYXMvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745672400000] Vizela vs Felgueiras (SD|ALPHA3|POR) [DATE]
+watch/YWxwaGEvdml6ZWxhLXZzLWZlbGd1ZWlyYXMvMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745672400000] Warta Poznan v Kotwica Kolobrzeg (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvd2FydGEtcG96bmFuLXZzLWtvdHdpY2Eta29sb2JyemVnLzE=
@@ -2517,11 +2532,23 @@ watch/YWxwaGEvbW9udHBlbGxpZXItdnMtdXNhLXBlcnBpZ25hbi8z
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1745677800000] NASCAR Cup Series: Qualifying Talladega (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbmFzY2FyLWN1cC1zZXJpZXMtcXVhbGlmeWluZy10YWxsYWRlZ2EvMQ==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745677800000] Santa Clara vs Arouca (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvc2FudGEtY2xhcmEtdnMtYXJvdWNhLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745677800000] Santa Clara vs Arouca (HD|ALPHA3|POR) [DATE]
+watch/YWxwaGEvc2FudGEtY2xhcmEtdnMtYXJvdWNhLzM=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745677800000] Santa Clara vs Arouca (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9zYW50YS1jbGFyYS12cy1hcm91Y2EtMTIzMjAwNi8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745677800000] Santa Clara vs Arouca (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvc2FudGEtY2xhcmEtdnMtYXJvdWNhLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745677800000] Santa Clara vs Arouca (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvc2FudGEtY2xhcmEtdnMtYXJvdWNhLzQ=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745677800000] Santa Clara vs Arouca (SD|ALPHA5|POR) [DATE]
+watch/YWxwaGEvc2FudGEtY2xhcmEtdnMtYXJvdWNhLzU=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745677800000] Spartak Varna vs CSKA Sofia (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvc3BhcnRhay12YXJuYS12cy1jc2thLXNvZmlhLzI=
@@ -2567,6 +2594,15 @@ watch/YWxwaGEvYmFza2V0LXphcmFnb3phLXZzLWdyYW4tY2FuYXJpYS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745679600000] Besiktas v Manisa (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYmVzaWt0YXMtdnMtbWFuaXNhLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745679600000] Court 3: Frances Tiafoe v Luciano Darderi (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtMy1mcmFuY2VzLXRpYWZvZS12cy1sdWNpYW5vLWRhcmRlcmkvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745679600000] Court 4: Karen Khachanov v Reilly Opelka (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNC1rYXJlbi1raGFjaGFub3YtdnMtcmVpbGx5LW9wZWxrYS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745679600000] Court 6: Cristina Bucsa/ Shuko Aoyama v Irina Khromacheva/ Anna Danilina (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNi1jcmlzdGluYS1idWMtYS1zaHVrby1hb3lhbWEtdnMtaXJpbmEta2hyb21hY2hldmEtYW5uYS1kYW5pbGluYS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745679600000] Eibar W v Espanyol W (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvZWliYXItdy12cy1lc3BhbnlvbC13LzE=
