@@ -294,12 +294,6 @@ watch/Y2hhcmxpZS9mYy1hbnlhbmctdnMtamVqdS11bml0ZWQtZmMtMTM0MDc1Ny8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1745652600000] North Queensland Cowboys vs Gold Coast Titans (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTY1MjYwMDAwMC1ub3J0aC1xdWVlbnNsYW5kLWNvd2JveXMtZ29sZC1jb2FzdC10aXRhbnMvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745652600000] Taranaki Airs vs Tauranga Whai (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvdGFyYW5ha2ktYWlycy12cy10YXVyYW5nYS13aGFpLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745652600000] Taranaki Airs vs Tauranga Whai (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvdGFyYW5ha2ktYWlycy12cy10YXVyYW5nYS13aGFpLzI=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745658000000] ATP Madrid v Arantxa Sanchez Stadium Etcheverry - Musetti (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTY1ODAwMDAwMC1hdHAtbWFkcmlkLWFyYW50eGEtc2FuY2hlei1zdGFkaXVtLWV0Y2hldmVycnktbXVzZXR0aS8x
 
@@ -368,54 +362,6 @@ watch/YnJhdm8vMTc0NTY1ODAwMDAwMC13b3JsZC1jaGFtcGlvbnNoaXAtdGFibGUtMS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1745658000000] World Championship v Table 2 (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTY1ODAwMDAwMC13b3JsZC1jaGFtcGlvbnNoaXAtdGFibGUtMi8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745658900000] MotoGP Spain GP: MotoGP Qualifying 2 (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG9ncC1xdWFsaWZ5aW5nLTIvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745658900000] MotoGP Spain GP: MotoGP Qualifying 2 (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG9ncC1xdWFsaWZ5aW5nLTIvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745658900000] MotoGP Spain GP: MotoGP Qualifying 2 (HD|ALPHA3|ESP) [DATE]
-watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG9ncC1xdWFsaWZ5aW5nLTIvMw==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745658900000] MotoGP Spain GP: MotoGP Qualifying 2 (HD|ALPHA4|DEU) [DATE]
-watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG9ncC1xdWFsaWZ5aW5nLTIvNA==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745658900000] MotoGP Spain GP: MotoGP Qualifying 2 (HD|ALPHA5|FRA) [DATE]
-watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG9ncC1xdWFsaWZ5aW5nLTIvNQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745658900000] MotoGP Spain GP: MotoGP Qualifying 2 (HD|ALPHA6|ITA) [DATE]
-watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG9ncC1xdWFsaWZ5aW5nLTIvNg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745658900000] MotoGP Spain GP: MotoGP Qualifying 2 (HD|ALPHA7|POR) [DATE]
-watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG9ncC1xdWFsaWZ5aW5nLTIvNw==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745658900000] MotoGP Spain GP: MotoGP Qualifying 2 (HD|ALPHA8|DUT) [DATE]
-watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG9ncC1xdWFsaWZ5aW5nLTIvOA==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745658900000] MotoGP Spain GP: MotoGP Qualifying 2 (SD|ALPHA10|ENG) [DATE]
-watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG9ncC1xdWFsaWZ5aW5nLTIvMTA=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745658900000] MotoGP Spain GP: MotoGP Qualifying 2 (SD|ALPHA11|ESP) [DATE]
-watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG9ncC1xdWFsaWZ5aW5nLTIvMTE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745658900000] MotoGP Spain GP: MotoGP Qualifying 2 (SD|ALPHA12|DEU) [DATE]
-watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG9ncC1xdWFsaWZ5aW5nLTIvMTI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745658900000] MotoGP Spain GP: MotoGP Qualifying 2 (SD|ALPHA13|FRA) [DATE]
-watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG9ncC1xdWFsaWZ5aW5nLTIvMTM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745658900000] MotoGP Spain GP: MotoGP Qualifying 2 (SD|ALPHA14|ITA) [DATE]
-watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG9ncC1xdWFsaWZ5aW5nLTIvMTQ=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745658900000] MotoGP Spain GP: MotoGP Qualifying 2 (SD|ALPHA15|POR) [DATE]
-watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG9ncC1xdWFsaWZ5aW5nLTIvMTU=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745658900000] MotoGP Spain GP: MotoGP Qualifying 2 (SD|ALPHA16|DUT) [DATE]
-watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG9ncC1xdWFsaWZ5aW5nLTIvMTY=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745658900000] MotoGP Spain GP: MotoGP Qualifying 2 (SD|ALPHA9|ENG) [DATE]
-watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG9ncC1xdWFsaWZ5aW5nLTIvOQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1745660100000] Brumbies v Hurricanes (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYnJ1bWJpZXMtdnMtaHVycmljYW5lcy8x
@@ -552,6 +498,15 @@ watch/YWxwaGEvdG9ycmVlbnNlLXZzLW1hcml0aW1vLzI=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745661600000] WTA Madrid v Court 7 Chan/Olmos - Errani/Paolini (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTY2MTYwMDAwMC13dGEtbWFkcmlkLWNvdXJ0LTctY2hhbi1vbG1vcy1lcnJhbmktcGFvbGluaS8x
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745663400000] ATP Madrid v Court 4 Lehecka - Norrie (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTY2MzQwMDAwMC1hdHAtbWFkcmlkLWNvdXJ0LTQtbGVoZWNrYS1ub3JyaWUvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745663400000] ATP Madrid v Court 5 Diallo - Majchrzak (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTY2MzQwMDAwMC1hdHAtbWFkcmlkLWNvdXJ0LTUtZGlhbGxvLW1hamNocnphay8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745663400000] ATP Madrid v Manolo Santana Stadium De Minaur - Sonego (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTY2MzQwMDAwMC1hdHAtbWFkcmlkLW1hbm9sby1zYW50YW5hLXN0YWRpdW0tZGUtbWluYXVyLXNvbmVnby8x
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745663400000] Court 3: Liudmila Samsonova v Yuliia Starodubtseva (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY291cnQtMy1saXVkbWlsYS1zYW1zb25vdmEtdnMteXVsaWlhLXN0YXJvZHVidHNldmEvMg==
 
@@ -596,6 +551,12 @@ watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYWxleGRlLW1pbmF1ci12cy1sb3JlbnpvLXNvbmVnby8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745663400000] Manolo Santana: Alexde Minaur v Lorenzo Sonego (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYWxleGRlLW1pbmF1ci12cy1sb3JlbnpvLXNvbmVnby8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745663400000] WTA Madrid v Court 6 Azarenka/Krueger - Alexandrova/Stearns (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTY2MzQwMDAwMC13dGEtbWFkcmlkLWNvdXJ0LTYtYXphcmVua2Eta3J1ZWdlci1hbGV4YW5kcm92YS1zdGVhcm5zLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745663400000] WTA Madrid v Stadium 3 Samsonova - Starodubtseva (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTY2MzQwMDAwMC13dGEtbWFkcmlkLXN0YWRpdW0tMy1zYW1zb25vdmEtc3Rhcm9kdWJ0c2V2YS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motogp-logo.png" group-title="MOTOR-SPORTS",[TIME|1745664600000] MotoGP Spain GP: Moto3 Qualifying 1 (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG8zLXF1YWxpZnlpbmctMS8x
