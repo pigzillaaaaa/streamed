@@ -1386,8 +1386,14 @@ watch/YWxwaGEvMy1saWdhLWtvbmZlcmVuei8z
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745668800000] AC Oulu vs Inter Turku (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYWMtb3VsdS12cy1pbnRlci10dXJrdS8x
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745668800000] Albacete vs Cartagena FC (HD|ALPHA2|ESP) [DATE]
+watch/YWxwaGEvYWxiYWNldGUtdnMtZmMtY2FydGFnZW5hLzI=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745668800000] Albacete vs Cartagena FC (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYWxiYWNldGUtdnMtZmMtY2FydGFnZW5hLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745668800000] Albacete vs Cartagena FC (SD|ALPHA3|ESP) [DATE]
+watch/YWxwaGEvYWxiYWNldGUtdnMtZmMtY2FydGFnZW5hLzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745668800000] Court 3: Stefanos Tsitsipas v Jan-Lennard Struff (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY291cnQtMy1zdGVmYW5vcy10c2l0c2lwYXMtdnMtamFuLWxlbm5hcmQtc3RydWZmLzE=
@@ -2469,8 +2475,14 @@ watch/YWxwaGEvbGVpY2VzdGVyLXRpZ2Vycy12cy1oYXJsZXF1aW5zLzU=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745676900000] Cardiff Met Archers W v Caledonia Gladiators W (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY2FyZGlmZi1tZXQtYXJjaGVycy13LXZzLWNhbGVkb25pYS1nbGFkaWF0b3JzLXcvMQ==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745676900000] Eldense vs Cordoba (HD|ALPHA2|ESP) [DATE]
+watch/YWxwaGEvZWxkZW5zZS12cy1jb3Jkb2JhLzI=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745676900000] Eldense vs Cordoba (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvZWxkZW5zZS12cy1jb3Jkb2JhLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745676900000] Eldense vs Cordoba (SD|ALPHA3|ESP) [DATE]
+watch/YWxwaGEvZWxkZW5zZS12cy1jb3Jkb2JhLzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745676900000] Oviedo v Levante (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9vdmllZG8tdnMtbGV2YW50ZS0xMjE3OTA1LzE=
