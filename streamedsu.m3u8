@@ -327,12 +327,6 @@ watch/YnJhdm8vMTc0NTYzMTYwMDAwMC1taWFtaS1tYXJsaW5zLXZzLXNlYXR0bGUtbWFyaW5lcnMtYX
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745631600000] Seattle Mariners vs Miami Marlins (HD|BRAVO2|HOM) [DATE]
 watch/YnJhdm8vMTc0NTYzMTYwMDAwMC1taWFtaS1tYXJsaW5zLXZzLXNlYXR0bGUtbWFyaW5lcnMtaG9tZS1mZWVkLS8y
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1745632800000] NXT Level Up (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbnh0LWxldmVsLXVwLzE=
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1745632800000] NXT Level Up (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbnh0LWxldmVsLXVwLzI=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745632800000] Pittsburgh Pirates v Los Angeles Dodgers (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9waXR0c2J1cmdoLXBpcmF0ZXMtdnMtbG9zLWFuZ2VsZXMtZG9kZ2Vycy0xNjI5NDM5MzM5LzE=
 
@@ -398,6 +392,15 @@ watch/YnJhdm8vMTc0NTY0MzYwMDAwMC1icmlzYmFuZS1yb2FyLXdlbGxpbmd0b24tcGhvZW5peC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745643600000] Brisbane Roar FC vs Wellington Phoenix (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9icmlzYmFuZS1yb2FyLXZzLXdlbGxpbmd0b24tcGhvZW5peC0xMjgwODI3LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745643600000] Brisbane Roar FC vs Wellington Phoenix (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvYnJpc2JhbmUtcm9hci12cy13ZWxsaW5ndG9uLXBob2VuaXgtZm9vdGJhbGwtMTI4MDgyNy8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745643600000] Brisbane Roar FC vs Wellington Phoenix (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvYnJpc2JhbmUtcm9hci12cy13ZWxsaW5ndG9uLXBob2VuaXgtZm9vdGJhbGwtMTI4MDgyNy8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745643600000] Brisbane Roar FC vs Wellington Phoenix (HD|DELTA3|) [DATE]
+watch/ZGVsdGEvYnJpc2JhbmUtcm9hci12cy13ZWxsaW5ndG9uLXBob2VuaXgtZm9vdGJhbGwtMTI4MDgyNy8z
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745643600000] Brisbane Roar FC vs Wellington Phoenix (HD|FOXTROT1|) [DATE]
 watch/Zm94dHJvdC9icmlzYmFuZS1yb2FyLXZzLXdlbGxpbmd0b24tcGhvZW5peC0yMDI1MDQyNjA0MzAvMQ==
@@ -575,6 +578,15 @@ watch/YWxwaGEvbmV3Y2FzdGxlLWpldHMtdnMtd2VzdGVybi1zeWRuZXktd2FuZGVyZXJzLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745650800000] Newcastle Jets vs Western Sydney Wanderers FC (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9uZXdjYXN0bGUtamV0cy12cy13ZXN0ZXJuLXN5ZG5leS13YW5kZXJlcnMtMTI4MDgyOC8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745650800000] Newcastle Jets vs Western Sydney Wanderers FC (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvbmV3Y2FzdGxlLWpldHMtdnMtd2VzdGVybi1zeWRuZXktd2FuZGVyZXJzLWZvb3RiYWxsLTEyODA4MjgvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745650800000] Newcastle Jets vs Western Sydney Wanderers FC (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvbmV3Y2FzdGxlLWpldHMtdnMtd2VzdGVybi1zeWRuZXktd2FuZGVyZXJzLWZvb3RiYWxsLTEyODA4MjgvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745650800000] Newcastle Jets vs Western Sydney Wanderers FC (HD|DELTA3|) [DATE]
+watch/ZGVsdGEvbmV3Y2FzdGxlLWpldHMtdnMtd2VzdGVybi1zeWRuZXktd2FuZGVyZXJzLWZvb3RiYWxsLTEyODA4MjgvMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745650800000] Newcastle Jets vs Western Sydney Wanderers FC (HD|FOXTROT1|) [DATE]
 watch/Zm94dHJvdC9uZXdjYXN0bGUtamV0cy12cy13ZXN0ZXJuLXN5ZG5leS13YW5kZXJlcnMtMjAyNTA0MjYwNjMwLzE=
@@ -827,6 +839,12 @@ watch/YWxwaGEvY291cnQtMy1kaWFuYS1zaG5haWRlci12cy1hbmFzdGFzaWphLXNldmFzdG92YS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745658000000] Court 4: Kei Nishikori v Denis Shapovalov (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNC1rZWktbmlzaGlrb3JpLXZzLWRlbmlzLXNoYXBvdmFsb3YvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745658000000] Court 5: Sebastian Baez v Damir Dzumhur (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNS1zZWJhc3RpYW4tYmFlei12cy1kYW1pci1kenVtaHVyLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745658000000] Court 6: Eri Hozumi/ Ulrikke Eikeri v Luisa Stefani/ Timea Babos (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNi1lcmktaG96dW1pLXVscmlra2UtZWlrZXJpLXZzLWx1aXNhLXN0ZWZhbmktdGltZWEtYmFib3MvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745658000000] Madrid Day 4 Match 1-5 (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9tYWRyaWQtZGF5LTQtbWF0Y2gtMS01LTE2Mjk0MzkzNDcvMQ==
