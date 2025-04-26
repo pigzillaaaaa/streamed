@@ -390,12 +390,6 @@ watch/YnJhdm8vMTc0NTY2MDEwMDAwMC1tZWxib3VybmUtY2l0eS1hZGVsYWlkZS11bml0ZWQvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745660100000] Melbourne City FC vs Adelaide United (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9tZWxib3VybmUtY2l0eS12cy1hZGVsYWlkZS11bml0ZWQtMTI4MDgyOS8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745660100000] Melbourne City FC vs Adelaide United (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvbWVsYm91cm5lLWNpdHktdnMtYWRlbGFpZGUtdW5pdGVkLWZvb3RiYWxsLTEyODA4MjkvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745660100000] Melbourne City FC vs Adelaide United (HD|DELTA2|) [DATE]
-watch/ZGVsdGEvbWVsYm91cm5lLWNpdHktdnMtYWRlbGFpZGUtdW5pdGVkLWZvb3RiYWxsLTEyODA4MjkvMg==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745660100000] Melbourne City FC vs Adelaide United (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvbWVsYm91cm5lLWNpdHktZmMtdnMtYWRlbGFpZGUtdW5pdGVkLzM=
 
@@ -1098,6 +1092,12 @@ watch/YWxwaGEvYWMtb3VsdS12cy1pbnRlci10dXJrdS8z
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745668800000] Albacete vs Cartagena FC (HD|ALPHA2|ESP) [DATE]
 watch/YWxwaGEvYWxiYWNldGUtdnMtZmMtY2FydGFnZW5hLzI=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745668800000] Albacete vs Cartagena FC (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvYWxiYWNldGUtdnMtZmMtY2FydGFnZW5hLWZvb3RiYWxsLTEyMTc4OTUvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745668800000] Albacete vs Cartagena FC (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvYWxiYWNldGUtdnMtZmMtY2FydGFnZW5hLWZvb3RiYWxsLTEyMTc4OTUvMg==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745668800000] Albacete vs Cartagena FC (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYWxiYWNldGUtdnMtZmMtY2FydGFnZW5hLzE=
 
@@ -1229,6 +1229,12 @@ watch/YWxwaGEvcm9kZXotYXZleXJvbi12cy1wYXJpcy1mYy81
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745668800000] Rodez v Paris FC (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9yb2Rlei12cy1wYXJpcy1mYy0xMjEyNzE5LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745668800000] Rodez v Paris FC (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvcm9kZXotdnMtcGFyaXMtZmMtZm9vdGJhbGwtMTIxMjcxOS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745668800000] Rodez v Paris FC (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvcm9kZXotdnMtcGFyaXMtZmMtZm9vdGJhbGwtMTIxMjcxOS8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745668800000] Roskilde v Vendsyssel (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvcm9za2lsZGUtdnMtdmVuZHN5c3NlbC8x
@@ -1401,6 +1407,12 @@ watch/Y2hhcmxpZS90aGUtY2hldnJvbi1jaGFtcGlvbnNoaXAtZmVhdHVyZWQtZ3JvdXBzLXRoaXJkLX
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745671500000] Lechia Gdańsk vs Piast Gliwice (HD|ALPHA2|POL) [DATE]
 watch/YWxwaGEvbGVjaGlhLWdkYW5zay12cy1waWFzdC1nbGl3aWNlLzI=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745671500000] Lechia Gdańsk vs Piast Gliwice (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvbGVjaGlhLWdkYW5zay12cy1waWFzdC1nbGl3aWNlLWZvb3RiYWxsLTEyMDMyMTUvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745671500000] Lechia Gdańsk vs Piast Gliwice (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvbGVjaGlhLWdkYW5zay12cy1waWFzdC1nbGl3aWNlLWZvb3RiYWxsLTEyMDMyMTUvMg==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745671500000] Lechia Gdańsk vs Piast Gliwice (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbGVjaGlhLWdkYW5zay12cy1waWFzdC1nbGl3aWNlLzE=
 
@@ -1571,6 +1583,12 @@ watch/YWxwaGEvcG9sb2t3YW5lLWNpdHktdnMtc3VwZXJzcG9ydC11bml0ZWQvMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745672400000] Sivasspor vs Antalyaspor (HD|ALPHA2|TÜR) [DATE]
 watch/YWxwaGEvc2l2YXNzcG9yLXZzLWFudGFseWFzcG9yLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745672400000] Sivasspor vs Antalyaspor (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvc2l2YXNzcG9yLXZzLWFudGFseWFzcG9yLWZvb3RiYWxsLTEyMzgxMzcvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745672400000] Sivasspor vs Antalyaspor (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvc2l2YXNzcG9yLXZzLWFudGFseWFzcG9yLWZvb3RiYWxsLTEyMzgxMzcvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745672400000] Sivasspor vs Antalyaspor (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvc2l2YXNzcG9yLXZzLWFudGFseWFzcG9yLzE=
@@ -2241,6 +2259,9 @@ watch/YWxwaGEvbmV3Y2FzdGxlLXVuaXRlZC12cy1pcHN3aWNoLXRvd24vOA==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745676000000] Newcastle vs Ipswich (SD|ALPHA9|ENG) [DATE]
 watch/YWxwaGEvbmV3Y2FzdGxlLXVuaXRlZC12cy1pcHN3aWNoLXRvd24vOQ==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745676000000] OH Leuven v Standard Liege (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvb2gtbGV1dmVuLXZzLXN0YW5kYXJkLWxpZWdlLWZvb3RiYWxsLTEzNjE3ODUvMQ==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1745676000000] Ospreys vs Dragons (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvb3NwcmV5cy12cy1kcmFnb25zLzI=
 
@@ -2504,6 +2525,12 @@ watch/YWxwaGEvZWxkZW5zZS12cy1jb3Jkb2JhLzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745676900000] Oviedo v Levante (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9vdmllZG8tdnMtbGV2YW50ZS0xMjE3OTA1LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745676900000] Oviedo v Levante (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvb3ZpZWRvLXZzLWxldmFudGUtZm9vdGJhbGwtMTIxNzkwNS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745676900000] Oviedo v Levante (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvb3ZpZWRvLXZzLWxldmFudGUtZm9vdGJhbGwtMTIxNzkwNS8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745676900000] Real Oviedo vs Levante (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvcmVhbC1vdmllZG8tdnMtbGV2YW50ZS8y
@@ -2816,6 +2843,12 @@ watch/YWxwaGEvbW90b3ItbHVibGluLXZzLWNyYWNvdmlhLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745681400000] Motor Lublin v Cracovia (SD|ALPHA3|POL) [DATE]
 watch/YWxwaGEvbW90b3ItbHVibGluLXZzLWNyYWNvdmlhLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745681400000] Motor Lublin vs Cracovia Krakow (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvbW90b3ItbHVibGluLXZzLWNyYWNvdmlhLWtyYWtvdy1mb290YmFsbC0xMjAzMjE2LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745681400000] Motor Lublin vs Cracovia Krakow (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvbW90b3ItbHVibGluLXZzLWNyYWNvdmlhLWtyYWtvdy1mb290YmFsbC0xMjAzMjE2LzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745681400000] Tychy v Polonia Warszawa (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdHljaHktdnMtcG9sb25pYS13YXJzemF3YS8x
