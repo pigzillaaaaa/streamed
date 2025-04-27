@@ -522,6 +522,9 @@ watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG8yLXJhY2UvOQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745749800000] Basquet Girona v Real Madrid (HD|ALPHA1|POR) [DATE]
 watch/YWxwaGEvYmFzcXVldC1naXJvbmEtdnMtcmVhbC1tYWRyaWQvMQ==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745749800000] Basquet Girona v Real Madrid (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTc0OTgwMDAwMC1iYXNxdWV0LWdpcm9uYS1yZWFsLW1hZHJpZC8x
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745749800000] Basquet Girona v Real Madrid (SD|ALPHA2|POR) [DATE]
 watch/YWxwaGEvYmFzcXVldC1naXJvbmEtdnMtcmVhbC1tYWRyaWQvMg==
 
@@ -546,6 +549,12 @@ watch/YWxwaGEvY29tby12cy1nZW5vYS8y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745749800000] Como vs Genoa (HD|ALPHA3|ITA) [DATE]
 watch/YWxwaGEvY29tby12cy1nZW5vYS8z
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745749800000] Como vs Genoa (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTc0OTgwMDAwMC1jb21vLWdlbm9hLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745749800000] Como vs Genoa (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9jb21vLXZzLWdlbm9hLTEyMjM5MjYvMQ==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745749800000] Como vs Genoa (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvY29tby12cy1nZW5vYS1mb290YmFsbC0xMjIzOTI2LzE=
 
@@ -558,6 +567,9 @@ watch/ZWNoby9jb21vLWdlbm9hLTI1MTU5LzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745749800000] Como vs Genoa (HD|ECHO2|CBS) [DATE]
 watch/ZWNoby9jb21vLWdlbm9hLTI1MTU5LzI=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745749800000] Como vs Genoa (HD|FOXTROT1|) [DATE]
+watch/Zm94dHJvdC9jb21vLXZzLWdlbm9hLTIwMjUwNDI3MTIzMC8x
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745749800000] Como vs Genoa (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvY29tby12cy1nZW5vYS80
 
@@ -566,33 +578,6 @@ watch/YWxwaGEvY29tby12cy1nZW5vYS81
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745749800000] Como vs Genoa (SD|ALPHA6|ITA) [DATE]
 watch/YWxwaGEvY29tby12cy1nZW5vYS82
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745749800000] Court 3: Sofia Kenin v Anastasia Potapova (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1zb2ZpYS1rZW5pbi12cy1hbmFzdGFzaWEtcG90YXBvdmEvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745749800000] Court 3: Sofia Kenin v Anastasia Potapova (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1zb2ZpYS1rZW5pbi12cy1hbmFzdGFzaWEtcG90YXBvdmEvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745749800000] Court 3: Sofia Kenin v Anastasia Potapova (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1zb2ZpYS1rZW5pbi12cy1hbmFzdGFzaWEtcG90YXBvdmEvMw==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745749800000] Court 4: Laura Siegemund/ Beatriz Haddad Maia v MirraAndreeva/ Diana Shnaider (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNC1sYXVyYS1zaWVnZW11bmQtYmVhdHJpei1oYWRkYWQtbWFpYS12cy1taXJyYWFuZHJlZXZhLWRpYW5hLXNobmFpZGVyLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745749800000] Court 4: Laura Siegemund/ Beatriz Haddad Maia v MirraAndreeva/ Diana Shnaider (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNC1sYXVyYS1zaWVnZW11bmQtYmVhdHJpei1oYWRkYWQtbWFpYS12cy1taXJyYWFuZHJlZXZhLWRpYW5hLXNobmFpZGVyLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745749800000] Court 4: Laura Siegemund/ Beatriz Haddad Maia v MirraAndreeva/ Diana Shnaider (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNC1sYXVyYS1zaWVnZW11bmQtYmVhdHJpei1oYWRkYWQtbWFpYS12cy1taXJyYWFuZHJlZXZhLWRpYW5hLXNobmFpZGVyLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745749800000] Court 5: Ellen Perez Robin/ Storm Hunter v Coco Gauff/ Robin Montgomery (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNS1lbGxlbi1wZXJlei1yb2Jpbi1zdG9ybS1odW50ZXItdnMtY29jby1nYXVmZi1yb2Jpbi1tb250Z29tZXJ5LzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745749800000] Court 5: Ellen Perez Robin/ Storm Hunter v Coco Gauff/ Robin Montgomery (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNS1lbGxlbi1wZXJlei1yb2Jpbi1zdG9ybS1odW50ZXItdnMtY29jby1nYXVmZi1yb2Jpbi1tb250Z29tZXJ5LzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745749800000] Court 5: Ellen Perez Robin/ Storm Hunter v Coco Gauff/ Robin Montgomery (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNS1lbGxlbi1wZXJlei1yb2Jpbi1zdG9ybS1odW50ZXItdnMtY29jby1nYXVmZi1yb2Jpbi1tb250Z29tZXJ5LzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1745749800000] Italy W v Wales W (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvaXRhbHktdy12cy13YWxlcy13LzE=
@@ -624,6 +609,9 @@ watch/YWxwaGEvbmFwb2xpLXctdnMtc2FtcGRvcmlhLXcvMw==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745749800000] Napoli W v Sampdoria W (SD|ALPHA4|ITA) [DATE]
 watch/YWxwaGEvbmFwb2xpLXctdnMtc2FtcGRvcmlhLXcvNA==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745749800000] Valencia Basket vs Baskonia (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTc0OTgwMDAwMC12YWxlbmNpYS1iYXNrZXQtYmFza29uaWEvMQ==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745749800000] Venezia vs AC Milan (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdmVuZXppYS12cy1hYy1taWxhbi8x
 
@@ -638,6 +626,12 @@ watch/YWxwaGEvdmVuZXppYS12cy1hYy1taWxhbi80
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745749800000] Venezia vs AC Milan (HD|ALPHA5|ITA) [DATE]
 watch/YWxwaGEvdmVuZXppYS12cy1hYy1taWxhbi81
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745749800000] Venezia vs AC Milan (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTc0OTgwMDAwMC12ZW5lemlhLWFjLW1pbGFuLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745749800000] Venezia vs AC Milan (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS92ZW5lemlhLXZzLWFjLW1pbGFuLTEyMjM5MzQvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745749800000] Venezia vs AC Milan (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvdmVuZXppYS12cy1hYy1taWxhbi1mb290YmFsbC0xMjIzOTM0LzE=
@@ -660,6 +654,9 @@ watch/ZWNoby92ZW5lemlhLWFjLW1pbGFuLTI1MTU3LzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745749800000] Venezia vs AC Milan (HD|ECHO2|CBS) [DATE]
 watch/ZWNoby92ZW5lemlhLWFjLW1pbGFuLTI1MTU3LzI=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745749800000] Venezia vs AC Milan (HD|FOXTROT1|) [DATE]
+watch/Zm94dHJvdC92ZW5lemlhLXZzLWFjLW1pbGFuLTIwMjUwNDI3MTIzMC8x
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745749800000] Venezia vs AC Milan (SD|ALPHA10|ITA) [DATE]
 watch/YWxwaGEvdmVuZXppYS12cy1hYy1taWxhbi8xMA==
 
@@ -674,6 +671,24 @@ watch/YWxwaGEvdmVuZXppYS12cy1hYy1taWxhbi84
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745749800000] Venezia vs AC Milan (SD|ALPHA9|ITA) [DATE]
 watch/YWxwaGEvdmVuZXppYS12cy1hYy1taWxhbi85
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745749800000] WTA Madrid v Court 4 Haddad Maia/Siegemund - Andreeva/Shnaider (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTc0OTgwMDAwMC13dGEtbWFkcmlkLWNvdXJ0LTQtaGFkZGFkLW1haWEtc2llZ2VtdW5kLWFuZHJlZXZhLXNobmFpZGVyLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745749800000] WTA Madrid v Court 5 Hunter/Perez - Gauff/Montgomery (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTc0OTgwMDAwMC13dGEtbWFkcmlkLWNvdXJ0LTUtaHVudGVyLXBlcmV6LWdhdWZmLW1vbnRnb21lcnkvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745749800000] WTA Madrid v Stadium 3  Kenin - Potapova (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTc0OTgwMDAwMC13dGEtbWFkcmlkLXN0YWRpdW0tMy1rZW5pbi1wb3RhcG92YS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745751300000] Court 5: Ellen Perez Robin/ Storm Hunter v Coco Gauff/ Robin Montgomery (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNS1lbGxlbi1wZXJlei1yb2Jpbi1zdG9ybS1odW50ZXItdnMtY29jby1nYXVmZi1yb2Jpbi1tb250Z29tZXJ5LzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745751300000] Court 5: Ellen Perez Robin/ Storm Hunter v Coco Gauff/ Robin Montgomery (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNS1lbGxlbi1wZXJlei1yb2Jpbi1zdG9ybS1odW50ZXItdnMtY29jby1nYXVmZi1yb2Jpbi1tb250Z29tZXJ5LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745751300000] Court 5: Ellen Perez Robin/ Storm Hunter v Coco Gauff/ Robin Montgomery (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNS1lbGxlbi1wZXJlei1yb2Jpbi1zdG9ybS1odW50ZXItdnMtY29jby1nYXVmZi1yb2Jpbi1tb250Z29tZXJ5LzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",[TIME|1745751600000] 2025 Elten Safety Shoes Austrian Darts Open - Day Three (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS8yMDI1LWVsdGVuLXNhZmV0eS1zaG9lcy1hdXN0cmlhbi1kYXJ0cy1vcGVuLWRheS10aHJlZS0xNjI5NDM5NDAzLzE=
@@ -707,15 +722,6 @@ watch/ZGVsdGEvYnJpdGlzaC1ndC1jaGFtcGlvbnNoaXAtMjAyNS1icml0aXNoLWd0LzM=
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1745751600000] British GT Championship 2025 (HD|DELTA4|) [DATE]
 watch/ZGVsdGEvYnJpdGlzaC1ndC1jaGFtcGlvbnNoaXAtMjAyNS1icml0aXNoLWd0LzQ=
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1745751600000] Deutsche Tourenwagen Masters (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvZGV1dHNjaGUtdG91cmVud2FnZW4tbWFzdGVycy8y
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1745751600000] Deutsche Tourenwagen Masters (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvZGV1dHNjaGUtdG91cmVud2FnZW4tbWFzdGVycy8x
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1745751600000] Deutsche Tourenwagen Masters (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvZGV1dHNjaGUtdG91cmVud2FnZW4tbWFzdGVycy8z
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745751600000] Helsingborg v Kalmar (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvaGVsc2luZ2JvcmctdnMta2FsbWFyLzE=
@@ -818,6 +824,24 @@ watch/YWxwaGEvbGl2ZS1icml0aXNoLWd0LWNoYW1waW9uc2hpcC8x
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1745751900000] Live British GT Championship (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbGl2ZS1icml0aXNoLWd0LWNoYW1waW9uc2hpcC8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745752200000] Court 3: Sofia Kenin v Anastasia Potapova (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY291cnQtMy1zb2ZpYS1rZW5pbi12cy1hbmFzdGFzaWEtcG90YXBvdmEvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745752200000] Court 3: Sofia Kenin v Anastasia Potapova (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtMy1zb2ZpYS1rZW5pbi12cy1hbmFzdGFzaWEtcG90YXBvdmEvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745752200000] Court 3: Sofia Kenin v Anastasia Potapova (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvY291cnQtMy1zb2ZpYS1rZW5pbi12cy1hbmFzdGFzaWEtcG90YXBvdmEvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745752200000] Court 4: Laura Siegemund/ Beatriz Haddad Maia v MirraAndreeva/ Diana Shnaider (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNC1sYXVyYS1zaWVnZW11bmQtYmVhdHJpei1oYWRkYWQtbWFpYS12cy1taXJyYWFuZHJlZXZhLWRpYW5hLXNobmFpZGVyLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745752200000] Court 4: Laura Siegemund/ Beatriz Haddad Maia v MirraAndreeva/ Diana Shnaider (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNC1sYXVyYS1zaWVnZW11bmQtYmVhdHJpei1oYWRkYWQtbWFpYS12cy1taXJyYWFuZHJlZXZhLWRpYW5hLXNobmFpZGVyLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745752200000] Court 4: Laura Siegemund/ Beatriz Haddad Maia v MirraAndreeva/ Diana Shnaider (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNC1sYXVyYS1zaWVnZW11bmQtYmVhdHJpei1oYWRkYWQtbWFpYS12cy1taXJyYWFuZHJlZXZhLWRpYW5hLXNobmFpZGVyLzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745753400000] 2 Bundesliga Konferenz (HD|ALPHA2|DEU) [DATE]
 watch/YWxwaGEvMi1idW5kZXNsaWdhLWtvbmZlcmVuei8y
@@ -1112,12 +1136,6 @@ watch/YWxwaGEvc2hlZmZpZWxkLXV0ZC13LXZzLXNvdXRoYW1wdG9uLXcvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745755200000] Sonderjyske Fodbold v Viborg FF (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvc29uZGVyanlza2UtZm9kYm9sZC12cy12aWJvcmctZmYvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745755200000] Sonderjyske Fodbold v Viborg FF (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvc29uZGVyanlza2UtZm9kYm9sZC12cy12aWJvcmctZmYvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745755200000] Sonderjyske Fodbold v Viborg FF (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvc29uZGVyanlza2UtZm9kYm9sZC12cy12aWJvcmctZmYvMw==
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1745755200000] Spain GP (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG9ncC1yYWNlLzE=
