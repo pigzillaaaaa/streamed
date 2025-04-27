@@ -483,12 +483,6 @@ watch/YWxwaGEva2Fuc2FzLWNpdHktcm95YWxzLXZzLWhvdXN0b24tYXN0cm9zLzM=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745777400000] Kansas City Royals vs Houston Astros (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEva2Fuc2FzLWNpdHktcm95YWxzLXZzLWhvdXN0b24tYXN0cm9zLzQ=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745777700000] Manolo Santana: Elena Rybakina v Elina Svitolina (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZWxlbmEtcnliYWtpbmEtdnMtZWxpbmEtc3ZpdG9saW5hLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745777700000] Manolo Santana: Elena Rybakina v Elina Svitolina (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZWxlbmEtcnliYWtpbmEtdnMtZWxpbmEtc3ZpdG9saW5hLzI=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745777700000] St. Louis Cardinals vs Milwaukee Brewers (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvc3QtbG91aXMtY2FyZGluYWxzLXZzLW1pbHdhdWtlZS1icmV3ZXJzLzE=
 
@@ -1030,10 +1024,10 @@ watch/YnJhdm8vMTc0NTc4NTgwMDAwMC1vcmVuc2UtaW5kZXBlbmRpZW50ZS1kZWwtdmFsbGUvMQ==
 watch/YnJhdm8vMTc0NTc4NTgwMDAwMC16dXJpY2gtY2xhc3NpYy8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745785800000] Zurich Classic (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTc4NTgwMDAwMC16dXJpY2gtY2xhc3NpYy1mZWF0dXJlZC1ncm91cC0xLzE=
+watch/YnJhdm8vMTc0NTc4NTgwMDAwMC16dXJpY2gtY2xhc3NpYy1mZWF0dXJlZC1ncm91cC0yLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745785800000] Zurich Classic (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTc4NTgwMDAwMC16dXJpY2gtY2xhc3NpYy1mZWF0dXJlZC1ncm91cC0yLzE=
+watch/YnJhdm8vMTc0NTc4NTgwMDAwMC16dXJpY2gtY2xhc3NpYy1mZWF0dXJlZC1ncm91cC0xLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745786100000] New York Yankees vs Toronto Blue Jays (HD|BRAVO1|AWA) [DATE]
 watch/YnJhdm8vMTc0NTc4NjEwMDAwMC1nYW1lLTItdG9yb250by1ibHVlLWpheXMtdnMtbmV3LXlvcmsteWFua2Vlcy1hd2F5LWZlZWQtLzE=
@@ -1088,6 +1082,9 @@ watch/YnJhdm8vMTc0NTc4NzYwMDAwMC1pbnRlci1taWFtaS1mYy1kYWxsYXMtZW5nbGlzaC0vMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745787600000] Inter Miami vs FC Dallas (HD|BRAVO2|SPA) [DATE]
 watch/YnJhdm8vMTc0NTc4NzYwMDAwMC1pbnRlci1taWFtaS1mYy1kYWxsYXMtc3BhbmlzaC0vMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745787600000] Inter Miami vs FC Dallas (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9pbnRlci1taWFtaS12cy1mYy1kYWxsYXMtMTMyNjM2NS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745787600000] Inter Miami vs FC Dallas (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvaW50ZXItbWlhbWktdnMtZmMtZGFsbGFzLWZvb3RiYWxsLTEzMjYzNjUvMQ==
@@ -1161,6 +1158,12 @@ watch/YnJhdm8vMTc0NTc4ODUwMDAwMC1wZW5hcm9sLWNhLWNlcnJvLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745788500000] Universitario de Vinto vs Always Ready (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTc4ODUwMDAwMC11bml2ZXJzaXRhcmlvLWRlLXZpbnRvLWFsd2F5cy1yZWFkeS8x
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745789400000] Cruzeiro vs Vasco da Gama (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvY3J1emVpcm8tdnMtdmFzY28tZGEtZ2FtYS1mb290YmFsbC0xMzUxMDk4LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745789400000] Cruzeiro vs Vasco da Gama (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvY3J1emVpcm8tdnMtdmFzY28tZGEtZ2FtYS1mb290YmFsbC0xMzUxMDk4LzI=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745789400000] Cruzeiro vs Vasco da Gama (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY3J1emVpcm8tdnMtdmFzY28tZGEtZ2FtYS8x
 
@@ -1170,6 +1173,12 @@ watch/YWxwaGEvY3J1emVpcm8tdnMtdmFzY28tZGEtZ2FtYS8y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745789400000] Cruzeiro vs Vasco da Gama (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvY3J1emVpcm8tdnMtdmFzY28tZGEtZ2FtYS8z
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745789400000] Palmeiras vs Bahia (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvcGFsbWVpcmFzLXZzLWJhaGlhLWZvb3RiYWxsLTEzNTEwOTUvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745789400000] Palmeiras vs Bahia (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvcGFsbWVpcmFzLXZzLWJhaGlhLWZvb3RiYWxsLTEzNTEwOTUvMg==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745789400000] Palmeiras vs Bahia (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvcGFsbWVpcmFzLXZzLWJhaGlhLzE=
 
@@ -1178,6 +1187,12 @@ watch/YWxwaGEvcGFsbWVpcmFzLXZzLWJhaGlhLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745789400000] Palmeiras vs Bahia (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvcGFsbWVpcmFzLXZzLWJhaGlhLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745789400000] Vitória vs Grêmio (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvdml0b3JpYS12cy1ncmVtaW8tZm9vdGJhbGwtMTM1MTEwMC8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745789400000] Vitória vs Grêmio (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvdml0b3JpYS12cy1ncmVtaW8tZm9vdGJhbGwtMTM1MTEwMC8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745789400000] Vitória vs Grêmio (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdml0b3JpYS12cy1ncmVtaW8vMQ==
@@ -1211,6 +1226,12 @@ watch/YWxwaGEvaW5zdGl0dXRvLWNvcmRvYmEtdnMtc2FybWllbnRvLWp1bmluLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745791200000] Instituto vs Sarmiento (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvaW5zdGl0dXRvLWNvcmRvYmEtdnMtc2FybWllbnRvLWp1bmluLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745791200000] Lanus v San Martin S.J. (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvbGFudXMtdnMtc2FuLW1hcnRpbi1zai1mb290YmFsbC0xMzM0NTAwLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745791200000] Lanus v San Martin S.J. (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvbGFudXMtdnMtc2FuLW1hcnRpbi1zai1mb290YmFsbC0xMzM0NTAwLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745791200000] Lanus v San Martin San Juan (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbGFudXMtdnMtc2FuLW1hcnRpbi1zYW4tanVhbi8y
