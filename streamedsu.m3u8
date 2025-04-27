@@ -282,14 +282,8 @@ watch/YWxwaGEvcmFjZS0yLWplcmV6LzE=
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1745736000000] Race 2 Jerez (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvcmFjZS0yLWplcmV6LzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745739000000] Daejeon v Gangwon (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvZGFlamVvbi12cy1nYW5nd29uLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745739000000] Daejeon v Gangwon (HD|CHARLIE1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745739000000] Daejeon Citizen v Gangwon FC (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9kYWVqZW9uLWNpdGl6ZW4tdnMtZ2FuZ3dvbi1mYy0xMzQwNzYwLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745739000000] Daejeon v Gangwon (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvZGFlamVvbi12cy1nYW5nd29uLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745739000000] Gimcheon Sangmu FC v Ulsan Hyundai FC (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9naW1jaGVvbi1zYW5nbXUtZmMtdnMtdWxzYW4taHl1bmRhaS1mYy0xMzQwNzU5LzE=
@@ -455,9 +449,6 @@ watch/YWxwaGEvYnJpdGlzaC10b3VyaW5nLWNhci1jaGFtcGlvbnNoaXAtZmlyc3QtdGhyZWUtcmFjZX
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745748000000] Feirense vs FC Porto B (HD|ALPHA1|POR) [DATE]
 watch/YWxwaGEvZmVpcmVuc2UtdnMtZmMtcG9ydG8tYi8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745748000000] Feirense vs FC Porto B (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9mZWlyZW5zZS12cy1mYy1wb3J0by1iLTEyMzE2OTYvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745748000000] Feirense vs FC Porto B (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvZmVpcmVuc2UtdnMtZmMtcG9ydG8tYi1mb290YmFsbC0xMjMxNjk2LzE=
