@@ -345,12 +345,6 @@ watch/Y2hhcmxpZS90b3JvbnRvLWJsdWUtamF5cy12cy1uZXcteW9yay15YW5rZWVzLTE2Mjk0Mzk0MT
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1745775000000] Wroclaw v Lublin (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTc3NTAwMDAwMC13cm9jbGF3LWx1Ymxpbi8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745775300000] Court 3: Francisco Cerundolo v Francisco Comesana (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1mcmFuY2lzY28tY2VydW5kb2xvLXZzLWZyYW5jaXNjby1jb21lc2FuYS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745775300000] Court 3: Francisco Cerundolo v Francisco Comesana (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1mcmFuY2lzY28tY2VydW5kb2xvLXZzLWZyYW5jaXNjby1jb21lc2FuYS8y
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745775300000] New York Yankees vs Toronto Blue Jays (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbmV3LXlvcmsteWFua2Vlcy12cy10b3JvbnRvLWJsdWUtamF5cy8x
 
@@ -561,21 +555,6 @@ watch/YWxwaGEvYXRhbGFudGEtdnMtbGVjY2UvMg==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Atalanta vs Lecce (HD|ALPHA3|ITA) [DATE]
 watch/YWxwaGEvYXRhbGFudGEtdnMtbGVjY2UvMw==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Atalanta vs Lecce (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvYXRhbGFudGEtdnMtbGVjY2UtZm9vdGJhbGwtMTIyMzkyNS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Atalanta vs Lecce (HD|DELTA2|) [DATE]
-watch/ZGVsdGEvYXRhbGFudGEtdnMtbGVjY2UtZm9vdGJhbGwtMTIyMzkyNS8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Atalanta vs Lecce (HD|ECHO1|CBS) [DATE]
-watch/ZWNoby9hdGFsYW50YS1sZWNjZS0yNTE0OS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Atalanta vs Lecce (HD|ECHO2|POR) [DATE]
-watch/ZWNoby9hdGFsYW50YS1sZWNjZS0yNTE0OS8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Atalanta vs Lecce (HD|ECHO3|CBS) [DATE]
-watch/ZWNoby9hdGFsYW50YS1sZWNjZS0yNTE0OS8z
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Atalanta vs Lecce (HD|FOXTROT1|) [DATE]
 watch/Zm94dHJvdC9hdGFsYW50YS12cy1sZWNjZS0yMDI1MDQyNzEyMzAvMQ==
 
@@ -599,18 +578,6 @@ watch/YWxwaGEvbWFyc2VpbGxlLXZzLWJyZXN0LzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Marseille vs Brest (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9tYXJzZWlsbGUtdnMtc3RhZGUtYnJlc3RvaXMtMjktMTIxNDAyNC8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Marseille vs Brest (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvbWFyc2VpbGxlLXZzLXN0YWRlLWJyZXN0b2lzLTI5LWZvb3RiYWxsLTEyMTQwMjQvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Marseille vs Brest (HD|DELTA2|) [DATE]
-watch/ZGVsdGEvbWFyc2VpbGxlLXZzLXN0YWRlLWJyZXN0b2lzLTI5LWZvb3RiYWxsLTEyMTQwMjQvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Marseille vs Brest (HD|DELTA3|) [DATE]
-watch/ZGVsdGEvbWFyc2VpbGxlLXZzLXN0YWRlLWJyZXN0b2lzLTI5LWZvb3RiYWxsLTEyMTQwMjQvMw==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Marseille vs Brest (HD|ECHO1|FRE) [DATE]
-watch/ZWNoby9tYXJzZWlsbGUtc3RhZGUtYnJlc3RvaXMtMjktMjUxMDkvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Marseille vs Brest (HD|FOXTROT1|) [DATE]
 watch/Zm94dHJvdC9tYXJzZWlsbGUtdnMtc3RhZGUtYnJlc3RvaXMtMjktMjAyNTA0MjYyMzMwLzE=
@@ -644,36 +611,6 @@ watch/YWxwaGEvbmFwb2xpLXZzLXRvcmluby80
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Napoli vs Torino (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9uYXBvbGktdnMtdG9yaW5vLTEyMjM5MzIvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Napoli vs Torino (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvbmFwb2xpLXZzLXRvcmluby1mb290YmFsbC0xMjIzOTMyLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Napoli vs Torino (HD|DELTA2|) [DATE]
-watch/ZGVsdGEvbmFwb2xpLXZzLXRvcmluby1mb290YmFsbC0xMjIzOTMyLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Napoli vs Torino (HD|DELTA3|) [DATE]
-watch/ZGVsdGEvbmFwb2xpLXZzLXRvcmluby1mb290YmFsbC0xMjIzOTMyLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Napoli vs Torino (HD|DELTA4|) [DATE]
-watch/ZGVsdGEvbmFwb2xpLXZzLXRvcmluby1mb290YmFsbC0xMjIzOTMyLzQ=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Napoli vs Torino (HD|DELTA5|) [DATE]
-watch/ZGVsdGEvbmFwb2xpLXZzLXRvcmluby1mb290YmFsbC0xMjIzOTMyLzU=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Napoli vs Torino (HD|ECHO1|TNT) [DATE]
-watch/ZWNoby9uYXBvbGktdG9yaW5vLTI1MTQzLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Napoli vs Torino (HD|ECHO2|CBS) [DATE]
-watch/ZWNoby9uYXBvbGktdG9yaW5vLTI1MTQzLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Napoli vs Torino (HD|ECHO3|POR) [DATE]
-watch/ZWNoby9uYXBvbGktdG9yaW5vLTI1MTQzLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Napoli vs Torino (HD|ECHO4|TNT) [DATE]
-watch/ZWNoby9uYXBvbGktdG9yaW5vLTI1MTQzLzQ=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Napoli vs Torino (HD|ECHO5|CBS) [DATE]
-watch/ZWNoby9uYXBvbGktdG9yaW5vLTI1MTQzLzU=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Napoli vs Torino (HD|FOXTROT1|) [DATE]
 watch/Zm94dHJvdC9uYXBvbGktdnMtdG9yaW5vLTIwMjUwNDI3MTIzMC8x
@@ -722,9 +659,6 @@ watch/YnJhdm8vMTc0NTc4MDQwMDAwMC1jb2x1bWJ1cy1jcmV3LTItY2hhdHRhbm9vZ2EvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745780400000] Flamengo vs Corinthians (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTc4MDQwMDAwMC1mbGFtZW5nby1yai1jb3JpbnRoaWFucy8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745780400000] Flamengo vs Corinthians (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvZmxhbWVuZ28tdnMtY29yaW50aGlhbnMtZm9vdGJhbGwtMTM1MTA5My8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745780400000] Gimnasia Mendoza v Nueva Chicago (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTc4MDQwMDAwMC1naW1uYXNpYS1tZW5kb3phLW51ZXZhLWNoaWNhZ28vMQ==
@@ -1315,10 +1249,10 @@ watch/YnJhdm8vMTc0NTc4NTgwMDAwMC1ncmF1LXNwb3J0LWJveXMvMQ==
 watch/YnJhdm8vMTc0NTc4NTgwMDAwMC1vcmVuc2UtaW5kZXBlbmRpZW50ZS1kZWwtdmFsbGUvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745785800000] Zurich Classic (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTc4NTgwMDAwMC16dXJpY2gtY2xhc3NpYy8x
+watch/YnJhdm8vMTc0NTc4NTgwMDAwMC16dXJpY2gtY2xhc3NpYy1mZWF0dXJlZC1ncm91cC0yLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745785800000] Zurich Classic (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTc4NTgwMDAwMC16dXJpY2gtY2xhc3NpYy1mZWF0dXJlZC1ncm91cC0yLzE=
+watch/YnJhdm8vMTc0NTc4NTgwMDAwMC16dXJpY2gtY2xhc3NpYy8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745785800000] Zurich Classic (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTc4NTgwMDAwMC16dXJpY2gtY2xhc3NpYy1mZWF0dXJlZC1ncm91cC0xLzE=
@@ -1362,9 +1296,6 @@ watch/YWxwaGEvaW50ZXItbWlhbWktY2YtdnMtZmMtZGFsbGFzLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745787600000] Inter Miami vs FC Dallas (HD|ALPHA2|ESP) [DATE]
 watch/YWxwaGEvaW50ZXItbWlhbWktY2YtdnMtZmMtZGFsbGFzLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745787600000] Inter Miami vs FC Dallas (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9pbnRlci1taWFtaS12cy1mYy1kYWxsYXMtMTMyNjM2NS8x
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745787600000] Inter Miami vs FC Dallas (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvaW50ZXItbWlhbWktdnMtZmMtZGFsbGFzLWZvb3RiYWxsLTEzMjYzNjUvMQ==
 
@@ -1383,14 +1314,11 @@ watch/YWxwaGEvaW50ZXItbWlhbWktY2YtdnMtZmMtZGFsbGFzLzM=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745787600000] Inter Miami vs FC Dallas (SD|ALPHA4|ESP) [DATE]
 watch/YWxwaGEvaW50ZXItbWlhbWktY2YtdnMtZmMtZGFsbGFzLzQ=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745787600000] Sportivo Luqueño vs General Caballero (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvc3BvcnRpdm8tbHVxdWVuby12cy1nZW5lcmFsLWNhYmFsbGVyby1qbG0vMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745787600000] Sportivo Luqueño vs General Caballero (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745787600000] Sportivo Luqueño vs General Caballero (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvc3BvcnRpdm8tbHVxdWVuby12cy1nZW5lcmFsLWNhYmFsbGVyby1qbG0vMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745787600000] Sportivo Luqueño vs General Caballero (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvc3BvcnRpdm8tbHVxdWVuby12cy1nZW5lcmFsLWNhYmFsbGVyby1qbG0vMw==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745787600000] Sportivo Luqueño vs General Caballero (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvc3BvcnRpdm8tbHVxdWVuby12cy1nZW5lcmFsLWNhYmFsbGVyby1qbG0vMg==
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1745787600000] Thomas Blumenfeld vs Christopher Rodriguez (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdGhvbWFzLWJsdW1lbmZlbGQtdnMtY2hyaXN0b3BoZXItcm9kcmlndWV6LzE=
