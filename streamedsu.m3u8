@@ -297,12 +297,6 @@ watch/YWxwaGEvYXVzdHJpYW4tZGFydHMtb3Blbi1kYXktMy1zZXNzaW9uLTIvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",[TIME|1745773200000] Austrian Darts Open Day 3 Session 2 (SD|ALPHA2|DEU) [DATE]
 watch/YWxwaGEvYXVzdHJpYW4tZGFydHMtb3Blbi1kYXktMy1zZXNzaW9uLTIvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745773200000] Detroit Pistons vs New York Knicks (HD|ADMIN1|ENG) [DATE]
-watch/YWRtaW4vYWRtaW4tZGV0cm9pdC1waXN0b25zLXZzLW5ldy15b3JrLWtuaWNrcy8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745773200000] St. Louis Blues vs Winnipeg Jets (HD|ADMIN1|ENG) [DATE]
-watch/YWRtaW4vYWRtaW4tc3QtbG91aXMtYmx1ZXMtdnMtd2lubmlwZWctamV0cy8x
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745773200000] St. Louis Blues vs Winnipeg Jets (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS93aW5uaXBlZy1qZXRzLXZzLXN0LWxvdWlzLWJsdWVzLTE2Mjk0Mzk0MTIvMQ==
 
@@ -486,9 +480,6 @@ watch/YWxwaGEvbWV4aWNvLWNpdHktcm91bmQtdGhyZWUvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745776800000] Mexico City Round Three (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbWV4aWNvLWNpdHktcm91bmQtdGhyZWUvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745776800000] Minnesota Frost W v New York Sirens W (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTc3NjgwMDAwMC1taW5uZXNvdGEtZnJvc3Qtdy1uZXcteW9yay1zaXJlbnMtdy8x
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745776800000] PWHL Women: Minnesota Frost W v New York Sirens W (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvcHdobC13b21lbi1taW5uZXNvdGEtZnJvc3Qtdy12cy1uZXcteW9yay1zaXJlbnMtdy8x
 
@@ -540,12 +531,6 @@ watch/YWxwaGEva2Fuc2FzLWNpdHktcm95YWxzLXZzLWhvdXN0b24tYXN0cm9zLzM=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745777400000] Kansas City Royals vs Houston Astros (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEva2Fuc2FzLWNpdHktcm95YWxzLXZzLWhvdXN0b24tYXN0cm9zLzQ=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745777700000] Los Chankas vs Melgar (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbG9zLWNoYW5rYXMtdnMtbWVsZ2FyLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745777700000] Los Chankas vs Melgar (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbG9zLWNoYW5rYXMtdnMtbWVsZ2FyLzI=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745777700000] Manolo Santana: Elena Rybakina v Elina Svitolina (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZWxlbmEtcnliYWtpbmEtdnMtZWxpbmEtc3ZpdG9saW5hLzE=
 
@@ -579,32 +564,11 @@ watch/YWxwaGEvcml2ZXItcGxhdGUtdnMtYm9jYS1qdW5pb3JzLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745778600000] River Plate vs Boca Juniors (HD|ALPHA2|DEU) [DATE]
 watch/YWxwaGEvcml2ZXItcGxhdGUtdnMtYm9jYS1qdW5pb3JzLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745778600000] River Plate vs Boca Juniors (HD|BRAVO1|SPA) [DATE]
-watch/YnJhdm8vMTc0NTc3ODYwMDAwMC1yaXZlci1wbGF0ZS1ib2NhLWp1bmlvcnMtc3BhbmlzaC0vMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745778600000] River Plate vs Boca Juniors (HD|BRAVO2|SPA) [DATE]
-watch/YnJhdm8vMTc0NTc3ODYwMDAwMC1yaXZlci1wbGF0ZS1ib2NhLWp1bmlvcnMtc3BhbmlzaC1hbHQtLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745778600000] River Plate vs Boca Juniors (HD|BRAVO3|POR) [DATE]
-watch/YnJhdm8vMTc0NTc3ODYwMDAwMC1yaXZlci1wbGF0ZS1ib2NhLWp1bmlvcnMtcG9ydHVndWVzZS0vMw==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745778600000] River Plate vs Boca Juniors (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvcml2ZXItcGxhdGUtdnMtYm9jYS1qdW5pb3JzLWZvb3RiYWxsLTEzMzQ1MDEvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745778600000] River Plate vs Boca Juniors (HD|DELTA2|) [DATE]
-watch/ZGVsdGEvcml2ZXItcGxhdGUtdnMtYm9jYS1qdW5pb3JzLWZvb3RiYWxsLTEzMzQ1MDEvMg==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745778600000] River Plate vs Boca Juniors (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvcml2ZXItcGxhdGUtdnMtYm9jYS1qdW5pb3JzLzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745778600000] River Plate vs Boca Juniors (SD|ALPHA4|DEU) [DATE]
 watch/YWxwaGEvcml2ZXItcGxhdGUtdnMtYm9jYS1qdW5pb3JzLzQ=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745778600000] Temperley v Estudiantes Rio Cuarto (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTc3ODYwMDAwMC10ZW1wZXJsZXktZXN0dWRpYW50ZXMtcmlvLWN1YXJ0by8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745778600000] UAI Urquiza vs Villa San Carlos (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTc3ODYwMDAwMC11YWktdXJxdWl6YS12aWxsYS1zYW4tY2FybG9zLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Atalanta vs Lecce (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYXRhbGFudGEtdnMtbGVjY2UvMQ==
@@ -1389,6 +1353,21 @@ watch/YWxwaGEvYXRsZXRpY28tZ3JhdS12cy1zcG9ydC1ib3lzLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745785800000] Atlético Grau vs Sport Boys (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYXRsZXRpY28tZ3JhdS12cy1zcG9ydC1ib3lzLzI=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745785800000] Grau v Sport Boys (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTc4NTgwMDAwMC1ncmF1LXNwb3J0LWJveXMvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745785800000] Orense vs Independiente del Valle (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTc4NTgwMDAwMC1vcmVuc2UtaW5kZXBlbmRpZW50ZS1kZWwtdmFsbGUvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745785800000] Zurich Classic (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTc4NTgwMDAwMC16dXJpY2gtY2xhc3NpYy1mZWF0dXJlZC1ncm91cC0xLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745785800000] Zurich Classic (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTc4NTgwMDAwMC16dXJpY2gtY2xhc3NpYy8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745785800000] Zurich Classic (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTc4NTgwMDAwMC16dXJpY2gtY2xhc3NpYy1mZWF0dXJlZC1ncm91cC0yLzE=
+
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1745787600000] 2025 WSL Championship Tour: Rip Curl Pro Bells Beach Presented by Bonsoy (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvMjAyNS13c2wtY2hhbXBpb25zaGlwLXRvdXItcmlwLWN1cmwtcHJvLWJlbGxzLWJlYWNoLXByZXNlbnRlZC1ieS1ib25zb3kvMg==
 
@@ -1481,15 +1460,6 @@ watch/YWxwaGEvdGhvbWFzLWJsdW1lbmZlbGQtdnMtY2hyaXN0b3BoZXItcm9kcmlndWV6LzY=
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1745787600000] Thomas Blumenfeld vs Christopher Rodriguez (SD|ALPHA7|ESP) [DATE]
 watch/YWxwaGEvdGhvbWFzLWJsdW1lbmZlbGQtdnMtY2hyaXN0b3BoZXItcm9kcmlndWV6Lzc=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745788200000] Fortaleza CEIF vs Independiente Medellín (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvZm9ydGFsZXphLWNlaWYtdnMtaW5kZXBlbmRpZW50ZS1tZWRlbGxpbi8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745788200000] Fortaleza CEIF vs Independiente Medellín (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvZm9ydGFsZXphLWNlaWYtdnMtaW5kZXBlbmRpZW50ZS1tZWRlbGxpbi8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745788200000] Fortaleza CEIF vs Independiente Medellín (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvZm9ydGFsZXphLWNlaWYtdnMtaW5kZXBlbmRpZW50ZS1tZWRlbGxpbi8z
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745788200000] Fortaleza FC v Independiente Medellin (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvZm9ydGFsZXphLWZjLXZzLWluZGVwZW5kaWVudGUtbWVkZWxsaW4tZm9vdGJhbGwtMTMzNjY4My8x
