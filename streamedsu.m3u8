@@ -402,9 +402,6 @@ watch/Zm94dHJvdC9jZW50cmFsLWNvYXN0LW1hcmluZXJzLXctdnMtY2FuYmVycmEtdW5pdGVkLXctMj
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745726400000] Central Coast Mariners W v Canberra W (HD|FOXTROT2|) [DATE]
 watch/Zm94dHJvdC9jZW50cmFsLWNvYXN0LW1hcmluZXJzLXctdnMtY2FuYmVycmEtdW5pdGVkLXctMjAyNTA0MjcwMzMwLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745726400000] Central Coast Mariners W v Canberra W - postponed (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY2VudHJhbC1jb2FzdC1tYXJpbmVycy13LXZzLWNhbmJlcnJhLXctcG9zdHBvbmVkLzE=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745726400000] Nippon Ham Fighters v Chiba Lotte Marines (HD|ALPHA1|日本語) [DATE]
 watch/YWxwaGEvbmlwcG9uLWhhbS1maWdodGVycy12cy1jaGliYS1sb3R0ZS1tYXJpbmVzLzE=
 
@@ -1692,7 +1689,7 @@ watch/YWxwaGEvZGVsaGktY2FwaXRhbHMtdnMtcm95YWwtY2hhbGxlbmdlcnMtYmVuZ2FsdXJ1LzU=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745762400000] Genk vs Antwerp (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvcmFjaW5nLWdlbmstdnMtYW50d2VycC8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/football-logo.png" group-title="AMERICAN-FOOTBALL",[TIME|1745762400000] Gloucester v Exeter (HD|CHARLIE1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1745762400000] Gloucester v Exeter (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9nbG91Y2VzdGVyLXZzLWV4ZXRlci0xNjI5NDM5NDA2LzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1745762400000] Gloucester vs Exeter Chiefs (HD|ALPHA2|ENG) [DATE]
@@ -2051,6 +2048,15 @@ watch/Y2hhcmxpZS9ub3R0aW5naGFtLWZvcmVzdC12cy1tYW5jaGVzdGVyLWNpdHktMTM2NzQ0OC8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745767800000] Nottingham Forest vs Manchester City (HD|FOXTROT1|) [DATE]
 watch/Zm94dHJvdC9ub3R0aW5naGFtLWZvcmVzdC12cy1tYW5jaGVzdGVyLWNpdHktMjAyNTA0MjYxMzMwLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745767800000] Radomiak Radom vs Lech Poznan (HD|ALPHA2|POL) [DATE]
+watch/YWxwaGEvcmFkb21pYWstcmFkb20tdnMtbGVjaC1wb3puYW4vMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745767800000] Radomiak Radom vs Lech Poznan (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvcmFkb21pYWstcmFkb20tdnMtbGVjaC1wb3puYW4vMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745767800000] Radomiak Radom vs Lech Poznan (SD|ALPHA3|POL) [DATE]
+watch/YWxwaGEvcmFkb21pYWstcmFkb20tdnMtbGVjaC1wb3puYW4vMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745767800000] Scafati v Treviso (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvc2NhZmF0aS12cy10cmV2aXNvLzE=
