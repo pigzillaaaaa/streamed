@@ -465,24 +465,6 @@ watch/YWxwaGEvc3QtbG91aXMtY2FyZGluYWxzLXZzLW1pbHdhdWtlZS1icmV3ZXJzLzM=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745777700000] St. Louis Cardinals vs Milwaukee Brewers (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvc3QtbG91aXMtY2FyZGluYWxzLXZzLW1pbHdhdWtlZS1icmV3ZXJzLzQ=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Atalanta vs Lecce (HD|FOXTROT1|) [DATE]
-watch/Zm94dHJvdC9hdGFsYW50YS12cy1sZWNjZS0yMDI1MDQyNzEyMzAvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Marseille vs Brest (HD|FOXTROT1|) [DATE]
-watch/Zm94dHJvdC9tYXJzZWlsbGUtdnMtc3RhZGUtYnJlc3RvaXMtMjktMjAyNTA0MjYyMzMwLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Marseille vs Brest (HD|FOXTROT2|) [DATE]
-watch/Zm94dHJvdC9tYXJzZWlsbGUtdnMtc3RhZGUtYnJlc3RvaXMtMjktMjAyNTA0MjYyMzMwLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Marseille vs Brest (HD|FOXTROT3|) [DATE]
-watch/Zm94dHJvdC9tYXJzZWlsbGUtdnMtc3RhZGUtYnJlc3RvaXMtMjktMjAyNTA0MjYyMzMwLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Napoli vs Torino (HD|FOXTROT1|) [DATE]
-watch/Zm94dHJvdC9uYXBvbGktdnMtdG9yaW5vLTIwMjUwNDI3MTIzMC8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745779500000] Napoli vs Torino (HD|FOXTROT2|) [DATE]
-watch/Zm94dHJvdC9uYXBvbGktdnMtdG9yaW5vLTIwMjUwNDI3MTIzMC8y
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745780400000] 2025 The Chevron Championship Final Round NBC (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvMjAyNS10aGUtY2hldnJvbi1jaGFtcGlvbnNoaXAtZmluYWwtcm91bmQtbmJjLzE=
 
@@ -1140,11 +1122,8 @@ watch/YWxwaGEvY3VpYWJhLXZzLWZlcnJvdmlhcmlhLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745791200000] Cuiabá vs Ferroviária (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY3VpYWJhLXZzLWZlcnJvdmlhcmlhLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745791200000] Cuiabá vs Ferroviária (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY3VpYWJhLXZzLWZlcnJvdmlhcmlhLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745791200000] Instituto vs Sarmiento (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvaW5zdGl0dXRvLWNvcmRvYmEtdnMtc2FybWllbnRvLWp1bmluLzI=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745791200000] Instituto vs Sarmiento (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvaW5zdGl0dXRvLWNvcmRvYmEtdnMtc2FybWllbnRvLWp1bmluLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745791200000] Instituto vs Sarmiento (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvaW5zdGl0dXRvLWNvcmRvYmEtdnMtc2FybWllbnRvLWp1bmluLWZvb3RiYWxsLTEzMzQ0OTYvMQ==
@@ -1152,11 +1131,8 @@ watch/ZGVsdGEvaW5zdGl0dXRvLWNvcmRvYmEtdnMtc2FybWllbnRvLWp1bmluLWZvb3RiYWxsLTEzMz
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745791200000] Instituto vs Sarmiento (HD|DELTA2|) [DATE]
 watch/ZGVsdGEvaW5zdGl0dXRvLWNvcmRvYmEtdnMtc2FybWllbnRvLWp1bmluLWZvb3RiYWxsLTEzMzQ0OTYvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745791200000] Instituto vs Sarmiento (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvaW5zdGl0dXRvLWNvcmRvYmEtdnMtc2FybWllbnRvLWp1bmluLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745791200000] Instituto vs Sarmiento (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvaW5zdGl0dXRvLWNvcmRvYmEtdnMtc2FybWllbnRvLWp1bmluLzM=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745791200000] Instituto vs Sarmiento (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvaW5zdGl0dXRvLWNvcmRvYmEtdnMtc2FybWllbnRvLWp1bmluLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745791200000] Lanus v San Martin S.J. (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvbGFudXMtdnMtc2FuLW1hcnRpbi1zai1mb290YmFsbC0xMzM0NTAwLzE=
@@ -1164,14 +1140,11 @@ watch/ZGVsdGEvbGFudXMtdnMtc2FuLW1hcnRpbi1zai1mb290YmFsbC0xMzM0NTAwLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745791200000] Lanus v San Martin S.J. (HD|DELTA2|) [DATE]
 watch/ZGVsdGEvbGFudXMtdnMtc2FuLW1hcnRpbi1zai1mb290YmFsbC0xMzM0NTAwLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745791200000] Lanus v San Martin San Juan (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbGFudXMtdnMtc2FuLW1hcnRpbi1zYW4tanVhbi8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745791200000] Lanus v San Martin San Juan (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745791200000] Lanus v San Martin San Juan (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbGFudXMtdnMtc2FuLW1hcnRpbi1zYW4tanVhbi8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745791200000] Lanus v San Martin San Juan (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbGFudXMtdnMtc2FuLW1hcnRpbi1zYW4tanVhbi8z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745791200000] Lanus v San Martin San Juan (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbGFudXMtdnMtc2FuLW1hcnRpbi1zYW4tanVhbi8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745793000000] Montreal Canadiens v Washington Capitals (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9tb250cmVhbC1jYW5hZGllbnMtdnMtd2FzaGluZ3Rvbi1jYXBpdGFscy0xNjI5NDM5NDM0LzE=
@@ -1179,23 +1152,23 @@ watch/Y2hhcmxpZS9tb250cmVhbC1jYW5hZGllbnMtdnMtd2FzaGluZ3Rvbi1jYXBpdGFscy0xNjI5ND
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745793000000] Montreal Canadiens vs Washington Capitals (HD|ADMIN1|ENG) [DATE]
 watch/YWRtaW4vYWRtaW4tbW9udHJlYWwtY2FuYWRpZW5zLXZzLXdhc2hpbmd0b24tY2FwaXRhbHMvMQ==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745793000000] Montreal Canadiens vs Washington Capitals (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbW9udHJlYWwtY2FuYWRpZW5zLXZzLXdhc2hpbmd0b24tY2FwaXRhbHMvMQ==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745793000000] Montreal Canadiens vs Washington Capitals (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbW9udHJlYWwtY2FuYWRpZW5zLXZzLXdhc2hpbmd0b24tY2FwaXRhbHMvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745793000000] Montreal Canadiens vs Washington Capitals (HD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvbW9udHJlYWwtY2FuYWRpZW5zLXZzLXdhc2hpbmd0b24tY2FwaXRhbHMvMw==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745793000000] Montreal Canadiens vs Washington Capitals (HD|ALPHA4|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745793000000] Montreal Canadiens vs Washington Capitals (HD|ALPHA4|FRA) [DATE]
 watch/YWxwaGEvbW9udHJlYWwtY2FuYWRpZW5zLXZzLXdhc2hpbmd0b24tY2FwaXRhbHMvNA==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745793000000] Montreal Canadiens vs Washington Capitals (HD|ALPHA5|FRA) [DATE]
-watch/YWxwaGEvbW9udHJlYWwtY2FuYWRpZW5zLXZzLXdhc2hpbmd0b24tY2FwaXRhbHMvNQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745793000000] Montreal Canadiens vs Washington Capitals (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvbW9udHJlYWwtY2FuYWRpZW5zLXZzLXdhc2hpbmd0b24tY2FwaXRhbHMtaG9ja2V5LTM5Mzk5NS8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745793000000] Montreal Canadiens vs Washington Capitals (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbW9udHJlYWwtY2FuYWRpZW5zLXZzLXdhc2hpbmd0b24tY2FwaXRhbHMvMQ==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745793000000] Montreal Canadiens vs Washington Capitals (SD|ALPHA5|ENG) [DATE]
+watch/YWxwaGEvbW9udHJlYWwtY2FuYWRpZW5zLXZzLXdhc2hpbmd0b24tY2FwaXRhbHMvNQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745793000000] Montreal Canadiens vs Washington Capitals (SD|ALPHA6|ENG) [DATE]
 watch/YWxwaGEvbW9udHJlYWwtY2FuYWRpZW5zLXZzLXdhc2hpbmd0b24tY2FwaXRhbHMvNg==
@@ -1203,11 +1176,8 @@ watch/YWxwaGEvbW9udHJlYWwtY2FuYWRpZW5zLXZzLXdhc2hpbmd0b24tY2FwaXRhbHMvNg==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745793000000] Montreal Canadiens vs Washington Capitals (SD|ALPHA7|ENG) [DATE]
 watch/YWxwaGEvbW9udHJlYWwtY2FuYWRpZW5zLXZzLXdhc2hpbmd0b24tY2FwaXRhbHMvNw==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745793000000] Montreal Canadiens vs Washington Capitals (SD|ALPHA8|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745793000000] Montreal Canadiens vs Washington Capitals (SD|ALPHA8|FRA) [DATE]
 watch/YWxwaGEvbW9udHJlYWwtY2FuYWRpZW5zLXZzLXdhc2hpbmd0b24tY2FwaXRhbHMvOA==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745793000000] Montreal Canadiens vs Washington Capitals (SD|ALPHA9|FRA) [DATE]
-watch/YWxwaGEvbW9udHJlYWwtY2FuYWRpZW5zLXZzLXdhc2hpbmd0b24tY2FwaXRhbHMvOQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745794800000] 2025 PGA Professional Championship First Round (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvMjAyNS1wZ2EtcHJvZmVzc2lvbmFsLWNoYW1waW9uc2hpcC1maXJzdC1yb3VuZC8y
