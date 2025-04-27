@@ -270,12 +270,6 @@ watch/YnJhdm8vMTc0NTc2OTYwMDAwMC1ydXRnZXJzLXZzLW9oaW8tc3RhdGUvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745769600000] WTA Madrid v Court 6 Kenin/Kichenok - Keys/Sakkari (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTc2OTYwMDAwMC13dGEtbWFkcmlkLWNvdXJ0LTYta2VuaW4ta2ljaGVub2sta2V5cy1zYWtrYXJpLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745771400000] Cheshire Phoenix v Newcastle Eagles (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY2hlc2hpcmUtcGhvZW5peC12cy1uZXdjYXN0bGUtZWFnbGVzLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745771400000] Cheshire Phoenix v Newcastle Eagles (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY2hlc2hpcmUtcGhvZW5peC12cy1uZXdjYXN0bGUtZWFnbGVzLzI=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745771400000] Kawasaki Frontale v Al Sadd (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9rYXdhc2FraS1mcm9udGFsZS12cy1hbC1zYWRkLTEzNjI5MzUvMQ==
 
@@ -329,9 +323,6 @@ watch/YWxwaGEvZGV0cm9pdC1waXN0b25zLXZzLW5ldy15b3JrLWtuaWNrcy80
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745773200000] Detroit Pistons vs New York Knicks (HD|ALPHA5|POR) [DATE]
 watch/YWxwaGEvZGV0cm9pdC1waXN0b25zLXZzLW5ldy15b3JrLWtuaWNrcy81
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745773200000] Detroit Pistons vs New York Knicks (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvZGV0cm9pdC1waXN0b25zLXZzLW5ldy15b3JrLWtuaWNrcy1iYXNrZXRiYWxsLTQ0NzYyNi8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745773200000] Detroit Pistons vs New York Knicks (HD|ECHO1|ABC) [DATE]
 watch/ZWNoby9kZXRyb2l0LXBpc3RvbnMtbmV3LXlvcmsta25pY2tzLTI3MzcxLzE=
@@ -1248,6 +1239,12 @@ watch/YnJhdm8vMTc0NTc4MjIwMDAwMC1hdHAtbWFkcmlkLW1hbm9sby1zYW50YW5hLXN0YWRpdW0ta2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745782200000] Amazonas v Atletico GO (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTc4MjIwMDAwMC1hbWF6b25hcy1hdGxldGljby1nby8x
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745782200000] Arantxa Sanchez: Ekaterina Alexandrova v Daria Kasatkina (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWVrYXRlcmluYS1hbGV4YW5kcm92YS12cy1kYXJpYS1rYXNhdGtpbmEvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745782200000] Arantxa Sanchez: Ekaterina Alexandrova v Daria Kasatkina (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWVrYXRlcmluYS1hbGV4YW5kcm92YS12cy1kYXJpYS1rYXNhdGtpbmEvMg==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745782200000] Boavista vs Sporting CP (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYm9hdmlzdGEtdnMtc3BvcnRpbmctY3AvMQ==
 
@@ -1262,6 +1259,9 @@ watch/YnJhdm8vMTc0NTc4MjIwMDAwMC1ib2F2aXN0YS1zcG9ydGluZy1jcC1zcGFuaXNoLS8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745782200000] Boavista vs Sporting CP (HD|BRAVO3|POL) [DATE]
 watch/YnJhdm8vMTc0NTc4MjIwMDAwMC1ib2F2aXN0YS1zcG9ydGluZy1jcC1wb2xpc2gtLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745782200000] Boavista vs Sporting CP (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9ib2F2aXN0YS12cy1zcG9ydGluZy1jcC0xMjMyMDAyLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745782200000] Boavista vs Sporting CP (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvYm9hdmlzdGEtdnMtc3BvcnRpbmctY3AtZm9vdGJhbGwtMTIzMjAwMi8x
@@ -1419,15 +1419,6 @@ watch/YWxwaGEvbmV3LWplcnNleS1kZXZpbHMtdnMtY2Fyb2xpbmEtaHVycmljYW5lcy82
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745782200000] WTA Madrid v Arantxa Sanchez Stadium Alexandrova - Kasatkina (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTc4MjIwMDAwMC13dGEtbWFkcmlkLWFyYW50eGEtc2FuY2hlei1zdGFkaXVtLWFsZXhhbmRyb3ZhLWthc2F0a2luYS8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745784000000] Arantxa Sanchez: Ekaterina Alexandrova v Daria Kasatkina (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWVrYXRlcmluYS1hbGV4YW5kcm92YS12cy1kYXJpYS1rYXNhdGtpbmEvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745784000000] Arantxa Sanchez: Ekaterina Alexandrova v Daria Kasatkina (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWVrYXRlcmluYS1hbGV4YW5kcm92YS12cy1kYXJpYS1rYXNhdGtpbmEvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745784000000] Arantxa Sanchez: Ekaterina Alexandrova v Daria Kasatkina (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWVrYXRlcmluYS1hbGV4YW5kcm92YS12cy1kYXJpYS1rYXNhdGtpbmEvMw==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745784000000] Atlanta Braves v Arizona Diamondbacks (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9hdGxhbnRhLWJyYXZlcy12cy1hcml6b25hLWRpYW1vbmRiYWNrcy0xNjI5NDM5NDMwLzE=
 
@@ -1460,6 +1451,12 @@ watch/YWxwaGEvcG9ydGxhbmQtdGhvcm5zLXctdnMtcmFjaW5nLWxvdWlzdmlsbGUtdy8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745784000000] Portland Thorns vs Racing Louisville (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9wb3J0bGFuZC10aG9ybnMtdy12cy1yYWNpbmctbG91aXN2aWxsZS13LTEzMzkyODgvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745784000000] Portland Thorns vs Racing Louisville (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvcG9ydGxhbmQtdGhvcm5zLXctdnMtcmFjaW5nLWxvdWlzdmlsbGUtdy1mb290YmFsbC0xMzM5Mjg4LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745784000000] Portland Thorns vs Racing Louisville (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvcG9ydGxhbmQtdGhvcm5zLXctdnMtcmFjaW5nLWxvdWlzdmlsbGUtdy1mb290YmFsbC0xMzM5Mjg4LzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745784000000] Portland Thorns vs Racing Louisville (HD|FOXTROT1|) [DATE]
 watch/Zm94dHJvdC9wb3J0bGFuZC10aG9ybnMtdy12cy1yYWNpbmctbG91aXN2aWxsZS13LTIwMjUwNDI3MTkzMC8x
