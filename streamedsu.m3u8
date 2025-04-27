@@ -255,12 +255,6 @@ watch/YWxwaGEvd3dlLW5ldHdvcmsvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/live-logo.png" group-title="24/7",[TIME|0] WWE Network (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd3dlLW5ldHdvcmsvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745728200000] Chunichi Dragons v Yakult Swallows (HD|ALPHA1|日本語) [DATE]
-watch/YWxwaGEvY2h1bmljaGktZHJhZ29ucy12cy15YWt1bHQtc3dhbGxvd3MvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745728200000] Chunichi Dragons v Yakult Swallows (SD|ALPHA2|日本語) [DATE]
-watch/YWxwaGEvY2h1bmljaGktZHJhZ29ucy12cy15YWt1bHQtc3dhbGxvd3MvMg==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745730000000] Hanshin Tigers vs Yomiuri Giants (HD|ALPHA1|日本語) [DATE]
 watch/YWxwaGEvaGFuc2hpbi10aWdlcnMtdnMteW9taXVyaS1naWFudHMvMQ==
 
@@ -930,14 +924,8 @@ watch/YWxwaGEvMi1idW5kZXNsaWdhLWtvbmZlcmVuei8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745753400000] 2 Bundesliga Konferenz (SD|ALPHA3|DEU) [DATE]
 watch/YWxwaGEvMi1idW5kZXNsaWdhLWtvbmZlcmVuei8z
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745753400000] Court 6: Hsieh Su-wei Nadiia/ Jelena Ostapenko v Xu Yifan/ Nadiia Kichenok (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNi1oc2llaC1zdS13ZWktbmFkaWlhLWplbGVuYS1vc3RhcGVua28tdnMteHUteWlmYW4tbmFkaWlhLWtpY2hlbm9rLzI=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745753400000] Court 6: Hsieh Su-wei Nadiia/ Jelena Ostapenko v Xu Yifan/ Nadiia Kichenok (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNi1oc2llaC1zdS13ZWktbmFkaWlhLWplbGVuYS1vc3RhcGVua28tdnMteHUteWlmYW4tbmFkaWlhLWtpY2hlbm9rLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745753400000] Court 6: Hsieh Su-wei Nadiia/ Jelena Ostapenko v Xu Yifan/ Nadiia Kichenok (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNi1oc2llaC1zdS13ZWktbmFkaWlhLWplbGVuYS1vc3RhcGVua28tdnMteHUteWlmYW4tbmFkaWlhLWtpY2hlbm9rLzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745753400000] Crystal Palace W v West Ham United W (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY3J5c3RhbC1wYWxhY2Utdy12cy13ZXN0LWhhbS11bml0ZWQtdy8y
@@ -1220,6 +1208,12 @@ watch/YWxwaGEvc2hlZmZpZWxkLXV0ZC13LXZzLXNvdXRoYW1wdG9uLXcvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745755200000] Sonderjyske Fodbold v Viborg FF (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvc29uZGVyanlza2UtZm9kYm9sZC12cy12aWJvcmctZmYvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745755200000] Sonderjyske Fodbold v Viborg FF (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvc29uZGVyanlza2UtZm9kYm9sZC12cy12aWJvcmctZmYvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745755200000] Sonderjyske Fodbold v Viborg FF (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvc29uZGVyanlza2UtZm9kYm9sZC12cy12aWJvcmctZmYvMw==
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1745755200000] Spain GP (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbW90b2dwLXNwYWluLWdwLW1vdG9ncC1yYWNlLzE=
