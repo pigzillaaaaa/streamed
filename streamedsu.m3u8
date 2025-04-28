@@ -255,21 +255,6 @@ watch/YWxwaGEvd3dlLW5ldHdvcmsvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/live-logo.png" group-title="24/7",[TIME|0] WWE Network (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd3dlLW5ldHdvcmsvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745857800000] Washington v UIC (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTg1NzgwMDAwMC13YXNoaW5ndG9uLXZzLXVpYy8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1745863200000] World Championship v Table 1 (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTg2MzIwMDAwMC13b3JsZC1jaGFtcGlvbnNoaXAtdGFibGUtMS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1745863200000] World Championship v Table 2 (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTg2MzIwMDAwMC13b3JsZC1jaGFtcGlvbnNoaXAtdGFibGUtMi8x
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1745865000000] King's Lynn v Oxford Spires (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTg2NTAwMDAwMC1raW5nLXMtbHlubi1veGZvcmQtc3BpcmVzLzE=
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1745865000000] Mickiewicz Kluczbork v Jaworzno (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTg2NTAwMDAwMC1taWNraWV3aWN6LWtsdWN6Ym9yay1qYXdvcnpuby8x
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745866800000] 2025 PGA Professional Championship Second Round (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvMjAyNS1wZ2EtcHJvZmVzc2lvbmFsLWNoYW1waW9uc2hpcC1zZWNvbmQtcm91bmQvMQ==
 
@@ -278,18 +263,6 @@ watch/Y2hhcmxpZS8yMDI1LXBnYS1wcm9mZXNzaW9uYWwtY2hhbXBpb25zaGlwLXNlY29uZC1yb3VuZC
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745866800000] 2025 PGA Professional Championship Second Round (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvMjAyNS1wZ2EtcHJvZmVzc2lvbmFsLWNoYW1waW9uc2hpcC1zZWNvbmQtcm91bmQvMg==
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1745866800000] Magazyn PGE Ekstraligi (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTg2NjgwMDAwMC1tYWdhenluLXBnZS1la3N0cmFsaWdpLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745866800000] PGA Professional Championship (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTg2NjgwMDAwMC1wZ2EtcHJvZmVzc2lvbmFsLWNoYW1waW9uc2hpcC8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745870400000] BYU v Grand Canyon (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTg3MDQwMDAwMC1ieXUtdnMtZ3JhbmQtY2FueW9uLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745870400000] New York Mets v Washington Nationals (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9uZXcteW9yay1tZXRzLXZzLXdhc2hpbmd0b24tbmF0aW9uYWxzLTE2Mjk0Mzk0NDQvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745870700000] Washington Nationals vs New York Mets (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvd2FzaGluZ3Rvbi1uYXRpb25hbHMtdnMtbmV3LXlvcmstbWV0cy8x
@@ -588,29 +561,11 @@ watch/YWxwaGEvbWlhbWktaGVhdC12cy1jbGV2ZWxhbmQtY2F2YWxpZXJzLzg=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745883000000] Miami Heat vs Cleveland Cavaliers (SD|ALPHA9|ENG) [DATE]
 watch/YWxwaGEvbWlhbWktaGVhdC12cy1jbGV2ZWxhbmQtY2F2YWxpZXJzLzk=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745884800000] Athletics v Texas Rangers (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9hdGhsZXRpY3MtdnMtdGV4YXMtcmFuZ2Vycy0xNjI5NDM5NDUxLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745884800000] Cienciano vs Sport Huancayo (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY2llbmNpYW5vLWRlbC1jdXNjby12cy1zcG9ydC1odWFuY2F5by8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745884800000] Cienciano vs Sport Huancayo (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745884800000] Cienciano vs Sport Huancayo (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY2llbmNpYW5vLWRlbC1jdXNjby12cy1zcG9ydC1odWFuY2F5by8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745884800000] Cienciano vs Sport Huancayo (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY2llbmNpYW5vLWRlbC1jdXNjby12cy1zcG9ydC1odWFuY2F5by8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745884800000] Detroit Tigers v Houston Astros (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9kZXRyb2l0LXRpZ2Vycy12cy1ob3VzdG9uLWFzdHJvcy0xNjI5NDM5NDUyLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745884800000] Libertad Ecuador v Universidad Catolica Quito (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbGliZXJ0YWQtZWN1YWRvci12cy11bml2ZXJzaWRhZC1jYXRvbGljYS1xdWl0by8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745884800000] Libertad Ecuador v Universidad Catolica Quito (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbGliZXJ0YWQtZWN1YWRvci12cy11bml2ZXJzaWRhZC1jYXRvbGljYS1xdWl0by8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745884800000] Libertad Ecuador v Universidad Catolica Quito (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbGliZXJ0YWQtZWN1YWRvci12cy11bml2ZXJzaWRhZC1jYXRvbGljYS1xdWl0by8z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745884800000] Cienciano vs Sport Huancayo (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY2llbmNpYW5vLWRlbC1jdXNjby12cy1zcG9ydC1odWFuY2F5by8y
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1745884800000] Monday Night RAW (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbW9uZGF5LW5pZ2h0LXJhdy8x
@@ -645,20 +600,17 @@ watch/YWxwaGEvdGV4YXMtcmFuZ2Vycy12cy1hdGhsZXRpY3MvNA==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745885100000] Texas Rangers vs Athletics (SD|ALPHA5|ENG) [DATE]
 watch/YWxwaGEvdGV4YXMtcmFuZ2Vycy12cy1hdGhsZXRpY3MvNQ==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745885400000] Houston Astros vs Detroit Tigers (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvaG91c3Rvbi1hc3Ryb3MtdnMtZGV0cm9pdC10aWdlcnMvMQ==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745885400000] Houston Astros vs Detroit Tigers (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvaG91c3Rvbi1hc3Ryb3MtdnMtZGV0cm9pdC10aWdlcnMvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745885400000] Houston Astros vs Detroit Tigers (HD|ALPHA3|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745885400000] Houston Astros vs Detroit Tigers (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvaG91c3Rvbi1hc3Ryb3MtdnMtZGV0cm9pdC10aWdlcnMvMw==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745885400000] Houston Astros vs Detroit Tigers (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvaG91c3Rvbi1hc3Ryb3MtdnMtZGV0cm9pdC10aWdlcnMvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745885400000] Houston Astros vs Detroit Tigers (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvaG91c3Rvbi1hc3Ryb3MtdnMtZGV0cm9pdC10aWdlcnMvNA==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745885400000] Houston Astros vs Detroit Tigers (SD|ALPHA5|ENG) [DATE]
-watch/YWxwaGEvaG91c3Rvbi1hc3Ryb3MtdnMtZGV0cm9pdC10aWdlcnMvNQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745886600000] Atlanta Braves v Colorado Rockies (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9hdGxhbnRhLWJyYXZlcy12cy1jb2xvcmFkby1yb2NraWVzLTE2Mjk0Mzk0NTMvMQ==
