@@ -348,23 +348,11 @@ watch/YWxwaGEvMjAyNS1wZ2EtcHJvZmVzc2lvbmFsLWNoYW1waW9uc2hpcC1maXJzdC1yb3VuZC8y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745794800000] Los Angeles FC vs St. Louis City SC (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9sb3MtYW5nZWxlcy1mYy12cy1zdC1sb3Vpcy1jaXR5LTEzMjYzNzEvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745795400000] Chicago Cubs vs Philadelphia Phillies (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY2hpY2Fnby1jdWJzLXZzLXBoaWxhZGVscGhpYS1waGlsbGllcy8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745795400000] Chicago Cubs vs Philadelphia Phillies (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY2hpY2Fnby1jdWJzLXZzLXBoaWxhZGVscGhpYS1waGlsbGllcy8y
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745795400000] Chicago Cubs vs Philadelphia Phillies (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTc5NTQwMDAwMC1waGlsYWRlbHBoaWEtcGhpbGxpZXMtdnMtY2hpY2Fnby1jdWJzLWVuZ2xpc2gtYmFjay0vMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745795400000] Chicago Cubs vs Philadelphia Phillies (HD|BRAVO2|SPA) [DATE]
 watch/YnJhdm8vMTc0NTc5NTQwMDAwMC1waGlsYWRlbHBoaWEtcGhpbGxpZXMtdnMtY2hpY2Fnby1jdWJzLXNwYW5pc2gtLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745795400000] Chicago Cubs vs Philadelphia Phillies (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY2hpY2Fnby1jdWJzLXZzLXBoaWxhZGVscGhpYS1waGlsbGllcy8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745795400000] Chicago Cubs vs Philadelphia Phillies (SD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEvY2hpY2Fnby1jdWJzLXZzLXBoaWxhZGVscGhpYS1waGlsbGllcy80
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1745798400000] TNA: Rebellion 2025 (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdG5hLXJlYmVsbGlvbi0yMDI1LzE=
@@ -372,35 +360,11 @@ watch/YWxwaGEvdG5hLXJlYmVsbGlvbi0yMDI1LzE=
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1745798400000] TNA: Rebellion 2025 (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdG5hLXJlYmVsbGlvbi0yMDI1LzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745802000000] Iceland v Bulgaria (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTgwMjAwMDAwMC1pY2VsYW5kLWJ1bGdhcmlhLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745802000000] LA Galaxy vs Portland Timbers (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbGEtZ2FsYXh5LXZzLXBvcnRsYW5kLXRpbWJlcnMvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745802000000] LA Galaxy vs Portland Timbers (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbGEtZ2FsYXh5LXZzLXBvcnRsYW5kLXRpbWJlcnMvMg==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745802000000] LA Galaxy vs Portland Timbers (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9sb3MtYW5nZWxlcy1nYWxheHktdnMtcG9ydGxhbmQtdGltYmVycy0xMzI2MzcwLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745802000000] LA Galaxy vs Portland Timbers (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbGEtZ2FsYXh5LXZzLXBvcnRsYW5kLXRpbWJlcnMvMw==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745802000000] LA Galaxy vs Portland Timbers (SD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEvbGEtZ2FsYXh5LXZzLXBvcnRsYW5kLXRpbWJlcnMvNA==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1745802000000] Miami Sharks v Anthem RC (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTgwMjAwMDAwMC1taWFtaS1zaGFya3MtYW50aGVtLXJjLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745803800000] Bucaramanga v Millonarios (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTgwMzgwMDAwMC1idWNhcmFtYW5nYS1taWxsb25hcmlvcy8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745803800000] Bucaramanga v Millonarios (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvYnVjYXJhbWFuZ2EtdnMtbWlsbG9uYXJpb3MtZm9vdGJhbGwtMTMzNjY3Ny8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745803800000] Bucaramanga v Millonarios (HD|DELTA2|) [DATE]
-watch/ZGVsdGEvYnVjYXJhbWFuZ2EtdnMtbWlsbG9uYXJpb3MtZm9vdGJhbGwtMTMzNjY3Ny8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745803800000] Edmonton Oilers vs Los Angeles Kings (HD|ADMIN1|ENG) [DATE]
 watch/YWRtaW4vYWRtaW4tZWRtb250b24tb2lsZXJzLXZzLWxvcy1hbmdlbGVzLWtpbmdzLzE=
@@ -509,18 +473,6 @@ watch/YWxwaGEvbWlsd2F1a2VlLWJ1Y2tzLXZzLWluZGlhbmEtcGFjZXJzLzk=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745803800000] Monterrey vs Pachuca (HD|ALPHA1|ESP) [DATE]
 watch/YWxwaGEvbW9udGVycmV5LXZzLXBhY2h1Y2EvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745803800000] Monterrey vs Pachuca (HD|BRAVO1|SPA) [DATE]
-watch/YnJhdm8vMTc0NTgwMzgwMDAwMC1tb250ZXJyZXktcGFjaHVjYS1zcGFuaXNoLS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745803800000] Monterrey vs Pachuca (HD|BRAVO2|SPA) [DATE]
-watch/YnJhdm8vMTc0NTgwMzgwMDAwMC1tb250ZXJyZXktcGFjaHVjYS1zcGFuaXNoLWFsdC0vMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745803800000] Monterrey vs Pachuca (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvbW9udGVycmV5LXZzLXBhY2h1Y2EtZm9vdGJhbGwtMTM3MjQ2OS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745803800000] Monterrey vs Pachuca (HD|DELTA2|) [DATE]
-watch/ZGVsdGEvbW9udGVycmV5LXZzLXBhY2h1Y2EtZm9vdGJhbGwtMTM3MjQ2OS8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745803800000] Monterrey vs Pachuca (SD|ALPHA2|ESP) [DATE]
 watch/YWxwaGEvbW9udGVycmV5LXZzLXBhY2h1Y2EvMg==
