@@ -267,15 +267,6 @@ watch/YWxwaGEvZ3JlYXQtYnJpdGFpbi12cy1yb21hbmlhLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745857800000] Great Britain v Romania (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvZ3JlYXQtYnJpdGFpbi12cy1yb21hbmlhLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745857800000] Udinese vs Bologna (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvdWRpbmVzZS12cy1ib2xvZ25hLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745857800000] Udinese vs Bologna (HD|ALPHA2|ITA) [DATE]
-watch/YWxwaGEvdWRpbmVzZS12cy1ib2xvZ25hLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745857800000] Udinese vs Bologna (HD|ALPHA3|ITA) [DATE]
-watch/YWxwaGEvdWRpbmVzZS12cy1ib2xvZ25hLzM=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745857800000] Udinese vs Bologna (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS91ZGluZXNlLXZzLWJvbG9nbmEtMTIyMzkzMy8x
 
@@ -288,23 +279,8 @@ watch/Zm94dHJvdC91ZGluZXNlLXZzLWJvbG9nbmEtMjAyNTA0MjcxMjMwLzI=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745857800000] Udinese vs Bologna (HD|FOXTROT3|) [DATE]
 watch/Zm94dHJvdC91ZGluZXNlLXZzLWJvbG9nbmEtMjAyNTA0MjcxMjMwLzM=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745857800000] Udinese vs Bologna (SD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEvdWRpbmVzZS12cy1ib2xvZ25hLzQ=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745857800000] Udinese vs Bologna (SD|ALPHA5|ITA) [DATE]
-watch/YWxwaGEvdWRpbmVzZS12cy1ib2xvZ25hLzU=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745857800000] Udinese vs Bologna (SD|ALPHA6|ITA) [DATE]
-watch/YWxwaGEvdWRpbmVzZS12cy1ib2xvZ25hLzY=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745857800000] Washington v UIC (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTg1NzgwMDAwMC13YXNoaW5ndG9uLXZzLXVpYy8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745857800000] Železničar Pančevo vs Radnički Niš (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvemVsZXpuaWNhci1wYW5jZXZvLXZzLXJhZG5pY2tpLW5pcy8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745857800000] Železničar Pančevo vs Radnički Niš (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvemVsZXpuaWNhci1wYW5jZXZvLXZzLXJhZG5pY2tpLW5pcy8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745859600000] AaB Aalborg v Vejle (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTg1OTYwMDAwMC1hYWItYWFsYm9yZy12ZWpsZS8x
@@ -621,6 +597,18 @@ watch/YWxwaGEvbGF6aW8tdnMtcGFybWEvMg==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Lazio v Parma (HD|ALPHA3|ITA) [DATE]
 watch/YWxwaGEvbGF6aW8tdnMtcGFybWEvMw==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Lazio v Parma (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTg2NTkwMDAwMC1sYXppby1wYXJtYS1lbmdsaXNoLS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Lazio v Parma (HD|BRAVO2|SPA) [DATE]
+watch/YnJhdm8vMTc0NTg2NTkwMDAwMC1sYXppby1wYXJtYS1zcGFuaXNoLS8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Lazio v Parma (HD|BRAVO3|POL) [DATE]
+watch/YnJhdm8vMTc0NTg2NTkwMDAwMC1sYXppby1wYXJtYS1wb2xpc2gtLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Lazio v Parma (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9sYXppby12cy1wYXJtYS0xMjIzOTMxLzE=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Lazio v Parma (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvbGF6aW8tdnMtcGFybWEtZm9vdGJhbGwtMTIyMzkzMS8x
 
@@ -630,11 +618,23 @@ watch/ZGVsdGEvbGF6aW8tdnMtcGFybWEtZm9vdGJhbGwtMTIyMzkzMS8y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Lazio v Parma (HD|DELTA3|) [DATE]
 watch/ZGVsdGEvbGF6aW8tdnMtcGFybWEtZm9vdGJhbGwtMTIyMzkzMS8z
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Lazio v Parma (HD|DELTA4|) [DATE]
+watch/ZGVsdGEvbGF6aW8tdnMtcGFybWEtZm9vdGJhbGwtMTIyMzkzMS80
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Lazio v Parma (HD|ECHO1|CBS) [DATE]
 watch/ZWNoby9sYXppby1wYXJtYS0yNTE0MS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Lazio v Parma (HD|ECHO2|CBS) [DATE]
 watch/ZWNoby9sYXppby1wYXJtYS0yNTE0MS8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Lazio v Parma (HD|FOXTROT1|) [DATE]
+watch/Zm94dHJvdC9sYXppby12cy1wYXJtYS0yMDI1MDQyNzEyMzAvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Lazio v Parma (HD|FOXTROT2|) [DATE]
+watch/Zm94dHJvdC9sYXppby12cy1wYXJtYS0yMDI1MDQyNzEyMzAvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Lazio v Parma (HD|FOXTROT3|) [DATE]
+watch/Zm94dHJvdC9sYXppby12cy1wYXJtYS0yMDI1MDQyNzEyMzAvMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Lazio v Parma (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvbGF6aW8tdnMtcGFybWEvNA==
@@ -654,6 +654,18 @@ watch/YWxwaGEvaGVsbGFzLXZlcm9uYS12cy1jYWdsaWFyaS8y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Verona vs Cagliari (HD|ALPHA3|ITA) [DATE]
 watch/YWxwaGEvaGVsbGFzLXZlcm9uYS12cy1jYWdsaWFyaS8z
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Verona vs Cagliari (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTg2NTkwMDAwMC12ZXJvbmEtY2FnbGlhcmktZW5nbGlzaC0vMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Verona vs Cagliari (HD|BRAVO2|SPA) [DATE]
+watch/YnJhdm8vMTc0NTg2NTkwMDAwMC12ZXJvbmEtY2FnbGlhcmktc3BhbmlzaC0vMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Verona vs Cagliari (HD|BRAVO3|POL) [DATE]
+watch/YnJhdm8vMTc0NTg2NTkwMDAwMC12ZXJvbmEtY2FnbGlhcmktcG9saXNoLS8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Verona vs Cagliari (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS92ZXJvbmEtdnMtY2FnbGlhcmktMTIyMzkyOC8x
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Verona vs Cagliari (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvdmVyb25hLXZzLWNhZ2xpYXJpLWZvb3RiYWxsLTEyMjM5MjgvMQ==
 
@@ -663,6 +675,9 @@ watch/ZGVsdGEvdmVyb25hLXZzLWNhZ2xpYXJpLWZvb3RiYWxsLTEyMjM5MjgvMg==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Verona vs Cagliari (HD|DELTA3|) [DATE]
 watch/ZGVsdGEvdmVyb25hLXZzLWNhZ2xpYXJpLWZvb3RiYWxsLTEyMjM5MjgvMw==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Verona vs Cagliari (HD|DELTA4|) [DATE]
+watch/ZGVsdGEvdmVyb25hLXZzLWNhZ2xpYXJpLWZvb3RiYWxsLTEyMjM5MjgvNA==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Verona vs Cagliari (HD|ECHO1|CBS) [DATE]
 watch/ZWNoby92ZXJvbmEtY2FnbGlhcmktMjUxNTMvMQ==
 
@@ -671,6 +686,15 @@ watch/ZWNoby92ZXJvbmEtY2FnbGlhcmktMjUxNTMvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Verona vs Cagliari (HD|ECHO3|CBS) [DATE]
 watch/ZWNoby92ZXJvbmEtY2FnbGlhcmktMjUxNTMvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Verona vs Cagliari (HD|FOXTROT1|) [DATE]
+watch/Zm94dHJvdC92ZXJvbmEtdnMtY2FnbGlhcmktMjAyNTA0MjcxMjMwLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Verona vs Cagliari (HD|FOXTROT2|) [DATE]
+watch/Zm94dHJvdC92ZXJvbmEtdnMtY2FnbGlhcmktMjAyNTA0MjcxMjMwLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Verona vs Cagliari (HD|FOXTROT3|) [DATE]
+watch/Zm94dHJvdC92ZXJvbmEtdnMtY2FnbGlhcmktMjAyNTA0MjcxMjMwLzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Verona vs Cagliari (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvaGVsbGFzLXZlcm9uYS12cy1jYWdsaWFyaS80
@@ -683,9 +707,6 @@ watch/YWxwaGEvaGVsbGFzLXZlcm9uYS12cy1jYWdsaWFyaS82
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745866800000] 2025 PGA Professional Championship Second Round (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvMjAyNS1wZ2EtcHJvZmVzc2lvbmFsLWNoYW1waW9uc2hpcC1zZWNvbmQtcm91bmQvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745866800000] 2025 PGA Professional Championship Second Round (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS8yMDI1LXBnYS1wcm9mZXNzaW9uYWwtY2hhbXBpb25zaGlwLXNlY29uZC1yb3VuZC0xNjI5NDM5NDQzLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745866800000] 2025 PGA Professional Championship Second Round (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvMjAyNS1wZ2EtcHJvZmVzc2lvbmFsLWNoYW1waW9uc2hpcC1zZWNvbmQtcm91bmQvMg==
@@ -711,9 +732,6 @@ watch/YWxwaGEvbGVlZHMtdW5pdGVkLXZzLWJyaXN0b2wtY2l0eS8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745866800000] Leeds vs Bristol City (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbGVlZHMtdW5pdGVkLXZzLWJyaXN0b2wtY2l0eS8y
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745866800000] Leeds vs Bristol City (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9sZWVkcy12cy1icmlzdG9sLWNpdHktMTIxNjM3NC8x
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745866800000] Leeds vs Bristol City (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvbGVlZHMtdnMtYnJpc3RvbC1jaXR5LWZvb3RiYWxsLTEyMTYzNzQvMQ==
 
@@ -728,6 +746,12 @@ watch/ZGVsdGEvbGVlZHMtdnMtYnJpc3RvbC1jaXR5LWZvb3RiYWxsLTEyMTYzNzQvNA==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745866800000] Leeds vs Bristol City (HD|DELTA5|) [DATE]
 watch/ZGVsdGEvbGVlZHMtdnMtYnJpc3RvbC1jaXR5LWZvb3RiYWxsLTEyMTYzNzQvNQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745866800000] Leeds vs Bristol City (HD|ECHO1|SKY) [DATE]
+watch/ZWNoby9sZWVkcy1icmlzdG9sLWNpdHktMjUwNjkvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745866800000] Leeds vs Bristol City (HD|ECHO2|EFL) [DATE]
+watch/ZWNoby9sZWVkcy1icmlzdG9sLWNpdHktMjUwNjkvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745866800000] Leeds vs Bristol City (HD|FOXTROT1|) [DATE]
 watch/Zm94dHJvdC9sZWVkcy12cy1icmlzdG9sLWNpdHktMjAyNTA0MjYxMzMwLzE=
@@ -747,8 +771,8 @@ watch/YWxwaGEvbGVlZHMtdW5pdGVkLXZzLWJyaXN0b2wtY2l0eS8z
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745866800000] Leeds vs Bristol City (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvbGVlZHMtdW5pdGVkLXZzLWJyaXN0b2wtY2l0eS80
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745867700000] Casa Pia v Estoril (HD|ALPHA2|POR) [DATE]
-watch/YWxwaGEvY2FzYS1waWEtdnMtZXN0b3JpbC8y
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745867700000] Casa Pia v Estoril (HD|ALPHA1|POR) [DATE]
+watch/YWxwaGEvY2FzYS1waWEtdnMtZXN0b3JpbC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745867700000] Casa Pia v Estoril (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9jYXNhLXBpYS12cy1lc3RvcmlsLTEyMzE5OTkvMQ==
@@ -762,11 +786,8 @@ watch/ZGVsdGEvY2FzYS1waWEtdnMtZXN0b3JpbC1mb290YmFsbC0xMjMxOTk5LzI=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745867700000] Casa Pia v Estoril (HD|FOXTROT1|) [DATE]
 watch/Zm94dHJvdC9jYXNhLXBpYS12cy1lc3RvcmlsLTIwMjUwNDI2MjMzMC8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745867700000] Casa Pia v Estoril (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY2FzYS1waWEtdnMtZXN0b3JpbC8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745867700000] Casa Pia v Estoril (SD|ALPHA3|POR) [DATE]
-watch/YWxwaGEvY2FzYS1waWEtdnMtZXN0b3JpbC8z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745867700000] Casa Pia v Estoril (SD|ALPHA2|POR) [DATE]
+watch/YWxwaGEvY2FzYS1waWEtdnMtZXN0b3JpbC8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745870400000] New York Mets v Washington Nationals (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9uZXcteW9yay1tZXRzLXZzLXdhc2hpbmd0b24tbmF0aW9uYWxzLTE2Mjk0Mzk0NDQvMQ==
