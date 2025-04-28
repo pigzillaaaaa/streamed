@@ -600,6 +600,9 @@ watch/YnJhdm8vMTc0NTg2MDUwMDAwMC1zaWJlbmlrLWdvcmljYS8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745861400000] Beitar Jerusalem vs Maccabi Haifa (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTg2MTQwMDAwMC1iZWl0YXItamVydXNhbGVtLW1hY2NhYmktaGFpZmEvMQ==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745862300000] Stjarnan v Vestmannaeyjar (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTg2MjMwMDAwMC1zdGphcm5hbi12ZXN0bWFubmFleWphci8x
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Barracas Central vs Unión (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYmFycmFjYXMtY2VudHJhbC12cy11bmlvbi1zYW50YS1mZS8y
 
@@ -707,15 +710,6 @@ watch/Y2hhcmxpZS9hbG1lcmlhLXZzLXJhY2luZy1mZXJyb2wtMTIxNzg5Ni8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865000000] Almeria v Racing Ferrol (HD|CHARLIE2|ENG) [DATE]
 watch/Y2hhcmxpZS9hbG1lcmlhLXZzLXJhY2luZy1mZXJyb2wtMTIxNzg5Ni8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865000000] Almeria v Racing Ferrol (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvYWxtZXJpYS12cy1yYWNpbmctZmVycm9sLWZvb3RiYWxsLTEyMTc4OTYvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865000000] Almeria v Racing Ferrol (HD|DELTA2|) [DATE]
-watch/ZGVsdGEvYWxtZXJpYS12cy1yYWNpbmctZmVycm9sLWZvb3RiYWxsLTEyMTc4OTYvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865000000] Almeria v Racing Ferrol (HD|DELTA3|) [DATE]
-watch/ZGVsdGEvYWxtZXJpYS12cy1yYWNpbmctZmVycm9sLWZvb3RiYWxsLTEyMTc4OTYvMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865000000] Almeria v Racing Ferrol (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYWxtZXJpYS12cy1yYWNpbmctZmVycm9sLzE=
