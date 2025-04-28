@@ -468,12 +468,6 @@ watch/ZGVsdGEvYWFsYm9yZy12cy12ZWpsZS1mb290YmFsbC0xMzYyODA5LzM=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745859600000] Benfica B vs Mafra (HD|ALPHA1|POR) [DATE]
 watch/YWxwaGEvYmVuZmljYS1iLXZzLW1hZnJhLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745859600000] Benfica B vs Mafra (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvYmVuZmljYS1iLXZzLW1hZnJhLWZvb3RiYWxsLTEyMzE2OTUvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745859600000] Benfica B vs Mafra (HD|DELTA2|) [DATE]
-watch/ZGVsdGEvYmVuZmljYS1iLXZzLW1hZnJhLWZvb3RiYWxsLTEyMzE2OTUvMg==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745859600000] Benfica B vs Mafra (SD|ALPHA2|POR) [DATE]
 watch/YWxwaGEvYmVuZmljYS1iLXZzLW1hZnJhLzI=
 
@@ -603,6 +597,9 @@ watch/YnJhdm8vMTc0NTg2MDIwMDAwMC1nb3RlYm9yZy1nYWlzLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745860500000] Sibenik v Gorica (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTg2MDUwMDAwMC1zaWJlbmlrLWdvcmljYS8x
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745861400000] Beitar Jerusalem vs Maccabi Haifa (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTg2MTQwMDAwMC1iZWl0YXItamVydXNhbGVtLW1hY2NhYmktaGFpZmEvMQ==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Barracas Central vs Unión (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYmFycmFjYXMtY2VudHJhbC12cy11bmlvbi1zYW50YS1mZS8y
 
@@ -639,32 +636,23 @@ watch/YWxwaGEvZGluLWJ1Y3VyZXN0aS12cy1jZnItY2x1ai8z
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Jong AZ v Den Bosch (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvam9uZy1hei12cy1kZW4tYm9zY2gvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Jong Ajax v Helmond (HD|ALPHA2|DUT) [DATE]
-watch/YWxwaGEvam9uZy1hamF4LXZzLWhlbG1vbmQvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Jong Ajax v Helmond (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Jong Ajax v Helmond (HD|ALPHA1|DUT) [DATE]
 watch/YWxwaGEvam9uZy1hamF4LXZzLWhlbG1vbmQvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Jong Ajax v Helmond (SD|ALPHA3|DUT) [DATE]
-watch/YWxwaGEvam9uZy1hamF4LXZzLWhlbG1vbmQvMw==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Jong Ajax v Helmond (SD|ALPHA2|DUT) [DATE]
+watch/YWxwaGEvam9uZy1hamF4LXZzLWhlbG1vbmQvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Jong PSV vs FC Eindhoven (HD|ALPHA2|DUT) [DATE]
-watch/YWxwaGEvam9uZy1wc3YtdnMtZWluZGhvdmVuLWZjLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Jong PSV vs FC Eindhoven (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Jong PSV vs FC Eindhoven (HD|ALPHA1|DUT) [DATE]
 watch/YWxwaGEvam9uZy1wc3YtdnMtZWluZGhvdmVuLWZjLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Jong PSV vs FC Eindhoven (SD|ALPHA3|DUT) [DATE]
-watch/YWxwaGEvam9uZy1wc3YtdnMtZWluZGhvdmVuLWZjLzM=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Jong PSV vs FC Eindhoven (SD|ALPHA2|DUT) [DATE]
+watch/YWxwaGEvam9uZy1wc3YtdnMtZWluZGhvdmVuLWZjLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Jong Utrecht vs FC Volendam (HD|ALPHA2|DUT) [DATE]
-watch/YWxwaGEvam9uZy11dHJlY2h0LXZzLWZjLXZvbGVuZGFtLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Jong Utrecht vs FC Volendam (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Jong Utrecht vs FC Volendam (HD|ALPHA1|DUT) [DATE]
 watch/YWxwaGEvam9uZy11dHJlY2h0LXZzLWZjLXZvbGVuZGFtLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Jong Utrecht vs FC Volendam (SD|ALPHA3|DUT) [DATE]
-watch/YWxwaGEvam9uZy11dHJlY2h0LXZzLWZjLXZvbGVuZGFtLzM=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Jong Utrecht vs FC Volendam (SD|ALPHA2|DUT) [DATE]
+watch/YWxwaGEvam9uZy11dHJlY2h0LXZzLWZjLXZvbGVuZGFtLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745863200000] Lulea v Brynas (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbHVsZWEtdnMtYnJ5bmFzLzE=
@@ -702,14 +690,11 @@ watch/YWxwaGEvc3BvcnRpbmctY3Jpc3RhbC12cy1qdWFuLXBhYmxvLWlpLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Sporting Cristal v Juan Pablo II (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvc3BvcnRpbmctY3Jpc3RhbC12cy1qdWFuLXBhYmxvLWlpLzM=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Venlo v De Graafschap (HD|ALPHA2|DUT) [DATE]
-watch/YWxwaGEvdmVubG8tdnMtZGUtZ3JhYWZzY2hhcC8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Venlo v De Graafschap (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Venlo v De Graafschap (HD|ALPHA1|DUT) [DATE]
 watch/YWxwaGEvdmVubG8tdnMtZGUtZ3JhYWZzY2hhcC8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Venlo v De Graafschap (SD|ALPHA3|DUT) [DATE]
-watch/YWxwaGEvdmVubG8tdnMtZGUtZ3JhYWZzY2hhcC8z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Venlo v De Graafschap (SD|ALPHA2|DUT) [DATE]
+watch/YWxwaGEvdmVubG8tdnMtZGUtZ3JhYWZzY2hhcC8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865000000] Almeria v Racing Ferrol (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYWxtZXJpYS12cy1yYWNpbmctZmVycm9sLzI=
