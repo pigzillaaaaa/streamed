@@ -150,12 +150,6 @@ watch/YWxwaGEvbmJhLXR2LzI=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/live-logo.png" group-title="24/7",[TIME|0] NBA TV (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvbmJhLXR2LzM=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/live-logo.png" group-title="24/7",[TIME|0] NBC Golf Channel (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbmJjLWdvbGYtY2hhbm5lbC8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/live-logo.png" group-title="24/7",[TIME|0] NBC Golf Channel (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbmJjLWdvbGYtY2hhbm5lbC8y
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/live-logo.png" group-title="24/7",[TIME|0] NFL Network (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbmZsLW5ldHdvcmsvMQ==
 
@@ -171,12 +165,6 @@ watch/YWxwaGEvbmhsLW5ldHdvcmsvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/live-logo.png" group-title="24/7",[TIME|0] NHL Network (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbmhsLW5ldHdvcmsvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/live-logo.png" group-title="24/7",[TIME|0] PGA Tour 2025 (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvcGdhLXRvdXItMjAyNS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/live-logo.png" group-title="24/7",[TIME|0] PGA Tour 2025 (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvcGdhLXRvdXItMjAyNS8y
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/live-logo.png" group-title="24/7",[TIME|0] Sky Sports Darts (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvc2t5LXNwb3J0cy1kYXJ0cy8x
 
@@ -188,12 +176,6 @@ watch/YWxwaGEvc2t5LXNwb3J0cy1mMS1za3ktZjEvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/live-logo.png" group-title="24/7",[TIME|0] Sky Sports F1 | Sky F1 (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvc2t5LXNwb3J0cy1mMS1za3ktZjEvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/live-logo.png" group-title="24/7",[TIME|0] Sky Sports Golf (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvc2t5LXNwb3J0cy1nb2xmLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/live-logo.png" group-title="24/7",[TIME|0] Sky Sports Golf (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvc2t5LXNwb3J0cy1nb2xmLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/live-logo.png" group-title="24/7",[TIME|0] Sky Sports News | SSN Breaking Sports News (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvc2t5LXNwb3J0cy1uZXdzLXNzbi1icmVha2luZy1zcG9ydHMtbmV3cy8x
@@ -297,14 +279,8 @@ watch/Zm94dHJvdC92ZXJvbmEtdnMtY2FnbGlhcmktMjAyNTA0MjcxMjMwLzI=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Verona vs Cagliari (HD|FOXTROT3|) [DATE]
 watch/Zm94dHJvdC92ZXJvbmEtdnMtY2FnbGlhcmktMjAyNTA0MjcxMjMwLzM=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745866800000] 2025 PGA Professional Championship Second Round (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvMjAyNS1wZ2EtcHJvZmVzc2lvbmFsLWNoYW1waW9uc2hpcC1zZWNvbmQtcm91bmQvMQ==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745866800000] 2025 PGA Professional Championship Second Round (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS8yMDI1LXBnYS1wcm9mZXNzaW9uYWwtY2hhbXBpb25zaGlwLXNlY29uZC1yb3VuZC0xNjI5NDM5NDQzLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745866800000] 2025 PGA Professional Championship Second Round (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvMjAyNS1wZ2EtcHJvZmVzc2lvbmFsLWNoYW1waW9uc2hpcC1zZWNvbmQtcm91bmQvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745866800000] Leeds vs Bristol City (HD|FOXTROT1|) [DATE]
 watch/Zm94dHJvdC9sZWVkcy12cy1icmlzdG9sLWNpdHktMjAyNTA0MjYxMzMwLzE=
