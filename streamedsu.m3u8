@@ -348,18 +348,6 @@ watch/Y2hhcmxpZS8yMDI1LXBnYS1wcm9mZXNzaW9uYWwtY2hhbXBpb25zaGlwLXNlY29uZC1yb3VuZC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745866800000] 2025 PGA Professional Championship Second Round (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvMjAyNS1wZ2EtcHJvZmVzc2lvbmFsLWNoYW1waW9uc2hpcC1zZWNvbmQtcm91bmQvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745866800000] Borac Banja Luka vs Sloga Doboj (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvYm9yYWMtYmFuamEtbHVrYS12cy1zbG9nYS1kb2Jvai8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745866800000] Borac Banja Luka vs Sloga Doboj (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvYm9yYWMtYmFuamEtbHVrYS12cy1zbG9nYS1kb2Jvai8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745866800000] Leeds vs Bristol City (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbGVlZHMtdW5pdGVkLXZzLWJyaXN0b2wtY2l0eS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745866800000] Leeds vs Bristol City (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbGVlZHMtdW5pdGVkLXZzLWJyaXN0b2wtY2l0eS8y
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745866800000] Leeds vs Bristol City (HD|FOXTROT1|) [DATE]
 watch/Zm94dHJvdC9sZWVkcy12cy1icmlzdG9sLWNpdHktMjAyNTA0MjYxMzMwLzE=
 
@@ -372,12 +360,6 @@ watch/Zm94dHJvdC9sZWVkcy12cy1icmlzdG9sLWNpdHktMjAyNTA0MjYxMzMwLzM=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745866800000] Leeds vs Bristol City (HD|FOXTROT4|) [DATE]
 watch/Zm94dHJvdC9sZWVkcy12cy1icmlzdG9sLWNpdHktMjAyNTA0MjYxMzMwLzQ=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745866800000] Leeds vs Bristol City (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbGVlZHMtdW5pdGVkLXZzLWJyaXN0b2wtY2l0eS8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745866800000] Leeds vs Bristol City (SD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEvbGVlZHMtdW5pdGVkLXZzLWJyaXN0b2wtY2l0eS80
-
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1745866800000] Magazyn PGE Ekstraligi (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTg2NjgwMDAwMC1tYWdhenluLXBnZS1la3N0cmFsaWdpLzE=
 
@@ -385,16 +367,13 @@ watch/YnJhdm8vMTc0NTg2NjgwMDAwMC1tYWdhenluLXBnZS1la3N0cmFsaWdpLzE=
 watch/YnJhdm8vMTc0NTg2NjgwMDAwMC1wZ2EtcHJvZmVzc2lvbmFsLWNoYW1waW9uc2hpcC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745866800000] Sweden U18 v Czech Republic U18 (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTg2NjgwMDAwMC1zd2VkZW4tdTE4cmVwdWJsaWMtdTE4LWN6ZWNoLS8x
+watch/YnJhdm8vMTc0NTg2NjgwMDAwMC1zd2VkZW4tdTE4LWN6ZWNoLXJlcHVibGljLXUxOC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745866800000] Sweden U18 v Czech Republic U18 (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTg2NjgwMDAwMC1zd2VkZW4tdTE4LWN6ZWNoLXJlcHVibGljLXUxOC8x
+watch/YnJhdm8vMTc0NTg2NjgwMDAwMC1zd2VkZW4tdTE4cmVwdWJsaWMtdTE4LWN6ZWNoLS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745867700000] Casa Pia v Estoril (HD|ALPHA1|POR) [DATE]
 watch/YWxwaGEvY2FzYS1waWEtdnMtZXN0b3JpbC8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745867700000] Casa Pia v Estoril (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTg2NzcwMDAwMC1jYXNhLXBpYS1lc3RvcmlsLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745867700000] Casa Pia v Estoril (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvY2FzYS1waWEtdnMtZXN0b3JpbC1mb290YmFsbC0xMjMxOTk5LzE=
@@ -407,12 +386,6 @@ watch/Zm94dHJvdC9jYXNhLXBpYS12cy1lc3RvcmlsLTIwMjUwNDI2MjMzMC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745867700000] Casa Pia v Estoril (SD|ALPHA2|POR) [DATE]
 watch/YWxwaGEvY2FzYS1waWEtdnMtZXN0b3JpbC8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745867700000] Fram v Afturelding (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTg2NzcwMDAwMC1mcmFtLWFmdHVyZWxkaW5nLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745867700000] Valur vs Víkingur Reykjavík (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTg2NzcwMDAwMC12YWx1ci12aWtpbmd1ci1yZXlramF2aWsvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745870400000] BYU v Grand Canyon (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTg3MDQwMDAwMC1ieXUtdnMtZ3JhbmQtY2FueW9uLzE=
