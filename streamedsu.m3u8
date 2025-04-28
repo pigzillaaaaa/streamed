@@ -279,18 +279,6 @@ watch/Y2hhcmxpZS8yMDI1LXBnYS1wcm9mZXNzaW9uYWwtY2hhbXBpb25zaGlwLXNlY29uZC1yb3VuZC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745866800000] 2025 PGA Professional Championship Second Round (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvMjAyNS1wZ2EtcHJvZmVzc2lvbmFsLWNoYW1waW9uc2hpcC1zZWNvbmQtcm91bmQvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745866800000] Leeds vs Bristol City (HD|FOXTROT1|) [DATE]
-watch/Zm94dHJvdC9sZWVkcy12cy1icmlzdG9sLWNpdHktMjAyNTA0MjYxMzMwLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745866800000] Leeds vs Bristol City (HD|FOXTROT2|) [DATE]
-watch/Zm94dHJvdC9sZWVkcy12cy1icmlzdG9sLWNpdHktMjAyNTA0MjYxMzMwLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745866800000] Leeds vs Bristol City (HD|FOXTROT3|) [DATE]
-watch/Zm94dHJvdC9sZWVkcy12cy1icmlzdG9sLWNpdHktMjAyNTA0MjYxMzMwLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745866800000] Leeds vs Bristol City (HD|FOXTROT4|) [DATE]
-watch/Zm94dHJvdC9sZWVkcy12cy1icmlzdG9sLWNpdHktMjAyNTA0MjYxMzMwLzQ=
-
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1745866800000] Magazyn PGE Ekstraligi (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTg2NjgwMDAwMC1tYWdhenluLXBnZS1la3N0cmFsaWdpLzE=
 
@@ -305,9 +293,6 @@ watch/YnJhdm8vMTc0NTg3MDQwMDAwMC1ieXUtdnMtZ3JhbmQtY2FueW9uLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745870400000] New York Mets v Washington Nationals (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9uZXcteW9yay1tZXRzLXZzLXdhc2hpbmd0b24tbmF0aW9uYWxzLTE2Mjk0Mzk0NDQvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745870400000] Stjarnan vs Grindavík (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTg3MDQwMDAwMC1zdGphcm5hbi1ncmluZGF2aWsvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745870700000] Washington Nationals vs New York Mets (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvd2FzaGluZ3Rvbi1uYXRpb25hbHMtdnMtbmV3LXlvcmstbWV0cy8x
@@ -326,21 +311,6 @@ watch/YWxwaGEvd2FzaGluZ3Rvbi1uYXRpb25hbHMtdnMtbmV3LXlvcmstbWV0cy8z
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745870700000] Washington Nationals vs New York Mets (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvd2FzaGluZ3Rvbi1uYXRpb25hbHMtdnMtbmV3LXlvcmstbWV0cy80
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745871300000] Godoy Cruz vs Atlético Tucumán (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvZ29kb3ktY3J1ei1hbnRvbmlvLXRvbWJhLXZzLWF0bGV0aWNvLXR1Y3VtYW4vMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745871300000] Godoy Cruz vs Atlético Tucumán (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTg3MTMwMDAwMC1nb2RveS1jcnV6LWF0bGV0aWNvLXR1Y3VtYW4vMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745871300000] Godoy Cruz vs Atlético Tucumán (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvZ29kb3ktY3J1ei12cy1hdGxldGljby10dWN1bWFuLWZvb3RiYWxsLTEzMzQ0OTkvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745871300000] Godoy Cruz vs Atlético Tucumán (HD|DELTA2|) [DATE]
-watch/ZGVsdGEvZ29kb3ktY3J1ei12cy1hdGxldGljby10dWN1bWFuLWZvb3RiYWxsLTEzMzQ0OTkvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745871300000] Godoy Cruz vs Atlético Tucumán (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvZ29kb3ktY3J1ei1hbnRvbmlvLXRvbWJhLXZzLWF0bGV0aWNvLXR1Y3VtYW4vMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745872200000] ADT v Cusco FC (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYWR0LXZzLWN1c2NvLWZjLzE=
@@ -375,20 +345,26 @@ watch/YnJhdm8vMTc0NTg3NDAwMDAwMC1zcG9ydGl2by10cmluaWRlbnNlLW9saW1waWEtYXN1bmNpb2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745874000000] Trinidense v Olimpia (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdHJpbmlkZW5zZS12cy1vbGltcGlhLzI=
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1745877600000] Ryan Garcia v Rolando Romero: Grand Arrivals (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvcnlhbi1nYXJjaWEtdnMtcm9sYW5kby1yb21lcm8tZ3JhbmQtYXJyaXZhbHMvMg==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745877600000] Minnesota Twins v Cleveland Guardians (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9taW5uZXNvdGEtdHdpbnMtdnMtY2xldmVsYW5kLWd1YXJkaWFucy0xNjI5NDM5NDQ1LzE=
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1745877600000] Ryan Garcia v Rolando Romero: Grand Arrivals (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1745877600000] Ryan Garcia v Rolando Romero: Grand Arrivals (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvcnlhbi1nYXJjaWEtdnMtcm9sYW5kby1yb21lcm8tZ3JhbmQtYXJyaXZhbHMvMQ==
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1745877600000] Ryan Garcia v Rolando Romero: Grand Arrivals (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvcnlhbi1nYXJjaWEtdnMtcm9sYW5kby1yb21lcm8tZ3JhbmQtYXJyaXZhbHMvMw==
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1745877600000] Ryan Garcia v Rolando Romero: Grand Arrivals (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvcnlhbi1nYXJjaWEtdnMtcm9sYW5kby1yb21lcm8tZ3JhbmQtYXJyaXZhbHMvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745878200000] Cleveland Guardians vs Minnesota Twins (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY2xldmVsYW5kLWd1YXJkaWFucy12cy1taW5uZXNvdGEtdHdpbnMvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745878200000] Cleveland Guardians vs Minnesota Twins (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY2xldmVsYW5kLWd1YXJkaWFucy12cy1taW5uZXNvdGEtdHdpbnMvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745878200000] Cleveland Guardians vs Minnesota Twins (HD|BRAVO1|AWA) [DATE]
+watch/YnJhdm8vMTc0NTg3ODIwMDAwMC1taW5uZXNvdGEtdHdpbnMtdnMtY2xldmVsYW5kLWd1YXJkaWFucy1hd2F5LWZlZWQtLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745878200000] Cleveland Guardians vs Minnesota Twins (HD|BRAVO2|HOM) [DATE]
+watch/YnJhdm8vMTc0NTg3ODIwMDAwMC1taW5uZXNvdGEtdHdpbnMtdnMtY2xldmVsYW5kLWd1YXJkaWFucy1ob21lLWZlZWQtLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745878200000] Cleveland Guardians vs Minnesota Twins (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvY2xldmVsYW5kLWd1YXJkaWFucy12cy1taW5uZXNvdGEtdHdpbnMvMw==
@@ -429,41 +405,29 @@ watch/YWxwaGEvZXN0dWRpYW50ZXMtZGUtbGEtcGxhdGEtdnMtdGlncmUvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745879400000] Estudiantes de La Plata vs Tigre (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvZXN0dWRpYW50ZXMtZGUtbGEtcGxhdGEtdnMtdGlncmUvMw==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745879400000] New York Yankees v Baltimore Orioles (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9uZXcteW9yay15YW5rZWVzLXZzLWJhbHRpbW9yZS1vcmlvbGVzLTE2Mjk0Mzk0NDYvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745879400000] St. Louis Cardinals v Cincinnati Reds (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9zdC1sb3Vpcy1jYXJkaW5hbHMtdnMtY2luY2lubmF0aS1yZWRzLTE2Mjk0Mzk0NDcvMQ==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745879700000] Baltimore Orioles vs New York Yankees (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYmFsdGltb3JlLW9yaW9sZXMtdnMtbmV3LXlvcmsteWFua2Vlcy8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745879700000] Baltimore Orioles vs New York Yankees (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYmFsdGltb3JlLW9yaW9sZXMtdnMtbmV3LXlvcmsteWFua2Vlcy8y
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745879700000] Baltimore Orioles vs New York Yankees (HD|ALPHA3|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745879700000] Baltimore Orioles vs New York Yankees (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvYmFsdGltb3JlLW9yaW9sZXMtdnMtbmV3LXlvcmsteWFua2Vlcy8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745879700000] Baltimore Orioles vs New York Yankees (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvYmFsdGltb3JlLW9yaW9sZXMtdnMtbmV3LXlvcmsteWFua2Vlcy8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745879700000] Baltimore Orioles vs New York Yankees (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvYmFsdGltb3JlLW9yaW9sZXMtdnMtbmV3LXlvcmsteWFua2Vlcy80
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745879700000] Baltimore Orioles vs New York Yankees (SD|ALPHA5|ENG) [DATE]
-watch/YWxwaGEvYmFsdGltb3JlLW9yaW9sZXMtdnMtbmV3LXlvcmsteWFua2Vlcy81
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745880000000] Cincinnati Reds vs St. Louis Cardinals (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY2luY2lubmF0aS1yZWRzLXZzLXN0LWxvdWlzLWNhcmRpbmFscy8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745880000000] Cincinnati Reds vs St. Louis Cardinals (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY2luY2lubmF0aS1yZWRzLXZzLXN0LWxvdWlzLWNhcmRpbmFscy8y
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745880000000] Cincinnati Reds vs St. Louis Cardinals (HD|ALPHA3|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745880000000] Cincinnati Reds vs St. Louis Cardinals (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvY2luY2lubmF0aS1yZWRzLXZzLXN0LWxvdWlzLWNhcmRpbmFscy8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745880000000] Cincinnati Reds vs St. Louis Cardinals (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY2luY2lubmF0aS1yZWRzLXZzLXN0LWxvdWlzLWNhcmRpbmFscy8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745880000000] Cincinnati Reds vs St. Louis Cardinals (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvY2luY2lubmF0aS1yZWRzLXZzLXN0LWxvdWlzLWNhcmRpbmFscy80
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745880000000] Cincinnati Reds vs St. Louis Cardinals (SD|ALPHA5|ENG) [DATE]
-watch/YWxwaGEvY2luY2lubmF0aS1yZWRzLXZzLXN0LWxvdWlzLWNhcmRpbmFscy81
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745881200000] Colorado Avalanche v Dallas Stars (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9jb2xvcmFkby1hdmFsYW5jaGUtdnMtZGFsbGFzLXN0YXJzLTE2Mjk0Mzk0NDkvMQ==
@@ -539,6 +503,12 @@ watch/YWxwaGEvbWlhbWktaGVhdC12cy1jbGV2ZWxhbmQtY2F2YWxpZXJzLzc=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745883000000] Miami Heat vs Cleveland Cavaliers (HD|ALPHA8|ENG) [DATE]
 watch/YWxwaGEvbWlhbWktaGVhdC12cy1jbGV2ZWxhbmQtY2F2YWxpZXJzLzg=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745883000000] Miami Heat vs Cleveland Cavaliers (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvbWlhbWktaGVhdC12cy1jbGV2ZWxhbmQtY2F2YWxpZXJzLWJhc2tldGJhbGwtNDQ3Nzc3LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745883000000] Miami Heat vs Cleveland Cavaliers (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvbWlhbWktaGVhdC12cy1jbGV2ZWxhbmQtY2F2YWxpZXJzLWJhc2tldGJhbGwtNDQ3Nzc3LzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745883000000] Miami Heat vs Cleveland Cavaliers (SD|ALPHA10|ENG) [DATE]
 watch/YWxwaGEvbWlhbWktaGVhdC12cy1jbGV2ZWxhbmQtY2F2YWxpZXJzLzEw
