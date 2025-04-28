@@ -258,9 +258,6 @@ watch/YWxwaGEvd3dlLW5ldHdvcmsvMg==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745857800000] Washington v UIC (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTg1NzgwMDAwMC13YXNoaW5ndG9uLXZzLXVpYy8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745862300000] Stjarnan v Vestmannaeyjar (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTg2MjMwMDAwMC1zdGphcm5hbi12ZXN0bWFubmFleWphci8x
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Barracas Central vs Unión (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYmFycmFjYXMtY2VudHJhbC12cy11bmlvbi1zYW50YS1mZS8x
 
@@ -381,13 +378,7 @@ watch/YnJhdm8vMTc0NTg2MzgwMDAwMC1oYXBvZWwtcmlzaG9uLWxlemlvbi13LW1hY2NhYmktYXNoZG
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865000000] Acassuso v San Martin Burzaco (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTg2NTAwMDAwMC1hY2Fzc3Vzby1zYW4tbWFydGluLWJ1cnphY28vMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865000000] Almeria v Racing Ferrol (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvYWxtZXJpYS12cy1yYWNpbmctZmVycm9sLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865000000] Almeria v Racing Ferrol (HD|ALPHA2|ESP) [DATE]
-watch/YWxwaGEvYWxtZXJpYS12cy1yYWNpbmctZmVycm9sLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865000000] Almeria v Racing Ferrol (HD|BRAVO1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865000000] Almeria v Racing Club Ferrol (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTg2NTAwMDAwMC1hbG1lcmlhLXJhY2luZy1jbHViLWZlcnJvbC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865000000] Almeria v Racing Ferrol (HD|DELTA1|) [DATE]
@@ -398,12 +389,6 @@ watch/ZGVsdGEvYWxtZXJpYS12cy1yYWNpbmctZmVycm9sLWZvb3RiYWxsLTEyMTc4OTYvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865000000] Almeria v Racing Ferrol (HD|DELTA3|) [DATE]
 watch/ZGVsdGEvYWxtZXJpYS12cy1yYWNpbmctZmVycm9sLWZvb3RiYWxsLTEyMTc4OTYvMw==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865000000] Almeria v Racing Ferrol (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvYWxtZXJpYS12cy1yYWNpbmctZmVycm9sLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865000000] Almeria v Racing Ferrol (SD|ALPHA4|ESP) [DATE]
-watch/YWxwaGEvYWxtZXJpYS12cy1yYWNpbmctZmVycm9sLzQ=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745865000000] Basket Napoli v Trapani (HD|ALPHA1|ITA) [DATE]
 watch/YWxwaGEvYmFza2V0LW5hcG9saS12cy10cmFwYW5pLzE=
@@ -628,10 +613,10 @@ watch/YnJhdm8vMTc0NTg2NjgwMDAwMC1tYWdhenluLXBnZS1la3N0cmFsaWdpLzE=
 watch/YnJhdm8vMTc0NTg2NjgwMDAwMC1wZ2EtcHJvZmVzc2lvbmFsLWNoYW1waW9uc2hpcC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745866800000] Sweden U18 v Czech Republic U18 (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTg2NjgwMDAwMC1zd2VkZW4tdTE4cmVwdWJsaWMtdTE4LWN6ZWNoLS8x
+watch/YnJhdm8vMTc0NTg2NjgwMDAwMC1zd2VkZW4tdTE4LWN6ZWNoLXJlcHVibGljLXUxOC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745866800000] Sweden U18 v Czech Republic U18 (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTg2NjgwMDAwMC1zd2VkZW4tdTE4LWN6ZWNoLXJlcHVibGljLXUxOC8x
+watch/YnJhdm8vMTc0NTg2NjgwMDAwMC1zd2VkZW4tdTE4cmVwdWJsaWMtdTE4LWN6ZWNoLS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745867700000] Casa Pia v Estoril (HD|ALPHA1|POR) [DATE]
 watch/YWxwaGEvY2FzYS1waWEtdnMtZXN0b3JpbC8x
@@ -657,23 +642,17 @@ watch/YnJhdm8vMTc0NTg2NzcwMDAwMC1mcmFtLWFmdHVyZWxkaW5nLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745867700000] Valur vs Víkingur Reykjavík (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTg2NzcwMDAwMC12YWx1ci12aWtpbmd1ci1yZXlramF2aWsvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745870400000] New York Mets v Washington Nationals (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9uZXcteW9yay1tZXRzLXZzLXdhc2hpbmd0b24tbmF0aW9uYWxzLTE2Mjk0Mzk0NDQvMQ==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745870700000] Washington Nationals vs New York Mets (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvd2FzaGluZ3Rvbi1uYXRpb25hbHMtdnMtbmV3LXlvcmstbWV0cy8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745870700000] Washington Nationals vs New York Mets (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd2FzaGluZ3Rvbi1uYXRpb25hbHMtdnMtbmV3LXlvcmstbWV0cy8y
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745870700000] Washington Nationals vs New York Mets (HD|ALPHA3|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745870700000] Washington Nationals vs New York Mets (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvd2FzaGluZ3Rvbi1uYXRpb25hbHMtdnMtbmV3LXlvcmstbWV0cy8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745870700000] Washington Nationals vs New York Mets (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvd2FzaGluZ3Rvbi1uYXRpb25hbHMtdnMtbmV3LXlvcmstbWV0cy8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745870700000] Washington Nationals vs New York Mets (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvd2FzaGluZ3Rvbi1uYXRpb25hbHMtdnMtbmV3LXlvcmstbWV0cy80
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745870700000] Washington Nationals vs New York Mets (SD|ALPHA5|ENG) [DATE]
-watch/YWxwaGEvd2FzaGluZ3Rvbi1uYXRpb25hbHMtdnMtbmV3LXlvcmstbWV0cy81
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745871300000] Godoy Cruz vs Atlético Tucumán (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvZ29kb3ktY3J1ei1hbnRvbmlvLXRvbWJhLXZzLWF0bGV0aWNvLXR1Y3VtYW4vMg==
