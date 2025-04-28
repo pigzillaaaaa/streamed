@@ -423,6 +423,15 @@ watch/YWxwaGEvYmFsdGltb3JlLW9yaW9sZXMtdnMtbmV3LXlvcmsteWFua2Vlcy8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745879700000] Baltimore Orioles vs New York Yankees (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYmFsdGltb3JlLW9yaW9sZXMtdnMtbmV3LXlvcmsteWFua2Vlcy8y
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745879700000] Baltimore Orioles vs New York Yankees (HD|BRAVO1|AWA) [DATE]
+watch/YnJhdm8vMTc0NTg3OTcwMDAwMC1uZXcteW9yay15YW5rZWVzLXZzLWJhbHRpbW9yZS1vcmlvbGVzLWF3YXktZmVlZC0vMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745879700000] Baltimore Orioles vs New York Yankees (HD|BRAVO2|HOM) [DATE]
+watch/YnJhdm8vMTc0NTg3OTcwMDAwMC1uZXcteW9yay15YW5rZWVzLXZzLWJhbHRpbW9yZS1vcmlvbGVzLWhvbWUtZmVlZC0vMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745879700000] Baltimore Orioles vs New York Yankees (HD|BRAVO3|SPA) [DATE]
+watch/YnJhdm8vMTc0NTg3OTcwMDAwMC1uZXcteW9yay15YW5rZWVzLXZzLWJhbHRpbW9yZS1vcmlvbGVzLXNwYW5pc2gtLzM=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745879700000] Baltimore Orioles vs New York Yankees (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvYmFsdGltb3JlLW9yaW9sZXMtdnMtbmV3LXlvcmsteWFua2Vlcy8z
 
@@ -434,6 +443,12 @@ watch/YWxwaGEvY2luY2lubmF0aS1yZWRzLXZzLXN0LWxvdWlzLWNhcmRpbmFscy8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745880000000] Cincinnati Reds vs St. Louis Cardinals (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY2luY2lubmF0aS1yZWRzLXZzLXN0LWxvdWlzLWNhcmRpbmFscy8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745880000000] Cincinnati Reds vs St. Louis Cardinals (HD|BRAVO1|AWA) [DATE]
+watch/YnJhdm8vMTc0NTg4MDAwMDAwMC1zdC1sb3Vpcy1jYXJkaW5hbHMtdnMtY2luY2lubmF0aS1yZWRzLWF3YXktZmVlZC0vMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745880000000] Cincinnati Reds vs St. Louis Cardinals (HD|BRAVO2|HOM) [DATE]
+watch/YnJhdm8vMTc0NTg4MDAwMDAwMC1zdC1sb3Vpcy1jYXJkaW5hbHMtdnMtY2luY2lubmF0aS1yZWRzLWhvbWUtZmVlZC0vMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745880000000] Cincinnati Reds vs St. Louis Cardinals (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvY2luY2lubmF0aS1yZWRzLXZzLXN0LWxvdWlzLWNhcmRpbmFscy8z
