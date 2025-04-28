@@ -468,9 +468,6 @@ watch/ZGVsdGEvYWFsYm9yZy12cy12ZWpsZS1mb290YmFsbC0xMzYyODA5LzM=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745859600000] Benfica B vs Mafra (HD|ALPHA1|POR) [DATE]
 watch/YWxwaGEvYmVuZmljYS1iLXZzLW1hZnJhLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745859600000] Benfica B vs Mafra (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTg1OTYwMDAwMC1iZW5maWNhLWItbWFmcmEvMQ==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745859600000] Benfica B vs Mafra (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvYmVuZmljYS1iLXZzLW1hZnJhLWZvb3RiYWxsLTEyMzE2OTUvMQ==
 
@@ -494,9 +491,6 @@ watch/YWxwaGEvY3NrYS0xOTQ4LXNvZmlhLXZzLWJvdGV2LXZyYXRzYS8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745859600000] Chaves vs Alverca (HD|ALPHA1|POR) [DATE]
 watch/YWxwaGEvY2hhdmVzLXZzLWFsdmVyY2EvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745859600000] Chaves vs Alverca (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTg1OTYwMDAwMC1jaGF2ZXMtYWx2ZXJjYS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745859600000] Chaves vs Alverca (SD|ALPHA2|POR) [DATE]
 watch/YWxwaGEvY2hhdmVzLXZzLWFsdmVyY2EvMg==
@@ -603,14 +597,11 @@ watch/YnJhdm8vMTc0NTg1OTYwMDAwMC1hc2FuZS1hYWxlc3VuZC8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745859840000] BC Lulea v Boras (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTg1OTg0MDAwMC1iYy1sdWxlYS1ib3Jhcy8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745860200000] Goteborg v GAIS (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvZ290ZWJvcmctdnMtZ2Fpcy8x
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745860200000] Goteborg v GAIS (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTg2MDIwMDAwMC1nb3RlYm9yZy1nYWlzLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745860200000] Goteborg v GAIS (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvZ290ZWJvcmctdnMtZ2Fpcy8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745860200000] Goteborg v GAIS (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvZ290ZWJvcmctdnMtZ2Fpcy8z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745860500000] Sibenik v Gorica (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTg2MDUwMDAwMC1zaWJlbmlrLWdvcmljYS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745863200000] Barracas Central vs Unión (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYmFycmFjYXMtY2VudHJhbC12cy11bmlvbi1zYW50YS1mZS8y
@@ -684,24 +675,6 @@ watch/YWxwaGEvbHVsZWEtdnMtYnJ5bmFzLzI=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745863200000] Lulea v Brynas (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvbHVsZWEtdnMtYnJ5bmFzLzM=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745863200000] Manolo Santana: Aryna Sabalenka v Peyton Stearns (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYXJ5bmEtc2FiYWxlbmthLXZzLXBleXRvbi1zdGVhcm5zLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745863200000] Manolo Santana: Aryna Sabalenka v Peyton Stearns (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYXJ5bmEtc2FiYWxlbmthLXZzLXBleXRvbi1zdGVhcm5zLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745863200000] Manolo Santana: Aryna Sabalenka v Peyton Stearns (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYXJ5bmEtc2FiYWxlbmthLXZzLXBleXRvbi1zdGVhcm5zLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745863200000] Manolo Santana: Stefanos Tsitsipas v Lorenzo Musetti (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtc3RlZmFub3MtdHNpdHNpcGFzLXZzLWxvcmVuem8tbXVzZXR0aS8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745863200000] Manolo Santana: Stefanos Tsitsipas v Lorenzo Musetti (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtc3RlZmFub3MtdHNpdHNpcGFzLXZzLWxvcmVuem8tbXVzZXR0aS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745863200000] Manolo Santana: Stefanos Tsitsipas v Lorenzo Musetti (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtc3RlZmFub3MtdHNpdHNpcGFzLXZzLWxvcmVuem8tbXVzZXR0aS8z
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745863200000] Mega Basket v Studentski Centar (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbWVnYS1iYXNrZXQtdnMtc3R1ZGVudHNraS1jZW50YXIvMQ==
 
@@ -768,15 +741,6 @@ watch/YWxwaGEvYWxtZXJpYS12cy1yYWNpbmctZmVycm9sLzQ=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865000000] Almeria v Racing Ferrol (SD|ALPHA5|ESP) [DATE]
 watch/YWxwaGEvYWxtZXJpYS12cy1yYWNpbmctZmVycm9sLzU=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745865000000] Arantxa Sanchez: Alexde Minaur v Denis Shapovalov (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWFsZXhkZS1taW5hdXItdnMtZGVuaXMtc2hhcG92YWxvdi8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745865000000] Arantxa Sanchez: Alexde Minaur v Denis Shapovalov (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWFsZXhkZS1taW5hdXItdnMtZGVuaXMtc2hhcG92YWxvdi8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745865000000] Arantxa Sanchez: Alexde Minaur v Denis Shapovalov (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWFsZXhkZS1taW5hdXItdnMtZGVuaXMtc2hhcG92YWxvdi8z
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745865000000] Basket Napoli v Trapani (HD|ALPHA2|ITA) [DATE]
 watch/YWxwaGEvYmFza2V0LW5hcG9saS12cy10cmFwYW5pLzI=
 
@@ -785,15 +749,6 @@ watch/YWxwaGEvYmFza2V0LW5hcG9saS12cy10cmFwYW5pLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745865000000] Basket Napoli v Trapani (SD|ALPHA3|ITA) [DATE]
 watch/YWxwaGEvYmFza2V0LW5hcG9saS12cy10cmFwYW5pLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745865900000] Court 4: Yuki Bhambri/Robert Galloway v Harri Heliovaara/Henry Patten (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNC15dWtpLWJoYW1icmktcm9iZXJ0LWdhbGxvd2F5LXZzLWhhcnJpLWhlbGlvdmFhcmEtaGVucnktcGF0dGVuLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745865900000] Court 4: Yuki Bhambri/Robert Galloway v Harri Heliovaara/Henry Patten (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNC15dWtpLWJoYW1icmktcm9iZXJ0LWdhbGxvd2F5LXZzLWhhcnJpLWhlbGlvdmFhcmEtaGVucnktcGF0dGVuLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745865900000] Court 4: Yuki Bhambri/Robert Galloway v Harri Heliovaara/Henry Patten (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNC15dWtpLWJoYW1icmktcm9iZXJ0LWdhbGxvd2F5LXZzLWhhcnJpLWhlbGlvdmFhcmEtaGVucnktcGF0dGVuLzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745865900000] Lazio v Parma (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbGF6aW8tdnMtcGFybWEvMg==
@@ -953,15 +908,6 @@ watch/YWxwaGEvY2FzYS1waWEtdnMtZXN0b3JpbC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745867700000] Casa Pia v Estoril (SD|ALPHA3|POR) [DATE]
 watch/YWxwaGEvY2FzYS1waWEtdnMtZXN0b3JpbC8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745868600000] Manolo Santana: Elina Svitolina v Maria Sakkari (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZWxpbmEtc3ZpdG9saW5hLXZzLW1hcmlhLXNha2thcmkvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745868600000] Manolo Santana: Elina Svitolina v Maria Sakkari (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZWxpbmEtc3ZpdG9saW5hLXZzLW1hcmlhLXNha2thcmkvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745868600000] Manolo Santana: Elina Svitolina v Maria Sakkari (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZWxpbmEtc3ZpdG9saW5hLXZzLW1hcmlhLXNha2thcmkvMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745870400000] New York Mets v Washington Nationals (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9uZXcteW9yay1tZXRzLXZzLXdhc2hpbmd0b24tbmF0aW9uYWxzLTE2Mjk0Mzk0NDQvMQ==
@@ -1659,6 +1605,15 @@ watch/YWxwaGEvaW5kaWFuLXBhbnRoZXJzLXZzLWNhbnRlcmJ1cnktcmFtcy8y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745910000000] Indian Panthers vs Canterbury Rams (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvaW5kaWFuLXBhbnRoZXJzLXZzLWNhbnRlcmJ1cnktcmFtcy8z
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745917200000] Arantxa Sanchez: Alexde Minaur v Denis Shapovalov (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWFsZXhkZS1taW5hdXItdnMtZGVuaXMtc2hhcG92YWxvdi8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745917200000] Arantxa Sanchez: Alexde Minaur v Denis Shapovalov (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWFsZXhkZS1taW5hdXItdnMtZGVuaXMtc2hhcG92YWxvdi8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745917200000] Arantxa Sanchez: Alexde Minaur v Denis Shapovalov (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWFsZXhkZS1taW5hdXItdnMtZGVuaXMtc2hhcG92YWxvdi8z
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745917200000] Arantxa Sanchez: Cameron Norrie v Gabriel Diallo (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWNhbWVyb24tbm9ycmllLXZzLWdhYnJpZWwtZGlhbGxvLzI=
 
@@ -1737,6 +1692,15 @@ watch/YWxwaGEvY291cnQtNC10aGVvLWFycmliYWdlLWZyYW5jaXNjby1jZXJ1bmRvbG8tdnMtbWF4aW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745917200000] Court 4: Theo Arribage/Francisco Cerundolo v Maximo Gonzalez/Andres Molteni (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNC10aGVvLWFycmliYWdlLWZyYW5jaXNjby1jZXJ1bmRvbG8tdnMtbWF4aW1vLWdvbnphbGV6LWFuZHJlcy1tb2x0ZW5pLzM=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745917200000] Court 4: Yuki Bhambri/Robert Galloway v Harri Heliovaara/Henry Patten (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNC15dWtpLWJoYW1icmktcm9iZXJ0LWdhbGxvd2F5LXZzLWhhcnJpLWhlbGlvdmFhcmEtaGVucnktcGF0dGVuLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745917200000] Court 4: Yuki Bhambri/Robert Galloway v Harri Heliovaara/Henry Patten (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNC15dWtpLWJoYW1icmktcm9iZXJ0LWdhbGxvd2F5LXZzLWhhcnJpLWhlbGlvdmFhcmEtaGVucnktcGF0dGVuLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745917200000] Court 4: Yuki Bhambri/Robert Galloway v Harri Heliovaara/Henry Patten (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNC15dWtpLWJoYW1icmktcm9iZXJ0LWdhbGxvd2F5LXZzLWhhcnJpLWhlbGlvdmFhcmEtaGVucnktcGF0dGVuLzM=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745917200000] Court 5: Marcelo Arevalo Gonzalez/Mate Pavic v Rafael Matos/Marcelo Melo (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNS1tYXJjZWxvLWFyZXZhbG8tZ29uemFsZXotbWF0ZS1wYXZpYy12cy1yYWZhZWwtbWF0b3MtbWFyY2Vsby1tZWxvLzI=
 
@@ -1794,6 +1758,15 @@ watch/YWxwaGEvZnVrdW9rYS1zLWhhd2tzLXZzLW5pcHBvbi1oYW0tZmlnaHRlcnMvMw==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745917200000] Madrid Day 7 Match 1-3 (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9tYWRyaWQtZGF5LTctbWF0Y2gtMS0zLTE2Mjk0Mzk0NTYvMQ==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745917200000] Manolo Santana: Aryna Sabalenka v Peyton Stearns (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYXJ5bmEtc2FiYWxlbmthLXZzLXBleXRvbi1zdGVhcm5zLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745917200000] Manolo Santana: Aryna Sabalenka v Peyton Stearns (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYXJ5bmEtc2FiYWxlbmthLXZzLXBleXRvbi1zdGVhcm5zLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745917200000] Manolo Santana: Aryna Sabalenka v Peyton Stearns (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYXJ5bmEtc2FiYWxlbmthLXZzLXBleXRvbi1zdGVhcm5zLzM=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745917200000] Manolo Santana: Diana Shnaider v Iga Swiatek (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZGlhbmEtc2huYWlkZXItdnMtaWdhLXN3aWF0ZWsvMg==
 
@@ -1802,6 +1775,24 @@ watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZGlhbmEtc2huYWlkZXItdnMtaWdhLXN3aWF0ZWsvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745917200000] Manolo Santana: Diana Shnaider v Iga Swiatek (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZGlhbmEtc2huYWlkZXItdnMtaWdhLXN3aWF0ZWsvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745917200000] Manolo Santana: Elina Svitolina v Maria Sakkari (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZWxpbmEtc3ZpdG9saW5hLXZzLW1hcmlhLXNha2thcmkvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745917200000] Manolo Santana: Elina Svitolina v Maria Sakkari (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZWxpbmEtc3ZpdG9saW5hLXZzLW1hcmlhLXNha2thcmkvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745917200000] Manolo Santana: Elina Svitolina v Maria Sakkari (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZWxpbmEtc3ZpdG9saW5hLXZzLW1hcmlhLXNha2thcmkvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745917200000] Manolo Santana: Stefanos Tsitsipas v Lorenzo Musetti (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtc3RlZmFub3MtdHNpdHNpcGFzLXZzLWxvcmVuem8tbXVzZXR0aS8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745917200000] Manolo Santana: Stefanos Tsitsipas v Lorenzo Musetti (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtc3RlZmFub3MtdHNpdHNpcGFzLXZzLWxvcmVuem8tbXVzZXR0aS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745917200000] Manolo Santana: Stefanos Tsitsipas v Lorenzo Musetti (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtc3RlZmFub3MtdHNpdHNpcGFzLXZzLWxvcmVuem8tbXVzZXR0aS8z
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745926500000] Shanxi Zhongyu v Beijing (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvc2hhbnhpLXpob25neXUtdnMtYmVpamluZy8x
