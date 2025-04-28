@@ -255,15 +255,6 @@ watch/YWxwaGEvd3dlLW5ldHdvcmsvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/live-logo.png" group-title="24/7",[TIME|0] WWE Network (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd3dlLW5ldHdvcmsvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745857800000] Udinese vs Bologna (HD|FOXTROT1|) [DATE]
-watch/Zm94dHJvdC91ZGluZXNlLXZzLWJvbG9nbmEtMjAyNTA0MjcxMjMwLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745857800000] Udinese vs Bologna (HD|FOXTROT2|) [DATE]
-watch/Zm94dHJvdC91ZGluZXNlLXZzLWJvbG9nbmEtMjAyNTA0MjcxMjMwLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745857800000] Udinese vs Bologna (HD|FOXTROT3|) [DATE]
-watch/Zm94dHJvdC91ZGluZXNlLXZzLWJvbG9nbmEtMjAyNTA0MjcxMjMwLzM=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745857800000] Washington v UIC (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTg1NzgwMDAwMC13YXNoaW5ndG9uLXZzLXVpYy8x
 
@@ -637,10 +628,10 @@ watch/YnJhdm8vMTc0NTg2NjgwMDAwMC1tYWdhenluLXBnZS1la3N0cmFsaWdpLzE=
 watch/YnJhdm8vMTc0NTg2NjgwMDAwMC1wZ2EtcHJvZmVzc2lvbmFsLWNoYW1waW9uc2hpcC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745866800000] Sweden U18 v Czech Republic U18 (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTg2NjgwMDAwMC1zd2VkZW4tdTE4LWN6ZWNoLXJlcHVibGljLXUxOC8x
+watch/YnJhdm8vMTc0NTg2NjgwMDAwMC1zd2VkZW4tdTE4cmVwdWJsaWMtdTE4LWN6ZWNoLS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745866800000] Sweden U18 v Czech Republic U18 (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTg2NjgwMDAwMC1zd2VkZW4tdTE4cmVwdWJsaWMtdTE4LWN6ZWNoLS8x
+watch/YnJhdm8vMTc0NTg2NjgwMDAwMC1zd2VkZW4tdTE4LWN6ZWNoLXJlcHVibGljLXUxOC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745867700000] Casa Pia v Estoril (HD|ALPHA1|POR) [DATE]
 watch/YWxwaGEvY2FzYS1waWEtdnMtZXN0b3JpbC8x
