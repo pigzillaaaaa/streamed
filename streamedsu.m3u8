@@ -316,13 +316,13 @@ watch/YnJhdm8vMTc0NTc4NDYwMDAwMC1taWFtaS1tYXJsaW5zLXZzLXNlYXR0bGUtbWFyaW5lcnMtYX
 watch/YnJhdm8vMTc0NTc4NDYwMDAwMC1taWFtaS1tYXJsaW5zLXZzLXNlYXR0bGUtbWFyaW5lcnMtaG9tZS1mZWVkLS8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745785800000] Zurich Classic (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTc4NTgwMDAwMC16dXJpY2gtY2xhc3NpYy8x
+watch/YnJhdm8vMTc0NTc4NTgwMDAwMC16dXJpY2gtY2xhc3NpYy1mZWF0dXJlZC1ncm91cC0xLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745785800000] Zurich Classic (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTc4NTgwMDAwMC16dXJpY2gtY2xhc3NpYy1mZWF0dXJlZC1ncm91cC0yLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745785800000] Zurich Classic (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTc4NTgwMDAwMC16dXJpY2gtY2xhc3NpYy1mZWF0dXJlZC1ncm91cC0xLzE=
+watch/YnJhdm8vMTc0NTc4NTgwMDAwMC16dXJpY2gtY2xhc3NpYy8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745786100000] New York Yankees vs Toronto Blue Jays (HD|BRAVO1|AWA) [DATE]
 watch/YnJhdm8vMTc0NTc4NjEwMDAwMC1nYW1lLTItdG9yb250by1ibHVlLWpheXMtdnMtbmV3LXlvcmsteWFua2Vlcy1hd2F5LWZlZWQtLzE=
@@ -390,47 +390,29 @@ watch/YWxwaGEvY291cnQtNC1zaW1vbmUtYm9sZWxsaS1hbmRyZWEtdmF2YXNzb3JpLXZzLWpvZS1zYW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745838000000] Court 4: Simone Bolelli/Andrea Vavassori v Joe Salisbury/Neal Skupski (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNC1zaW1vbmUtYm9sZWxsaS1hbmRyZWEtdmF2YXNzb3JpLXZzLWpvZS1zYWxpc2J1cnktbmVhbC1za3Vwc2tpLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745841600000] Arantxa Sanchez: Cameron Norrie v Gabriel Diallo (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWNhbWVyb24tbm9ycmllLXZzLWdhYnJpZWwtZGlhbGxvLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745841600000] Arantxa Sanchez: Cameron Norrie v Gabriel Diallo (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWNhbWVyb24tbm9ycmllLXZzLWdhYnJpZWwtZGlhbGxvLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745841600000] Arantxa Sanchez: Cameron Norrie v Gabriel Diallo (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWNhbWVyb24tbm9ycmllLXZzLWdhYnJpZWwtZGlhbGxvLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745841600000] Court 3: Madison Keys v Donna Vekic (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1tYWRpc29uLWtleXMtdnMtZG9ubmEtdmVraWMvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745841600000] Court 3: Madison Keys v Donna Vekic (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1tYWRpc29uLWtleXMtdnMtZG9ubmEtdmVraWMvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745841600000] Court 3: Madison Keys v Donna Vekic (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1tYWRpc29uLWtleXMtdnMtZG9ubmEtdmVraWMvMw==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745841600000] Court 5: Romain Arneodo/Manuel Guinard v Kevin Krawietz/Tim Puetz (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNS1yb21haW4tYXJuZW9kby1tYW51ZWwtZ3VpbmFyZC12cy1rZXZpbi1rcmF3aWV0ei10aW0tcHVldHovMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745841600000] Court 5: Romain Arneodo/Manuel Guinard v Kevin Krawietz/Tim Puetz (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNS1yb21haW4tYXJuZW9kby1tYW51ZWwtZ3VpbmFyZC12cy1rZXZpbi1rcmF3aWV0ei10aW0tcHVldHovMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745841600000] Court 5: Romain Arneodo/Manuel Guinard v Kevin Krawietz/Tim Puetz (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNS1yb21haW4tYXJuZW9kby1tYW51ZWwtZ3VpbmFyZC12cy1rZXZpbi1rcmF3aWV0ei10aW0tcHVldHovMw==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745841600000] Manolo Santana: Diana Shnaider v Iga Swiatek (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZGlhbmEtc2huYWlkZXItdnMtaWdhLXN3aWF0ZWsvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745841600000] Manolo Santana: Diana Shnaider v Iga Swiatek (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZGlhbmEtc2huYWlkZXItdnMtaWdhLXN3aWF0ZWsvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745841600000] Manolo Santana: Diana Shnaider v Iga Swiatek (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZGlhbmEtc2huYWlkZXItdnMtaWdhLXN3aWF0ZWsvMw==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1745841600000] WORLD: World Championship (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvd29ybGQtd29ybGQtY2hhbXBpb25zaGlwLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1745841600000] WORLD: World Championship (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd29ybGQtd29ybGQtY2hhbXBpb25zaGlwLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745843400000] Arantxa Sanchez: Cameron Norrie v Gabriel Diallo (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWNhbWVyb24tbm9ycmllLXZzLWdhYnJpZWwtZGlhbGxvLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745843400000] Arantxa Sanchez: Cameron Norrie v Gabriel Diallo (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWNhbWVyb24tbm9ycmllLXZzLWdhYnJpZWwtZGlhbGxvLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745843400000] Arantxa Sanchez: Cameron Norrie v Gabriel Diallo (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWNhbWVyb24tbm9ycmllLXZzLWdhYnJpZWwtZGlhbGxvLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745843400000] Court 3: Madison Keys v Donna Vekic (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY291cnQtMy1tYWRpc29uLWtleXMtdnMtZG9ubmEtdmVraWMvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745843400000] Court 3: Madison Keys v Donna Vekic (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtMy1tYWRpc29uLWtleXMtdnMtZG9ubmEtdmVraWMvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745843400000] Court 3: Madison Keys v Donna Vekic (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvY291cnQtMy1tYWRpc29uLWtleXMtdnMtZG9ubmEtdmVraWMvMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745843400000] Court 6: Andre Goransson/Sem Verbeek v Jakub Mensik/Adam Pavlasek (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNi1hbmRyZS1nb3JhbnNzb24tc2VtLXZlcmJlZWstdnMtamFrdWItbWVuc2lrLWFkYW0tcGF2bGFzZWsvMg==
@@ -440,6 +422,15 @@ watch/YWxwaGEvY291cnQtNi1hbmRyZS1nb3JhbnNzb24tc2VtLXZlcmJlZWstdnMtamFrdWItbWVuc2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745843400000] Court 6: Andre Goransson/Sem Verbeek v Jakub Mensik/Adam Pavlasek (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNi1hbmRyZS1nb3JhbnNzb24tc2VtLXZlcmJlZWstdnMtamFrdWItbWVuc2lrLWFkYW0tcGF2bGFzZWsvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745843400000] Manolo Santana: Diana Shnaider v Iga Swiatek (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZGlhbmEtc2huYWlkZXItdnMtaWdhLXN3aWF0ZWsvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745843400000] Manolo Santana: Diana Shnaider v Iga Swiatek (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZGlhbmEtc2huYWlkZXItdnMtaWdhLXN3aWF0ZWsvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745843400000] Manolo Santana: Diana Shnaider v Iga Swiatek (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZGlhbmEtc2huYWlkZXItdnMtaWdhLXN3aWF0ZWsvMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745844300000] Arantxa Sanchez: Frances Tiafoe v Alexandre Muller (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWZyYW5jZXMtdGlhZm9lLXZzLWFsZXhhbmRyZS1tdWxsZXIvMg==
