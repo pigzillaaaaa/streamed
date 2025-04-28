@@ -288,6 +288,9 @@ watch/YWxwaGEvcmFqYXN0aGFuLXJveWFscy12cy1ndWphcmF0LXRpdGFucy8z
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1745848800000] Rajasthan Royals vs Gujarat Titans (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvcmFqYXN0aGFuLXJveWFscy12cy1ndWphcmF0LXRpdGFucy80
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745848800000] Tractor Chelyabinsk v Dynamo Moscow (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTg0ODgwMDAwMC10cmFjdG9yLWNoZWx5YWJpbnNrLWR5bmFtby1tb3Njb3cvMQ==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745848800000] Tractor Chelyabinsk v Dynamo Moscow (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdHJhY3Rvci1jaGVseWFiaW5zay12cy1keW5hbW8tbW9zY293LzE=
 
@@ -318,6 +321,9 @@ watch/YWxwaGEvbGV2YWRpYWtvcy12cy1sYW1pYS8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745852400000] Levadiakos v Lamia (HD|ALPHA2|ΕΛΛ) [DATE]
 watch/YWxwaGEvbGV2YWRpYWtvcy12cy1sYW1pYS8y
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745852400000] Levadiakos v Lamia (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTg1MjQwMDAwMC1sZXZhZGlha29zLWxhbWlhLzE=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745852400000] Levadiakos v Lamia (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvbGV2YWRpYWtvcy12cy1sYW1pYS1mb290YmFsbC0xMzYwNzMyLzE=
 
@@ -347,4 +353,16 @@ watch/ZGVsdGEvcGFuZXRvbGlrb3MtdnMta2FsbGl0aGVhLWZvb3RiYWxsLTEzNjA3MzMvMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745852400000] Panetolikos vs Kallithea (SD|ALPHA2|ΕΛΛ) [DATE]
 watch/YWxwaGEvcGFuZXRvbGlrb3MtdnMtYXRoZW5zLWthbGxpdGhlYS8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745854200000] Bravo v Mura (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTg1NDIwMDAwMC1icmF2by1tdXJhLzE=
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1745854200000] Hurrikaani v Akaa (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTg1NDIwMDAwMC1odXJyaWthYW5pLWFrYWEvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745854200000] Klubi 04 vs Lahti (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTg1NDIwMDAwMC1rbHViaS0wNC1sYWh0aS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745854800000] Ironi Eilat v Migdal Haemek (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTg1NDgwMDAwMC1pcm9uaS1laWxhdC1taWdkYWwtaGFlbWVrLzE=
 
