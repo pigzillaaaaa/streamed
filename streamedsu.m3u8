@@ -435,14 +435,11 @@ watch/YWxwaGEvZ2lsLXZpY2VudGUtdTIzLXZzLWVzdG9yaWwtdTIzLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745935200000] Gil Vicente U23 v Estoril U23 (SD|ALPHA2|POR) [DATE]
 watch/YWxwaGEvZ2lsLXZpY2VudGUtdTIzLXZzLWVzdG9yaWwtdTIzLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745935200000] Sporting CP U23 v Estrela U23 (HD|ALPHA2|POR) [DATE]
-watch/YWxwaGEvc3BvcnRpbmctY3AtdTIzLXZzLWVzdHJlbGEtdTIzLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745935200000] Sporting CP U23 v Estrela U23 (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745935200000] Sporting CP U23 v Estrela U23 (HD|ALPHA1|POR) [DATE]
 watch/YWxwaGEvc3BvcnRpbmctY3AtdTIzLXZzLWVzdHJlbGEtdTIzLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745935200000] Sporting CP U23 v Estrela U23 (SD|ALPHA3|POR) [DATE]
-watch/YWxwaGEvc3BvcnRpbmctY3AtdTIzLXZzLWVzdHJlbGEtdTIzLzM=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745935200000] Sporting CP U23 v Estrela U23 (SD|ALPHA2|POR) [DATE]
+watch/YWxwaGEvc3BvcnRpbmctY3AtdTIzLXZzLWVzdHJlbGEtdTIzLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745936100000] Court 4: Moyuka Uchijima v Ekaterina Alexandrova (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNC1tb3l1a2EtdWNoaWppbWEtdnMtZWthdGVyaW5hLWFsZXhhbmRyb3ZhLzI=
