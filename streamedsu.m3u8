@@ -294,12 +294,6 @@ watch/YnJhdm8vMTc0NTk0NDIwMDAwMC1saXRodWFuaWEtZXN0b25pYS8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745944200000] Lokomotiv Yaroslavl v Salavat Ufa (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTk0NDIwMDAwMC1sb2tvbW90aXYteWFyb3NsYXZsLXNhbGF2YXQtdWZhLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745944200000] Lokomotiv Yaroslavl v Salavat Ufa (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbG9rb21vdGl2LXlhcm9zbGF2bC12cy1zYWxhdmF0LXVmYS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745944200000] Lokomotiv Yaroslavl v Salavat Ufa (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbG9rb21vdGl2LXlhcm9zbGF2bC12cy1zYWxhdmF0LXVmYS8y
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745944500000] Court 4: Victoria Azarenka/Ashlyn Krueger v Coco Gauff/Robin Montgomery (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNC12aWN0b3JpYS1hemFyZW5rYS1hc2hseW4ta3J1ZWdlci12cy1jb2NvLWdhdWZmLXJvYmluLW1vbnRnb21lcnkvMQ==
 
@@ -308,12 +302,6 @@ watch/YWxwaGEvY291cnQtNC12aWN0b3JpYS1hemFyZW5rYS1hc2hseW4ta3J1ZWdlci12cy1jb2NvLW
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745945100000] ATP Madrid v Court 6  Cobolli/Musetti - Mektic/Venus (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTk0NTEwMDAwMC1hdHAtbWFkcmlkLWNvdXJ0LTYtY29ib2xsaS1tdXNldHRpLW1la3RpYy12ZW51cy8x
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1745945100000] THW Kiel v Limoges (HD|ALPHA1|DEU) [DATE]
-watch/YWxwaGEvdGh3LWtpZWwtdnMtbGltb2dlcy8x
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1745945100000] THW Kiel v Limoges (SD|ALPHA2|DEU) [DATE]
-watch/YWxwaGEvdGh3LWtpZWwtdnMtbGltb2dlcy8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745945400000] Court 5: Theo Arribage/Francisco Cerundolo v Maximo Gonzalez/Andres Molteni - cancelled (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNS10aGVvLWFycmliYWdlLWZyYW5jaXNjby1jZXJ1bmRvbG8tdnMtbWF4aW1vLWdvbnphbGV6LWFuZHJlcy1tb2x0ZW5pLWNhbmNlbGxlZC8x
@@ -471,6 +459,9 @@ watch/YnJhdm8vMTc0NTk1MTQwMDAwMC1wZXJ1Z2lhLXBpYWNlbnphLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745952300000] Burton vs Wigan (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYnVydG9uLWFsYmlvbi12cy13aWdhbi1hdGhsZXRpYy8x
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745952300000] Burton vs Wigan (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTk1MjMwMDAwMC1idXJ0b24tYWxiaW9uLXdpZ2FuLzE=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745952300000] Burton vs Wigan (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvYnVydG9uLWFsYmlvbi12cy13aWdhbi1mb290YmFsbC0xMjE2ODQxLzE=
 
@@ -492,6 +483,9 @@ watch/YWxwaGEvc29saWh1bGwtbW9vcnMtdnMtcm9jaGRhbGUvMg==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745952300000] Solihull Moors vs Rochdale (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvc29saWh1bGwtbW9vcnMtdnMtcm9jaGRhbGUtZm9vdGJhbGwtMTIzNzcyMC8x
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745952300000] Solihull Moors vs Rochdale (HD|ECHO1|NL) [DATE]
+watch/ZWNoby9zb2xpaHVsbC1tb29ycy1yb2NoZGFsZS0yNjg4Ny8x
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745952300000] Solihull Moors vs Rochdale (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvc29saWh1bGwtbW9vcnMtdnMtcm9jaGRhbGUvMQ==
 
@@ -500,9 +494,6 @@ watch/YWxwaGEvc29saWh1bGwtbW9vcnMtdnMtcm9jaGRhbGUvMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745953200000] 2025 PGA Professional Championship Third Round (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvMjAyNS1wZ2EtcHJvZmVzc2lvbmFsLWNoYW1waW9uc2hpcC10aGlyZC1yb3VuZC8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745953200000] 2025 PGA Professional Championship Third Round (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS8yMDI1LXBnYS1wcm9mZXNzaW9uYWwtY2hhbXBpb25zaGlwLXRoaXJkLXJvdW5kLTE2Mjk0NDE2NTgvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745953200000] 2025 PGA Professional Championship Third Round (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvMjAyNS1wZ2EtcHJvZmVzc2lvbmFsLWNoYW1waW9uc2hpcC10aGlyZC1yb3VuZC8y
@@ -534,12 +525,6 @@ watch/YWxwaGEvYXJzZW5hbC12cy1wYXJpcy1zYWludC1nZXJtYWluLzg=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745953200000] Arsenal vs Paris SG (HD|ALPHA9|ΕΛΛ) [DATE]
 watch/YWxwaGEvYXJzZW5hbC12cy1wYXJpcy1zYWludC1nZXJtYWluLzk=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745953200000] Arsenal vs Paris SG (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9hcnNlbmFsLXZzLXBhcmlzLXNhaW50LWdlcm1haW4tMTM3MTczMC8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745953200000] Arsenal vs Paris SG (HD|CHARLIE2|ENG) [DATE]
-watch/Y2hhcmxpZS9hcnNlbmFsLXZzLXBhcmlzLXNhaW50LWdlcm1haW4tMTM3MTczMC8y
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745953200000] Arsenal vs Paris SG (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvYXJzZW5hbC12cy1wYXJpcy1zYWludC1nZXJtYWluLWZvb3RiYWxsLTEzNzE3MzAvMQ==
 
@@ -554,6 +539,30 @@ watch/ZGVsdGEvYXJzZW5hbC12cy1wYXJpcy1zYWludC1nZXJtYWluLWZvb3RiYWxsLTEzNzE3MzAvNA
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745953200000] Arsenal vs Paris SG (HD|DELTA5|) [DATE]
 watch/ZGVsdGEvYXJzZW5hbC12cy1wYXJpcy1zYWludC1nZXJtYWluLWZvb3RiYWxsLTEzNzE3MzAvNQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745953200000] Arsenal vs Paris SG (HD|ECHO1|PRE) [DATE]
+watch/ZWNoby9hcnNlbmFsLXBhcmlzLXNhaW50LWdlcm1haW4tMjczODMvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745953200000] Arsenal vs Paris SG (HD|ECHO2|CBS) [DATE]
+watch/ZWNoby9hcnNlbmFsLXBhcmlzLXNhaW50LWdlcm1haW4tMjczODMvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745953200000] Arsenal vs Paris SG (HD|ECHO3|POR) [DATE]
+watch/ZWNoby9hcnNlbmFsLXBhcmlzLXNhaW50LWdlcm1haW4tMjczODMvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745953200000] Arsenal vs Paris SG (HD|ECHO4|PRE) [DATE]
+watch/ZWNoby9hcnNlbmFsLXBhcmlzLXNhaW50LWdlcm1haW4tMjczODMvNA==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745953200000] Arsenal vs Paris SG (HD|ECHO5|CBS) [DATE]
+watch/ZWNoby9hcnNlbmFsLXBhcmlzLXNhaW50LWdlcm1haW4tMjczODMvNQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745953200000] Arsenal vs Paris SG (HD|FOXTROT1|) [DATE]
+watch/Zm94dHJvdC9hcnNlbmFsLXZzLXBhcmlzLXNhaW50LWdlcm1haW4tMjAyNTA0MjkxODMwLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745953200000] Arsenal vs Paris SG (HD|FOXTROT2|) [DATE]
+watch/Zm94dHJvdC9hcnNlbmFsLXZzLXBhcmlzLXNhaW50LWdlcm1haW4tMjAyNTA0MjkxODMwLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745953200000] Arsenal vs Paris SG (HD|FOXTROT3|) [DATE]
+watch/Zm94dHJvdC9hcnNlbmFsLXZzLXBhcmlzLXNhaW50LWdlcm1haW4tMjAyNTA0MjkxODMwLzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745953200000] Arsenal vs Paris SG (SD|ALPHA10|ENG) [DATE]
 watch/YWxwaGEvYXJzZW5hbC12cy1wYXJpcy1zYWludC1nZXJtYWluLzEw
@@ -593,9 +602,6 @@ watch/YWxwaGEvcmVhbC1tYWRyaWQtdnMtb2x5bXBpYWNvcy8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745953200000] Real Madrid v Olympiacos (HD|ALPHA3|ITA) [DATE]
 watch/YWxwaGEvcmVhbC1tYWRyaWQtdnMtb2x5bXBpYWNvcy8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745953200000] Real Madrid v Olympiacos (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9yZWFsLW1hZHJpZC12cy1vbHltcGlhY29zLXBpcmFldXMtMTYyOTQ0MTY1Ny8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745953200000] Real Madrid v Olympiacos (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvcmVhbC1tYWRyaWQtdnMtb2x5bXBpYWNvcy1iYXNrZXRiYWxsLTQ0NzkyMC8x
