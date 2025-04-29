@@ -519,9 +519,6 @@ watch/YnJhdm8vMTc0NTk2NzYwMDAwMC1pbGxpbm9pcy1zdGF0ZS12cy1pb3dhLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745967600000] Illinois v Bradley (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTk2NzYwMDAwMC1pbGxpbm9pcy12cy1icmFkbGV5LzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745967600000] Indiana v Evansville (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTk2NzYwMDAwMC1pbmRpYW5hLXZzLWV2YW5zdmlsbGUvMQ==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745967600000] Kansas City Royals v Tampa Bay Rays (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9rYW5zYXMtY2l0eS1yb3lhbHMtdnMtdGFtcGEtYmF5LXJheXMtMTYyOTQ0MTY2NS8x
 
@@ -530,9 +527,6 @@ watch/YnJhdm8vMTc0NTk2NzYwMDAwMC1rYW5zYXMtc3RhdGUtdnMtbmVicmFza2EvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745967600000] North Dakota State v Minnesota (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTk2NzYwMDAwMC1ub3J0aC1kYWtvdGEtc3RhdGUtdnMtbWlubmVzb3RhLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745967600000] Oklahoma State v Oral Roberts (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTk2NzYwMDAwMC1va2xhaG9tYS1zdGF0ZS12cy1vcmFsLXJvYmVydHMvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745967600000] Ottawa Senators v Toronto Maple Leafs (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9vdHRhd2Etc2VuYXRvcnMtdnMtdG9yb250by1tYXBsZS1sZWFmcy0xNjI5NDQxNjUzLzE=
@@ -693,12 +687,6 @@ watch/YWxwaGEvY2Fyb2xpbmEtaHVycmljYW5lcy12cy1uZXctamVyc2V5LWRldmlscy82
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745969400000] Carolina Hurricanes vs New Jersey Devils (SD|ALPHA7|ENG) [DATE]
 watch/YWxwaGEvY2Fyb2xpbmEtaHVycmljYW5lcy12cy1uZXctamVyc2V5LWRldmlscy83
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745969400000] Detroit Pistons v New York Knicks (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9kZXRyb2l0LXBpc3RvbnMtdnMtbmV3LXlvcmsta25pY2tzLTE2Mjk0NDE2NjkvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745969400000] New Jersey Devils v Carolina Hurricanes (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9uZXctamVyc2V5LWRldmlscy12cy1jYXJvbGluYS1odXJyaWNhbmVzLTE2Mjk0NDE2NTIvMQ==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745969400000] New York Knicks vs Detroit Pistons (HD|ADMIN1|ENG) [DATE]
 watch/YWRtaW4vYWRtaW4tbmV3LXlvcmsta25pY2tzLXZzLWRldHJvaXQtcGlzdG9ucy8x
 
@@ -758,9 +746,6 @@ watch/YWxwaGEvY2hpY2Fnby13aGl0ZS1zb3gtdnMtbWlsd2F1a2VlLWJyZXdlcnMvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745970000000] Chicago White Sox vs Milwaukee Brewers (HD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvY2hpY2Fnby13aGl0ZS1zb3gtdnMtbWlsd2F1a2VlLWJyZXdlcnMvMw==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745970000000] Chicago White Sox vs Milwaukee Brewers (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9taWx3YXVrZWUtYnJld2Vycy12cy1jaGljYWdvLXdoaXRlLXNveC0xNjI5NDQxNjY4LzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745970000000] Chicago White Sox vs Milwaukee Brewers (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY2hpY2Fnby13aGl0ZS1zb3gtdnMtbWlsd2F1a2VlLWJyZXdlcnMvMQ==
