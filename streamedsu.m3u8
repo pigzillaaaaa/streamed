@@ -663,14 +663,14 @@ watch/YWxwaGEvbmV3LXlvcmstbWV0cy12cy1hcml6b25hLWRpYW1vbmRiYWNrcy80
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745969400000] Carolina Hurricanes vs New Jersey Devils (HD|ADMIN1|ENG) [DATE]
 watch/YWRtaW4vYWRtaW4tY2Fyb2xpbmEtaHVycmljYW5lcy12cy1uZXctamVyc2V5LWRldmlscy8x
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745969400000] Carolina Hurricanes vs New Jersey Devils (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY2Fyb2xpbmEtaHVycmljYW5lcy12cy1uZXctamVyc2V5LWRldmlscy8x
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745969400000] Carolina Hurricanes vs New Jersey Devils (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY2Fyb2xpbmEtaHVycmljYW5lcy12cy1uZXctamVyc2V5LWRldmlscy8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745969400000] Carolina Hurricanes vs New Jersey Devils (HD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvY2Fyb2xpbmEtaHVycmljYW5lcy12cy1uZXctamVyc2V5LWRldmlscy8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745969400000] Carolina Hurricanes vs New Jersey Devils (HD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEvY2Fyb2xpbmEtaHVycmljYW5lcy12cy1uZXctamVyc2V5LWRldmlscy80
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745969400000] Carolina Hurricanes vs New Jersey Devils (HD|BRAVO1|NAT) [DATE]
 watch/YnJhdm8vMTc0NTk2OTQwMDAwMC1uZXctamVyc2V5LWRldmlscy12cy1jYXJvbGluYS1odXJyaWNhbmVzLW5hdGlvbmFsLWZlZWQtLzE=
@@ -687,17 +687,14 @@ watch/YnJhdm8vMTc0NTk2OTQwMDAwMC1uZXctamVyc2V5LWRldmlscy12cy1jYXJvbGluYS1odXJyaW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745969400000] Carolina Hurricanes vs New Jersey Devils (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvY2Fyb2xpbmEtaHVycmljYW5lcy12cy1uZXctamVyc2V5LWRldmlscy1ob2NrZXktMzk0MTc1LzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745969400000] Carolina Hurricanes vs New Jersey Devils (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY2Fyb2xpbmEtaHVycmljYW5lcy12cy1uZXctamVyc2V5LWRldmlscy8x
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745969400000] Carolina Hurricanes vs New Jersey Devils (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvY2Fyb2xpbmEtaHVycmljYW5lcy12cy1uZXctamVyc2V5LWRldmlscy80
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745969400000] Carolina Hurricanes vs New Jersey Devils (SD|ALPHA5|ENG) [DATE]
 watch/YWxwaGEvY2Fyb2xpbmEtaHVycmljYW5lcy12cy1uZXctamVyc2V5LWRldmlscy81
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745969400000] Carolina Hurricanes vs New Jersey Devils (SD|ALPHA6|ENG) [DATE]
 watch/YWxwaGEvY2Fyb2xpbmEtaHVycmljYW5lcy12cy1uZXctamVyc2V5LWRldmlscy82
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745969400000] Carolina Hurricanes vs New Jersey Devils (SD|ALPHA7|ENG) [DATE]
-watch/YWxwaGEvY2Fyb2xpbmEtaHVycmljYW5lcy12cy1uZXctamVyc2V5LWRldmlscy83
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745969400000] Detroit Pistons v New York Knicks (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9kZXRyb2l0LXBpc3RvbnMtdnMtbmV3LXlvcmsta25pY2tzLTE2Mjk0NDE2NjkvMQ==
@@ -789,29 +786,26 @@ watch/YnJhdm8vMTc0NTk2OTQwMDAwMC1ub3RyZS1kYW1lLXZzLXB1cmR1ZS8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745969700000] Fort Wayne Komets vs Iowa Heartlanders (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTk2OTcwMDAwMC1mb3J0LXdheW5lLWtvbWV0cy1pb3dhLWhlYXJ0bGFuZGVycy8x
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745970000000] Chicago White Sox vs Milwaukee Brewers (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY2hpY2Fnby13aGl0ZS1zb3gtdnMtbWlsd2F1a2VlLWJyZXdlcnMvMQ==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745970000000] Chicago White Sox vs Milwaukee Brewers (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY2hpY2Fnby13aGl0ZS1zb3gtdnMtbWlsd2F1a2VlLWJyZXdlcnMvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745970000000] Chicago White Sox vs Milwaukee Brewers (HD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY2hpY2Fnby13aGl0ZS1zb3gtdnMtbWlsd2F1a2VlLWJyZXdlcnMvMw==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745970000000] Chicago White Sox vs Milwaukee Brewers (HD|BRAVO1|AWA) [DATE]
+watch/YnJhdm8vMTc0NTk3MDAwMDAwMC1taWx3YXVrZWUtYnJld2Vycy12cy1jaGljYWdvLXdoaXRlLXNveC1hd2F5LWZlZWQtLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745970000000] Chicago White Sox vs Milwaukee Brewers (HD|BRAVO2|HOM) [DATE]
+watch/YnJhdm8vMTc0NTk3MDAwMDAwMC1taWx3YXVrZWUtYnJld2Vycy12cy1jaGljYWdvLXdoaXRlLXNveC1ob21lLWZlZWQtLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745970000000] Chicago White Sox vs Milwaukee Brewers (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9taWx3YXVrZWUtYnJld2Vycy12cy1jaGljYWdvLXdoaXRlLXNveC0xNjI5NDQxNjY4LzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745970000000] Chicago White Sox vs Milwaukee Brewers (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY2hpY2Fnby13aGl0ZS1zb3gtdnMtbWlsd2F1a2VlLWJyZXdlcnMvMQ==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745970000000] Chicago White Sox vs Milwaukee Brewers (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvY2hpY2Fnby13aGl0ZS1zb3gtdnMtbWlsd2F1a2VlLWJyZXdlcnMvMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745970000000] Chicago White Sox vs Milwaukee Brewers (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvY2hpY2Fnby13aGl0ZS1zb3gtdnMtbWlsd2F1a2VlLWJyZXdlcnMvNA==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745970000000] Chicago White Sox vs Milwaukee Brewers (SD|ALPHA5|ENG) [DATE]
-watch/YWxwaGEvY2hpY2Fnby13aGl0ZS1zb3gtdnMtbWlsd2F1a2VlLWJyZXdlcnMvNQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745971200000] Athletics v Texas Rangers (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9hdGhsZXRpY3MtdnMtdGV4YXMtcmFuZ2Vycy0xNjI5NDQxNjcwLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745971200000] Detroit Tigers v Houston Astros (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9kZXRyb2l0LXRpZ2Vycy12cy1ob3VzdG9uLWFzdHJvcy0xNjI5NDQxNjcxLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745971200000] Flamengo v Caxias do Sul (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvZmxhbWVuZ28tdnMtY2F4aWFzLWRvLXN1bC8x
@@ -822,20 +816,17 @@ watch/YWxwaGEvZmxhbWVuZ28tdnMtY2F4aWFzLWRvLXN1bC8y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745971200000] Flamengo v Caxias do Sul (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvZmxhbWVuZ28tdnMtY2F4aWFzLWRvLXN1bC8z
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="FIGHT",[TIME|1745971200000] WWE NXT (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvd3dlLW54dC8x
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="FIGHT",[TIME|1745971200000] WWE NXT (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd3dlLW54dC8y
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="FIGHT",[TIME|1745971200000] WWE NXT (HD|ALPHA3|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="FIGHT",[TIME|1745971200000] WWE NXT (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvd3dlLW54dC8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="FIGHT",[TIME|1745971200000] WWE NXT (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvd3dlLW54dC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="FIGHT",[TIME|1745971200000] WWE NXT (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvd3dlLW54dC80
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="FIGHT",[TIME|1745971200000] WWE NXT (SD|ALPHA5|ENG) [DATE]
-watch/YWxwaGEvd3dlLW54dC81
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745971500000] Texas Rangers vs Athletics (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdGV4YXMtcmFuZ2Vycy12cy1hdGhsZXRpY3MvMg==
