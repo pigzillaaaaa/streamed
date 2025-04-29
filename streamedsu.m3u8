@@ -477,38 +477,23 @@ watch/YWxwaGEvcGhpbGFkZWxwaGlhLXBoaWxsaWVzLXZzLXdhc2hpbmd0b24tbmF0aW9uYWxzLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745966700000] Philadelphia Phillies vs Washington Nationals (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvcGhpbGFkZWxwaGlhLXBoaWxsaWVzLXZzLXdhc2hpbmd0b24tbmF0aW9uYWxzLzI=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745966700000] Philadelphia Phillies vs Washington Nationals (HD|BRAVO1|AWA) [DATE]
+watch/YnJhdm8vMTc0NTk2NjcwMDAwMC13YXNoaW5ndG9uLW5hdGlvbmFscy12cy1waGlsYWRlbHBoaWEtcGhpbGxpZXMtYXdheS1mZWVkLS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745966700000] Philadelphia Phillies vs Washington Nationals (HD|BRAVO2|HOM) [DATE]
+watch/YnJhdm8vMTc0NTk2NjcwMDAwMC13YXNoaW5ndG9uLW5hdGlvbmFscy12cy1waGlsYWRlbHBoaWEtcGhpbGxpZXMtaG9tZS1mZWVkLS8y
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745966700000] Philadelphia Phillies vs Washington Nationals (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvcGhpbGFkZWxwaGlhLXBoaWxsaWVzLXZzLXdhc2hpbmd0b24tbmF0aW9uYWxzLzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745966700000] Philadelphia Phillies vs Washington Nationals (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvcGhpbGFkZWxwaGlhLXBoaWxsaWVzLXZzLXdhc2hpbmd0b24tbmF0aW9uYWxzLzQ=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745967600000] Arizona Diamondbacks v New York Mets (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9hcml6b25hLWRpYW1vbmRiYWNrcy12cy1uZXcteW9yay1tZXRzLTE2Mjk0NDE2NjcvMQ==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745967600000] Atl. Ottawa v Scrosoppi (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYXRsLW90dGF3YS12cy1zY3Jvc29wcGkvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745967600000] Atl. Ottawa v Scrosoppi (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYXRsLW90dGF3YS12cy1zY3Jvc29wcGkvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745967600000] Boston Red Sox v Toronto Blue Jays (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9ib3N0b24tcmVkLXNveC12cy10b3JvbnRvLWJsdWUtamF5cy0xNjI5NDQxNjY2LzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745967600000] Franca v Pato (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvZnJhbmNhLXZzLXBhdG8vMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745967600000] Franca v Pato (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvZnJhbmNhLXZzLXBhdG8vMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745967600000] Franca v Pato (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvZnJhbmNhLXZzLXBhdG8vMw==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745967600000] Kansas City Royals v Tampa Bay Rays (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9rYW5zYXMtY2l0eS1yb3lhbHMtdnMtdGFtcGEtYmF5LXJheXMtMTYyOTQ0MTY2NS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745967600000] Ottawa Senators v Toronto Maple Leafs (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9vdHRhd2Etc2VuYXRvcnMtdnMtdG9yb250by1tYXBsZS1sZWFmcy0xNjI5NDQxNjUzLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745967600000] PWHL Women: Toronto Sceptres W v New York Sirens W (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvcHdobC13b21lbi10b3JvbnRvLXNjZXB0cmVzLXctdnMtbmV3LXlvcmstc2lyZW5zLXcvMQ==
@@ -573,20 +558,17 @@ watch/YWxwaGEvdGFtcGEtYmF5LXJheXMtdnMta2Fuc2FzLWNpdHktcm95YWxzLzQ=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745967900000] Tampa Bay Rays vs Kansas City Royals (SD|ALPHA5|ENG) [DATE]
 watch/YWxwaGEvdGFtcGEtYmF5LXJheXMtdnMta2Fuc2FzLWNpdHktcm95YWxzLzU=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745968020000] Toronto Blue Jays vs Boston Red Sox (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvdG9yb250by1ibHVlLWpheXMtdnMtYm9zdG9uLXJlZC1zb3gtcHJlLW1hdGNoLW9kZHMvMQ==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745968020000] Toronto Blue Jays vs Boston Red Sox (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdG9yb250by1ibHVlLWpheXMtdnMtYm9zdG9uLXJlZC1zb3gtcHJlLW1hdGNoLW9kZHMvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745968020000] Toronto Blue Jays vs Boston Red Sox (HD|ALPHA3|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745968020000] Toronto Blue Jays vs Boston Red Sox (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvdG9yb250by1ibHVlLWpheXMtdnMtYm9zdG9uLXJlZC1zb3gtcHJlLW1hdGNoLW9kZHMvMw==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745968020000] Toronto Blue Jays vs Boston Red Sox (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvdG9yb250by1ibHVlLWpheXMtdnMtYm9zdG9uLXJlZC1zb3gtcHJlLW1hdGNoLW9kZHMvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745968020000] Toronto Blue Jays vs Boston Red Sox (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvdG9yb250by1ibHVlLWpheXMtdnMtYm9zdG9uLXJlZC1zb3gtcHJlLW1hdGNoLW9kZHMvNA==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745968020000] Toronto Blue Jays vs Boston Red Sox (SD|ALPHA5|ENG) [DATE]
-watch/YWxwaGEvdG9yb250by1ibHVlLWpheXMtdnMtYm9zdG9uLXJlZC1zb3gtcHJlLW1hdGNoLW9kZHMvNQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745968200000] New York Mets vs Arizona Diamondbacks (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbmV3LXlvcmstbWV0cy12cy1hcml6b25hLWRpYW1vbmRiYWNrcy8y
