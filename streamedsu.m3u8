@@ -285,18 +285,6 @@ watch/YWxwaGEvY291cnQtMy1qYWNrLWRyYXBlci12cy1tYXR0ZW8tYmVycmV0dGluaS8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745933400000] Court 3: Jack Draper v Matteo Berrettini (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY291cnQtMy1qYWNrLWRyYXBlci12cy1tYXR0ZW8tYmVycmV0dGluaS8y
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1745933400000] Tour de Romandie | Prologue (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvdG91ci1kZS1yb21hbmRpZS1wcm9sb2d1ZS8x
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1745933400000] Tour de Romandie | Prologue (HD|ALPHA2|ESP) [DATE]
-watch/YWxwaGEvdG91ci1kZS1yb21hbmRpZS1wcm9sb2d1ZS8y
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1745933400000] Tour de Romandie | Prologue (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvdG91ci1kZS1yb21hbmRpZS1wcm9sb2d1ZS8z
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1745933400000] Tour de Romandie | Prologue (SD|ALPHA4|ESP) [DATE]
-watch/YWxwaGEvdG91ci1kZS1yb21hbmRpZS1wcm9sb2d1ZS80
-
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1745933400000] Usyk v Dubois II: Launch Press Conference (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdXN5ay12cy1kdWJvaXMtaWktbGF1bmNoLXByZXNzLWNvbmZlcmVuY2UvMQ==
 
@@ -420,27 +408,30 @@ watch/YWxwaGEvY291cnQtNi1yb2hhbi1ib3Bhbm5hLWJlbi1zaGVsdG9uLXZzLW5hdGhhbmllbC1sYW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745939700000] WTA Saint Malo v Center Court Ponchet - Parry (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTkzOTcwMDAwMC13dGEtc2FpbnQtbWFsby1jZW50ZXItY291cnQtcG9uY2hldC1wYXJyeS8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745940600000] Manolo Santana: Alexander Zverev v Francisco Cerundolo (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYWxleGFuZGVyLXp2ZXJldi12cy1mcmFuY2lzY28tY2VydW5kb2xvLzI=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745940600000] ATP Madrid v Manolo Santana Stadium Zverev - Cerundolo (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTk0MDYwMDAwMC1hdHAtbWFkcmlkLW1hbm9sby1zYW50YW5hLXN0YWRpdW0tenZlcmV2LWNlcnVuZG9sby8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745940600000] Manolo Santana: Alexander Zverev v Francisco Cerundolo (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYWxleGFuZGVyLXp2ZXJldi12cy1mcmFuY2lzY28tY2VydW5kb2xvLzE=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745940600000] Gdynia v Legia Warsaw (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTk0MDYwMDAwMC1nZHluaWEtbGVnaWEtd2Fyc2F3LzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745940600000] Manolo Santana: Alexander Zverev v Francisco Cerundolo (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYWxleGFuZGVyLXp2ZXJldi12cy1mcmFuY2lzY28tY2VydW5kb2xvLzM=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745940600000] Karhu Basket vs Helsinki Seagulls (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTk0MDYwMDAwMC1rYXJodS1iYXNrZXQtaGVsc2lua2ktc2VhZ3VsbHMvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745941500000] Court 4: Victoria Azarenka/Ashlyn Krueger v Coco Gauff/Robin Montgomery (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNC12aWN0b3JpYS1hemFyZW5rYS1hc2hseW4ta3J1ZWdlci12cy1jb2NvLWdhdWZmLXJvYmluLW1vbnRnb21lcnkvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745941500000] Court 4: Victoria Azarenka/Ashlyn Krueger v Coco Gauff/Robin Montgomery (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNC12aWN0b3JpYS1hemFyZW5rYS1hc2hseW4ta3J1ZWdlci12cy1jb2NvLWdhdWZmLXJvYmluLW1vbnRnb21lcnkvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745941500000] Court 4: Victoria Azarenka/Ashlyn Krueger v Coco Gauff/Robin Montgomery (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNC12aWN0b3JpYS1hemFyZW5rYS1hc2hseW4ta3J1ZWdlci12cy1jb2NvLWdhdWZmLXJvYmluLW1vbnRnb21lcnkvMw==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745940600000] Rytas v Jonava (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTk0MDYwMDAwMC1yeXRhcy1qb25hdmEvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1745941500000] USA W v Zimbabwe W (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdXNhLXctdnMtemltYmFid2Utdy8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1745941500000] USA W v Zimbabwe W (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdXNhLXctdnMtemltYmFid2Utdy8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745942100000] Manolo Santana: Alexander Zverev v Francisco Cerundolo (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYWxleGFuZGVyLXp2ZXJldi12cy1mcmFuY2lzY28tY2VydW5kb2xvLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745942100000] Manolo Santana: Alexander Zverev v Francisco Cerundolo (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYWxleGFuZGVyLXp2ZXJldi12cy1mcmFuY2lzY28tY2VydW5kb2xvLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745942100000] Manolo Santana: Alexander Zverev v Francisco Cerundolo (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYWxleGFuZGVyLXp2ZXJldi12cy1mcmFuY2lzY28tY2VydW5kb2xvLzM=
 
