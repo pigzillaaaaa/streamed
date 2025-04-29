@@ -312,17 +312,11 @@ watch/YWxwaGEvY291cnQtNi1sb3JlbnpvLW11c2V0dGktZmxhdmlvLWNvYm9sbGktdnMtbWljaGFlbC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745947800000] Court 6: Lorenzo Musetti/Flavio Cobolli v Michael Venus/Nikola Mektic (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNi1sb3JlbnpvLW11c2V0dGktZmxhdmlvLWNvYm9sbGktdnMtbWljaGFlbC12ZW51cy1uaWtvbGEtbWVrdGljLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745947800000] Nitra Blue Wings v Levice (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTk0NzgwMDAwMC1uaXRyYS1ibHVlLXdpbmdzLWxldmljZS8x
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745947800000] Serbia v Australia (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTk0NzgwMDAwMC1zZXJiaWEtYXVzdHJhbGlhLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745947800000] Spartak Moscow v Dynamo Moscow (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvc3BhcnRhay1tb3Njb3ctdnMtZHluYW1vLW1vc2Nvdy8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745947800000] Spartak Moscow v Dynamo Moscow (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTk0NzgwMDAwMC1zcGFydGFrLW1vc2Nvdy1keW5hbW8tbW9zY293LzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745947800000] Spartak Moscow v Dynamo Moscow (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvc3BhcnRhay1tb3Njb3ctdnMtZHluYW1vLW1vc2Nvdy8y
@@ -404,9 +398,6 @@ watch/YnJhdm8vMTc0NTk1MTQwMDAwMC1wYXJpcy1mZW5lcmJhaGNlLXBvbGlzaC0vMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745951400000] Paris v Fenerbahce (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9wYXJpcy1iYXNrZXRiYWxsLXZzLWZlbmVyYmFoY2UtYmVrby1pc3RhbmJ1bC0xNjI5NDQxNjU2LzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745951400000] Paris v Fenerbahce (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvcGFyaXMtdnMtZmVuZXJiYWhjZS1iYXNrZXRiYWxsLTQ0NzkxOS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745951400000] Paris v Fenerbahce (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvcGFyaXMtdnMtZmVuZXJiYWhjZS8z
@@ -594,9 +585,6 @@ watch/YnJhdm8vMTc0NTk1MzIwMDAwMC1yZWFsLW1hZHJpZC1vbHltcGlhY29zLXBvbGlzaC0vMw==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745953200000] Real Madrid v Olympiacos (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9yZWFsLW1hZHJpZC12cy1vbHltcGlhY29zLXBpcmFldXMtMTYyOTQ0MTY1Ny8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745953200000] Real Madrid v Olympiacos (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvcmVhbC1tYWRyaWQtdnMtb2x5bXBpYWNvcy1iYXNrZXRiYWxsLTQ0NzkyMC8x
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745953200000] Real Madrid v Olympiacos (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvcmVhbC1tYWRyaWQtdnMtb2x5bXBpYWNvcy8z
 
@@ -615,8 +603,14 @@ watch/YnJhdm8vMTc0NTk1NDEwMDAwMC10aW5kYXN0b2xsLWFsZnRhbmVzLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745955000000] Casa Pia v Estoril (HD|ALPHA1|POR) [DATE]
 watch/YWxwaGEvY2FzYS1waWEtdnMtZXN0b3JpbC8x
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745955000000] Casa Pia v Estoril (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTk1NTAwMDAwMC1jYXNhLXBpYS1lc3RvcmlsLzE=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745955000000] Casa Pia v Estoril (SD|ALPHA2|POR) [DATE]
 watch/YWxwaGEvY2FzYS1waWEtdnMtZXN0b3JpbC8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745955000000] WTA Madrid v Arantxa Sanchez Stadium Kostyuk - Potapova (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTk1NTAwMDAwMC13dGEtbWFkcmlkLWFyYW50eGEtc2FuY2hlei1zdGFkaXVtLWtvc3R5dWstcG90YXBvdmEvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745955600000] Manolo Santana: Taylor Fritz v Casper Ruud (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtdGF5bG9yLWZyaXR6LXZzLWNhc3Blci1ydXVkLzI=
