@@ -318,9 +318,6 @@ watch/YWxwaGEvcGFyaXMtdnMtZmVuZXJiYWhjZS8y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745951400000] Paris v Fenerbahce (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9wYXJpcy1iYXNrZXRiYWxsLXZzLWZlbmVyYmFoY2UtYmVrby1pc3RhbmJ1bC0xNjI5NDQxNjU2LzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745951400000] Paris v Fenerbahce (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvcGFyaXMtdnMtZmVuZXJiYWhjZS1iYXNrZXRiYWxsLTQ0NzkxOS8x
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745951400000] Paris v Fenerbahce (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvcGFyaXMtdnMtZmVuZXJiYWhjZS8z
 
@@ -333,32 +330,11 @@ watch/YnJhdm8vMTc0NTk1MTQwMDAwMC1wZXJ1Z2lhLXBpYWNlbnphLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745952300000] Burton vs Wigan (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYnVydG9uLWFsYmlvbi12cy13aWdhbi1hdGhsZXRpYy8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745952300000] Burton vs Wigan (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTk1MjMwMDAwMC1idXJ0b24tYWxiaW9uLXdpZ2FuLzE=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745952300000] Burton vs Wigan (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9idXJ0b24tYWxiaW9uLXZzLXdpZ2FuLTEyMTY4NDEvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745952300000] Burton vs Wigan (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvYnVydG9uLWFsYmlvbi12cy13aWdhbi1mb290YmFsbC0xMjE2ODQxLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745952300000] Burton vs Wigan (HD|DELTA2|) [DATE]
-watch/ZGVsdGEvYnVydG9uLWFsYmlvbi12cy13aWdhbi1mb290YmFsbC0xMjE2ODQxLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745952300000] Burton vs Wigan (HD|DELTA3|) [DATE]
-watch/ZGVsdGEvYnVydG9uLWFsYmlvbi12cy13aWdhbi1mb290YmFsbC0xMjE2ODQxLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745952300000] Burton vs Wigan (HD|ECHO1|LEA) [DATE]
-watch/ZWNoby9idXJ0b24tYWxiaW9uLXdpZ2FuLTI2NDIzLzE=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745952300000] Burton vs Wigan (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYnVydG9uLWFsYmlvbi12cy13aWdhbi1hdGhsZXRpYy8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745952300000] Solihull Moors vs Rochdale (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvc29saWh1bGwtbW9vcnMtdnMtcm9jaGRhbGUtZm9vdGJhbGwtMTIzNzcyMC8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745952300000] Solihull Moors vs Rochdale (HD|ECHO1|NL) [DATE]
-watch/ZWNoby9zb2xpaHVsbC1tb29ycy1yb2NoZGFsZS0yNjg4Ny8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1745953200000] 2025 PGA Professional Championship Third Round (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvMjAyNS1wZ2EtcHJvZmVzc2lvbmFsLWNoYW1waW9uc2hpcC10aGlyZC1yb3VuZC8x
