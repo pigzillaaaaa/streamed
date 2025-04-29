@@ -303,6 +303,9 @@ watch/YWxwaGEvdXN5ay12cy1kdWJvaXMtaWktbGF1bmNoLXByZXNzLWNvbmZlcmVuY2UvMQ==
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1745933400000] Usyk v Dubois II: Launch Press Conference (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdXN5ay12cy1kdWJvaXMtaWktbGF1bmNoLXByZXNzLWNvbmZlcmVuY2UvMg==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1745933400000] World Championship v Table 1 (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTkzMzQwMDAwMC13b3JsZC1jaGFtcGlvbnNoaXAtdGFibGUtMS8x
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1745933400000] World Championship v Table 2 (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTkzMzQwMDAwMC13b3JsZC1jaGFtcGlvbnNoaXAtdGFibGUtMi8x
 
@@ -399,20 +402,23 @@ watch/YWxwaGEvbXVsdGFuLXN1bHRhbnMtdnMtcXVldHRhLWdsYWRpYXRvcnMvMw==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1745938800000] Multan Sultans vs Quetta Gladiators (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvbXVsdGFuLXN1bHRhbnMtdnMtcXVldHRhLWdsYWRpYXRvcnMvNA==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745939100000] Court 3: Andre Goransson/Sem Verbeek v Jakub Mensik/Adam Pavlasek (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1hbmRyZS1nb3JhbnNzb24tc2VtLXZlcmJlZWstdnMtamFrdWItbWVuc2lrLWFkYW0tcGF2bGFzZWsvMg==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745939700000] ATP Madrid v Court 6  Bopanna/Shelton - Lammons/Withrow (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTkzOTcwMDAwMC1hdHAtbWFkcmlkLWNvdXJ0LTYtYm9wYW5uYS1zaGVsdG9uLWxhbW1vbnMtd2l0aHJvdy8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745939100000] Court 3: Andre Goransson/Sem Verbeek v Jakub Mensik/Adam Pavlasek (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745939700000] Court 3: Andre Goransson/Sem Verbeek v Jakub Mensik/Adam Pavlasek (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY291cnQtMy1hbmRyZS1nb3JhbnNzb24tc2VtLXZlcmJlZWstdnMtamFrdWItbWVuc2lrLWFkYW0tcGF2bGFzZWsvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745939100000] Court 3: Andre Goransson/Sem Verbeek v Jakub Mensik/Adam Pavlasek (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1hbmRyZS1nb3JhbnNzb24tc2VtLXZlcmJlZWstdnMtamFrdWItbWVuc2lrLWFkYW0tcGF2bGFzZWsvMw==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745939700000] Court 3: Andre Goransson/Sem Verbeek v Jakub Mensik/Adam Pavlasek (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY291cnQtMy1hbmRyZS1nb3JhbnNzb24tc2VtLXZlcmJlZWstdnMtamFrdWItbWVuc2lrLWFkYW0tcGF2bGFzZWsvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745939700000] Court 6: Rohan Bopanna/Ben Shelton v Nathaniel Lammons/Jackson Withrow (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNi1yb2hhbi1ib3Bhbm5hLWJlbi1zaGVsdG9uLXZzLW5hdGhhbmllbC1sYW1tb25zLWphY2tzb24td2l0aHJvdy8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745939700000] Court 6: Rohan Bopanna/Ben Shelton v Nathaniel Lammons/Jackson Withrow (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNi1yb2hhbi1ib3Bhbm5hLWJlbi1zaGVsdG9uLXZzLW5hdGhhbmllbC1sYW1tb25zLWphY2tzb24td2l0aHJvdy8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745939700000] WTA Saint Malo v Center Court Ponchet - Parry (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTkzOTcwMDAwMC13dGEtc2FpbnQtbWFsby1jZW50ZXItY291cnQtcG9uY2hldC1wYXJyeS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745940600000] Manolo Santana: Alexander Zverev v Francisco Cerundolo (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYWxleGFuZGVyLXp2ZXJldi12cy1mcmFuY2lzY28tY2VydW5kb2xvLzI=
@@ -432,12 +438,9 @@ watch/YWxwaGEvY291cnQtNC12aWN0b3JpYS1hemFyZW5rYS1hc2hseW4ta3J1ZWdlci12cy1jb2NvLW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745941500000] Court 4: Victoria Azarenka/Ashlyn Krueger v Coco Gauff/Robin Montgomery (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNC12aWN0b3JpYS1hemFyZW5rYS1hc2hseW4ta3J1ZWdlci12cy1jb2NvLWdhdWZmLXJvYmluLW1vbnRnb21lcnkvMw==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1745941500000] USA W v Zimbabwe W (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvdXNhLXctdnMtemltYmFid2Utdy8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1745941500000] USA W v Zimbabwe W (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1745941500000] USA W v Zimbabwe W (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdXNhLXctdnMtemltYmFid2Utdy8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1745941500000] USA W v Zimbabwe W (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvdXNhLXctdnMtemltYmFid2Utdy8z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1745941500000] USA W v Zimbabwe W (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvdXNhLXctdnMtemltYmFid2Utdy8y
 
