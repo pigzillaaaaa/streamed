@@ -363,20 +363,23 @@ watch/YWxwaGEvY291cnQtNS1zaW1vbmUtYm9sZWxsaS1hbmRyZWEtdmF2YXNzb3JpLXZzLWpvZS1zYW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745921700000] Court 5: Simone Bolelli/Andrea Vavassori v Joe Salisbury/Neal Skupski (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNS1zaW1vbmUtYm9sZWxsaS1hbmRyZWEtdmF2YXNzb3JpLXZzLWpvZS1zYWxpc2J1cnktbmVhbC1za3Vwc2tpLzI=
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1745926200000] Tour of Turkey | Stage 3 (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtMy8y
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1745926200000] Tour of Turkey | Stage 3 (HD|ALPHA3|ESP) [DATE]
-watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtMy8z
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1745926200000] Tour of Turkey | Stage 3 (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1745926200000] Tour of Turkey | Stage 3 (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtMy8x
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1745926200000] Tour of Turkey | Stage 3 (SD|ALPHA4|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1745926200000] Tour of Turkey | Stage 3 (HD|ALPHA2|ESP) [DATE]
+watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtMy8y
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1745926200000] Tour of Turkey | Stage 3 (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtMy8z
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1745926200000] Tour of Turkey | Stage 3 (SD|ALPHA4|ESP) [DATE]
 watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtMy80
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1745926200000] Tour of Turkey | Stage 3 (SD|ALPHA5|ESP) [DATE]
-watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtMy81
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745927100000] Court 4: Cameron Norrie v Gabriel Diallo (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNC1jYW1lcm9uLW5vcnJpZS12cy1nYWJyaWVsLWRpYWxsby8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745927100000] Court 4: Cameron Norrie v Gabriel Diallo (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNC1jYW1lcm9uLW5vcnJpZS12cy1nYWJyaWVsLWRpYWxsby8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745927400000] Arantxa Sanchez: Madison Keys v Donna Vekic (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LW1hZGlzb24ta2V5cy12cy1kb25uYS12ZWtpYy8y
@@ -387,22 +390,13 @@ watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LW1hZGlzb24ta2V5cy12cy1kb25uYS12ZWtpYy8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745927400000] Arantxa Sanchez: Madison Keys v Donna Vekic (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LW1hZGlzb24ta2V5cy12cy1kb25uYS12ZWtpYy8z
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745927400000] Court 4: Cameron Norrie v Gabriel Diallo (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNC1jYW1lcm9uLW5vcnJpZS12cy1nYWJyaWVsLWRpYWxsby8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745927400000] Court 4: Cameron Norrie v Gabriel Diallo (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNC1jYW1lcm9uLW5vcnJpZS12cy1nYWJyaWVsLWRpYWxsby8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745927400000] Court 4: Cameron Norrie v Gabriel Diallo (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNC1jYW1lcm9uLW5vcnJpZS12cy1nYWJyaWVsLWRpYWxsby8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745927400000] Court 5: Marcelo Arevalo Gonzalez/Mate Pavic v Rafael Matos/Marcelo Melo (HD|ALPHA2|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745927700000] Court 5: Marcelo Arevalo Gonzalez/Mate Pavic v Rafael Matos/Marcelo Melo (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNS1tYXJjZWxvLWFyZXZhbG8tZ29uemFsZXotbWF0ZS1wYXZpYy12cy1yYWZhZWwtbWF0b3MtbWFyY2Vsby1tZWxvLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745927400000] Court 5: Marcelo Arevalo Gonzalez/Mate Pavic v Rafael Matos/Marcelo Melo (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745927700000] Court 5: Marcelo Arevalo Gonzalez/Mate Pavic v Rafael Matos/Marcelo Melo (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNS1tYXJjZWxvLWFyZXZhbG8tZ29uemFsZXotbWF0ZS1wYXZpYy12cy1yYWZhZWwtbWF0b3MtbWFyY2Vsby1tZWxvLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745927400000] Court 5: Marcelo Arevalo Gonzalez/Mate Pavic v Rafael Matos/Marcelo Melo (SD|ALPHA3|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745927700000] Court 5: Marcelo Arevalo Gonzalez/Mate Pavic v Rafael Matos/Marcelo Melo (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNS1tYXJjZWxvLWFyZXZhbG8tZ29uemFsZXotbWF0ZS1wYXZpYy12cy1yYWZhZWwtbWF0b3MtbWFyY2Vsby1tZWxvLzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745928000000] Court 6: Yuki Bhambri/Robert Galloway v Harri Heliovaara/Henry Patten (HD|ALPHA2|ENG) [DATE]
@@ -476,6 +470,15 @@ watch/YWxwaGEvdXN5ay12cy1kdWJvaXMtaWktbGF1bmNoLXByZXNzLWNvbmZlcmVuY2UvMQ==
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1745931600000] Usyk v Dubois II: Launch Press Conference (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvdXN5ay12cy1kdWJvaXMtaWktbGF1bmNoLXByZXNzLWNvbmZlcmVuY2UvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745932800000] Court 5: Jamie Murray/Rajeev Ram v Austin Krajicek / Santiago Gonzalez (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNS1qYW1pZS1tdXJyYXktcmFqZWV2LXJhbS12cy1hdXN0aW4ta3JhamljZWstc2FudGlhZ28tZ29uemFsZXovMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745932800000] Court 5: Jamie Murray/Rajeev Ram v Austin Krajicek / Santiago Gonzalez (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNS1qYW1pZS1tdXJyYXktcmFqZWV2LXJhbS12cy1hdXN0aW4ta3JhamljZWstc2FudGlhZ28tZ29uemFsZXovMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745932800000] Court 5: Jamie Murray/Rajeev Ram v Austin Krajicek / Santiago Gonzalez (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNS1qYW1pZS1tdXJyYXktcmFqZWV2LXJhbS12cy1hdXN0aW4ta3JhamljZWstc2FudGlhZ28tZ29uemFsZXovMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745933400000] Manolo Santana: Alexander Zverev v Francisco Cerundolo (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYWxleGFuZGVyLXp2ZXJldi12cy1mcmFuY2lzY28tY2VydW5kb2xvLzI=
