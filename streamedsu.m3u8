@@ -345,6 +345,9 @@ watch/YWxwaGEvY291cnQtNC12aWN0b3JpYS1hemFyZW5rYS1hc2hseW4ta3J1ZWdlci12cy1jb2NvLW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745944500000] Court 4: Victoria Azarenka/Ashlyn Krueger v Coco Gauff/Robin Montgomery (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNC12aWN0b3JpYS1hemFyZW5rYS1hc2hseW4ta3J1ZWdlci12cy1jb2NvLWdhdWZmLXJvYmluLW1vbnRnb21lcnkvMg==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745945100000] ATP Madrid v Court 6  Cobolli/Musetti - Mektic/Venus (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTk0NTEwMDAwMC1hdHAtbWFkcmlkLWNvdXJ0LTYtY29ib2xsaS1tdXNldHRpLW1la3RpYy12ZW51cy8x
+
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1745945100000] THW Kiel v Limoges (HD|ALPHA2|DEU) [DATE]
 watch/YWxwaGEvdGh3LWtpZWwtdnMtbGltb2dlcy8y
 
@@ -354,14 +357,8 @@ watch/YWxwaGEvdGh3LWtpZWwtdnMtbGltb2dlcy8x
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1745945100000] THW Kiel v Limoges (SD|ALPHA3|DEU) [DATE]
 watch/YWxwaGEvdGh3LWtpZWwtdnMtbGltb2dlcy8z
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745945400000] Court 5: Theo Arribage/Francisco Cerundolo v Maximo Gonzalez/Andres Molteni (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNS10aGVvLWFycmliYWdlLWZyYW5jaXNjby1jZXJ1bmRvbG8tdnMtbWF4aW1vLWdvbnphbGV6LWFuZHJlcy1tb2x0ZW5pLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745945400000] Court 5: Theo Arribage/Francisco Cerundolo v Maximo Gonzalez/Andres Molteni (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNS10aGVvLWFycmliYWdlLWZyYW5jaXNjby1jZXJ1bmRvbG8tdnMtbWF4aW1vLWdvbnphbGV6LWFuZHJlcy1tb2x0ZW5pLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745945400000] Court 5: Theo Arribage/Francisco Cerundolo v Maximo Gonzalez/Andres Molteni (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNS10aGVvLWFycmliYWdlLWZyYW5jaXNjby1jZXJ1bmRvbG8tdnMtbWF4aW1vLWdvbnphbGV6LWFuZHJlcy1tb2x0ZW5pLzM=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745945400000] Court 5: Theo Arribage/Francisco Cerundolo v Maximo Gonzalez/Andres Molteni - cancelled (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNS10aGVvLWFycmliYWdlLWZyYW5jaXNjby1jZXJ1bmRvbG8tdnMtbWF4aW1vLWdvbnphbGV6LWFuZHJlcy1tb2x0ZW5pLWNhbmNlbGxlZC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745945700000] Court 3: MarcelGranollers/Horacio Zeballos v Giovanni MpetshiPerricard/Albano Olivetti (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY291cnQtMy1tYXJjZWxncmFub2xsZXJzLWhvcmFjaW8temViYWxsb3MtdnMtZ2lvdmFubmktbXBldHNoaXBlcnJpY2FyZC1hbGJhbm8tb2xpdmV0dGkvMg==
