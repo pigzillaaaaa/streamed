@@ -282,9 +282,6 @@ watch/YnJhdm8vMTc0NTg4MDAwMDAwMC1zdC1sb3Vpcy1jYXJkaW5hbHMtdnMtY2luY2lubmF0aS1yZW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745880000000] Cincinnati Reds vs St. Louis Cardinals (HD|BRAVO2|HOM) [DATE]
 watch/YnJhdm8vMTc0NTg4MDAwMDAwMC1zdC1sb3Vpcy1jYXJkaW5hbHMtdnMtY2luY2lubmF0aS1yZWRzLWhvbWUtZmVlZC0vMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745884800000] Athletics v Texas Rangers (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9hdGhsZXRpY3MtdnMtdGV4YXMtcmFuZ2Vycy0xNjI5NDM5NDUxLzE=
-
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1745884800000] Monday Night RAW (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbW9uZGF5LW5pZ2h0LXJhdy8x
 
@@ -332,9 +329,6 @@ watch/YWxwaGEvaG91c3Rvbi1hc3Ryb3MtdnMtZGV0cm9pdC10aWdlcnMvMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745885400000] Houston Astros vs Detroit Tigers (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvaG91c3Rvbi1hc3Ryb3MtdnMtZGV0cm9pdC10aWdlcnMvNA==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745886600000] Atlanta Braves v Colorado Rockies (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9hdGxhbnRhLWJyYXZlcy12cy1jb2xvcmFkby1yb2NraWVzLTE2Mjk0Mzk0NTMvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745887200000] Colorado Rockies vs Atlanta Braves (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY29sb3JhZG8tcm9ja2llcy12cy1hdGxhbnRhLWJyYXZlcy8x
@@ -633,15 +627,6 @@ watch/YWxwaGEvbmFnb3lhLWdyYW1wdXMtdnMta2FzaGl3YS1yZXlzb2wvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745902800000] Nagoya Grampus vs Kashiwa Reysol (SD|ALPHA3|日本語) [DATE]
 watch/YWxwaGEvbmFnb3lhLWdyYW1wdXMtdnMta2FzaGl3YS1yZXlzb2wvMw==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745902800000] Oita Trinita vs Sagan Tosu (HD|ALPHA2|日本語) [DATE]
-watch/YWxwaGEvb2l0YS10cmluaXRhLXZzLXNhZ2FuLXRvc3UvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745902800000] Oita Trinita vs Sagan Tosu (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvb2l0YS10cmluaXRhLXZzLXNhZ2FuLXRvc3UvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745902800000] Oita Trinita vs Sagan Tosu (SD|ALPHA3|日本語) [DATE]
-watch/YWxwaGEvb2l0YS10cmluaXRhLXZzLXNhZ2FuLXRvc3UvMw==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745902800000] Sanfrecce Hiroshima vs Albirex Niigata (HD|ALPHA2|日本語) [DATE]
 watch/YWxwaGEvc2FuZnJlY2NlLWhpcm9zaGltYS12cy1hbGJpcmV4LW5paWdhdGEvMg==
 
@@ -686,6 +671,15 @@ watch/YWxwaGEveW9taXVyaS1naWFudHMtdnMtaGlyb3NoaW1hLWNhcnAvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745902800000] Yomiuri Giants v Hiroshima Carp (SD|ALPHA3|日本語) [DATE]
 watch/YWxwaGEveW9taXVyaS1naWFudHMtdnMtaGlyb3NoaW1hLWNhcnAvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745902980000] Oita Trinita vs Sagan Tosu (HD|ALPHA2|日本語) [DATE]
+watch/YWxwaGEvb2l0YS10cmluaXRhLXZzLXNhZ2FuLXRvc3UvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745902980000] Oita Trinita vs Sagan Tosu (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvb2l0YS10cmluaXRhLXZzLXNhZ2FuLXRvc3UvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745902980000] Oita Trinita vs Sagan Tosu (SD|ALPHA3|日本語) [DATE]
+watch/YWxwaGEvb2l0YS10cmluaXRhLXZzLXNhZ2FuLXRvc3UvMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745906400000] Cerezo Osaka vs Machida Zelvia (HD|ALPHA2|日本語) [DATE]
 watch/YWxwaGEvY2VyZXpvLW9zYWthLXZzLW1hY2hpZGEtemVsdmlhLzI=
