@@ -309,23 +309,11 @@ watch/YnJhdm8vMTc0NTk0OTYwMDAwMC13b3JsZC1jaGFtcGlvbnNoaXAtdGFibGUtMS8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1745949600000] World Championship v Table 2 (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTk0OTYwMDAwMC13b3JsZC1jaGFtcGlvbnNoaXAtdGFibGUtMi8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745951400000] Almeria v Racing Club Ferrol (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTk1MTQwMDAwMC1hbG1lcmlhLXJhY2luZy1jbHViLWZlcnJvbC8x
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745951400000] Paris v Fenerbahce (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvcGFyaXMtdnMtZmVuZXJiYWhjZS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745951400000] Paris v Fenerbahce (HD|ALPHA2|ITA) [DATE]
 watch/YWxwaGEvcGFyaXMtdnMtZmVuZXJiYWhjZS8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745951400000] Paris v Fenerbahce (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NTk1MTQwMDAwMC1wYXJpcy1mZW5lcmJhaGNlLWVuZ2xpc2gtLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745951400000] Paris v Fenerbahce (HD|BRAVO2|SPA) [DATE]
-watch/YnJhdm8vMTc0NTk1MTQwMDAwMC1wYXJpcy1mZW5lcmJhaGNlLXNwYW5pc2gtLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745951400000] Paris v Fenerbahce (HD|BRAVO3|POL) [DATE]
-watch/YnJhdm8vMTc0NTk1MTQwMDAwMC1wYXJpcy1mZW5lcmJhaGNlLXBvbGlzaC0vMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745951400000] Paris v Fenerbahce (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9wYXJpcy1iYXNrZXRiYWxsLXZzLWZlbmVyYmFoY2UtYmVrby1pc3RhbmJ1bC0xNjI5NDQxNjU2LzE=
@@ -575,6 +563,15 @@ watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtdGF5bG9yLWZyaXR6LXZzLWNhc3Blci1ydXVkLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745956800000] ATP Madrid v Manolo Santana Stadium Fritz - Ruud (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTk1NjgwMDAwMC1hdHAtbWFkcmlkLW1hbm9sby1zYW50YW5hLXN0YWRpdW0tZnJpdHotcnV1ZC8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745958497000] Fritz, Taylor - Ruud, Casper (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9mcml0ei10YXlsb3ItcnV1ZC1jYXNwZXItMTYyOTQ0MTg3NC8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745958600000] Butler v Northwestern (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTk1ODYwMDAwMC1idXRsZXItdnMtbm9ydGh3ZXN0ZXJuLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745958600000] Ind. Juniors v Leones del Norte (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTk1ODYwMDAwMC1pbmQtanVuaW9ycy1sZW9uZXMtZGVsLW5vcnRlLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/boxing-logo.png" group-title="FIGHT",[TIME|1745960400000] Ariel x Ade: The Boxing Show | Ep. 24 (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYXJpZWwteC1hZGUtdGhlLWJveGluZy1zaG93LWVwLTI0LzI=
