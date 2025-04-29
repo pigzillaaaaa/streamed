@@ -612,14 +612,11 @@ watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LW1hcnRhLWtvc3R5dWstdnMtYW5hc3Rhc2lhLXBvdGFwb3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745955300000] Arantxa Sanchez: Marta Kostyuk v Anastasia Potapova (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LW1hcnRhLWtvc3R5dWstdnMtYW5hc3Rhc2lhLXBvdGFwb3ZhLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745955900000] Manolo Santana: Taylor Fritz v Casper Ruud (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtdGF5bG9yLWZyaXR6LXZzLWNhc3Blci1ydXVkLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745955900000] Manolo Santana: Taylor Fritz v Casper Ruud (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745955900000] Manolo Santana: Taylor Fritz v Casper Ruud (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtdGF5bG9yLWZyaXR6LXZzLWNhc3Blci1ydXVkLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745955900000] Manolo Santana: Taylor Fritz v Casper Ruud (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtdGF5bG9yLWZyaXR6LXZzLWNhc3Blci1ydXVkLzM=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745955900000] Manolo Santana: Taylor Fritz v Casper Ruud (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtdGF5bG9yLWZyaXR6LXZzLWNhc3Blci1ydXVkLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/boxing-logo.png" group-title="FIGHT",[TIME|1745960400000] Ariel x Ade: The Boxing Show | Ep. 24 (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYXJpZWwteC1hZGUtdGhlLWJveGluZy1zaG93LWVwLTI0LzI=
@@ -662,6 +659,9 @@ watch/YWxwaGEvaW5kaWFuYS1wYWNlcnMtdnMtbWlsd2F1a2VlLWJ1Y2tzLzc=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745964000000] Indiana Pacers vs Milwaukee Bucks (HD|ALPHA8|ENG) [DATE]
 watch/YWxwaGEvaW5kaWFuYS1wYWNlcnMtdnMtbWlsd2F1a2VlLWJ1Y2tzLzg=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745964000000] Indiana Pacers vs Milwaukee Bucks (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvaW5kaWFuYS1wYWNlcnMtdnMtbWlsd2F1a2VlLWJ1Y2tzLWJhc2tldGJhbGwtNDQ4MTc5LzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745964000000] Indiana Pacers vs Milwaukee Bucks (SD|ALPHA10|ENG) [DATE]
 watch/YWxwaGEvaW5kaWFuYS1wYWNlcnMtdnMtbWlsd2F1a2VlLWJ1Y2tzLzEw
