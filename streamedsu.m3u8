@@ -264,23 +264,11 @@ watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYWxleGFuZGVyLXp2ZXJldi12cy1mcmFuY2lzY28tY2VydW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745942400000] WTA Madrid v Court 4 Azarenka/Krueger - Gauff/Montgomery (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTk0MjQwMDAwMC13dGEtbWFkcmlkLWNvdXJ0LTQtYXphcmVua2Eta3J1ZWdlci1nYXVmZi1tb250Z29tZXJ5LzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/episode-logo.png" group-title="FIGHT",[TIME|1745942700000] The Bare Knuckle Show with Brian Soscia: Season 2, Episode 99 (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvdGhlLWJhcmUta251Y2tsZS1zaG93LXdpdGgtYnJpYW4tc29zY2lhLXNlYXNvbi0yLWVwaXNvZGUtOTkvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/episode-logo.png" group-title="FIGHT",[TIME|1745942700000] The Bare Knuckle Show with Brian Soscia: Season 2, Episode 99 (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvdGhlLWJhcmUta251Y2tsZS1zaG93LXdpdGgtYnJpYW4tc29zY2lhLXNlYXNvbi0yLWVwaXNvZGUtOTkvMg==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745943600000] ATP Madrid v Court 5 Romboli/Smith - Gonzalez/Molteni (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTk0MzYwMDAwMC1hdHAtbWFkcmlkLWNvdXJ0LTUtcm9tYm9saS1zbWl0aC1nb256YWxlei1tb2x0ZW5pLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745943600000] ATP Madrid v Stadium 3 Granollers/Zeballos - Mpetshi Perricard/Olivetti (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTk0MzYwMDAwMC1hdHAtbWFkcmlkLXN0YWRpdW0tMy1ncmFub2xsZXJzLXplYmFsbG9zLW1wZXRzaGktcGVycmljYXJkLW9saXZldHRpLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745944500000] Court 4: Victoria Azarenka/Ashlyn Krueger v Coco Gauff/Robin Montgomery (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNC12aWN0b3JpYS1hemFyZW5rYS1hc2hseW4ta3J1ZWdlci12cy1jb2NvLWdhdWZmLXJvYmluLW1vbnRnb21lcnkvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745944500000] Court 4: Victoria Azarenka/Ashlyn Krueger v Coco Gauff/Robin Montgomery (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNC12aWN0b3JpYS1hemFyZW5rYS1hc2hseW4ta3J1ZWdlci12cy1jb2NvLWdhdWZmLXJvYmluLW1vbnRnb21lcnkvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745945100000] ATP Madrid v Court 6  Cobolli/Musetti - Mektic/Venus (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTk0NTEwMDAwMC1hdHAtbWFkcmlkLWNvdXJ0LTYtY29ib2xsaS1tdXNldHRpLW1la3RpYy12ZW51cy8x
@@ -398,6 +386,9 @@ watch/YnJhdm8vMTc0NTk1MTQwMDAwMC1wYXJpcy1mZW5lcmJhaGNlLXBvbGlzaC0vMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745951400000] Paris v Fenerbahce (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9wYXJpcy1iYXNrZXRiYWxsLXZzLWZlbmVyYmFoY2UtYmVrby1pc3RhbmJ1bC0xNjI5NDQxNjU2LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745951400000] Paris v Fenerbahce (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvcGFyaXMtdnMtZmVuZXJiYWhjZS1iYXNrZXRiYWxsLTQ0NzkxOS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745951400000] Paris v Fenerbahce (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvcGFyaXMtdnMtZmVuZXJiYWhjZS8z
@@ -585,6 +576,9 @@ watch/YnJhdm8vMTc0NTk1MzIwMDAwMC1yZWFsLW1hZHJpZC1vbHltcGlhY29zLXBvbGlzaC0vMw==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745953200000] Real Madrid v Olympiacos (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9yZWFsLW1hZHJpZC12cy1vbHltcGlhY29zLXBpcmFldXMtMTYyOTQ0MTY1Ny8x
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745953200000] Real Madrid v Olympiacos (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvcmVhbC1tYWRyaWQtdnMtb2x5bXBpYWNvcy1iYXNrZXRiYWxsLTQ0NzkyMC8x
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745953200000] Real Madrid v Olympiacos (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvcmVhbC1tYWRyaWQtdnMtb2x5bXBpYWNvcy8z
 
@@ -612,23 +606,20 @@ watch/YWxwaGEvY2FzYS1waWEtdnMtZXN0b3JpbC8y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745955000000] WTA Madrid v Arantxa Sanchez Stadium Kostyuk - Potapova (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NTk1NTAwMDAwMC13dGEtbWFkcmlkLWFyYW50eGEtc2FuY2hlei1zdGFkaXVtLWtvc3R5dWstcG90YXBvdmEvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745955600000] Manolo Santana: Taylor Fritz v Casper Ruud (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtdGF5bG9yLWZyaXR6LXZzLWNhc3Blci1ydXVkLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745955600000] Manolo Santana: Taylor Fritz v Casper Ruud (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtdGF5bG9yLWZyaXR6LXZzLWNhc3Blci1ydXVkLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745955600000] Manolo Santana: Taylor Fritz v Casper Ruud (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtdGF5bG9yLWZyaXR6LXZzLWNhc3Blci1ydXVkLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745956200000] Arantxa Sanchez: Marta Kostyuk v Anastasia Potapova (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LW1hcnRhLWtvc3R5dWstdnMtYW5hc3Rhc2lhLXBvdGFwb3ZhLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745956200000] Arantxa Sanchez: Marta Kostyuk v Anastasia Potapova (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745955300000] Arantxa Sanchez: Marta Kostyuk v Anastasia Potapova (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LW1hcnRhLWtvc3R5dWstdnMtYW5hc3Rhc2lhLXBvdGFwb3ZhLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745956200000] Arantxa Sanchez: Marta Kostyuk v Anastasia Potapova (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LW1hcnRhLWtvc3R5dWstdnMtYW5hc3Rhc2lhLXBvdGFwb3ZhLzM=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745955300000] Arantxa Sanchez: Marta Kostyuk v Anastasia Potapova (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LW1hcnRhLWtvc3R5dWstdnMtYW5hc3Rhc2lhLXBvdGFwb3ZhLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745955900000] Manolo Santana: Taylor Fritz v Casper Ruud (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtdGF5bG9yLWZyaXR6LXZzLWNhc3Blci1ydXVkLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745955900000] Manolo Santana: Taylor Fritz v Casper Ruud (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtdGF5bG9yLWZyaXR6LXZzLWNhc3Blci1ydXVkLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745955900000] Manolo Santana: Taylor Fritz v Casper Ruud (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtdGF5bG9yLWZyaXR6LXZzLWNhc3Blci1ydXVkLzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/boxing-logo.png" group-title="FIGHT",[TIME|1745960400000] Ariel x Ade: The Boxing Show | Ep. 24 (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYXJpZWwteC1hZGUtdGhlLWJveGluZy1zaG93LWVwLTI0LzI=
