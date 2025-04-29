@@ -360,59 +360,59 @@ watch/YWxwaGEvdGh3LWtpZWwtdnMtbGltb2dlcy8z
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745945400000] Court 5: Theo Arribage/Francisco Cerundolo v Maximo Gonzalez/Andres Molteni - cancelled (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNS10aGVvLWFycmliYWdlLWZyYW5jaXNjby1jZXJ1bmRvbG8tdnMtbWF4aW1vLWdvbnphbGV6LWFuZHJlcy1tb2x0ZW5pLWNhbmNlbGxlZC8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745945700000] Court 3: MarcelGranollers/Horacio Zeballos v Giovanni MpetshiPerricard/Albano Olivetti (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1tYXJjZWxncmFub2xsZXJzLWhvcmFjaW8temViYWxsb3MtdnMtZ2lvdmFubmktbXBldHNoaXBlcnJpY2FyZC1hbGJhbm8tb2xpdmV0dGkvMg==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745946000000] ATP Madrid v Arantxa Sanchez Stadium Medvedev - Nakashima (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTk0NjAwMDAwMC1hdHAtbWFkcmlkLWFyYW50eGEtc2FuY2hlei1zdGFkaXVtLW1lZHZlZGV2LW5ha2FzaGltYS8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745945700000] Court 3: MarcelGranollers/Horacio Zeballos v Giovanni MpetshiPerricard/Albano Olivetti (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1tYXJjZWxncmFub2xsZXJzLWhvcmFjaW8temViYWxsb3MtdnMtZ2lvdmFubmktbXBldHNoaXBlcnJpY2FyZC1hbGJhbm8tb2xpdmV0dGkvMQ==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745946000000] Falkenberg v Orebro (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTk0NjAwMDAwMC1mYWxrZW5iZXJnLW9yZWJyby8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745945700000] Court 3: MarcelGranollers/Horacio Zeballos v Giovanni MpetshiPerricard/Albano Olivetti (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1tYXJjZWxncmFub2xsZXJzLWhvcmFjaW8temViYWxsb3MtdnMtZ2lvdmFubmktbXBldHNoaXBlcnJpY2FyZC1hbGJhbm8tb2xpdmV0dGkvMw==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745946000000] Hodd v Ranheim (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTk0NjAwMDAwMC1ob2RkLXJhbmhlaW0vMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745946000000] Arantxa Sanchez: Daniil Medvedev v Brandon Nakashima (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWRhbmlpbC1tZWR2ZWRldi12cy1icmFuZG9uLW5ha2FzaGltYS8y
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745946000000] Malmo FF v Oster (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTk0NjAwMDAwMC1tYWxtby1mZi1vc3Rlci8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745946000000] Arantxa Sanchez: Daniil Medvedev v Brandon Nakashima (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745946000000] Rigas Zelli v Ventspils (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTk0NjAwMDAwMC1yaWdhcy16ZWxsaS12ZW50c3BpbHMvMQ==
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1745946000000] VK Lvi Prague v Karlovarsko (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTk0NjAwMDAwMC12ay1sdmktcHJhZ3VlLWthcmxvdmFyc2tvLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745946240000] Koping Stars v Norrkoping (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTk0NjI0MDAwMC1rb3Bpbmctc3RhcnMtbm9ycmtvcGluZy8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745946300000] Arantxa Sanchez: Daniil Medvedev v Brandon Nakashima (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWRhbmlpbC1tZWR2ZWRldi12cy1icmFuZG9uLW5ha2FzaGltYS8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745946000000] Arantxa Sanchez: Daniil Medvedev v Brandon Nakashima (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWRhbmlpbC1tZWR2ZWRldi12cy1icmFuZG9uLW5ha2FzaGltYS8z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745946300000] Arantxa Sanchez: Daniil Medvedev v Brandon Nakashima (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWRhbmlpbC1tZWR2ZWRldi12cy1icmFuZG9uLW5ha2FzaGltYS8y
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745946000000] Court 6: Lorenzo Musetti/Flavio Cobolli v Michael Venus/Nikola Mektic (HD|ALPHA2|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745946900000] WTA Saint Malo v Court 1 Mboko/Stakusic - Kalashnikova/Moratelli (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NTk0NjkwMDAwMC13dGEtc2FpbnQtbWFsby1jb3VydC0xLW1ib2tvLXN0YWt1c2ljLWthbGFzaG5pa292YS1tb3JhdGVsbGkvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745947200000] Court 3: MarcelGranollers/Horacio Zeballos v Giovanni MpetshiPerricard/Albano Olivetti (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY291cnQtMy1tYXJjZWxncmFub2xsZXJzLWhvcmFjaW8temViYWxsb3MtdnMtZ2lvdmFubmktbXBldHNoaXBlcnJpY2FyZC1hbGJhbm8tb2xpdmV0dGkvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745947200000] Court 3: MarcelGranollers/Horacio Zeballos v Giovanni MpetshiPerricard/Albano Olivetti (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtMy1tYXJjZWxncmFub2xsZXJzLWhvcmFjaW8temViYWxsb3MtdnMtZ2lvdmFubmktbXBldHNoaXBlcnJpY2FyZC1hbGJhbm8tb2xpdmV0dGkvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745947200000] Court 3: MarcelGranollers/Horacio Zeballos v Giovanni MpetshiPerricard/Albano Olivetti (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvY291cnQtMy1tYXJjZWxncmFub2xsZXJzLWhvcmFjaW8temViYWxsb3MtdnMtZ2lvdmFubmktbXBldHNoaXBlcnJpY2FyZC1hbGJhbm8tb2xpdmV0dGkvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745947800000] Court 6: Lorenzo Musetti/Flavio Cobolli v Michael Venus/Nikola Mektic (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNi1sb3JlbnpvLW11c2V0dGktZmxhdmlvLWNvYm9sbGktdnMtbWljaGFlbC12ZW51cy1uaWtvbGEtbWVrdGljLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745946000000] Court 6: Lorenzo Musetti/Flavio Cobolli v Michael Venus/Nikola Mektic (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745947800000] Court 6: Lorenzo Musetti/Flavio Cobolli v Michael Venus/Nikola Mektic (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNi1sb3JlbnpvLW11c2V0dGktZmxhdmlvLWNvYm9sbGktdnMtbWljaGFlbC12ZW51cy1uaWtvbGEtbWVrdGljLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745946000000] Court 6: Lorenzo Musetti/Flavio Cobolli v Michael Venus/Nikola Mektic (SD|ALPHA3|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745947800000] Court 6: Lorenzo Musetti/Flavio Cobolli v Michael Venus/Nikola Mektic (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNi1sb3JlbnpvLW11c2V0dGktZmxhdmlvLWNvYm9sbGktdnMtbWljaGFlbC12ZW51cy1uaWtvbGEtbWVrdGljLzM=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745946000000] Falkenberg v Orebro (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvZmFsa2VuYmVyZy12cy1vcmVicm8vMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745946000000] Falkenberg v Orebro (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvZmFsa2VuYmVyZy12cy1vcmVicm8vMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745946000000] Falkenberg v Orebro (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvZmFsa2VuYmVyZy12cy1vcmVicm8vMw==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745946000000] Malmo FF v Oster (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbWFsbW8tZmYtdnMtb3N0ZXIvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745946000000] Malmo FF v Oster (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbWFsbW8tZmYtdnMtb3N0ZXIvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745946000000] Malmo FF v Oster (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbWFsbW8tZmYtdnMtb3N0ZXIvMw==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745947800000] Spartak Moscow v Dynamo Moscow (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvc3BhcnRhay1tb3Njb3ctdnMtZHluYW1vLW1vc2Nvdy8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745947800000] Spartak Moscow v Dynamo Moscow (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745947800000] Spartak Moscow v Dynamo Moscow (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvc3BhcnRhay1tb3Njb3ctdnMtZHluYW1vLW1vc2Nvdy8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745947800000] Spartak Moscow v Dynamo Moscow (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvc3BhcnRhay1tb3Njb3ctdnMtZHluYW1vLW1vc2Nvdy8z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745947800000] Spartak Moscow v Dynamo Moscow (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvc3BhcnRhay1tb3Njb3ctdnMtZHluYW1vLW1vc2Nvdy8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1745948700000] Court 4: Lyudmyla Kichenok/Sofia Kenin v Veronika Kudermetova/Elise Mertens (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNC1seXVkbXlsYS1raWNoZW5vay1zb2ZpYS1rZW5pbi12cy12ZXJvbmlrYS1rdWRlcm1ldG92YS1lbGlzZS1tZXJ0ZW5zLzI=
