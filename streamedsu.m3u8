@@ -567,14 +567,11 @@ watch/YWxwaGEvdG95YW1hLXZzLW1vbnRlZGlvLXlhbWFnYXRhLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745902800000] Toyama v Montedio Yamagata (SD|ALPHA3|日本語) [DATE]
 watch/YWxwaGEvdG95YW1hLXZzLW1vbnRlZGlvLXlhbWFnYXRhLzM=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745902800000] Yokohama FC vs Kashima Antlers (HD|ALPHA2|日本語) [DATE]
-watch/YWxwaGEveW9rb2hhbWEtZmMtdnMta2FzaGltYS1hbnRsZXJzLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745902800000] Yokohama FC vs Kashima Antlers (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745902800000] Yokohama FC vs Kashima Antlers (HD|ALPHA1|日本語) [DATE]
 watch/YWxwaGEveW9rb2hhbWEtZmMtdnMta2FzaGltYS1hbnRsZXJzLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745902800000] Yokohama FC vs Kashima Antlers (SD|ALPHA3|日本語) [DATE]
-watch/YWxwaGEveW9rb2hhbWEtZmMtdnMta2FzaGltYS1hbnRsZXJzLzM=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1745902800000] Yokohama FC vs Kashima Antlers (SD|ALPHA2|日本語) [DATE]
+watch/YWxwaGEveW9rb2hhbWEtZmMtdnMta2FzaGltYS1hbnRsZXJzLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745902800000] Yomiuri Giants v Hiroshima Carp (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEveW9taXVyaS1naWFudHMtdnMtaGlyb3NoaW1hLWNhcnAvMQ==
