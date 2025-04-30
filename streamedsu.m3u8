@@ -423,8 +423,14 @@ watch/YWxwaGEvYnVyaXJhbS12cy1ub25nLWJ1YS1waXRjaGF5YS8y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746010800000] Buriram v Nong Bua Pitchaya (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvYnVyaXJhbS12cy1ub25nLWJ1YS1waXRjaGF5YS8z
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746010800000] Court 3: Alexander Erler/Constantin Frantzen v Henry Patten/Harri Heliovaara (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY291cnQtMy1hbGV4YW5kZXItZXJsZXItY29uc3RhbnRpbi1mcmFudHplbi12cy1oZW5yeS1wYXR0ZW4taGFycmktaGVsaW92YWFyYS8y
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746010800000] Court 3: Alexander Erler/Constantin Frantzen v Henry Patten/Harri Heliovaara (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY291cnQtMy1hbGV4YW5kZXItZXJsZXItY29uc3RhbnRpbi1mcmFudHplbi12cy1oZW5yeS1wYXR0ZW4taGFycmktaGVsaW92YWFyYS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746010800000] Court 3: Alexander Erler/Constantin Frantzen v Henry Patten/Harri Heliovaara (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvY291cnQtMy1hbGV4YW5kZXItZXJsZXItY29uc3RhbnRpbi1mcmFudHplbi12cy1oZW5yeS1wYXR0ZW4taGFycmktaGVsaW92YWFyYS8z
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746010800000] Court 5: Hsieh Su-wei/Jelena Ostapenko v Laura Siegemund/Beatriz HaddadMaia (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNS1oc2llaC1zdS13ZWktamVsZW5hLW9zdGFwZW5rby12cy1sYXVyYS1zaWVnZW11bmQtYmVhdHJpei1oYWRkYWRtYWlhLzI=
