@@ -273,10 +273,10 @@ watch/YWxwaGEvY2xldmVsYW5kLWd1YXJkaWFucy12cy1taW5uZXNvdGEtdHdpbnMvMw==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745964600000] Cleveland Guardians vs Minnesota Twins (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvY2xldmVsYW5kLWd1YXJkaWFucy12cy1taW5uZXNvdGEtdHdpbnMvNA==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745966400000] Cincinnati Reds vs St. Louis Cardinals (HD|BRAVO1|AWA) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745966400000] St.Louis Cardinals v Cincinnati Reds (HD|BRAVO1|AWA) [DATE]
 watch/YnJhdm8vMTc0NTk2NjQwMDAwMC1zdC1sb3Vpcy1jYXJkaW5hbHMtdnMtY2luY2lubmF0aS1yZWRzLWF3YXktZmVlZC0vMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745966400000] Cincinnati Reds vs St. Louis Cardinals (HD|BRAVO2|HOM) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745966400000] St.Louis Cardinals v Cincinnati Reds (HD|BRAVO2|HOM) [DATE]
 watch/YnJhdm8vMTc0NTk2NjQwMDAwMC1zdC1sb3Vpcy1jYXJkaW5hbHMtdnMtY2luY2lubmF0aS1yZWRzLWhvbWUtZmVlZC0vMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745970000000] Chicago White Sox vs Milwaukee Brewers (HD|BRAVO1|AWA) [DATE]
@@ -387,9 +387,6 @@ watch/YWxwaGEvdmVnYXMtZ29sZGVuLWtuaWdodHMtdnMtbWlubmVzb3RhLXdpbGQvMg==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745976600000] Vegas Golden Knights vs Minnesota Wild (HD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvdmVnYXMtZ29sZGVuLWtuaWdodHMtdnMtbWlubmVzb3RhLXdpbGQvMw==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745976600000] Vegas Golden Knights vs Minnesota Wild (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9taW5uZXNvdGEtd2lsZC12cy12ZWdhcy1nb2xkZW4ta25pZ2h0cy0xNjI5NDQxNjU0LzE=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745976600000] Vegas Golden Knights vs Minnesota Wild (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvdmVnYXMtZ29sZGVuLWtuaWdodHMtdnMtbWlubmVzb3RhLXdpbGQtaG9ja2V5LTM5NDE0Mi8x
 
@@ -441,21 +438,6 @@ watch/YWxwaGEvZGVudmVyLW51Z2dldHMtdnMtbG9zLWFuZ2VsZXMtY2xpcHBlcnMvNQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745978400000] Denver Nuggets vs Los Angeles Clippers (HD|ALPHA6|ENG) [DATE]
 watch/YWxwaGEvZGVudmVyLW51Z2dldHMtdnMtbG9zLWFuZ2VsZXMtY2xpcHBlcnMvNg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745978400000] Denver Nuggets vs Los Angeles Clippers (HD|BRAVO1|NAT) [DATE]
-watch/YnJhdm8vMTc0NTk3ODQwMDAwMC1sb3MtYW5nZWxlcy1jbGlwcGVycy12cy1kZW52ZXItbnVnZ2V0cy1uYXRpb25hbC1mZWVkLS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745978400000] Denver Nuggets vs Los Angeles Clippers (HD|BRAVO2|AWA) [DATE]
-watch/YnJhdm8vMTc0NTk3ODQwMDAwMC1sb3MtYW5nZWxlcy1jbGlwcGVycy12cy1kZW52ZXItbnVnZ2V0cy1hd2F5LWZlZWQtLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745978400000] Denver Nuggets vs Los Angeles Clippers (HD|BRAVO3|HOM) [DATE]
-watch/YnJhdm8vMTc0NTk3ODQwMDAwMC1sb3MtYW5nZWxlcy1jbGlwcGVycy12cy1kZW52ZXItbnVnZ2V0cy1ob21lLWZlZWQtLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745978400000] Denver Nuggets vs Los Angeles Clippers (HD|BRAVO4|SPA) [DATE]
-watch/YnJhdm8vMTc0NTk3ODQwMDAwMC1sb3MtYW5nZWxlcy1jbGlwcGVycy12cy1kZW52ZXItbnVnZ2V0cy1zcGFuaXNoLS80
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745978400000] Denver Nuggets vs Los Angeles Clippers (HD|BRAVO5|POR) [DATE]
-watch/YnJhdm8vMTc0NTk3ODQwMDAwMC1sb3MtYW5nZWxlcy1jbGlwcGVycy12cy1kZW52ZXItbnVnZ2V0cy1wb3J0dWd1ZXNlLS81
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745978400000] Denver Nuggets vs Los Angeles Clippers (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9sb3MtYW5nZWxlcy1jbGlwcGVycy12cy1kZW52ZXItbnVnZ2V0cy0xNjI5NDQxNjc2LzE=
 
@@ -498,18 +480,6 @@ watch/YWxwaGEvbG9zLWFuZ2VsZXMta2luZ3MtdnMtZWRtb250b24tb2lsZXJzLzI=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745978400000] Los Angeles Kings vs Edmonton Oilers (HD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvbG9zLWFuZ2VsZXMta2luZ3MtdnMtZWRtb250b24tb2lsZXJzLzM=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745978400000] Los Angeles Kings vs Edmonton Oilers (HD|BRAVO1|NAT) [DATE]
-watch/YnJhdm8vMTc0NTk3ODQwMDAwMC1lZG1vbnRvbi1vaWxlcnMtdnMtbG9zLWFuZ2VsZXMta2luZ3MtbmF0aW9uYWwtZmVlZC0vMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745978400000] Los Angeles Kings vs Edmonton Oilers (HD|BRAVO2|AWA) [DATE]
-watch/YnJhdm8vMTc0NTk3ODQwMDAwMC1lZG1vbnRvbi1vaWxlcnMtdnMtbG9zLWFuZ2VsZXMta2luZ3MtYXdheS1mZWVkLS8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745978400000] Los Angeles Kings vs Edmonton Oilers (HD|BRAVO3|HOM) [DATE]
-watch/YnJhdm8vMTc0NTk3ODQwMDAwMC1lZG1vbnRvbi1vaWxlcnMtdnMtbG9zLWFuZ2VsZXMta2luZ3MtaG9tZS1mZWVkLS8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745978400000] Los Angeles Kings vs Edmonton Oilers (HD|BRAVO4|FRE) [DATE]
-watch/YnJhdm8vMTc0NTk3ODQwMDAwMC1lZG1vbnRvbi1vaWxlcnMtdnMtbG9zLWFuZ2VsZXMta2luZ3MtZnJlbmNoLS80
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745978400000] Los Angeles Kings vs Edmonton Oilers (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9lZG1vbnRvbi1vaWxlcnMtdnMtbG9zLWFuZ2VsZXMta2luZ3MtMTYyOTQ0MTY1NS8x
 
@@ -525,12 +495,6 @@ watch/YWxwaGEvbG9zLWFuZ2VsZXMta2luZ3MtdnMtZWRtb250b24tb2lsZXJzLzU=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1745978400000] Los Angeles Kings vs Edmonton Oilers (SD|ALPHA6|ENG) [DATE]
 watch/YWxwaGEvbG9zLWFuZ2VsZXMta2luZ3MtdnMtZWRtb250b24tb2lsZXJzLzY=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745979000000] Los Angeles Dodgers vs Miami Marlins (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbG9zLWFuZ2VsZXMtZG9kZ2Vycy12cy1taWFtaS1tYXJsaW5zLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745979000000] Los Angeles Dodgers vs Miami Marlins (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbG9zLWFuZ2VsZXMtZG9kZ2Vycy12cy1taWFtaS1tYXJsaW5zLzI=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745979000000] Los Angeles Dodgers vs Miami Marlins (HD|BRAVO1|AWA) [DATE]
 watch/YnJhdm8vMTc0NTk3OTAwMDAwMC1taWFtaS1tYXJsaW5zLXZzLWxvcy1hbmdlbGVzLWRvZGdlcnMtYXdheS1mZWVkLS8x
 
@@ -539,12 +503,6 @@ watch/YnJhdm8vMTc0NTk3OTAwMDAwMC1taWFtaS1tYXJsaW5zLXZzLWxvcy1hbmdlbGVzLWRvZGdlcn
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745979000000] Los Angeles Dodgers vs Miami Marlins (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9taWFtaS1tYXJsaW5zLXZzLWxvcy1hbmdlbGVzLWRvZGdlcnMtMTYyOTQ0MTY3NS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745979000000] Los Angeles Dodgers vs Miami Marlins (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbG9zLWFuZ2VsZXMtZG9kZ2Vycy12cy1taWFtaS1tYXJsaW5zLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1745979000000] Los Angeles Dodgers vs Miami Marlins (SD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEvbG9zLWFuZ2VsZXMtZG9kZ2Vycy12cy1taWFtaS1tYXJsaW5zLzQ=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1745996400000] Auckland Tuatara vs Otago Nuggets (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYXVja2xhbmQtdHVhdGFyYS12cy1vdGFnby1udWdnZXRzLzI=
