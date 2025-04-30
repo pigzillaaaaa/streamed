@@ -318,15 +318,6 @@ watch/YWxwaGEvYW5hZG9sdS1lZmVzLXZzLXBhbmF0aGluYWlrb3MvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746035100000] Anadolu Efes v Panathinaikos (HD|ALPHA2|ITA) [DATE]
 watch/YWxwaGEvYW5hZG9sdS1lZmVzLXZzLXBhbmF0aGluYWlrb3MvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746035100000] Anadolu Efes v Panathinaikos (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjAzNTEwMDAwMC1hbmFkb2x1LWVmZXMtcGFuYXRoaW5haWtvcy1lbmdsaXNoLS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746035100000] Anadolu Efes v Panathinaikos (HD|BRAVO2|SPA) [DATE]
-watch/YnJhdm8vMTc0NjAzNTEwMDAwMC1hbmFkb2x1LWVmZXMtcGFuYXRoaW5haWtvcy1zcGFuaXNoLS8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746035100000] Anadolu Efes v Panathinaikos (HD|BRAVO3|POL) [DATE]
-watch/YnJhdm8vMTc0NjAzNTEwMDAwMC1hbmFkb2x1LWVmZXMtcGFuYXRoaW5haWtvcy1wb2xpc2gtLzM=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746035100000] Anadolu Efes v Panathinaikos (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9hbmFkb2x1LWVmZXMtaXN0YW5idWwtdnMtcGFuYXRoaW5haWtvcy1ha3Rvci1hdGhlbnMtMTYyOTQ0MTY4Mi8x
 
@@ -441,6 +432,9 @@ watch/ZGVsdGEvYmxhY2twb29sLXZzLWJpcm1pbmdoYW0tZm9vdGJhbGwtMTIxNjg4OC8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746038700000] Blackpool vs Birmingham (HD|DELTA2|) [DATE]
 watch/ZGVsdGEvYmxhY2twb29sLXZzLWJpcm1pbmdoYW0tZm9vdGJhbGwtMTIxNjg4OC8y
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746038700000] Blackpool vs Birmingham (HD|DELTA3|) [DATE]
+watch/ZGVsdGEvYmxhY2twb29sLXZzLWJpcm1pbmdoYW0tZm9vdGJhbGwtMTIxNjg4OC8z
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746038700000] Blackpool vs Birmingham (HD|ECHO1|LEA) [DATE]
 watch/ZWNoby9ibGFja3Bvb2wtYmlybWluZ2hhbS0yNjQyNS8x
 
@@ -461,6 +455,9 @@ watch/ZGVsdGEvbWFuc2ZpZWxkLXRvd24tdnMtcGV0ZXJib3JvdWdoLWZvb3RiYWxsLTEyMTY4OTQvMQ
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746038700000] Mansfield vs Peterboro (HD|DELTA2|) [DATE]
 watch/ZGVsdGEvbWFuc2ZpZWxkLXRvd24tdnMtcGV0ZXJib3JvdWdoLWZvb3RiYWxsLTEyMTY4OTQvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746038700000] Mansfield vs Peterboro (HD|DELTA3|) [DATE]
+watch/ZGVsdGEvbWFuc2ZpZWxkLXRvd24tdnMtcGV0ZXJib3JvdWdoLWZvb3RiYWxsLTEyMTY4OTQvMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746038700000] Mansfield vs Peterboro (HD|ECHO1|LEA) [DATE]
 watch/ZWNoby9tYW5zZmllbGQtdG93bi1wZXRlcmJvcm91Z2gtMjY0MjcvMQ==
@@ -1421,21 +1418,6 @@ watch/YWxwaGEvc3BlemlhLXZzLXNhbGVybml0YW5hLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746108000000] Club Brugge vs Gent (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY2x1Yi1icnVnZ2UtdnMta2FhLWdlbnQvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746108000000] Rajasthan Royals vs Mumbai Indians (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvcmFqYXN0aGFuLXJveWFscy12cy1tdW1iYWktaW5kaWFucy8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746108000000] Rajasthan Royals vs Mumbai Indians (HD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvcmFqYXN0aGFuLXJveWFscy12cy1tdW1iYWktaW5kaWFucy8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746108000000] Rajasthan Royals vs Mumbai Indians (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvcmFqYXN0aGFuLXJveWFscy12cy1tdW1iYWktaW5kaWFucy8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746108000000] Rajasthan Royals vs Mumbai Indians (SD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEvcmFqYXN0aGFuLXJveWFscy12cy1tdW1iYWktaW5kaWFucy80
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746108000000] Rajasthan Royals vs Mumbai Indians (SD|ALPHA5|ENG) [DATE]
-watch/YWxwaGEvcmFqYXN0aGFuLXJveWFscy12cy1tdW1iYWktaW5kaWFucy81
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746111600000] Nigeria U20 v Tunisia U20 (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9uaWdlcmlhLXUyMC12cy10dW5pc2lhLXUyMC0xMzcxNTA4LzE=
