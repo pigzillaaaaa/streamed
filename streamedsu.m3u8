@@ -297,92 +297,41 @@ watch/YWxwaGEveW9taXVyaS1naWFudHMtdnMtaGlyb3NoaW1hLWNhcnAvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746003600000] Yomiuri Giants v Hiroshima Carp (SD|ALPHA2|日本語) [DATE]
 watch/YWxwaGEveW9taXVyaS1naWFudHMtdnMtaGlyb3NoaW1hLWNhcnAvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746010800000] Arantxa Sanchez: Frances Tiafoe v Matteo Arnaldi (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWZyYW5jZXMtdGlhZm9lLXZzLW1hdHRlby1hcm5hbGRpLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746010800000] Arantxa Sanchez: Frances Tiafoe v Matteo Arnaldi (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746011100000] Arantxa Sanchez: Frances Tiafoe v Matteo Arnaldi (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWZyYW5jZXMtdGlhZm9lLXZzLW1hdHRlby1hcm5hbGRpLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746010800000] Arantxa Sanchez: Frances Tiafoe v Matteo Arnaldi (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWZyYW5jZXMtdGlhZm9lLXZzLW1hdHRlby1hcm5hbGRpLzM=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746011100000] Arantxa Sanchez: Frances Tiafoe v Matteo Arnaldi (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWZyYW5jZXMtdGlhZm9lLXZzLW1hdHRlby1hcm5hbGRpLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746010800000] Buriram v Nong Bua Pitchaya (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvYnVyaXJhbS12cy1ub25nLWJ1YS1waXRjaGF5YS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746010800000] Buriram v Nong Bua Pitchaya (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvYnVyaXJhbS12cy1ub25nLWJ1YS1waXRjaGF5YS8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746010800000] Buriram v Nong Bua Pitchaya (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvYnVyaXJhbS12cy1ub25nLWJ1YS1waXRjaGF5YS8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746010800000] Court 3: Alexander Erler/Constantin Frantzen v Henry Patten/Harri Heliovaara (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1hbGV4YW5kZXItZXJsZXItY29uc3RhbnRpbi1mcmFudHplbi12cy1oZW5yeS1wYXR0ZW4taGFycmktaGVsaW92YWFyYS8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746010800000] Court 3: Alexander Erler/Constantin Frantzen v Henry Patten/Harri Heliovaara (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746011100000] Court 3: Alexander Erler/Constantin Frantzen v Henry Patten/Harri Heliovaara (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY291cnQtMy1hbGV4YW5kZXItZXJsZXItY29uc3RhbnRpbi1mcmFudHplbi12cy1oZW5yeS1wYXR0ZW4taGFycmktaGVsaW92YWFyYS8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746010800000] Court 3: Alexander Erler/Constantin Frantzen v Henry Patten/Harri Heliovaara (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1hbGV4YW5kZXItZXJsZXItY29uc3RhbnRpbi1mcmFudHplbi12cy1oZW5yeS1wYXR0ZW4taGFycmktaGVsaW92YWFyYS8z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746011100000] Court 3: Alexander Erler/Constantin Frantzen v Henry Patten/Harri Heliovaara (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY291cnQtMy1hbGV4YW5kZXItZXJsZXItY29uc3RhbnRpbi1mcmFudHplbi12cy1oZW5yeS1wYXR0ZW4taGFycmktaGVsaW92YWFyYS8y
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746010800000] Court 5: Hsieh Su-wei/Jelena Ostapenko v Laura Siegemund/Beatriz HaddadMaia (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNS1oc2llaC1zdS13ZWktamVsZW5hLW9zdGFwZW5rby12cy1sYXVyYS1zaWVnZW11bmQtYmVhdHJpei1oYWRkYWRtYWlhLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746010800000] Court 5: Hsieh Su-wei/Jelena Ostapenko v Laura Siegemund/Beatriz HaddadMaia (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746011100000] Court 5: Hsieh Su-wei/Jelena Ostapenko v Laura Siegemund/Beatriz HaddadMaia (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY291cnQtNS1oc2llaC1zdS13ZWktamVsZW5hLW9zdGFwZW5rby12cy1sYXVyYS1zaWVnZW11bmQtYmVhdHJpei1oYWRkYWRtYWlhLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746010800000] Court 5: Hsieh Su-wei/Jelena Ostapenko v Laura Siegemund/Beatriz HaddadMaia (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNS1oc2llaC1zdS13ZWktamVsZW5hLW9zdGFwZW5rby12cy1sYXVyYS1zaWVnZW11bmQtYmVhdHJpei1oYWRkYWRtYWlhLzM=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746011100000] Court 5: Hsieh Su-wei/Jelena Ostapenko v Laura Siegemund/Beatriz HaddadMaia (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNS1oc2llaC1zdS13ZWktamVsZW5hLW9zdGFwZW5rby12cy1sYXVyYS1zaWVnZW11bmQtYmVhdHJpei1oYWRkYWRtYWlhLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746010800000] Manolo Santana: Madison Keys v Iga Swiatek (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtbWFkaXNvbi1rZXlzLXZzLWlnYS1zd2lhdGVrLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746010800000] Manolo Santana: Madison Keys v Iga Swiatek (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746011100000] Manolo Santana: Madison Keys v Iga Swiatek (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtbWFkaXNvbi1rZXlzLXZzLWlnYS1zd2lhdGVrLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746010800000] Manolo Santana: Madison Keys v Iga Swiatek (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtbWFkaXNvbi1rZXlzLXZzLWlnYS1zd2lhdGVrLzM=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746011100000] Manolo Santana: Madison Keys v Iga Swiatek (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtbWFkaXNvbi1rZXlzLXZzLWlnYS1zd2lhdGVrLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746010800000] Nakhon Pathom v Ratchaburi (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbmFraG9uLXBhdGhvbS12cy1yYXRjaGFidXJpLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746010800000] Nakhon Pathom v Ratchaburi (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbmFraG9uLXBhdGhvbS12cy1yYXRjaGFidXJpLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746010800000] Nakhon Pathom v Ratchaburi (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbmFraG9uLXBhdGhvbS12cy1yYXRjaGFidXJpLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746010800000] Port FC vs Rayong FC (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvcG9ydC1tdGktZmMtdnMtcmF5b25nLWZjLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746010800000] Port FC vs Rayong FC (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvcG9ydC1tdGktZmMtdnMtcmF5b25nLWZjLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746010800000] Port FC vs Rayong FC (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvcG9ydC1tdGktZmMtdnMtcmF5b25nLWZjLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746010800000] Prachuap v Bangkok Utd (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvcHJhY2h1YXAtdnMtYmFuZ2tvay11dGQvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746010800000] Prachuap v Bangkok Utd (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvcHJhY2h1YXAtdnMtYmFuZ2tvay11dGQvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746010800000] Prachuap v Bangkok Utd (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvcHJhY2h1YXAtdnMtYmFuZ2tvay11dGQvMw==
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746012600000] Tour of Turkey | Stage 4 (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtNC8y
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746012600000] Tour of Turkey | Stage 4 (HD|ALPHA3|ESP) [DATE]
-watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtNC8z
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746012600000] Tour of Turkey | Stage 4 (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746012600000] Tour of Turkey | Stage 4 (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtNC8x
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746012600000] Tour of Turkey | Stage 4 (SD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtNC80
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746012600000] Tour of Turkey | Stage 4 (HD|ALPHA2|ESP) [DATE]
+watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtNC8y
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746012600000] Tour of Turkey | Stage 4 (SD|ALPHA5|ESP) [DATE]
-watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtNC81
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746012600000] Tour of Turkey | Stage 4 (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtNC8z
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746012600000] Tour of Turkey | Stage 4 (SD|ALPHA4|ESP) [DATE]
+watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtNC80
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746016200000] Court 3: Mate Pavic/Marcelo Arevalo v Jamie Murray/Rajeev Ram (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY291cnQtMy1tYXRlLXBhdmljLW1hcmNlbG8tYXJldmFsby12cy1qYW1pZS1tdXJyYXktcmFqZWV2LXJhbS8y
