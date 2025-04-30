@@ -264,11 +264,35 @@ watch/YnJhdm8vMTc0NjAyODgwMDAwMC16YXdpZXJjaWUtbHVibGluLXBvbGlzaC0vMQ==
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746028800000] Zawiercie v Lublin (HD|BRAVO2|AMB) [DATE]
 watch/YnJhdm8vMTc0NjAyODgwMDAwMC16YXdpZXJjaWUtbHVibGluLWFtYmllbnQtLzI=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746031200000] Cincinnati Reds vs St. Louis Cardinals (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY2luY2lubmF0aS1yZWRzLXZzLXN0LWxvdWlzLWNhcmRpbmFscy8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746031200000] Cincinnati Reds vs St. Louis Cardinals (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY2luY2lubmF0aS1yZWRzLXZzLXN0LWxvdWlzLWNhcmRpbmFscy8y
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746031200000] Cincinnati Reds vs St. Louis Cardinals (HD|BRAVO1|AWA) [DATE]
 watch/YnJhdm8vMTc0NjAzMTIwMDAwMC1zdC1sb3Vpcy1jYXJkaW5hbHMtdnMtY2luY2lubmF0aS1yZWRzLWF3YXktZmVlZC0vMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746031200000] Cincinnati Reds vs St. Louis Cardinals (HD|BRAVO2|HOM) [DATE]
 watch/YnJhdm8vMTc0NjAzMTIwMDAwMC1zdC1sb3Vpcy1jYXJkaW5hbHMtdnMtY2luY2lubmF0aS1yZWRzLWhvbWUtZmVlZC0vMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746031200000] Cincinnati Reds vs St. Louis Cardinals (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvY2luY2lubmF0aS1yZWRzLXZzLXN0LWxvdWlzLWNhcmRpbmFscy8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746031200000] Cincinnati Reds vs St. Louis Cardinals (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvY2luY2lubmF0aS1yZWRzLXZzLXN0LWxvdWlzLWNhcmRpbmFscy80
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746032400000] Aston Villa W vs Arsenal W (HD|FOXTROT1|) [DATE]
+watch/Zm94dHJvdC9hc3Rvbi12aWxsYS13LXZzLWFyc2VuYWwtdy0yMDI1MDQyNzEyMzAvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746032400000] Aston Villa W vs Arsenal W (HD|FOXTROT2|) [DATE]
+watch/Zm94dHJvdC9hc3Rvbi12aWxsYS13LXZzLWFyc2VuYWwtdy0yMDI1MDQyNzEyMzAvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746032400000] Aston Villa W vs Arsenal W (HD|FOXTROT3|) [DATE]
+watch/Zm94dHJvdC9hc3Rvbi12aWxsYS13LXZzLWFyc2VuYWwtdy0yMDI1MDQyNzEyMzAvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746032400000] Aston Villa W vs Arsenal W (HD|FOXTROT4|) [DATE]
+watch/Zm94dHJvdC9hc3Rvbi12aWxsYS13LXZzLWFyc2VuYWwtdy0yMDI1MDQyNzEyMzAvNA==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746032400000] Barcelona v Monaco (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYmFyY2Vsb25hLXZzLW1vbmFjby8x
@@ -471,6 +495,12 @@ watch/ZGVsdGEvbWFuc2ZpZWxkLXRvd24tdnMtcGV0ZXJib3JvdWdoLWZvb3RiYWxsLTEyMTY4OTQvMw
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746038700000] Mansfield vs Peterboro (HD|ECHO1|LEA) [DATE]
 watch/ZWNoby9tYW5zZmllbGQtdG93bi1wZXRlcmJvcm91Z2gtMjY0MjcvMQ==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746038700000] Mansfield vs Peterboro (HD|FOXTROT1|) [DATE]
+watch/Zm94dHJvdC9tYW5zZmllbGQtdG93bi12cy1wZXRlcmJvcm91Z2gtMjAyNTA0MTIxMzMwLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746038700000] Mansfield vs Peterboro (HD|FOXTROT2|) [DATE]
+watch/Zm94dHJvdC9tYW5zZmllbGQtdG93bi12cy1wZXRlcmJvcm91Z2gtMjAyNTA0MTIxMzMwLzI=
+
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746038700000] Sporting v Nantes (HD|ALPHA1|POR) [DATE]
 watch/YWxwaGEvc3BvcnRpbmctdnMtbmFudGVzLzE=
 
@@ -539,6 +569,18 @@ watch/ZWNoby9iYXJjZWxvbmEtaW50ZXItMjczODUvNA==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Inter (HD|ECHO5|CBS) [DATE]
 watch/ZWNoby9iYXJjZWxvbmEtaW50ZXItMjczODUvNQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Inter (HD|FOXTROT1|) [DATE]
+watch/Zm94dHJvdC9iYXJjZWxvbmEtdnMtaW50ZXItMjAyNTA0MzAxODMwLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Inter (HD|FOXTROT2|) [DATE]
+watch/Zm94dHJvdC9iYXJjZWxvbmEtdnMtaW50ZXItMjAyNTA0MzAxODMwLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Inter (HD|FOXTROT3|) [DATE]
+watch/Zm94dHJvdC9iYXJjZWxvbmEtdnMtaW50ZXItMjAyNTA0MzAxODMwLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Inter (HD|FOXTROT4|) [DATE]
+watch/Zm94dHJvdC9iYXJjZWxvbmEtdnMtaW50ZXItMjAyNTA0MzAxODMwLzQ=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Internazionale (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYmFyY2Vsb25hLXZzLWludGVybmF6aW9uYWxlLzE=
@@ -669,8 +711,41 @@ watch/YWxwaGEvbWFuY2hlc3Rlci11bml0ZWQtdy12cy1jaGVsc2VhLXcvMg==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|ALPHA3|ESP) [DATE]
 watch/YWxwaGEvbWFuY2hlc3Rlci11bml0ZWQtdy12cy1jaGVsc2VhLXcvMw==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjA0MDUwMDAwMC1tYW5jaGVzdGVyLXVuaXRlZC13LWNoZWxzZWEtdy1lbmdsaXNoLS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|BRAVO2|SPA) [DATE]
+watch/YnJhdm8vMTc0NjA0MDUwMDAwMC1tYW5jaGVzdGVyLXVuaXRlZC13LWNoZWxzZWEtdy1zcGFuaXNoLS8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9tYW5jaGVzdGVyLXVuaXRlZC13LXZzLWNoZWxzZWEtdy0xMjU0ODYzLzE=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvbWFuY2hlc3Rlci11bml0ZWQtdy12cy1jaGVsc2VhLXctZm9vdGJhbGwtMTI1NDg2My8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvbWFuY2hlc3Rlci11bml0ZWQtdy12cy1jaGVsc2VhLXctZm9vdGJhbGwtMTI1NDg2My8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|DELTA3|) [DATE]
+watch/ZGVsdGEvbWFuY2hlc3Rlci11bml0ZWQtdy12cy1jaGVsc2VhLXctZm9vdGJhbGwtMTI1NDg2My8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|DELTA4|) [DATE]
+watch/ZGVsdGEvbWFuY2hlc3Rlci11bml0ZWQtdy12cy1jaGVsc2VhLXctZm9vdGJhbGwtMTI1NDg2My80
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|DELTA5|) [DATE]
+watch/ZGVsdGEvbWFuY2hlc3Rlci11bml0ZWQtdy12cy1jaGVsc2VhLXctZm9vdGJhbGwtMTI1NDg2My81
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|FOXTROT1|) [DATE]
+watch/Zm94dHJvdC9tYW5jaGVzdGVyLXVuaXRlZC13LXZzLWNoZWxzZWEtdy0yMDI1MDQyNzEwMzAvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|FOXTROT2|) [DATE]
+watch/Zm94dHJvdC9tYW5jaGVzdGVyLXVuaXRlZC13LXZzLWNoZWxzZWEtdy0yMDI1MDQyNzEwMzAvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|FOXTROT3|) [DATE]
+watch/Zm94dHJvdC9tYW5jaGVzdGVyLXVuaXRlZC13LXZzLWNoZWxzZWEtdy0yMDI1MDQyNzEwMzAvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|FOXTROT4|) [DATE]
+watch/Zm94dHJvdC9tYW5jaGVzdGVyLXVuaXRlZC13LXZzLWNoZWxzZWEtdy0yMDI1MDQyNzEwMzAvNA==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvbWFuY2hlc3Rlci11bml0ZWQtdy12cy1jaGVsc2VhLXcvNA==
@@ -680,21 +755,6 @@ watch/YWxwaGEvbWFuY2hlc3Rlci11bml0ZWQtdy12cy1jaGVsc2VhLXcvNQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (SD|ALPHA6|ESP) [DATE]
 watch/YWxwaGEvbWFuY2hlc3Rlci11bml0ZWQtdy12cy1jaGVsc2VhLXcvNg==
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746040500000] Manchester United W vs Chelsea W (HD|FOXTROT1|) [DATE]
-watch/Zm94dHJvdC9tYW5jaGVzdGVyLXVuaXRlZC13LXZzLWNoZWxzZWEtdy0yMDI1MDQyNzEwMzAvMQ==
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746040500000] Manchester United W vs Chelsea W (HD|FOXTROT2|) [DATE]
-watch/Zm94dHJvdC9tYW5jaGVzdGVyLXVuaXRlZC13LXZzLWNoZWxzZWEtdy0yMDI1MDQyNzEwMzAvMg==
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746040500000] Manchester United W vs Chelsea W (HD|FOXTROT3|) [DATE]
-watch/Zm94dHJvdC9tYW5jaGVzdGVyLXVuaXRlZC13LXZzLWNoZWxzZWEtdy0yMDI1MDQyNzEwMzAvMw==
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746040500000] Manchester United W vs Chelsea W (HD|FOXTROT4|) [DATE]
-watch/Zm94dHJvdC9tYW5jaGVzdGVyLXVuaXRlZC13LXZzLWNoZWxzZWEtdy0yMDI1MDQyNzEwMzAvNA==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746041400000] Madrid QF 2 (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9tYWRyaWQtcWYtMi0xNjI5NDQxNjg3LzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746041400000] Manolo Santana: Alexde Minaur v Lorenzo Musetti (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYWxleGRlLW1pbmF1ci12cy1sb3JlbnpvLW11c2V0dGkvMg==
@@ -1116,7 +1176,7 @@ watch/Y2hhcmxpZS9pbnRlci1taWFtaS12cy12YW5jb3V2ZXItd2hpdGVjYXBzLTEzNzA3NDMvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746057600000] Inter Miami vs Vancouver Whitecaps (HD|CHARLIE2|ENG) [DATE]
 watch/Y2hhcmxpZS9pbnRlci1taWFtaS12cy12YW5jb3V2ZXItd2hpdGVjYXBzLTEzNzA3NDMvMg==
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746057600000] Inter Miami vs Vancouver Whitecaps (HD|FOXTROT1|) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746057600000] Inter Miami vs Vancouver Whitecaps (HD|FOXTROT1|) [DATE]
 watch/Zm94dHJvdC9pbnRlci1taWFtaS12cy12YW5jb3V2ZXItd2hpdGVjYXBzLTIwMjUwNDMwMjMzMC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746057600000] Inter Miami vs Vancouver Whitecaps (SD|ALPHA1|ENG) [DATE]
