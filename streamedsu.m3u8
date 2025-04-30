@@ -255,117 +255,1299 @@ watch/YWxwaGEvd3dlLW5ldHdvcmsvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/live-logo.png" group-title="24/7",[TIME|0] WWE Network (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd3dlLW5ldHdvcmsvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1746003600000] World Snooker Championship (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvd29ybGQtc25vb2tlci1jaGFtcGlvbnNoaXAvMQ==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746028800000] CSM Reşiţa vs FC Voluntari (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjAyODgwMDAwMC1jc20tcmVzaXRhLWZjLXZvbHVudGFyaS8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1746003600000] World Snooker Championship (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvd29ybGQtc25vb2tlci1jaGFtcGlvbnNoaXAvMg==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746028800000] Milsami v Sparta Selemet (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjAyODgwMDAwMC1taWxzYW1pLXNwYXJ0YS1zZWxlbWV0LzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746017100000] Court 3: Mate Pavic/Marcelo Arevalo v Jamie Murray/Rajeev Ram (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1tYXRlLXBhdmljLW1hcmNlbG8tYXJldmFsby12cy1qYW1pZS1tdXJyYXktcmFqZWV2LXJhbS8x
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746028800000] Neptunas v Kauno Zalgiris (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjAyODgwMDAwMC1uZXB0dW5hcy1rYXVuby16YWxnaXJpcy8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746017100000] Court 3: Mate Pavic/Marcelo Arevalo v Jamie Murray/Rajeev Ram (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1tYXRlLXBhdmljLW1hcmNlbG8tYXJldmFsby12cy1qYW1pZS1tdXJyYXktcmFqZWV2LXJhbS8y
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746028800000] Olympiacos v Panathinaikos (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjAyODgwMDAwMC1vbHltcGlhY29zLXBhbmF0aGluYWlrb3MvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746018300000] Arantxa Sanchez: Mirra Andreeva v Coco Gauff (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LW1pcnJhLWFuZHJlZXZhLXZzLWNvY28tZ2F1ZmYvMQ==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746028800000] Siauliai v Mazeikiai (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjAyODgwMDAwMC1zaWF1bGlhaS1tYXplaWtpYWkvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746018300000] Arantxa Sanchez: Mirra Andreeva v Coco Gauff (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LW1pcnJhLWFuZHJlZXZhLXZzLWNvY28tZ2F1ZmYvMg==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746028800000] Viking vs Haugesund (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjAyODgwMDAwMC12aWtpbmctaGF1Z2VzdW5kLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746018300000] Court 5: Anna Kalinskaya/Sorana Cirstea v Clara Tauson/Linda Noskova (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNS1hbm5hLWthbGluc2theWEtc29yYW5hLWNpcnN0ZWEtdnMtY2xhcmEtdGF1c29uLWxpbmRhLW5vc2tvdmEvMQ==
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746028800000] Zawiercie v Lublin (HD|BRAVO1|POL) [DATE]
+watch/YnJhdm8vMTc0NjAyODgwMDAwMC16YXdpZXJjaWUtbHVibGluLXBvbGlzaC0vMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746018300000] Court 5: Anna Kalinskaya/Sorana Cirstea v Clara Tauson/Linda Noskova (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNS1hbm5hLWthbGluc2theWEtc29yYW5hLWNpcnN0ZWEtdnMtY2xhcmEtdGF1c29uLWxpbmRhLW5vc2tvdmEvMg==
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746028800000] Zawiercie v Lublin (HD|BRAVO2|AMB) [DATE]
+watch/YnJhdm8vMTc0NjAyODgwMDAwMC16YXdpZXJjaWUtbHVibGluLWFtYmllbnQtLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746021600000] Chennai Super Kings vs Punjab Kings (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY2hlbm5haS1zdXBlci1raW5ncy12cy1wdW5qYWIta2luZ3MvMQ==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746028800000] Zimbru Chisinau v Sheriff Tiraspol (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjAyODgwMDAwMC16aW1icnUtY2hpc2luYXUtc2hlcmlmZi10aXJhc3BvbC8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746021600000] Chennai Super Kings vs Punjab Kings (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY2hlbm5haS1zdXBlci1raW5ncy12cy1wdW5qYWIta2luZ3MvMg==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746030600000] Al Nassr FC vs Kawasaki Frontale (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYWwtbmFzc3ItdnMta2F3YXNha2ktZnJvbnRhbGUvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746021600000] Chennai Super Kings vs Punjab Kings (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY2hlbm5haS1zdXBlci1raW5ncy12cy1wdW5qYWIta2luZ3MvMw==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746030600000] Al Nassr FC vs Kawasaki Frontale (HD|ALPHA2|POR) [DATE]
+watch/YWxwaGEvYWwtbmFzc3ItdnMta2F3YXNha2ktZnJvbnRhbGUvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746021600000] Chennai Super Kings vs Punjab Kings (SD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEvY2hlbm5haS1zdXBlci1raW5ncy12cy1wdW5qYWIta2luZ3MvNA==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746030600000] Al Nassr FC vs Kawasaki Frontale (HD|ALPHA3|日本語) [DATE]
+watch/YWxwaGEvYWwtbmFzc3ItdnMta2F3YXNha2ktZnJvbnRhbGUvMw==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746021600000] Madrid QF 1 (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9tYWRyaWQtcWYtMS0xNjI5NDQxNjc3LzE=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746030600000] Al Nassr FC vs Kawasaki Frontale (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvYWwtbmFzc3ItdnMta2F3YXNha2ktZnJvbnRhbGUtZm9vdGJhbGwtMTM3MzEwNS8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746021600000] Tractor Chelyabinsk v Dynamo Moscow (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvdHJhY3Rvci1jaGVseWFiaW5zay12cy1keW5hbW8tbW9zY293LzE=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746030600000] Al Nassr FC vs Kawasaki Frontale (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvYWwtbmFzc3ItdnMta2F3YXNha2ktZnJvbnRhbGUtZm9vdGJhbGwtMTM3MzEwNS8y
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746021600000] Tractor Chelyabinsk v Dynamo Moscow (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvdHJhY3Rvci1jaGVseWFiaW5zay12cy1keW5hbW8tbW9zY293LzI=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746030600000] Al Nassr FC vs Kawasaki Frontale (HD|DELTA3|) [DATE]
+watch/ZGVsdGEvYWwtbmFzc3ItdnMta2F3YXNha2ktZnJvbnRhbGUtZm9vdGJhbGwtMTM3MzEwNS8z
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746021900000] Manolo Santana: Jack Draper v Tommy Paul (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtamFjay1kcmFwZXItdnMtdG9tbXktcGF1bC8x
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746030600000] Al Nassr FC vs Kawasaki Frontale (HD|DELTA4|) [DATE]
+watch/ZGVsdGEvYWwtbmFzc3ItdnMta2F3YXNha2ktZnJvbnRhbGUtZm9vdGJhbGwtMTM3MzEwNS80
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746021900000] Manolo Santana: Jack Draper v Tommy Paul (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtamFjay1kcmFwZXItdnMtdG9tbXktcGF1bC8y
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746030600000] Al Nassr FC vs Kawasaki Frontale (HD|ECHO1|CBS) [DATE]
+watch/ZWNoby9hbC1uYXNzci1rYXdhc2FraS1mcm9udGFsZS0yNzU3NS8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746022800000] Court 3: Neal Skupski/Joe Salisbury v Evan King/Christian Harrison (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1uZWFsLXNrdXBza2ktam9lLXNhbGlzYnVyeS12cy1ldmFuLWtpbmctY2hyaXN0aWFuLWhhcnJpc29uLzE=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746030600000] Al Nassr FC vs Kawasaki Frontale (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvYWwtbmFzc3ItdnMta2F3YXNha2ktZnJvbnRhbGUvNA==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746022800000] Court 3: Neal Skupski/Joe Salisbury v Evan King/Christian Harrison (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1uZWFsLXNrdXBza2ktam9lLXNhbGlzYnVyeS12cy1ldmFuLWtpbmctY2hyaXN0aWFuLWhhcnJpc29uLzI=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746030600000] Al Nassr FC vs Kawasaki Frontale (SD|ALPHA5|POR) [DATE]
+watch/YWxwaGEvYWwtbmFzc3ItdnMta2F3YXNha2ktZnJvbnRhbGUvNQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746023100000] Court 5: Andre Goransson/Sem Verbeek v Tim Putz/Kevin Krawietz (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNS1hbmRyZS1nb3JhbnNzb24tc2VtLXZlcmJlZWstdnMtdGltLXB1dHota2V2aW4ta3Jhd2lldHovMQ==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746030600000] Al Nassr FC vs Kawasaki Frontale (SD|ALPHA6|日本語) [DATE]
+watch/YWxwaGEvYWwtbmFzc3ItdnMta2F3YXNha2ktZnJvbnRhbGUvNg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746023100000] Court 5: Andre Goransson/Sem Verbeek v Tim Putz/Kevin Krawietz (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNS1hbmRyZS1nb3JhbnNzb24tc2VtLXZlcmJlZWstdnMtdGltLXB1dHota2V2aW4ta3Jhd2lldHovMg==
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746031500000] Aalborg v Fuchse Berlin (HD|ALPHA2|DEU) [DATE]
+watch/YWxwaGEvYWFsYm9yZy12cy1mdWNoc2UtYmVybGluLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746025200000] Arantxa Sanchez: Moyuka Uchijima v Elina Svitolina (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LW1veXVrYS11Y2hpamltYS12cy1lbGluYS1zdml0b2xpbmEvMQ==
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746031500000] Aalborg v Fuchse Berlin (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYWFsYm9yZy12cy1mdWNoc2UtYmVybGluLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746025200000] Arantxa Sanchez: Moyuka Uchijima v Elina Svitolina (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LW1veXVrYS11Y2hpamltYS12cy1lbGluYS1zdml0b2xpbmEvMg==
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746031500000] Aalborg v Fuchse Berlin (SD|ALPHA3|DEU) [DATE]
+watch/YWxwaGEvYWFsYm9yZy12cy1mdWNoc2UtYmVybGluLzM=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746025200000] Lahore Qalandars vs Islamabad United (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbGFob3JlLXFhbGFuZGFycy12cy1pc2xhbWFiYWQtdW5pdGVkLzE=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746032400000] Aston Villa W v Arsenal W (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYXN0b24tdmlsbGEtdy12cy1hcnNlbmFsLXcvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746025200000] Lahore Qalandars vs Islamabad United (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbGFob3JlLXFhbGFuZGFycy12cy1pc2xhbWFiYWQtdW5pdGVkLzI=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746032400000] Aston Villa W v Arsenal W (HD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvYXN0b24tdmlsbGEtdy12cy1hcnNlbmFsLXcvMw==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746025200000] Lahore Qalandars vs Islamabad United (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbGFob3JlLXFhbGFuZGFycy12cy1pc2xhbWFiYWQtdW5pdGVkLzM=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746032400000] Aston Villa W v Arsenal W (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9hc3Rvbi12aWxsYS13LXZzLWFyc2VuYWwtdy0xMjU0ODU4LzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746025200000] Lahore Qalandars vs Islamabad United (SD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEvbGFob3JlLXFhbGFuZGFycy12cy1pc2xhbWFiYWQtdW5pdGVkLzQ=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746032400000] Aston Villa W v Arsenal W (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvYXN0b24tdmlsbGEtdy12cy1hcnNlbmFsLXctZm9vdGJhbGwtMTI1NDg1OC8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746025200000] South Africa U20 v Tanzania U20 (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvc291dGgtYWZyaWNhLXUyMC12cy10YW56YW5pYS11MjAvMQ==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746032400000] Aston Villa W v Arsenal W (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvYXN0b24tdmlsbGEtdy12cy1hcnNlbmFsLXctZm9vdGJhbGwtMTI1NDg1OC8y
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746025200000] South Africa U20 v Tanzania U20 (HD|ALPHA2|ESP) [DATE]
-watch/YWxwaGEvc291dGgtYWZyaWNhLXUyMC12cy10YW56YW5pYS11MjAvMg==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746032400000] Aston Villa W v Arsenal W (HD|DELTA3|) [DATE]
+watch/ZGVsdGEvYXN0b24tdmlsbGEtdy12cy1hcnNlbmFsLXctZm9vdGJhbGwtMTI1NDg1OC8z
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746025200000] South Africa U20 v Tanzania U20 (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9zb3V0aC1hZnJpY2EtdTIwLXZzLXRhbnphbmlhLXUyMC0xMzcxNTEzLzE=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746032400000] Aston Villa W v Arsenal W (HD|DELTA4|) [DATE]
+watch/ZGVsdGEvYXN0b24tdmlsbGEtdy12cy1hcnNlbmFsLXctZm9vdGJhbGwtMTI1NDg1OC80
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746025200000] South Africa U20 v Tanzania U20 (HD|CHARLIE2|ENG) [DATE]
-watch/Y2hhcmxpZS9zb3V0aC1hZnJpY2EtdTIwLXZzLXRhbnphbmlhLXUyMC0xMzcxNTEzLzI=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746032400000] Aston Villa W v Arsenal W (HD|DELTA5|) [DATE]
+watch/ZGVsdGEvYXN0b24tdmlsbGEtdy12cy1hcnNlbmFsLXctZm9vdGJhbGwtMTI1NDg1OC81
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746025200000] South Africa U20 v Tanzania U20 (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvc291dGgtYWZyaWNhLXUyMC12cy10YW56YW5pYS11MjAtZm9vdGJhbGwtMTM3MTUxMy8x
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746032400000] Aston Villa W v Arsenal W (HD|FOXTROT1|) [DATE]
+watch/Zm94dHJvdC9hc3Rvbi12aWxsYS13LXZzLWFyc2VuYWwtdy0yMDI1MDQyNzEyMzAvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746025200000] South Africa U20 v Tanzania U20 (HD|DELTA2|) [DATE]
-watch/ZGVsdGEvc291dGgtYWZyaWNhLXUyMC12cy10YW56YW5pYS11MjAtZm9vdGJhbGwtMTM3MTUxMy8y
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746032400000] Aston Villa W v Arsenal W (HD|FOXTROT2|) [DATE]
+watch/Zm94dHJvdC9hc3Rvbi12aWxsYS13LXZzLWFyc2VuYWwtdy0yMDI1MDQyNzEyMzAvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746025200000] South Africa U20 v Tanzania U20 (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvc291dGgtYWZyaWNhLXUyMC12cy10YW56YW5pYS11MjAvMw==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746032400000] Aston Villa W v Arsenal W (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYXN0b24tdmlsbGEtdy12cy1hcnNlbmFsLXcvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746025200000] South Africa U20 v Tanzania U20 (SD|ALPHA4|ESP) [DATE]
-watch/YWxwaGEvc291dGgtYWZyaWNhLXUyMC12cy10YW56YW5pYS11MjAvNA==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746032400000] Aston Villa W v Arsenal W (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvYXN0b24tdmlsbGEtdy12cy1hcnNlbmFsLXcvNA==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746028500000] Court 3: Andres Molteni/Maximo Gonzalez v Ben Shelton/Rohan Bopanna (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1hbmRyZXMtbW9sdGVuaS1tYXhpbW8tZ29uemFsZXotdnMtYmVuLXNoZWx0b24tcm9oYW4tYm9wYW5uYS8y
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746032400000] Aston Villa W v Arsenal W (SD|ALPHA5|ENG) [DATE]
+watch/YWxwaGEvYXN0b24tdmlsbGEtdy12cy1hcnNlbmFsLXcvNQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746028500000] Court 3: Andres Molteni/Maximo Gonzalez v Ben Shelton/Rohan Bopanna (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1hbmRyZXMtbW9sdGVuaS1tYXhpbW8tZ29uemFsZXotdnMtYmVuLXNoZWx0b24tcm9oYW4tYm9wYW5uYS8x
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746032400000] Barcelona v Monaco (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYmFyY2Vsb25hLXZzLW1vbmFjby8y
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746028500000] Court 3: Andres Molteni/Maximo Gonzalez v Ben Shelton/Rohan Bopanna (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1hbmRyZXMtbW9sdGVuaS1tYXhpbW8tZ29uemFsZXotdnMtYmVuLXNoZWx0b24tcm9oYW4tYm9wYW5uYS8z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746032400000] Barcelona v Monaco (HD|ALPHA3|ITA) [DATE]
+watch/YWxwaGEvYmFyY2Vsb25hLXZzLW1vbmFjby8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746032400000] Barcelona v Monaco (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9mYy1iYXJjZWxvbmEtdnMtYXMtbW9uYWNvLTE2Mjk0NDE2ODEvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746032400000] Barcelona v Monaco (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvYmFyY2Vsb25hLXZzLW1vbmFjby1iYXNrZXRiYWxsLTQ0NzkyMS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746032400000] Barcelona v Monaco (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYmFyY2Vsb25hLXZzLW1vbmFjby8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746032400000] Barcelona v Monaco (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvYmFyY2Vsb25hLXZzLW1vbmFjby80
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746032400000] Barcelona v Monaco (SD|ALPHA5|ITA) [DATE]
+watch/YWxwaGEvYmFyY2Vsb25hLXZzLW1vbmFjby81
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746032400000] Benfica B vs Mafra (HD|ALPHA1|POR) [DATE]
+watch/YWxwaGEvYmVuZmljYS1iLXZzLW1hZnJhLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746032400000] Benfica B vs Mafra (SD|ALPHA2|POR) [DATE]
+watch/YWxwaGEvYmVuZmljYS1iLXZzLW1hZnJhLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746032400000] Slovakia U18 v Germany U18 (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvc2xvdmFraWEtdTE4LXZzLWdlcm1hbnktdTE4LzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746032400000] Slovakia U18 v Germany U18 (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvc2xvdmFraWEtdTE4LXZzLWdlcm1hbnktdTE4LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746032400000] Slovakia U18 v Germany U18 (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvc2xvdmFraWEtdTE4LXZzLWdlcm1hbnktdTE4LzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746032400000] Slovenia v Denmark (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvc2xvdmVuaWEtdnMtZGVubWFyay8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746032400000] Slovenia v Denmark (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvc2xvdmVuaWEtdnMtZGVubWFyay8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746032400000] Slovenia v Denmark (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvc2xvdmVuaWEtdnMtZGVubWFyay8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746032400000] Zwolle v Limburg (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvendvbGxlLXZzLWxpbWJ1cmcvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746032400000] Zwolle v Limburg (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvendvbGxlLXZzLWxpbWJ1cmcvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746032400000] Zwolle v Limburg (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvendvbGxlLXZzLWxpbWJ1cmcvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746034200000] Arantxa Sanchez: Grigor Dimitrov v Gabriel Diallo (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWdyaWdvci1kaW1pdHJvdi12cy1nYWJyaWVsLWRpYWxsby8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746034200000] Arantxa Sanchez: Grigor Dimitrov v Gabriel Diallo (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWdyaWdvci1kaW1pdHJvdi12cy1nYWJyaWVsLWRpYWxsby8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746034200000] Arantxa Sanchez: Grigor Dimitrov v Gabriel Diallo (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWdyaWdvci1kaW1pdHJvdi12cy1nYWJyaWVsLWRpYWxsby8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746034200000] Donar Groningen v Feyenoord (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvZG9uYXItZ3JvbmluZ2VuLXZzLWZleWVub29yZC8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746034200000] Donar Groningen v Feyenoord (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvZG9uYXItZ3JvbmluZ2VuLXZzLWZleWVub29yZC8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746034200000] Donar Groningen v Feyenoord (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvZG9uYXItZ3JvbmluZ2VuLXZzLWZleWVub29yZC8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746034200000] Mamelodi Sundowns vs Richards Bay (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbWFtZWxvZGktc3VuZG93bnMtdnMtcmljaGFyZHMtYmF5LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746034200000] Mamelodi Sundowns vs Richards Bay (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbWFtZWxvZGktc3VuZG93bnMtdnMtcmljaGFyZHMtYmF5LzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746034200000] Mamelodi Sundowns vs Richards Bay (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvbWFtZWxvZGktc3VuZG93bnMtdnMtcmljaGFyZHMtYmF5LzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746034200000] Orlando Pirates vs Magesi (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvb3JsYW5kby1waXJhdGVzLXZzLW1hZ2VzaS1wb3N0cG9uZWQvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746034200000] Orlando Pirates vs Sekhukhune United (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvb3JsYW5kby1waXJhdGVzLXZzLXNla2h1a2h1bmUtdW5pdGVkLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746034200000] Orlando Pirates vs Sekhukhune United (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvb3JsYW5kby1waXJhdGVzLXZzLXNla2h1a2h1bmUtdW5pdGVkLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746034200000] Orlando Pirates vs Sekhukhune United (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvb3JsYW5kby1waXJhdGVzLXZzLXNla2h1a2h1bmUtdW5pdGVkLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746034200000] Stellenbosch vs Chippa United (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvc3RlbGxlbmJvc2NoLXZzLWNoaXBwYS11bml0ZWQvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746034200000] Stellenbosch vs Chippa United (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvc3RlbGxlbmJvc2NoLXZzLWNoaXBwYS11bml0ZWQvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746034200000] Stellenbosch vs Chippa United (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvc3RlbGxlbmJvc2NoLXZzLWNoaXBwYS11bml0ZWQvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746035100000] Anadolu Efes v Panathinaikos (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYW5hZG9sdS1lZmVzLXZzLXBhbmF0aGluYWlrb3MvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746035100000] Anadolu Efes v Panathinaikos (HD|ALPHA3|ITA) [DATE]
+watch/YWxwaGEvYW5hZG9sdS1lZmVzLXZzLXBhbmF0aGluYWlrb3MvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746035100000] Anadolu Efes v Panathinaikos (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9hbmFkb2x1LWVmZXMtaXN0YW5idWwtdnMtcGFuYXRoaW5haWtvcy1ha3Rvci1hdGhlbnMtMTYyOTQ0MTY4Mi8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746035100000] Anadolu Efes v Panathinaikos (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvYW5hZG9sdS1lZmVzLXZzLXBhbmF0aGluYWlrb3MtYmFza2V0YmFsbC00NDc5MjIvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746035100000] Anadolu Efes v Panathinaikos (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYW5hZG9sdS1lZmVzLXZzLXBhbmF0aGluYWlrb3MvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746035100000] Anadolu Efes v Panathinaikos (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvYW5hZG9sdS1lZmVzLXZzLXBhbmF0aGluYWlrb3MvNA==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746035100000] Anadolu Efes v Panathinaikos (SD|ALPHA5|ITA) [DATE]
+watch/YWxwaGEvYW5hZG9sdS1lZmVzLXZzLXBhbmF0aGluYWlrb3MvNQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746035100000] Trinidad & Tobago Legions v Jamaica Titans (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvdHJpbmlkYWQtdG9iYWdvLWxlZ2lvbnMtdnMtamFtYWljYS10aXRhbnMvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746035100000] Trinidad & Tobago Legions v Jamaica Titans (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvdHJpbmlkYWQtdG9iYWdvLWxlZ2lvbnMtdnMtamFtYWljYS10aXRhbnMvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746035100000] Trinidad & Tobago Legions v Jamaica Titans (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvdHJpbmlkYWQtdG9iYWdvLWxlZ2lvbnMtdnMtamFtYWljYS10aXRhbnMvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746036000000] BAL Weert v Oostende (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYmFsLXdlZXJ0LXZzLW9vc3RlbmRlLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746036000000] BAL Weert v Oostende (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYmFsLXdlZXJ0LXZzLW9vc3RlbmRlLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746036000000] BAL Weert v Oostende (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvYmFsLXdlZXJ0LXZzLW9vc3RlbmRlLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746036000000] Basket Zaragoza v Leyma Coruna (HD|ALPHA2|POR) [DATE]
+watch/YWxwaGEvYmFza2V0LXphcmFnb3phLXZzLWxleW1hLWNvcnVuYS8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746036000000] Basket Zaragoza v Leyma Coruna (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYmFza2V0LXphcmFnb3phLXZzLWxleW1hLWNvcnVuYS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746036000000] Basket Zaragoza v Leyma Coruna (SD|ALPHA3|POR) [DATE]
+watch/YWxwaGEvYmFza2V0LXphcmFnb3phLXZzLWxleW1hLWNvcnVuYS8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746036000000] Basket Zaragoza v Leyma Coruna (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvYmFza2V0LXphcmFnb3phLXZzLWxleW1hLWNvcnVuYS80
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746036000000] Basket Zaragoza v Leyma Coruna (SD|ALPHA5|ENG) [DATE]
+watch/YWxwaGEvYmFza2V0LXphcmFnb3phLXZzLWxleW1hLWNvcnVuYS81
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746036000000] Detroit Tigers v Houston Astros (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9kZXRyb2l0LXRpZ2Vycy12cy1ob3VzdG9uLWFzdHJvcy0xNjI5NDQxNjgzLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746036000000] Hamburg v Bamberg (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvaGFtYnVyZy12cy1iYW1iZXJnLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746036000000] Hamburg v Bamberg (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvaGFtYnVyZy12cy1iYW1iZXJnLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746036000000] Hamburg v Bamberg (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvaGFtYnVyZy12cy1iYW1iZXJnLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746036000000] Leiden v LWD Basket (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbGVpZGVuLXZzLWx3ZC1iYXNrZXQvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746036000000] Leiden v LWD Basket (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbGVpZGVuLXZzLWx3ZC1iYXNrZXQvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746036000000] Leiden v LWD Basket (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvbGVpZGVuLXZzLWx3ZC1iYXNrZXQvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746036000000] Manolo Santana: Aryna Sabalenka v Marta Kostyuk (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYXJ5bmEtc2FiYWxlbmthLXZzLW1hcnRhLWtvc3R5dWsvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746036000000] Manolo Santana: Aryna Sabalenka v Marta Kostyuk (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYXJ5bmEtc2FiYWxlbmthLXZzLW1hcnRhLWtvc3R5dWsvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746036000000] Manolo Santana: Aryna Sabalenka v Marta Kostyuk (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYXJ5bmEtc2FiYWxlbmthLXZzLW1hcnRhLWtvc3R5dWsvMw==
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746036000000] Saul Canelo Alvarez v William Scull: Open Workouts (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvc2F1bC1jYW5lbG8tYWx2YXJlei12cy13aWxsaWFtLXNjdWxsLW9wZW4td29ya291dHMvMg==
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746036000000] Saul Canelo Alvarez v William Scull: Open Workouts (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvc2F1bC1jYW5lbG8tYWx2YXJlei12cy13aWxsaWFtLXNjdWxsLW9wZW4td29ya291dHMvMQ==
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746036000000] Saul Canelo Alvarez v William Scull: Open Workouts (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvc2F1bC1jYW5lbG8tYWx2YXJlei12cy13aWxsaWFtLXNjdWxsLW9wZW4td29ya291dHMvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746036000000] Sierra Leone U20 v Egypt U20 (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvc2llcnJhLWxlb25lLXUyMC12cy1lZ3lwdC11MjAvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746036000000] Sierra Leone U20 v Egypt U20 (HD|ALPHA3|ESP) [DATE]
+watch/YWxwaGEvc2llcnJhLWxlb25lLXUyMC12cy1lZ3lwdC11MjAvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746036000000] Sierra Leone U20 v Egypt U20 (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvc2llcnJhLWxlb25lLXUyMC12cy1lZ3lwdC11MjAtZm9vdGJhbGwtMTM3MTUxMi8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746036000000] Sierra Leone U20 v Egypt U20 (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvc2llcnJhLWxlb25lLXUyMC12cy1lZ3lwdC11MjAtZm9vdGJhbGwtMTM3MTUxMi8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746036000000] Sierra Leone U20 v Egypt U20 (HD|DELTA3|) [DATE]
+watch/ZGVsdGEvc2llcnJhLWxlb25lLXUyMC12cy1lZ3lwdC11MjAtZm9vdGJhbGwtMTM3MTUxMi8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746036000000] Sierra Leone U20 v Egypt U20 (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvc2llcnJhLWxlb25lLXUyMC12cy1lZ3lwdC11MjAvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746036000000] Sierra Leone U20 v Egypt U20 (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvc2llcnJhLWxlb25lLXUyMC12cy1lZ3lwdC11MjAvNA==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746036000000] Sierra Leone U20 v Egypt U20 (SD|ALPHA5|ESP) [DATE]
+watch/YWxwaGEvc2llcnJhLWxlb25lLXUyMC12cy1lZ3lwdC11MjAvNQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746036600000] Houston Astros vs Detroit Tigers (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvaG91c3Rvbi1hc3Ryb3MtdnMtZGV0cm9pdC10aWdlcnMvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746036600000] Houston Astros vs Detroit Tigers (HD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvaG91c3Rvbi1hc3Ryb3MtdnMtZGV0cm9pdC10aWdlcnMvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746036600000] Houston Astros vs Detroit Tigers (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvaG91c3Rvbi1hc3Ryb3MtdnMtZGV0cm9pdC10aWdlcnMvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746036600000] Houston Astros vs Detroit Tigers (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvaG91c3Rvbi1hc3Ryb3MtdnMtZGV0cm9pdC10aWdlcnMvNA==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746036600000] Houston Astros vs Detroit Tigers (SD|ALPHA5|ENG) [DATE]
+watch/YWxwaGEvaG91c3Rvbi1hc3Ryb3MtdnMtZGV0cm9pdC10aWdlcnMvNQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746037800000] Antwerp Giants v Den Bosch (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYW50d2VycC1naWFudHMtdnMtZGVuLWJvc2NoLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746037800000] Antwerp Giants v Den Bosch (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYW50d2VycC1naWFudHMtdnMtZGVuLWJvc2NoLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746037800000] Antwerp Giants v Den Bosch (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvYW50d2VycC1naWFudHMtdnMtZGVuLWJvc2NoLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746037800000] Belfius Mons v Circus Brussels (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYmVsZml1cy1tb25zLXZzLWNpcmN1cy1icnVzc2Vscy8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746037800000] Belfius Mons v Circus Brussels (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYmVsZml1cy1tb25zLXZzLWNpcmN1cy1icnVzc2Vscy8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746037800000] Belfius Mons v Circus Brussels (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvYmVsZml1cy1tb25zLXZzLWNpcmN1cy1icnVzc2Vscy8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746037800000] Kortrijk v Leuven Bears (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEva29ydHJpamstdnMtbGV1dmVuLWJlYXJzLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746037800000] Kortrijk v Leuven Bears (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEva29ydHJpamstdnMtbGV1dmVuLWJlYXJzLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746037800000] Kortrijk v Leuven Bears (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEva29ydHJpamstdnMtbGV1dmVuLWJlYXJzLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746037800000] Mechelen v Okapi Aalst (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbWVjaGVsZW4tdnMtb2thcGktYWFsc3QvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746037800000] Mechelen v Okapi Aalst (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbWVjaGVsZW4tdnMtb2thcGktYWFsc3QvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746037800000] Mechelen v Okapi Aalst (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvbWVjaGVsZW4tdnMtb2thcGktYWFsc3QvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746038700000] Blackpool vs Birmingham (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYmxhY2twb29sLXZzLWJpcm1pbmdoYW0tY2l0eS8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746038700000] Blackpool vs Birmingham (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9ibGFja3Bvb2wtdnMtYmlybWluZ2hhbS0xMjE2ODg4LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746038700000] Blackpool vs Birmingham (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYmxhY2twb29sLXZzLWJpcm1pbmdoYW0tY2l0eS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746038700000] Blackpool vs Birmingham (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvYmxhY2twb29sLXZzLWJpcm1pbmdoYW0tY2l0eS8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746038700000] Mansfield vs Peterboro (HD|FOXTROT1|) [DATE]
+watch/Zm94dHJvdC9tYW5zZmllbGQtdG93bi12cy1wZXRlcmJvcm91Z2gtMjAyNTA0MTIxMzMwLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746038700000] Mansfield vs Peterboro (HD|FOXTROT2|) [DATE]
+watch/Zm94dHJvdC9tYW5zZmllbGQtdG93bi12cy1wZXRlcmJvcm91Z2gtMjAyNTA0MTIxMzMwLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746038700000] Mansfield vs Peterboro (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbWFuc2ZpZWxkLXRvd24tdnMtcGV0ZXJib3JvdWdoLXVuaXRlZC8x
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746038700000] Sporting v Nantes (HD|ALPHA2|POR) [DATE]
+watch/YWxwaGEvc3BvcnRpbmctdnMtbmFudGVzLzI=
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746038700000] Sporting v Nantes (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvc3BvcnRpbmctdnMtbmFudGVzLzE=
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746038700000] Sporting v Nantes (SD|ALPHA3|POR) [DATE]
+watch/YWxwaGEvc3BvcnRpbmctdnMtbmFudGVzLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746039600000] 2025 PGA Professional Championship Final Round (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvMjAyNS1wZ2EtcHJvZmVzc2lvbmFsLWNoYW1waW9uc2hpcC1maW5hbC1yb3VuZC8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746039600000] 2025 PGA Professional Championship Final Round (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS8yMDI1LXBnYS1wcm9mZXNzaW9uYWwtY2hhbXBpb25zaGlwLWZpbmFsLXJvdW5kLTE2Mjk0NDE2ODYvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746039600000] 2025 PGA Professional Championship Final Round (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvMjAyNS1wZ2EtcHJvZmVzc2lvbmFsLWNoYW1waW9uc2hpcC1maW5hbC1yb3VuZC8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746039600000] 2025 PGA Professional Championship Final Round (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvMjAyNS1wZ2EtcHJvZmVzc2lvbmFsLWNoYW1waW9uc2hpcC1maW5hbC1yb3VuZC8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746039600000] Atlanta Braves v Colorado Rockies (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9hdGxhbnRhLWJyYXZlcy12cy1jb2xvcmFkby1yb2NraWVzLTE2Mjk0NDE2ODQvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Inter (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9iYXJjZWxvbmEtdnMtaW50ZXItMTM3MTczMi8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Inter (HD|CHARLIE2|ENG) [DATE]
+watch/Y2hhcmxpZS9iYXJjZWxvbmEtdnMtaW50ZXItMTM3MTczMi8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Inter (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvYmFyY2Vsb25hLXZzLWludGVyLWZvb3RiYWxsLTEzNzE3MzIvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Inter (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvYmFyY2Vsb25hLXZzLWludGVyLWZvb3RiYWxsLTEzNzE3MzIvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Inter (HD|DELTA3|) [DATE]
+watch/ZGVsdGEvYmFyY2Vsb25hLXZzLWludGVyLWZvb3RiYWxsLTEzNzE3MzIvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Inter (HD|DELTA4|) [DATE]
+watch/ZGVsdGEvYmFyY2Vsb25hLXZzLWludGVyLWZvb3RiYWxsLTEzNzE3MzIvNA==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Inter (HD|DELTA5|) [DATE]
+watch/ZGVsdGEvYmFyY2Vsb25hLXZzLWludGVyLWZvb3RiYWxsLTEzNzE3MzIvNQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Inter (HD|FOXTROT1|) [DATE]
+watch/Zm94dHJvdC9iYXJjZWxvbmEtdnMtaW50ZXItMjAyNTA0MzAxODMwLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Inter (HD|FOXTROT2|) [DATE]
+watch/Zm94dHJvdC9iYXJjZWxvbmEtdnMtaW50ZXItMjAyNTA0MzAxODMwLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Inter (HD|FOXTROT3|) [DATE]
+watch/Zm94dHJvdC9iYXJjZWxvbmEtdnMtaW50ZXItMjAyNTA0MzAxODMwLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Inter (HD|FOXTROT4|) [DATE]
+watch/Zm94dHJvdC9iYXJjZWxvbmEtdnMtaW50ZXItMjAyNTA0MzAxODMwLzQ=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Internazionale (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYmFyY2Vsb25hLXZzLWludGVybmF6aW9uYWxlLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Internazionale (HD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvYmFyY2Vsb25hLXZzLWludGVybmF6aW9uYWxlLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Internazionale (HD|ALPHA4|ESP) [DATE]
+watch/YWxwaGEvYmFyY2Vsb25hLXZzLWludGVybmF6aW9uYWxlLzQ=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Internazionale (HD|ALPHA5|FRA) [DATE]
+watch/YWxwaGEvYmFyY2Vsb25hLXZzLWludGVybmF6aW9uYWxlLzU=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Internazionale (HD|ALPHA6|ITA) [DATE]
+watch/YWxwaGEvYmFyY2Vsb25hLXZzLWludGVybmF6aW9uYWxlLzY=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Internazionale (HD|ALPHA7|POR) [DATE]
+watch/YWxwaGEvYmFyY2Vsb25hLXZzLWludGVybmF6aW9uYWxlLzc=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Internazionale (HD|ALPHA8|DUT) [DATE]
+watch/YWxwaGEvYmFyY2Vsb25hLXZzLWludGVybmF6aW9uYWxlLzg=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Internazionale (HD|ALPHA9|ΕΛΛ) [DATE]
+watch/YWxwaGEvYmFyY2Vsb25hLXZzLWludGVybmF6aW9uYWxlLzk=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Internazionale (SD|ALPHA10|ENG) [DATE]
+watch/YWxwaGEvYmFyY2Vsb25hLXZzLWludGVybmF6aW9uYWxlLzEw
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Internazionale (SD|ALPHA11|ENG) [DATE]
+watch/YWxwaGEvYmFyY2Vsb25hLXZzLWludGVybmF6aW9uYWxlLzEx
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Internazionale (SD|ALPHA12|ESP) [DATE]
+watch/YWxwaGEvYmFyY2Vsb25hLXZzLWludGVybmF6aW9uYWxlLzEy
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Internazionale (SD|ALPHA13|FRA) [DATE]
+watch/YWxwaGEvYmFyY2Vsb25hLXZzLWludGVybmF6aW9uYWxlLzEz
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Internazionale (SD|ALPHA14|ITA) [DATE]
+watch/YWxwaGEvYmFyY2Vsb25hLXZzLWludGVybmF6aW9uYWxlLzE0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Internazionale (SD|ALPHA15|POR) [DATE]
+watch/YWxwaGEvYmFyY2Vsb25hLXZzLWludGVybmF6aW9uYWxlLzE1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Internazionale (SD|ALPHA16|DUT) [DATE]
+watch/YWxwaGEvYmFyY2Vsb25hLXZzLWludGVybmF6aW9uYWxlLzE2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Internazionale (SD|ALPHA17|ΕΛΛ) [DATE]
+watch/YWxwaGEvYmFyY2Vsb25hLXZzLWludGVybmF6aW9uYWxlLzE3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona v Internazionale (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYmFyY2Vsb25hLXZzLWludGVybmF6aW9uYWxlLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746039600000] Barcelona vs Inter Milan (HD|ADMIN1|ENG) [DATE]
+watch/YWRtaW4vYWRtaW4tYmFyY2Vsb25hLXZzLWludGVyLW1pbGFuLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746039600000] Miami Marlins v Los Angeles Dodgers (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9taWFtaS1tYXJsaW5zLXZzLWxvcy1hbmdlbGVzLWRvZGdlcnMtMTYyOTQ0MTY4NS8x
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746039600000] SL Benfica v Sporting Cp (HD|ALPHA2|POR) [DATE]
+watch/YWxwaGEvc2wtYmVuZmljYS12cy1zcG9ydGluZy1jcC8y
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746039600000] SL Benfica v Sporting Cp (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvc2wtYmVuZmljYS12cy1zcG9ydGluZy1jcC8x
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746039600000] SL Benfica v Sporting Cp (SD|ALPHA3|POR) [DATE]
+watch/YWxwaGEvc2wtYmVuZmljYS12cy1zcG9ydGluZy1jcC8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746039600000] Sweden U18 v Finland U18 (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvc3dlZGVuLXUxOC12cy1maW5sYW5kLXUxOC8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746039600000] Sweden U18 v Finland U18 (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvc3dlZGVuLXUxOC12cy1maW5sYW5kLXUxOC8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746039600000] Sweden U18 v Finland U18 (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvc3dlZGVuLXUxOC12cy1maW5sYW5kLXUxOC8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746040200000] Colorado Rockies vs Atlanta Braves (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY29sb3JhZG8tcm9ja2llcy12cy1hdGxhbnRhLWJyYXZlcy8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746040200000] Colorado Rockies vs Atlanta Braves (HD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvY29sb3JhZG8tcm9ja2llcy12cy1hdGxhbnRhLWJyYXZlcy8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746040200000] Colorado Rockies vs Atlanta Braves (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY29sb3JhZG8tcm9ja2llcy12cy1hdGxhbnRhLWJyYXZlcy8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746040200000] Colorado Rockies vs Atlanta Braves (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvY29sb3JhZG8tcm9ja2llcy12cy1hdGxhbnRhLWJyYXZlcy80
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746040200000] Colorado Rockies vs Atlanta Braves (SD|ALPHA5|ENG) [DATE]
+watch/YWxwaGEvY29sb3JhZG8tcm9ja2llcy12cy1hdGxhbnRhLWJyYXZlcy81
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746040200000] Los Angeles Dodgers vs Miami Marlins (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbG9zLWFuZ2VsZXMtZG9kZ2Vycy12cy1taWFtaS1tYXJsaW5zLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746040200000] Los Angeles Dodgers vs Miami Marlins (HD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvbG9zLWFuZ2VsZXMtZG9kZ2Vycy12cy1taWFtaS1tYXJsaW5zLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746040200000] Los Angeles Dodgers vs Miami Marlins (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbG9zLWFuZ2VsZXMtZG9kZ2Vycy12cy1taWFtaS1tYXJsaW5zLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746040200000] Los Angeles Dodgers vs Miami Marlins (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvbG9zLWFuZ2VsZXMtZG9kZ2Vycy12cy1taWFtaS1tYXJsaW5zLzQ=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746040200000] Los Angeles Dodgers vs Miami Marlins (SD|ALPHA5|ENG) [DATE]
+watch/YWxwaGEvbG9zLWFuZ2VsZXMtZG9kZ2Vycy12cy1taWFtaS1tYXJsaW5zLzU=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbWFuY2hlc3Rlci11bml0ZWQtdy12cy1jaGVsc2VhLXcvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvbWFuY2hlc3Rlci11bml0ZWQtdy12cy1jaGVsc2VhLXcvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|ALPHA4|ESP) [DATE]
+watch/YWxwaGEvbWFuY2hlc3Rlci11bml0ZWQtdy12cy1jaGVsc2VhLXcvNA==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9tYW5jaGVzdGVyLXVuaXRlZC13LXZzLWNoZWxzZWEtdy0xMjU0ODYzLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvbWFuY2hlc3Rlci11bml0ZWQtdy12cy1jaGVsc2VhLXctZm9vdGJhbGwtMTI1NDg2My8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvbWFuY2hlc3Rlci11bml0ZWQtdy12cy1jaGVsc2VhLXctZm9vdGJhbGwtMTI1NDg2My8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|DELTA3|) [DATE]
+watch/ZGVsdGEvbWFuY2hlc3Rlci11bml0ZWQtdy12cy1jaGVsc2VhLXctZm9vdGJhbGwtMTI1NDg2My8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|DELTA4|) [DATE]
+watch/ZGVsdGEvbWFuY2hlc3Rlci11bml0ZWQtdy12cy1jaGVsc2VhLXctZm9vdGJhbGwtMTI1NDg2My80
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|DELTA5|) [DATE]
+watch/ZGVsdGEvbWFuY2hlc3Rlci11bml0ZWQtdy12cy1jaGVsc2VhLXctZm9vdGJhbGwtMTI1NDg2My81
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|FOXTROT1|) [DATE]
+watch/Zm94dHJvdC9tYW5jaGVzdGVyLXVuaXRlZC13LXZzLWNoZWxzZWEtdy0yMDI1MDQyNzEwMzAvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|FOXTROT2|) [DATE]
+watch/Zm94dHJvdC9tYW5jaGVzdGVyLXVuaXRlZC13LXZzLWNoZWxzZWEtdy0yMDI1MDQyNzEwMzAvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|FOXTROT3|) [DATE]
+watch/Zm94dHJvdC9tYW5jaGVzdGVyLXVuaXRlZC13LXZzLWNoZWxzZWEtdy0yMDI1MDQyNzEwMzAvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (HD|FOXTROT4|) [DATE]
+watch/Zm94dHJvdC9tYW5jaGVzdGVyLXVuaXRlZC13LXZzLWNoZWxzZWEtdy0yMDI1MDQyNzEwMzAvNA==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbWFuY2hlc3Rlci11bml0ZWQtdy12cy1jaGVsc2VhLXcvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (SD|ALPHA5|ENG) [DATE]
+watch/YWxwaGEvbWFuY2hlc3Rlci11bml0ZWQtdy12cy1jaGVsc2VhLXcvNQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (SD|ALPHA6|ENG) [DATE]
+watch/YWxwaGEvbWFuY2hlc3Rlci11bml0ZWQtdy12cy1jaGVsc2VhLXcvNg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746040500000] Manchester United W v Chelsea W (SD|ALPHA7|ESP) [DATE]
+watch/YWxwaGEvbWFuY2hlc3Rlci11bml0ZWQtdy12cy1jaGVsc2VhLXcvNw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746041400000] Madrid QF 2 (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9tYWRyaWQtcWYtMi0xNjI5NDQxNjg3LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746041400000] Manolo Santana: Alexde Minaur v Lorenzo Musetti (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYWxleGRlLW1pbmF1ci12cy1sb3JlbnpvLW11c2V0dGkvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746041400000] Manolo Santana: Alexde Minaur v Lorenzo Musetti (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYWxleGRlLW1pbmF1ci12cy1sb3JlbnpvLW11c2V0dGkvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746041400000] Manolo Santana: Alexde Minaur v Lorenzo Musetti (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYWxleGRlLW1pbmF1ci12cy1sb3JlbnpvLW11c2V0dGkvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746043800000] San Diego Padres vs San Francisco Giants (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvc2FuLWRpZWdvLXBhZHJlcy12cy1zYW4tZnJhbmNpc2NvLWdpYW50cy8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746043800000] San Diego Padres vs San Francisco Giants (HD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvc2FuLWRpZWdvLXBhZHJlcy12cy1zYW4tZnJhbmNpc2NvLWdpYW50cy8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746043800000] San Diego Padres vs San Francisco Giants (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9zYW4tZnJhbmNpc2NvLWdpYW50cy12cy1zYW4tZGllZ28tcGFkcmVzLTE2Mjk0NDE2ODkvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746043800000] San Diego Padres vs San Francisco Giants (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvc2FuLWRpZWdvLXBhZHJlcy12cy1zYW4tZnJhbmNpc2NvLWdpYW50cy8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746043800000] San Diego Padres vs San Francisco Giants (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvc2FuLWRpZWdvLXBhZHJlcy12cy1zYW4tZnJhbmNpc2NvLWdpYW50cy80
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746043800000] San Diego Padres vs San Francisco Giants (SD|ALPHA5|ENG) [DATE]
+watch/YWxwaGEvc2FuLWRpZWdvLXBhZHJlcy12cy1zYW4tZnJhbmNpc2NvLWdpYW50cy81
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746043800000] Seattle Mariners vs Los Angeles Angels (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvc2VhdHRsZS1tYXJpbmVycy12cy1sb3MtYW5nZWxlcy1hbmdlbHMvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746043800000] Seattle Mariners vs Los Angeles Angels (HD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvc2VhdHRsZS1tYXJpbmVycy12cy1sb3MtYW5nZWxlcy1hbmdlbHMvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746043800000] Seattle Mariners vs Los Angeles Angels (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9sb3MtYW5nZWxlcy1hbmdlbHMtdnMtc2VhdHRsZS1tYXJpbmVycy0xNjI5NDQxNjg4LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746043800000] Seattle Mariners vs Los Angeles Angels (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvc2VhdHRsZS1tYXJpbmVycy12cy1sb3MtYW5nZWxlcy1hbmdlbHMvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746043800000] Seattle Mariners vs Los Angeles Angels (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvc2VhdHRsZS1tYXJpbmVycy12cy1sb3MtYW5nZWxlcy1hbmdlbHMvNA==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746043800000] Seattle Mariners vs Los Angeles Angels (SD|ALPHA5|ENG) [DATE]
+watch/YWxwaGEvc2VhdHRsZS1tYXJpbmVycy12cy1sb3MtYW5nZWxlcy1hbmdlbHMvNQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746046800000] Canada U18 v Czech Republic U18 (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY2FuYWRhLXUxOC12cy1jemVjaC1yZXB1YmxpYy11MTgvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746046800000] Canada U18 v Czech Republic U18 (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY2FuYWRhLXUxOC12cy1jemVjaC1yZXB1YmxpYy11MTgvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746046800000] Canada U18 v Czech Republic U18 (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvY2FuYWRhLXUxOC12cy1jemVjaC1yZXB1YmxpYy11MTgvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746050400000] Botafogo v Capital Brasilia (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYm90YWZvZ28tdnMtY2FwaXRhbC1icmFzaWxpYS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746050400000] Botafogo v Capital Brasilia (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYm90YWZvZ28tdnMtY2FwaXRhbC1icmFzaWxpYS8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746050400000] Botafogo v Capital Brasilia (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvYm90YWZvZ28tdnMtY2FwaXRhbC1icmFzaWxpYS8z
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746050400000] Garcia v Romero: Press Conference (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvZ2FyY2lhLXZzLXJvbWVyby1wcmVzcy1jb25mZXJlbmNlLzI=
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746050400000] Garcia v Romero: Press Conference (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvZ2FyY2lhLXZzLXJvbWVyby1wcmVzcy1jb25mZXJlbmNlLzE=
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746050400000] Garcia v Romero: Press Conference (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvZ2FyY2lhLXZzLXJvbWVyby1wcmVzcy1jb25mZXJlbmNlLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746050400000] Minnesota Twins v Cleveland Guardians (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9taW5uZXNvdGEtdHdpbnMtdnMtY2xldmVsYW5kLWd1YXJkaWFucy0xNjI5NDQxNjkwLzE=
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746050400000] PFL World Tournament: Weigh-In (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvcGZsLXdvcmxkLXRvdXJuYW1lbnQtd2VpZ2gtaW4vMg==
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746050400000] PFL World Tournament: Weigh-In (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvcGZsLXdvcmxkLXRvdXJuYW1lbnQtd2VpZ2gtaW4vMQ==
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746050400000] PFL World Tournament: Weigh-In (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvcGZsLXdvcmxkLXRvdXJuYW1lbnQtd2VpZ2gtaW4vMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746051000000] Cleveland Guardians vs Minnesota Twins (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY2xldmVsYW5kLWd1YXJkaWFucy12cy1taW5uZXNvdGEtdHdpbnMvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746051000000] Cleveland Guardians vs Minnesota Twins (HD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvY2xldmVsYW5kLWd1YXJkaWFucy12cy1taW5uZXNvdGEtdHdpbnMvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746051000000] Cleveland Guardians vs Minnesota Twins (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY2xldmVsYW5kLWd1YXJkaWFucy12cy1taW5uZXNvdGEtdHdpbnMvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746051000000] Cleveland Guardians vs Minnesota Twins (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvY2xldmVsYW5kLWd1YXJkaWFucy12cy1taW5uZXNvdGEtdHdpbnMvNA==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746051000000] Cleveland Guardians vs Minnesota Twins (SD|ALPHA5|ENG) [DATE]
+watch/YWxwaGEvY2xldmVsYW5kLWd1YXJkaWFucy12cy1taW5uZXNvdGEtdHdpbnMvNQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746052200000] Ceará vs Palmeiras (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY2VhcmEtdnMtcGFsbWVpcmFzLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746052200000] Ceará vs Palmeiras (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY2VhcmEtdnMtcGFsbWVpcmFzLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746052200000] Ceará vs Palmeiras (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvY2VhcmEtdnMtcGFsbWVpcmFzLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746052200000] Chicago Cubs v Pittsburgh Pirates (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9jaGljYWdvLWN1YnMtdnMtcGl0dHNidXJnaC1waXJhdGVzLTE2Mjk0NDE2OTMvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746052200000] New York Yankees v Baltimore Orioles (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9uZXcteW9yay15YW5rZWVzLXZzLWJhbHRpbW9yZS1vcmlvbGVzLTE2Mjk0NDE2OTEvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746052200000] St. Louis Cardinals v Cincinnati Reds (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9zdC1sb3Vpcy1jYXJkaW5hbHMtdnMtY2luY2lubmF0aS1yZWRzLTE2Mjk0NDE2OTIvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746052200000] Washington Nationals v Philadelphia Phillies (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS93YXNoaW5ndG9uLW5hdGlvbmFscy12cy1waGlsYWRlbHBoaWEtcGhpbGxpZXMtMTYyOTQ0MTY5NC8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746052500000] Baltimore Orioles vs New York Yankees (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYmFsdGltb3JlLW9yaW9sZXMtdnMtbmV3LXlvcmsteWFua2Vlcy8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746052500000] Baltimore Orioles vs New York Yankees (HD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvYmFsdGltb3JlLW9yaW9sZXMtdnMtbmV3LXlvcmsteWFua2Vlcy8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746052500000] Baltimore Orioles vs New York Yankees (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYmFsdGltb3JlLW9yaW9sZXMtdnMtbmV3LXlvcmsteWFua2Vlcy8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746052500000] Baltimore Orioles vs New York Yankees (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvYmFsdGltb3JlLW9yaW9sZXMtdnMtbmV3LXlvcmsteWFua2Vlcy80
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746052500000] Baltimore Orioles vs New York Yankees (SD|ALPHA5|ENG) [DATE]
+watch/YWxwaGEvYmFsdGltb3JlLW9yaW9sZXMtdnMtbmV3LXlvcmsteWFua2Vlcy81
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746052800000] Cincinnati Reds vs St. Louis Cardinals (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY2luY2lubmF0aS1yZWRzLXZzLXN0LWxvdWlzLWNhcmRpbmFscy8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746052800000] Cincinnati Reds vs St. Louis Cardinals (HD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvY2luY2lubmF0aS1yZWRzLXZzLXN0LWxvdWlzLWNhcmRpbmFscy8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746052800000] Cincinnati Reds vs St. Louis Cardinals (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY2luY2lubmF0aS1yZWRzLXZzLXN0LWxvdWlzLWNhcmRpbmFscy8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746052800000] Cincinnati Reds vs St. Louis Cardinals (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvY2luY2lubmF0aS1yZWRzLXZzLXN0LWxvdWlzLWNhcmRpbmFscy80
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746052800000] Cincinnati Reds vs St. Louis Cardinals (SD|ALPHA5|ENG) [DATE]
+watch/YWxwaGEvY2luY2lubmF0aS1yZWRzLXZzLXN0LWxvdWlzLWNhcmRpbmFscy81
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746052800000] Pittsburgh Pirates vs Chicago Cubs (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvcGl0dHNidXJnaC1waXJhdGVzLXZzLWNoaWNhZ28tY3Vicy8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746052800000] Pittsburgh Pirates vs Chicago Cubs (HD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvcGl0dHNidXJnaC1waXJhdGVzLXZzLWNoaWNhZ28tY3Vicy8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746052800000] Pittsburgh Pirates vs Chicago Cubs (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvcGl0dHNidXJnaC1waXJhdGVzLXZzLWNoaWNhZ28tY3Vicy8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746052800000] Pittsburgh Pirates vs Chicago Cubs (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvcGl0dHNidXJnaC1waXJhdGVzLXZzLWNoaWNhZ28tY3Vicy80
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746052800000] Pittsburgh Pirates vs Chicago Cubs (SD|ALPHA5|ENG) [DATE]
+watch/YWxwaGEvcGl0dHNidXJnaC1waXJhdGVzLXZzLWNoaWNhZ28tY3Vicy81
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746053100000] Barbados Pelicans v Leeward Islands Thunder (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYmFyYmFkb3MtcGVsaWNhbnMtdnMtbGVld2FyZC1pc2xhbmRzLXRodW5kZXIvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746053100000] Barbados Pelicans v Leeward Islands Thunder (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYmFyYmFkb3MtcGVsaWNhbnMtdnMtbGVld2FyZC1pc2xhbmRzLXRodW5kZXIvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746053100000] Barbados Pelicans v Leeward Islands Thunder (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvYmFyYmFkb3MtcGVsaWNhbnMtdnMtbGVld2FyZC1pc2xhbmRzLXRodW5kZXIvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746053100000] Philadelphia Phillies vs Washington Nationals (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvcGhpbGFkZWxwaGlhLXBoaWxsaWVzLXZzLXdhc2hpbmd0b24tbmF0aW9uYWxzLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746053100000] Philadelphia Phillies vs Washington Nationals (HD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvcGhpbGFkZWxwaGlhLXBoaWxsaWVzLXZzLXdhc2hpbmd0b24tbmF0aW9uYWxzLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746053100000] Philadelphia Phillies vs Washington Nationals (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvcGhpbGFkZWxwaGlhLXBoaWxsaWVzLXZzLXdhc2hpbmd0b24tbmF0aW9uYWxzLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746053100000] Philadelphia Phillies vs Washington Nationals (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvcGhpbGFkZWxwaGlhLXBoaWxsaWVzLXZzLXdhc2hpbmd0b24tbmF0aW9uYWxzLzQ=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746053100000] Philadelphia Phillies vs Washington Nationals (SD|ALPHA5|ENG) [DATE]
+watch/YWxwaGEvcGhpbGFkZWxwaGlhLXBoaWxsaWVzLXZzLXdhc2hpbmd0b24tbmF0aW9uYWxzLzU=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746054000000] Aguilas Doradas v America de Cali (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYWd1aWxhcy1kb3JhZGFzLXZzLWFtZXJpY2EtZGUtY2FsaS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746054000000] Aguilas Doradas v America de Cali (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYWd1aWxhcy1kb3JhZGFzLXZzLWFtZXJpY2EtZGUtY2FsaS8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746054000000] Aguilas Doradas v America de Cali (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvYWd1aWxhcy1kb3JhZGFzLXZzLWFtZXJpY2EtZGUtY2FsaS8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746054000000] Arizona Diamondbacks v New York Mets (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9hcml6b25hLWRpYW1vbmRiYWNrcy12cy1uZXcteW9yay1tZXRzLTE2Mjk0NDE2OTcvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746054000000] Boston Red Sox v Toronto Blue Jays (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9ib3N0b24tcmVkLXNveC12cy10b3JvbnRvLWJsdWUtamF5cy0xNjI5NDQxNjk2LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746054000000] Kansas City Royals v Tampa Bay Rays (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9rYW5zYXMtY2l0eS1yb3lhbHMtdnMtdGFtcGEtYmF5LXJheXMtMTYyOTQ0MTY5NS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746054000000] Miami Heat v Cleveland Cavaliers (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9taWFtaS1oZWF0LXZzLWNsZXZlbGFuZC1jYXZhbGllcnMtMTYyOTQ0MTY5OC8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746054000000] Montreal Canadiens v Washington Capitals (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9tb250cmVhbC1jYW5hZGllbnMtdnMtd2FzaGluZ3Rvbi1jYXBpdGFscy0xNjI5NDQxNjc5LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746054000000] PWHL Women: Ottawa Charge W v Minnesota Frost W (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvcHdobC13b21lbi1vdHRhd2EtY2hhcmdlLXctdnMtbWlubmVzb3RhLWZyb3N0LXcvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746054000000] PWHL Women: Ottawa Charge W v Minnesota Frost W (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvcHdobC13b21lbi1vdHRhd2EtY2hhcmdlLXctdnMtbWlubmVzb3RhLWZyb3N0LXcvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746054000000] PWHL Women: Ottawa Charge W v Minnesota Frost W (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvcHdobC13b21lbi1vdHRhd2EtY2hhcmdlLXctdnMtbWlubmVzb3RhLWZyb3N0LXcvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746054000000] Toronto FC v CF Montreal (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvdG9yb250by1mYy12cy1jZi1tb250cmVhbC8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746054000000] Toronto FC v CF Montreal (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvdG9yb250by1mYy12cy1jZi1tb250cmVhbC8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746054000000] Toronto FC v CF Montreal (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvdG9yb250by1mYy12cy1jZi1tb250cmVhbC8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746054000000] Washington Capitals vs Montreal Canadiens (HD|ADMIN1|ENG) [DATE]
+watch/YWRtaW4vYWRtaW4td2FzaGluZ3Rvbi1jYXBpdGFscy12cy1tb250cmVhbC1jYW5hZGllbnMvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746054000000] Washington Capitals vs Montreal Canadiens (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvd2FzaGluZ3Rvbi1jYXBpdGFscy12cy1tb250cmVhbC1jYW5hZGllbnMvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746054000000] Washington Capitals vs Montreal Canadiens (HD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvd2FzaGluZ3Rvbi1jYXBpdGFscy12cy1tb250cmVhbC1jYW5hZGllbnMvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746054000000] Washington Capitals vs Montreal Canadiens (HD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvd2FzaGluZ3Rvbi1jYXBpdGFscy12cy1tb250cmVhbC1jYW5hZGllbnMvNA==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746054000000] Washington Capitals vs Montreal Canadiens (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvd2FzaGluZ3Rvbi1jYXBpdGFscy12cy1tb250cmVhbC1jYW5hZGllbnMtaG9ja2V5LTM5NDE3Ni8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746054000000] Washington Capitals vs Montreal Canadiens (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvd2FzaGluZ3Rvbi1jYXBpdGFscy12cy1tb250cmVhbC1jYW5hZGllbnMtaG9ja2V5LTM5NDE3Ni8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746054000000] Washington Capitals vs Montreal Canadiens (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvd2FzaGluZ3Rvbi1jYXBpdGFscy12cy1tb250cmVhbC1jYW5hZGllbnMvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746054000000] Washington Capitals vs Montreal Canadiens (SD|ALPHA5|ENG) [DATE]
+watch/YWxwaGEvd2FzaGluZ3Rvbi1jYXBpdGFscy12cy1tb250cmVhbC1jYW5hZGllbnMvNQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746054000000] Washington Capitals vs Montreal Canadiens (SD|ALPHA6|ENG) [DATE]
+watch/YWxwaGEvd2FzaGluZ3Rvbi1jYXBpdGFscy12cy1tb250cmVhbC1jYW5hZGllbnMvNg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746054000000] Washington Capitals vs Montreal Canadiens (SD|ALPHA7|ENG) [DATE]
+watch/YWxwaGEvd2FzaGluZ3Rvbi1jYXBpdGFscy12cy1tb250cmVhbC1jYW5hZGllbnMvNw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746054300000] Tampa Bay Rays vs Kansas City Royals (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvdGFtcGEtYmF5LXJheXMtdnMta2Fuc2FzLWNpdHktcm95YWxzLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746054300000] Tampa Bay Rays vs Kansas City Royals (HD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvdGFtcGEtYmF5LXJheXMtdnMta2Fuc2FzLWNpdHktcm95YWxzLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746054300000] Tampa Bay Rays vs Kansas City Royals (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvdGFtcGEtYmF5LXJheXMtdnMta2Fuc2FzLWNpdHktcm95YWxzLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746054300000] Tampa Bay Rays vs Kansas City Royals (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvdGFtcGEtYmF5LXJheXMtdnMta2Fuc2FzLWNpdHktcm95YWxzLzQ=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746054300000] Tampa Bay Rays vs Kansas City Royals (SD|ALPHA5|ENG) [DATE]
+watch/YWxwaGEvdGFtcGEtYmF5LXJheXMtdnMta2Fuc2FzLWNpdHktcm95YWxzLzU=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746054420000] Toronto Blue Jays vs Boston Red Sox (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvdG9yb250by1ibHVlLWpheXMtdnMtYm9zdG9uLXJlZC1zb3gvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746054420000] Toronto Blue Jays vs Boston Red Sox (HD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvdG9yb250by1ibHVlLWpheXMtdnMtYm9zdG9uLXJlZC1zb3gvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746054420000] Toronto Blue Jays vs Boston Red Sox (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvdG9yb250by1ibHVlLWpheXMtdnMtYm9zdG9uLXJlZC1zb3gvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746054420000] Toronto Blue Jays vs Boston Red Sox (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvdG9yb250by1ibHVlLWpheXMtdnMtYm9zdG9uLXJlZC1zb3gvNA==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746054420000] Toronto Blue Jays vs Boston Red Sox (SD|ALPHA5|ENG) [DATE]
+watch/YWxwaGEvdG9yb250by1ibHVlLWpheXMtdnMtYm9zdG9uLXJlZC1zb3gvNQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746054600000] New York Mets vs Arizona Diamondbacks (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbmV3LXlvcmstbWV0cy12cy1hcml6b25hLWRpYW1vbmRiYWNrcy8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746054600000] New York Mets vs Arizona Diamondbacks (HD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvbmV3LXlvcmstbWV0cy12cy1hcml6b25hLWRpYW1vbmRiYWNrcy8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746054600000] New York Mets vs Arizona Diamondbacks (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbmV3LXlvcmstbWV0cy12cy1hcml6b25hLWRpYW1vbmRiYWNrcy8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746054600000] New York Mets vs Arizona Diamondbacks (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvbmV3LXlvcmstbWV0cy12cy1hcml6b25hLWRpYW1vbmRiYWNrcy80
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746054600000] New York Mets vs Arizona Diamondbacks (SD|ALPHA5|ENG) [DATE]
+watch/YWxwaGEvbmV3LXlvcmstbWV0cy12cy1hcml6b25hLWRpYW1vbmRiYWNrcy81
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746054900000] Brasilia v Sao Paulo (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYnJhc2lsaWEtdnMtc2FvLXBhdWxvLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746054900000] Brasilia v Sao Paulo (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYnJhc2lsaWEtdnMtc2FvLXBhdWxvLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746054900000] Brasilia v Sao Paulo (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvYnJhc2lsaWEtdnMtc2FvLXBhdWxvLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746055800000] Florida Panthers v Tampa Bay Lightning (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9mbG9yaWRhLXBhbnRoZXJzLXZzLXRhbXBhLWJheS1saWdodG5pbmctMTYyOTQ0MTY3OC8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746055800000] Golden State Warriors v Houston Rockets (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9nb2xkZW4tc3RhdGUtd2FycmlvcnMtdnMtaG91c3Rvbi1yb2NrZXRzLTE2Mjk0NDE3MDAvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746055800000] Houston Rockets vs Golden State Warriors (HD|ADMIN1|ENG) [DATE]
+watch/YWRtaW4vYWRtaW4taG91c3Rvbi1yb2NrZXRzLXZzLWdvbGRlbi1zdGF0ZS13YXJyaW9ycy8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746055800000] Houston Rockets vs Golden State Warriors (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvaG91c3Rvbi1yb2NrZXRzLXZzLWdvbGRlbi1zdGF0ZS13YXJyaW9ycy8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746055800000] Houston Rockets vs Golden State Warriors (HD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvaG91c3Rvbi1yb2NrZXRzLXZzLWdvbGRlbi1zdGF0ZS13YXJyaW9ycy8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746055800000] Houston Rockets vs Golden State Warriors (HD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvaG91c3Rvbi1yb2NrZXRzLXZzLWdvbGRlbi1zdGF0ZS13YXJyaW9ycy80
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746055800000] Houston Rockets vs Golden State Warriors (HD|ALPHA5|ESP) [DATE]
+watch/YWxwaGEvaG91c3Rvbi1yb2NrZXRzLXZzLWdvbGRlbi1zdGF0ZS13YXJyaW9ycy81
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746055800000] Houston Rockets vs Golden State Warriors (HD|ALPHA6|DEU) [DATE]
+watch/YWxwaGEvaG91c3Rvbi1yb2NrZXRzLXZzLWdvbGRlbi1zdGF0ZS13YXJyaW9ycy82
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746055800000] Houston Rockets vs Golden State Warriors (HD|ALPHA7|POR) [DATE]
+watch/YWxwaGEvaG91c3Rvbi1yb2NrZXRzLXZzLWdvbGRlbi1zdGF0ZS13YXJyaW9ycy83
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746055800000] Houston Rockets vs Golden State Warriors (HD|ALPHA8|ENG) [DATE]
+watch/YWxwaGEvaG91c3Rvbi1yb2NrZXRzLXZzLWdvbGRlbi1zdGF0ZS13YXJyaW9ycy84
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746055800000] Houston Rockets vs Golden State Warriors (SD|ALPHA10|ENG) [DATE]
+watch/YWxwaGEvaG91c3Rvbi1yb2NrZXRzLXZzLWdvbGRlbi1zdGF0ZS13YXJyaW9ycy8xMA==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746055800000] Houston Rockets vs Golden State Warriors (SD|ALPHA11|ENG) [DATE]
+watch/YWxwaGEvaG91c3Rvbi1yb2NrZXRzLXZzLWdvbGRlbi1zdGF0ZS13YXJyaW9ycy8xMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746055800000] Houston Rockets vs Golden State Warriors (SD|ALPHA12|ESP) [DATE]
+watch/YWxwaGEvaG91c3Rvbi1yb2NrZXRzLXZzLWdvbGRlbi1zdGF0ZS13YXJyaW9ycy8xMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746055800000] Houston Rockets vs Golden State Warriors (SD|ALPHA13|DEU) [DATE]
+watch/YWxwaGEvaG91c3Rvbi1yb2NrZXRzLXZzLWdvbGRlbi1zdGF0ZS13YXJyaW9ycy8xMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746055800000] Houston Rockets vs Golden State Warriors (SD|ALPHA14|POR) [DATE]
+watch/YWxwaGEvaG91c3Rvbi1yb2NrZXRzLXZzLWdvbGRlbi1zdGF0ZS13YXJyaW9ycy8xNA==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746055800000] Houston Rockets vs Golden State Warriors (SD|ALPHA15|ENG) [DATE]
+watch/YWxwaGEvaG91c3Rvbi1yb2NrZXRzLXZzLWdvbGRlbi1zdGF0ZS13YXJyaW9ycy8xNQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746055800000] Houston Rockets vs Golden State Warriors (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvaG91c3Rvbi1yb2NrZXRzLXZzLWdvbGRlbi1zdGF0ZS13YXJyaW9ycy8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746055800000] Houston Rockets vs Golden State Warriors (SD|ALPHA9|ENG) [DATE]
+watch/YWxwaGEvaG91c3Rvbi1yb2NrZXRzLXZzLWdvbGRlbi1zdGF0ZS13YXJyaW9ycy85
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746055800000] Tampa Bay Lightning vs Florida Panthers (HD|ADMIN1|ENG) [DATE]
+watch/YWRtaW4vYWRtaW4tdGFtcGEtYmF5LWxpZ2h0bmluZy12cy1mbG9yaWRhLXBhbnRoZXJzLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746055800000] Tampa Bay Lightning vs Florida Panthers (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvdGFtcGEtYmF5LWxpZ2h0bmluZy12cy1mbG9yaWRhLXBhbnRoZXJzLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746055800000] Tampa Bay Lightning vs Florida Panthers (HD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvdGFtcGEtYmF5LWxpZ2h0bmluZy12cy1mbG9yaWRhLXBhbnRoZXJzLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746055800000] Tampa Bay Lightning vs Florida Panthers (HD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvdGFtcGEtYmF5LWxpZ2h0bmluZy12cy1mbG9yaWRhLXBhbnRoZXJzLzQ=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746055800000] Tampa Bay Lightning vs Florida Panthers (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvdGFtcGEtYmF5LWxpZ2h0bmluZy12cy1mbG9yaWRhLXBhbnRoZXJzLWhvY2tleS0zOTQxODQvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746055800000] Tampa Bay Lightning vs Florida Panthers (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvdGFtcGEtYmF5LWxpZ2h0bmluZy12cy1mbG9yaWRhLXBhbnRoZXJzLWhvY2tleS0zOTQxODQvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746055800000] Tampa Bay Lightning vs Florida Panthers (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvdGFtcGEtYmF5LWxpZ2h0bmluZy12cy1mbG9yaWRhLXBhbnRoZXJzLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746055800000] Tampa Bay Lightning vs Florida Panthers (SD|ALPHA5|ENG) [DATE]
+watch/YWxwaGEvdGFtcGEtYmF5LWxpZ2h0bmluZy12cy1mbG9yaWRhLXBhbnRoZXJzLzU=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746055800000] Tampa Bay Lightning vs Florida Panthers (SD|ALPHA6|ENG) [DATE]
+watch/YWxwaGEvdGFtcGEtYmF5LWxpZ2h0bmluZy12cy1mbG9yaWRhLXBhbnRoZXJzLzY=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746055800000] Tampa Bay Lightning vs Florida Panthers (SD|ALPHA7|ENG) [DATE]
+watch/YWxwaGEvdGFtcGEtYmF5LWxpZ2h0bmluZy12cy1mbG9yaWRhLXBhbnRoZXJzLzc=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746056400000] Chicago White Sox vs Milwaukee Brewers (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY2hpY2Fnby13aGl0ZS1zb3gtdnMtbWlsd2F1a2VlLWJyZXdlcnMvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746056400000] Chicago White Sox vs Milwaukee Brewers (HD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvY2hpY2Fnby13aGl0ZS1zb3gtdnMtbWlsd2F1a2VlLWJyZXdlcnMvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746056400000] Chicago White Sox vs Milwaukee Brewers (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9taWx3YXVrZWUtYnJld2Vycy12cy1jaGljYWdvLXdoaXRlLXNveC0xNjI5NDQxNjk5LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746056400000] Chicago White Sox vs Milwaukee Brewers (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY2hpY2Fnby13aGl0ZS1zb3gtdnMtbWlsd2F1a2VlLWJyZXdlcnMvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746056400000] Chicago White Sox vs Milwaukee Brewers (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvY2hpY2Fnby13aGl0ZS1zb3gtdnMtbWlsd2F1a2VlLWJyZXdlcnMvNA==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746056400000] Chicago White Sox vs Milwaukee Brewers (SD|ALPHA5|ENG) [DATE]
+watch/YWxwaGEvY2hpY2Fnby13aGl0ZS1zb3gtdnMtbWlsd2F1a2VlLWJyZXdlcnMvNQ==
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746057600000] AEW Dynamite (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYWV3LWR5bmFtaXRlLzI=
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746057600000] AEW Dynamite (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYWV3LWR5bmFtaXRlLzE=
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746057600000] AEW Dynamite (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvYWV3LWR5bmFtaXRlLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746057600000] Athletics v Texas Rangers (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9hdGhsZXRpY3MtdnMtdGV4YXMtcmFuZ2Vycy0xNjI5NDQxNzAxLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746057600000] Atlético Tucumán vs Independiente (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYXRsZXRpY28tdHVjdW1hbi12cy1pbmRlcGVuZGllbnRlLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746057600000] Atlético Tucumán vs Independiente (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYXRsZXRpY28tdHVjdW1hbi12cy1pbmRlcGVuZGllbnRlLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746057600000] Atlético Tucumán vs Independiente (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvYXRsZXRpY28tdHVjdW1hbi12cy1pbmRlcGVuZGllbnRlLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746057600000] Inter Miami vs Vancouver Whitecaps (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvdmFuY291dmVyLXdoaXRlY2Fwcy12cy1pbnRlci1taWFtaS1jZi8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746057600000] Inter Miami vs Vancouver Whitecaps (HD|ALPHA3|ESP) [DATE]
+watch/YWxwaGEvdmFuY291dmVyLXdoaXRlY2Fwcy12cy1pbnRlci1taWFtaS1jZi8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746057600000] Inter Miami vs Vancouver Whitecaps (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9pbnRlci1taWFtaS12cy12YW5jb3V2ZXItd2hpdGVjYXBzLTEzNzA3NDMvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746057600000] Inter Miami vs Vancouver Whitecaps (HD|CHARLIE2|ENG) [DATE]
+watch/Y2hhcmxpZS9pbnRlci1taWFtaS12cy12YW5jb3V2ZXItd2hpdGVjYXBzLTEzNzA3NDMvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746057600000] Inter Miami vs Vancouver Whitecaps (HD|FOXTROT1|) [DATE]
+watch/Zm94dHJvdC9pbnRlci1taWFtaS12cy12YW5jb3V2ZXItd2hpdGVjYXBzLTIwMjUwNDMwMjMzMC8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746057600000] Inter Miami vs Vancouver Whitecaps (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvdmFuY291dmVyLXdoaXRlY2Fwcy12cy1pbnRlci1taWFtaS1jZi8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746057600000] Inter Miami vs Vancouver Whitecaps (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvdmFuY291dmVyLXdoaXRlY2Fwcy12cy1pbnRlci1taWFtaS1jZi80
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746057600000] Inter Miami vs Vancouver Whitecaps (SD|ALPHA5|ESP) [DATE]
+watch/YWxwaGEvdmFuY291dmVyLXdoaXRlY2Fwcy12cy1pbnRlci1taWFtaS1jZi81
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746057600000] USA U18 v Latvia U18 (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvdXNhLXUxOC12cy1sYXR2aWEtdTE4LzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746057600000] USA U18 v Latvia U18 (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvdXNhLXUxOC12cy1sYXR2aWEtdTE4LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746057600000] USA U18 v Latvia U18 (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvdXNhLXUxOC12cy1sYXR2aWEtdTE4LzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746057900000] Texas Rangers vs Athletics (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvdGV4YXMtcmFuZ2Vycy12cy1hdGhsZXRpY3MvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746057900000] Texas Rangers vs Athletics (HD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvdGV4YXMtcmFuZ2Vycy12cy1hdGhsZXRpY3MvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746057900000] Texas Rangers vs Athletics (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvdGV4YXMtcmFuZ2Vycy12cy1hdGhsZXRpY3MvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746057900000] Texas Rangers vs Athletics (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvdGV4YXMtcmFuZ2Vycy12cy1hdGhsZXRpY3MvNA==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746057900000] Texas Rangers vs Athletics (SD|ALPHA5|ENG) [DATE]
+watch/YWxwaGEvdGV4YXMtcmFuZ2Vycy12cy1hdGhsZXRpY3MvNQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746059400000] CSA vs Grêmio (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY3NhLXZzLWdyZW1pby8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746059400000] CSA vs Grêmio (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY3NhLXZzLWdyZW1pby8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746059400000] CSA vs Grêmio (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvY3NhLXZzLWdyZW1pby8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746059400000] Novorizontino vs Corinthians (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbm92b3Jpem9udGluby12cy1jb3JpbnRoaWFucy8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746059400000] Novorizontino vs Corinthians (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbm92b3Jpem9udGluby12cy1jb3JpbnRoaWFucy8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746059400000] Novorizontino vs Corinthians (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvbm92b3Jpem9udGluby12cy1jb3JpbnRoaWFucy8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746059400000] Paysandu vs Bahia (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvcGF5c2FuZHUtdnMtYmFoaWEvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746059400000] Paysandu vs Bahia (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvcGF5c2FuZHUtdnMtYmFoaWEvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746059400000] Paysandu vs Bahia (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvcGF5c2FuZHUtdnMtYmFoaWEvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746061200000] Utah Warriors v San Diego Legion (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvdXRhaC13YXJyaW9ycy12cy1zYW4tZGllZ28tbGVnaW9uLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746061200000] Utah Warriors v San Diego Legion (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvdXRhaC13YXJyaW9ycy12cy1zYW4tZGllZ28tbGVnaW9uLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746061200000] Utah Warriors v San Diego Legion (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvdXRhaC13YXJyaW9ycy12cy1zYW4tZGllZ28tbGVnaW9uLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746061800000] Llaneros vs Independiente Santa Fe (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbGxhbmVyb3MtdnMtaW5kZXBlbmRpZW50ZS1zYW50YS1mZS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746061800000] Llaneros vs Independiente Santa Fe (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbGxhbmVyb3MtdnMtaW5kZXBlbmRpZW50ZS1zYW50YS1mZS8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746061800000] Llaneros vs Independiente Santa Fe (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvbGxhbmVyb3MtdnMtaW5kZXBlbmRpZW50ZS1zYW50YS1mZS8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746063000000] St. Louis Blues v Winnipeg Jets (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9zdC1sb3Vpcy1ibHVlcy12cy13aW5uaXBlZy1qZXRzLTE2Mjk0NDE2ODAvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746063000000] Winnipeg Jets vs St. Louis Blues (HD|ADMIN1|ENG) [DATE]
+watch/YWRtaW4vYWRtaW4td2lubmlwZWctamV0cy12cy1zdC1sb3Vpcy1ibHVlcy8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746063000000] Winnipeg Jets vs St. Louis Blues (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvd2lubmlwZWctamV0cy12cy1zdC1sb3Vpcy1ibHVlcy8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746063000000] Winnipeg Jets vs St. Louis Blues (HD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvd2lubmlwZWctamV0cy12cy1zdC1sb3Vpcy1ibHVlcy8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746063000000] Winnipeg Jets vs St. Louis Blues (HD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvd2lubmlwZWctamV0cy12cy1zdC1sb3Vpcy1ibHVlcy80
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746063000000] Winnipeg Jets vs St. Louis Blues (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvd2lubmlwZWctamV0cy12cy1zdC1sb3Vpcy1ibHVlcy8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746063000000] Winnipeg Jets vs St. Louis Blues (SD|ALPHA5|ENG) [DATE]
+watch/YWxwaGEvd2lubmlwZWctamV0cy12cy1zdC1sb3Vpcy1ibHVlcy81
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746063000000] Winnipeg Jets vs St. Louis Blues (SD|ALPHA6|ENG) [DATE]
+watch/YWxwaGEvd2lubmlwZWctamV0cy12cy1zdC1sb3Vpcy1ibHVlcy82
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746063000000] Winnipeg Jets vs St. Louis Blues (SD|ALPHA7|ENG) [DATE]
+watch/YWxwaGEvd2lubmlwZWctamV0cy12cy1zdC1sb3Vpcy1ibHVlcy83
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746064800000] Los Angeles Lakers vs Minnesota Timberwolves (HD|ADMIN1|ENG) [DATE]
+watch/YWRtaW4vYWRtaW4tbG9zLWFuZ2VsZXMtbGFrZXJzLXZzLW1pbm5lc290YS10aW1iZXJ3b2x2ZXMvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746064800000] Los Angeles Lakers vs Minnesota Timberwolves (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbG9zLWFuZ2VsZXMtbGFrZXJzLXZzLW1pbm5lc290YS10aW1iZXJ3b2x2ZXMvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746064800000] Los Angeles Lakers vs Minnesota Timberwolves (HD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvbG9zLWFuZ2VsZXMtbGFrZXJzLXZzLW1pbm5lc290YS10aW1iZXJ3b2x2ZXMvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746064800000] Los Angeles Lakers vs Minnesota Timberwolves (HD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvbG9zLWFuZ2VsZXMtbGFrZXJzLXZzLW1pbm5lc290YS10aW1iZXJ3b2x2ZXMvNA==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746064800000] Los Angeles Lakers vs Minnesota Timberwolves (HD|ALPHA5|ESP) [DATE]
+watch/YWxwaGEvbG9zLWFuZ2VsZXMtbGFrZXJzLXZzLW1pbm5lc290YS10aW1iZXJ3b2x2ZXMvNQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746064800000] Los Angeles Lakers vs Minnesota Timberwolves (HD|ALPHA6|DEU) [DATE]
+watch/YWxwaGEvbG9zLWFuZ2VsZXMtbGFrZXJzLXZzLW1pbm5lc290YS10aW1iZXJ3b2x2ZXMvNg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746064800000] Los Angeles Lakers vs Minnesota Timberwolves (HD|ALPHA7|POR) [DATE]
+watch/YWxwaGEvbG9zLWFuZ2VsZXMtbGFrZXJzLXZzLW1pbm5lc290YS10aW1iZXJ3b2x2ZXMvNw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746064800000] Los Angeles Lakers vs Minnesota Timberwolves (HD|ALPHA8|ENG) [DATE]
+watch/YWxwaGEvbG9zLWFuZ2VsZXMtbGFrZXJzLXZzLW1pbm5lc290YS10aW1iZXJ3b2x2ZXMvOA==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746064800000] Los Angeles Lakers vs Minnesota Timberwolves (SD|ALPHA10|ENG) [DATE]
+watch/YWxwaGEvbG9zLWFuZ2VsZXMtbGFrZXJzLXZzLW1pbm5lc290YS10aW1iZXJ3b2x2ZXMvMTA=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746064800000] Los Angeles Lakers vs Minnesota Timberwolves (SD|ALPHA11|ENG) [DATE]
+watch/YWxwaGEvbG9zLWFuZ2VsZXMtbGFrZXJzLXZzLW1pbm5lc290YS10aW1iZXJ3b2x2ZXMvMTE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746064800000] Los Angeles Lakers vs Minnesota Timberwolves (SD|ALPHA12|ESP) [DATE]
+watch/YWxwaGEvbG9zLWFuZ2VsZXMtbGFrZXJzLXZzLW1pbm5lc290YS10aW1iZXJ3b2x2ZXMvMTI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746064800000] Los Angeles Lakers vs Minnesota Timberwolves (SD|ALPHA13|DEU) [DATE]
+watch/YWxwaGEvbG9zLWFuZ2VsZXMtbGFrZXJzLXZzLW1pbm5lc290YS10aW1iZXJ3b2x2ZXMvMTM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746064800000] Los Angeles Lakers vs Minnesota Timberwolves (SD|ALPHA14|POR) [DATE]
+watch/YWxwaGEvbG9zLWFuZ2VsZXMtbGFrZXJzLXZzLW1pbm5lc290YS10aW1iZXJ3b2x2ZXMvMTQ=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746064800000] Los Angeles Lakers vs Minnesota Timberwolves (SD|ALPHA15|ENG) [DATE]
+watch/YWxwaGEvbG9zLWFuZ2VsZXMtbGFrZXJzLXZzLW1pbm5lc290YS10aW1iZXJ3b2x2ZXMvMTU=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746064800000] Los Angeles Lakers vs Minnesota Timberwolves (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbG9zLWFuZ2VsZXMtbGFrZXJzLXZzLW1pbm5lc290YS10aW1iZXJ3b2x2ZXMvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746064800000] Los Angeles Lakers vs Minnesota Timberwolves (SD|ALPHA9|ENG) [DATE]
+watch/YWxwaGEvbG9zLWFuZ2VsZXMtbGFrZXJzLXZzLW1pbm5lc290YS10aW1iZXJ3b2x2ZXMvOQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746064800000] Minnesota Timberwolves v Los Angeles Lakers (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9taW5uZXNvdGEtdGltYmVyd29sdmVzLXZzLWxvcy1hbmdlbGVzLWxha2Vycy0xNjI5NDQxNzAyLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746066600000] Las Vegas Lights v AV Alta (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbGFzLXZlZ2FzLWxpZ2h0cy12cy1hdi1hbHRhLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746066600000] Las Vegas Lights v AV Alta (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbGFzLXZlZ2FzLWxpZ2h0cy12cy1hdi1hbHRhLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746066600000] Las Vegas Lights v AV Alta (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvbGFzLXZlZ2FzLWxpZ2h0cy12cy1hdi1hbHRhLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746072000000] Bangladesh v Zimbabwe (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYmFuZ2xhZGVzaC12cy16aW1iYWJ3ZS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746073800000] Multan Sultans vs Karachi Kings (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbXVsdGFuLXN1bHRhbnMtdnMta2FyYWNoaS1raW5ncy8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746082800000] Bay Hawks v Tauranga Whai (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYmF5LWhhd2tzLXZzLXRhdXJhbmdhLXdoYWkvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746082800000] Bay Hawks v Tauranga Whai (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYmF5LWhhd2tzLXZzLXRhdXJhbmdhLXdoYWkvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746082800000] Bay Hawks v Tauranga Whai (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvYmF5LWhhd2tzLXZzLXRhdXJhbmdhLXdoYWkvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746090000000] Chunichi Dragons vs Hanshin Tigers (HD|ALPHA1|日本語) [DATE]
+watch/YWxwaGEvY2h1bmljaGktZHJhZ29ucy12cy1oYW5zaGluLXRpZ2Vycy8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746090000000] Chunichi Dragons vs Hanshin Tigers (SD|ALPHA2|日本語) [DATE]
+watch/YWxwaGEvY2h1bmljaGktZHJhZ29ucy12cy1oYW5zaGluLXRpZ2Vycy8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746090000000] Fukuoka S. Hawks v Nippon Ham Fighters (HD|ALPHA1|日本語) [DATE]
+watch/YWxwaGEvZnVrdW9rYS1zLWhhd2tzLXZzLW5pcHBvbi1oYW0tZmlnaHRlcnMvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746090000000] Fukuoka S. Hawks v Nippon Ham Fighters (SD|ALPHA2|日本語) [DATE]
+watch/YWxwaGEvZnVrdW9rYS1zLWhhd2tzLXZzLW5pcHBvbi1oYW0tZmlnaHRlcnMvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746090000000] Seibu Lions v Rakuten Gold. Eagles (HD|ALPHA1|日本語) [DATE]
+watch/YWxwaGEvc2VpYnUtbGlvbnMtdnMtcmFrdXRlbi1nb2xkLWVhZ2xlcy8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746090000000] Seibu Lions v Rakuten Gold. Eagles (SD|ALPHA2|日本語) [DATE]
+watch/YWxwaGEvc2VpYnUtbGlvbnMtdnMtcmFrdXRlbi1nb2xkLWVhZ2xlcy8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746090000000] Yakult Swallows v Yokohama BayStars (HD|ALPHA1|日本語) [DATE]
+watch/YWxwaGEveWFrdWx0LXN3YWxsb3dzLXZzLXlva29oYW1hLWJheXN0YXJzLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746090000000] Yakult Swallows v Yokohama BayStars (SD|ALPHA2|日本語) [DATE]
+watch/YWxwaGEveWFrdWx0LXN3YWxsb3dzLXZzLXlva29oYW1hLWJheXN0YXJzLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746090000000] Yomiuri Giants v Hiroshima Carp (HD|ALPHA1|日本語) [DATE]
+watch/YWxwaGEveW9taXVyaS1naWFudHMtdnMtaGlyb3NoaW1hLWNhcnAvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746090000000] Yomiuri Giants v Hiroshima Carp (SD|ALPHA2|日本語) [DATE]
+watch/YWxwaGEveW9taXVyaS1naWFudHMtdnMtaGlyb3NoaW1hLWNhcnAvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746093600000] Badalona W v Barcelona W (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYmFkYWxvbmEtdy12cy1iYXJjZWxvbmEtdy8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746095400000] Juve Stabia vs Catanzaro (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvanV2ZS1zdGFiaWEtdnMtY2F0YW56YXJvLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] Madrid QF 3 (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9tYWRyaWQtcWYtMy0xNjI5NDQxNzAzLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746097200000] Salavat Ufa v Lokomotiv Yaroslavl (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvc2FsYXZhdC11ZmEtdnMtbG9rb21vdGl2LXlhcm9zbGF2bC8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746111600000] Nigeria U20 v Tunisia U20 (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9uaWdlcmlhLXUyMC12cy10dW5pc2lhLXUyMC0xMzcxNTA4LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746111600000] Nigeria U20 v Tunisia U20 (HD|CHARLIE2|ENG) [DATE]
+watch/Y2hhcmxpZS9uaWdlcmlhLXUyMC12cy10dW5pc2lhLXUyMC0xMzcxNTA4LzI=
 
