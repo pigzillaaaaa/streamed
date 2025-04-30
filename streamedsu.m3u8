@@ -297,23 +297,11 @@ watch/YWxwaGEveW9taXVyaS1naWFudHMtdnMtaGlyb3NoaW1hLWNhcnAvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746003600000] Yomiuri Giants v Hiroshima Carp (SD|ALPHA2|日本語) [DATE]
 watch/YWxwaGEveW9taXVyaS1naWFudHMtdnMtaGlyb3NoaW1hLWNhcnAvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746011100000] Arantxa Sanchez: Frances Tiafoe v Matteo Arnaldi (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWZyYW5jZXMtdGlhZm9lLXZzLW1hdHRlby1hcm5hbGRpLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746011100000] Arantxa Sanchez: Frances Tiafoe v Matteo Arnaldi (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWZyYW5jZXMtdGlhZm9lLXZzLW1hdHRlby1hcm5hbGRpLzI=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746011100000] Court 3: Alexander Erler/Constantin Frantzen v Henry Patten/Harri Heliovaara (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY291cnQtMy1hbGV4YW5kZXItZXJsZXItY29uc3RhbnRpbi1mcmFudHplbi12cy1oZW5yeS1wYXR0ZW4taGFycmktaGVsaW92YWFyYS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746011100000] Court 3: Alexander Erler/Constantin Frantzen v Henry Patten/Harri Heliovaara (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY291cnQtMy1hbGV4YW5kZXItZXJsZXItY29uc3RhbnRpbi1mcmFudHplbi12cy1oZW5yeS1wYXR0ZW4taGFycmktaGVsaW92YWFyYS8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746011100000] Court 5: Hsieh Su-wei/Jelena Ostapenko v Laura Siegemund/Beatriz HaddadMaia (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNS1oc2llaC1zdS13ZWktamVsZW5hLW9zdGFwZW5rby12cy1sYXVyYS1zaWVnZW11bmQtYmVhdHJpei1oYWRkYWRtYWlhLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746011100000] Court 5: Hsieh Su-wei/Jelena Ostapenko v Laura Siegemund/Beatriz HaddadMaia (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtNS1oc2llaC1zdS13ZWktamVsZW5hLW9zdGFwZW5rby12cy1sYXVyYS1zaWVnZW11bmQtYmVhdHJpei1oYWRkYWRtYWlhLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746011100000] Manolo Santana: Madison Keys v Iga Swiatek (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtbWFkaXNvbi1rZXlzLXZzLWlnYS1zd2lhdGVrLzE=
@@ -321,17 +309,23 @@ watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtbWFkaXNvbi1rZXlzLXZzLWlnYS1zd2lhdGVrLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746011100000] Manolo Santana: Madison Keys v Iga Swiatek (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtbWFkaXNvbi1rZXlzLXZzLWlnYS1zd2lhdGVrLzI=
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746012600000] Tour of Turkey | Stage 4 (HD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746011400000] Arantxa Sanchez: Frances Tiafoe v Matteo Arnaldi (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWZyYW5jZXMtdGlhZm9lLXZzLW1hdHRlby1hcm5hbGRpLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746011400000] Arantxa Sanchez: Frances Tiafoe v Matteo Arnaldi (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWZyYW5jZXMtdGlhZm9lLXZzLW1hdHRlby1hcm5hbGRpLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746011400000] Court 5: Hsieh Su-wei/Jelena Ostapenko v Laura Siegemund/Beatriz HaddadMaia (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNS1oc2llaC1zdS13ZWktamVsZW5hLW9zdGFwZW5rby12cy1sYXVyYS1zaWVnZW11bmQtYmVhdHJpei1oYWRkYWRtYWlhLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746011400000] Court 5: Hsieh Su-wei/Jelena Ostapenko v Laura Siegemund/Beatriz HaddadMaia (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY291cnQtNS1oc2llaC1zdS13ZWktamVsZW5hLW9zdGFwZW5rby12cy1sYXVyYS1zaWVnZW11bmQtYmVhdHJpei1oYWRkYWRtYWlhLzI=
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746012600000] Tour of Turkey | Stage 4 (HD|ALPHA1|ESP) [DATE]
 watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtNC8x
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746012600000] Tour of Turkey | Stage 4 (HD|ALPHA2|ESP) [DATE]
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746012600000] Tour of Turkey | Stage 4 (SD|ALPHA2|ESP) [DATE]
 watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtNC8y
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746012600000] Tour of Turkey | Stage 4 (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtNC8z
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746012600000] Tour of Turkey | Stage 4 (SD|ALPHA4|ESP) [DATE]
-watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtNC80
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746016200000] Court 3: Mate Pavic/Marcelo Arevalo v Jamie Murray/Rajeev Ram (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY291cnQtMy1tYXRlLXBhdmljLW1hcmNlbG8tYXJldmFsby12cy1qYW1pZS1tdXJyYXktcmFqZWV2LXJhbS8y
