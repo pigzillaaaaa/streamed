@@ -255,12 +255,6 @@ watch/YWxwaGEvd3dlLW5ldHdvcmsvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/live-logo.png" group-title="24/7",[TIME|0] WWE Network (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd3dlLW5ldHdvcmsvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746034500000] Arantxa Sanchez: Grigor Dimitrov v Gabriel Diallo (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWdyaWdvci1kaW1pdHJvdi12cy1nYWJyaWVsLWRpYWxsby8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746034500000] Arantxa Sanchez: Grigor Dimitrov v Gabriel Diallo (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWdyaWdvci1kaW1pdHJvdi12cy1nYWJyaWVsLWRpYWxsby8y
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746035100000] Trinidad & Tobago Legions v Jamaica Titans (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdHJpbmlkYWQtdG9iYWdvLWxlZ2lvbnMtdnMtamFtYWljYS10aXRhbnMvMQ==
 
@@ -269,12 +263,6 @@ watch/YWxwaGEvdHJpbmlkYWQtdG9iYWdvLWxlZ2lvbnMtdnMtamFtYWljYS10aXRhbnMvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746036000000] Detroit Tigers v Houston Astros (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9kZXRyb2l0LXRpZ2Vycy12cy1ob3VzdG9uLWFzdHJvcy0xNjI5NDQxNjgzLzE=
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746036000000] Saul Canelo Alvarez v William Scull: Open Workouts (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvc2F1bC1jYW5lbG8tYWx2YXJlei12cy13aWxsaWFtLXNjdWxsLW9wZW4td29ya291dHMvMQ==
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746036000000] Saul Canelo Alvarez v William Scull: Open Workouts (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvc2F1bC1jYW5lbG8tYWx2YXJlei12cy13aWxsaWFtLXNjdWxsLW9wZW4td29ya291dHMvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746036000000] WTA Madrid v Manolo Santana Stadium Sabalenka - Kostyuk (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjAzNjAwMDAwMC13dGEtbWFkcmlkLW1hbm9sby1zYW50YW5hLXN0YWRpdW0tc2FiYWxlbmthLWtvc3R5dWsvMQ==
@@ -426,15 +414,6 @@ watch/YnJhdm8vMTc0NjAzOTYwMDAwMC1wZ2EtcHJvZmVzc2lvbmFsLWNoYW1waW9uc2hpcC8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746039600000] Sweden U18 v Finland U18 (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvc3dlZGVuLXUxOC12cy1maW5sYW5kLXUxOC8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746039600000] Sweden U18 v Finland U18 (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjAzOTYwMDAwMC1zd2VkZW4tdTE4LWZpbmxhbmQtdTE4LWVuZ2xpc2gtLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746039600000] Sweden U18 v Finland U18 (HD|BRAVO2|FIN) [DATE]
-watch/YnJhdm8vMTc0NjAzOTYwMDAwMC1zd2VkZW4tdTE4LWZpbmxhbmQtdTE4LWZpbm5pc2gtLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746039600000] Sweden U18 v Finland U18 (HD|BRAVO3|SWE) [DATE]
-watch/YnJhdm8vMTc0NjAzOTYwMDAwMC1zd2VkZW4tdTE4LWZpbmxhbmQtdTE4LXN3ZWRpc2gtLzM=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746039600000] Sweden U18 v Finland U18 (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvc3dlZGVuLXUxOC12cy1maW5sYW5kLXUxOC8y
 
@@ -559,10 +538,10 @@ watch/YnJhdm8vMTc0NjA0NTAwMDAwMC1jdW1iYXlhLWd1YWxhY2VvLzE=
 watch/YWxwaGEvY2FuYWRhLXUxOC12cy1jemVjaC1yZXB1YmxpYy11MTgvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746046800000] Canada U18 v Czech Republic U18 (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjA0NjgwMDAwMC1jYW5hZGEtdTE4LWN6ZWNoLXJlcHVibGljLXUxOC1lbmdsaXNoLS8x
+watch/YnJhdm8vMTc0NjA0NjgwMDAwMC1jYW5hZGEtdTE4cmVwdWJsaWMtdTE4LWN6ZWNoLS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746046800000] Canada U18 v Czech Republic U18 (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjA0NjgwMDAwMC1jYW5hZGEtdTE4cmVwdWJsaWMtdTE4LWN6ZWNoLS8x
+watch/YnJhdm8vMTc0NjA0NjgwMDAwMC1jYW5hZGEtdTE4LWN6ZWNoLXJlcHVibGljLXUxOC1lbmdsaXNoLS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746046800000] Canada U18 v Czech Republic U18 (HD|BRAVO2|AMB) [DATE]
 watch/YnJhdm8vMTc0NjA0NjgwMDAwMC1jYW5hZGEtdTE4LWN6ZWNoLXJlcHVibGljLXUxOC1hbWJpZW50LS8y
@@ -578,6 +557,12 @@ watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYWxleGRlLW1pbmF1ci12cy1sb3JlbnpvLW11c2V0dGkvMQ
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746047100000] Manolo Santana: Alexde Minaur v Lorenzo Musetti (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYWxleGRlLW1pbmF1ci12cy1sb3JlbnpvLW11c2V0dGkvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746048600000] Rider v Penn State (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjA0ODYwMDAwMC1yaWRlci12cy1wZW5uLXN0YXRlLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746048600000] Venezuela U17 W v Chile U17 W (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjA0ODYwMDAwMC12ZW5lenVlbGEtdTE3LXctY2hpbGUtdTE3LXcvMQ==
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746050400000] Garcia v Romero: Press Conference (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvZ2FyY2lhLXZzLXJvbWVyby1wcmVzcy1jb25mZXJlbmNlLzI=
@@ -759,6 +744,12 @@ watch/YWxwaGEvd2FzaGluZ3Rvbi1jYXBpdGFscy12cy1tb250cmVhbC1jYW5hZGllbnMvMw==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746054000000] Washington Capitals vs Montreal Canadiens (HD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvd2FzaGluZ3Rvbi1jYXBpdGFscy12cy1tb250cmVhbC1jYW5hZGllbnMvNA==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746054000000] Washington Capitals vs Montreal Canadiens (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvd2FzaGluZ3Rvbi1jYXBpdGFscy12cy1tb250cmVhbC1jYW5hZGllbnMtaG9ja2V5LTM5NDE3Ni8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746054000000] Washington Capitals vs Montreal Canadiens (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvd2FzaGluZ3Rvbi1jYXBpdGFscy12cy1tb250cmVhbC1jYW5hZGllbnMtaG9ja2V5LTM5NDE3Ni8y
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746054000000] Washington Capitals vs Montreal Canadiens (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvd2FzaGluZ3Rvbi1jYXBpdGFscy12cy1tb250cmVhbC1jYW5hZGllbnMvMQ==
 
@@ -890,6 +881,12 @@ watch/YWxwaGEvdGFtcGEtYmF5LWxpZ2h0bmluZy12cy1mbG9yaWRhLXBhbnRoZXJzLzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746055800000] Tampa Bay Lightning vs Florida Panthers (HD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvdGFtcGEtYmF5LWxpZ2h0bmluZy12cy1mbG9yaWRhLXBhbnRoZXJzLzQ=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746055800000] Tampa Bay Lightning vs Florida Panthers (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvdGFtcGEtYmF5LWxpZ2h0bmluZy12cy1mbG9yaWRhLXBhbnRoZXJzLWhvY2tleS0zOTQxODQvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746055800000] Tampa Bay Lightning vs Florida Panthers (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvdGFtcGEtYmF5LWxpZ2h0bmluZy12cy1mbG9yaWRhLXBhbnRoZXJzLWhvY2tleS0zOTQxODQvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746055800000] Tampa Bay Lightning vs Florida Panthers (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdGFtcGEtYmF5LWxpZ2h0bmluZy12cy1mbG9yaWRhLXBhbnRoZXJzLzE=
