@@ -538,10 +538,10 @@ watch/YnJhdm8vMTc0NjA0NTAwMDAwMC1jdW1iYXlhLWd1YWxhY2VvLzE=
 watch/YWxwaGEvY2FuYWRhLXUxOC12cy1jemVjaC1yZXB1YmxpYy11MTgvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746046800000] Canada U18 v Czech Republic U18 (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjA0NjgwMDAwMC1jYW5hZGEtdTE4cmVwdWJsaWMtdTE4LWN6ZWNoLS8x
+watch/YnJhdm8vMTc0NjA0NjgwMDAwMC1jYW5hZGEtdTE4LWN6ZWNoLXJlcHVibGljLXUxOC1lbmdsaXNoLS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746046800000] Canada U18 v Czech Republic U18 (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjA0NjgwMDAwMC1jYW5hZGEtdTE4LWN6ZWNoLXJlcHVibGljLXUxOC1lbmdsaXNoLS8x
+watch/YnJhdm8vMTc0NjA0NjgwMDAwMC1jYW5hZGEtdTE4cmVwdWJsaWMtdTE4LWN6ZWNoLS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746046800000] Canada U18 v Czech Republic U18 (HD|BRAVO2|AMB) [DATE]
 watch/YnJhdm8vMTc0NjA0NjgwMDAwMC1jYW5hZGEtdTE4LWN6ZWNoLXJlcHVibGljLXUxOC1hbWJpZW50LS8y
@@ -572,9 +572,6 @@ watch/YWxwaGEvZ2FyY2lhLXZzLXJvbWVyby1wcmVzcy1jb25mZXJlbmNlLzE=
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746050400000] Garcia v Romero: Press Conference (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvZ2FyY2lhLXZzLXJvbWVyby1wcmVzcy1jb25mZXJlbmNlLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746050400000] Minnesota Twins v Cleveland Guardians (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9taW5uZXNvdGEtdHdpbnMtdnMtY2xldmVsYW5kLWd1YXJkaWFucy0xNjI5NDQxNjkwLzE=
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746050400000] PFL World Tournament: Weigh-In (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvcGZsLXdvcmxkLXRvdXJuYW1lbnQtd2VpZ2gtaW4vMg==
@@ -620,6 +617,12 @@ watch/Y2hhcmxpZS9zdC1sb3Vpcy1jYXJkaW5hbHMtdnMtY2luY2lubmF0aS1yZWRzLTE2Mjk0NDE2OT
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746052200000] Washington Nationals v Philadelphia Phillies (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS93YXNoaW5ndG9uLW5hdGlvbmFscy12cy1waGlsYWRlbHBoaWEtcGhpbGxpZXMtMTYyOTQ0MTY5NC8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/fighting-logo.png" group-title="FIGHT",[TIME|1746052200000] XFC: Young Guns 7 – Xtreme Fighting Championships (HD|DELTA1|) [DATE]
+watch/ZGVsdGEveGZjLXlvdW5nLWd1bnMtNy14dHJlbWUtZmlnaHRpbmctY2hhbXBpb25zaGlwcy14ZmMtMjAyNS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/fighting-logo.png" group-title="FIGHT",[TIME|1746052200000] XFC: Young Guns 7 – Xtreme Fighting Championships (HD|DELTA2|) [DATE]
+watch/ZGVsdGEveGZjLXlvdW5nLWd1bnMtNy14dHJlbWUtZmlnaHRpbmctY2hhbXBpb25zaGlwcy14ZmMtMjAyNS8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746052500000] Baltimore Orioles vs New York Yankees (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYmFsdGltb3JlLW9yaW9sZXMtdnMtbmV3LXlvcmsteWFua2Vlcy8y
@@ -723,8 +726,17 @@ watch/YWxwaGEvcHdobC13b21lbi1vdHRhd2EtY2hhcmdlLXctdnMtbWlubmVzb3RhLWZyb3N0LXcvMQ
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746054000000] PWHL Women: Ottawa Charge W v Minnesota Frost W (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvcHdobC13b21lbi1vdHRhd2EtY2hhcmdlLXctdnMtbWlubmVzb3RhLWZyb3N0LXcvMw==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746054000000] Rionegro Águilas vs América de Cali (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvcmlvbmVncm8tYWd1aWxhcy12cy1hbWVyaWNhLWRlLWNhbGktZm9vdGJhbGwtMTMzNjU1Ni8x
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746054000000] Toronto FC v CF Montreal (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdG9yb250by1mYy12cy1jZi1tb250cmVhbC8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746054000000] Toronto FC v CF Montreal (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvdG9yb250by1mYy12cy1jZi1tb250cmVhbC1mb290YmFsbC0xMzUyODQ1LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746054000000] Toronto FC v CF Montreal (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvdG9yb250by1mYy12cy1jZi1tb250cmVhbC1mb290YmFsbC0xMzUyODQ1LzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746054000000] Toronto FC v CF Montreal (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdG9yb250by1mYy12cy1jZi1tb250cmVhbC8x
