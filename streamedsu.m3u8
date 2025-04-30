@@ -744,6 +744,12 @@ watch/YWxwaGEvY2hpY2Fnby13aGl0ZS1zb3gtdnMtbWlsd2F1a2VlLWJyZXdlcnMvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746056400000] Chicago White Sox vs Milwaukee Brewers (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY2hpY2Fnby13aGl0ZS1zb3gtdnMtbWlsd2F1a2VlLWJyZXdlcnMvMg==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746056400000] Chicago White Sox vs Milwaukee Brewers (HD|BRAVO1|AWA) [DATE]
+watch/YnJhdm8vMTc0NjA1NjQwMDAwMC1taWx3YXVrZWUtYnJld2Vycy12cy1jaGljYWdvLXdoaXRlLXNveC1hd2F5LWZlZWQtLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746056400000] Chicago White Sox vs Milwaukee Brewers (HD|BRAVO2|HOM) [DATE]
+watch/YnJhdm8vMTc0NjA1NjQwMDAwMC1taWx3YXVrZWUtYnJld2Vycy12cy1jaGljYWdvLXdoaXRlLXNveC1ob21lLWZlZWQtLzI=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746056400000] Chicago White Sox vs Milwaukee Brewers (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9taWx3YXVrZWUtYnJld2Vycy12cy1jaGljYWdvLXdoaXRlLXNveC0xNjI5NDQxNjk5LzE=
 
@@ -758,9 +764,6 @@ watch/YWxwaGEvYWV3LWR5bmFtaXRlLzE=
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746057600000] AEW Dynamite (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYWV3LWR5bmFtaXRlLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746057600000] Athletics v Texas Rangers (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9hdGhsZXRpY3MtdnMtdGV4YXMtcmFuZ2Vycy0xNjI5NDQxNzAxLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746057600000] Atlético Tucumán vs Independiente (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYXRsZXRpY28tdHVjdW1hbi12cy1pbmRlcGVuZGllbnRlLzI=
@@ -777,8 +780,11 @@ watch/YWxwaGEvdmFuY291dmVyLXdoaXRlY2Fwcy12cy1pbnRlci1taWFtaS1jZi8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746057600000] Inter Miami vs Vancouver Whitecaps (HD|ALPHA2|ESP) [DATE]
 watch/YWxwaGEvdmFuY291dmVyLXdoaXRlY2Fwcy12cy1pbnRlci1taWFtaS1jZi8y
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746057600000] Inter Miami vs Vancouver Whitecaps (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9pbnRlci1taWFtaS12cy12YW5jb3V2ZXItd2hpdGVjYXBzLTEzNzA3NDMvMQ==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746057600000] Inter Miami vs Vancouver Whitecaps (HD|ECHO1|FOX) [DATE]
+watch/ZWNoby9pbnRlci1taWFtaS12YW5jb3V2ZXItd2hpdGVjYXBzLTI3Mjc5LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746057600000] Inter Miami vs Vancouver Whitecaps (HD|ECHO2|TUD) [DATE]
+watch/ZWNoby9pbnRlci1taWFtaS12YW5jb3V2ZXItd2hpdGVjYXBzLTI3Mjc5LzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746057600000] Inter Miami vs Vancouver Whitecaps (HD|FOXTROT1|) [DATE]
 watch/Zm94dHJvdC9pbnRlci1taWFtaS12cy12YW5jb3V2ZXItd2hpdGVjYXBzLTIwMjUwNDMwMjMzMC8x
