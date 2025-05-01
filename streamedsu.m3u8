@@ -324,20 +324,17 @@ watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtNS8z
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746091800000] Tour of Turkey | Stage 5 (SD|ALPHA4|ESP) [DATE]
 watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtNS80
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746092700000] Queensland W v New South Wales W (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvcXVlZW5zbGFuZC13LXZzLW5ldy1zb3V0aC13YWxlcy13LzE=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746092700000] Queensland W v New South Wales W (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvcXVlZW5zbGFuZC13LXZzLW5ldy1zb3V0aC13YWxlcy13LzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746092700000] Queensland W v New South Wales W (HD|ALPHA3|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746092700000] Queensland W v New South Wales W (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvcXVlZW5zbGFuZC13LXZzLW5ldy1zb3V0aC13YWxlcy13LzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746092700000] Queensland W v New South Wales W (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvcXVlZW5zbGFuZC13LXZzLW5ldy1zb3V0aC13YWxlcy13LzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746092700000] Queensland W v New South Wales W (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvcXVlZW5zbGFuZC13LXZzLW5ldy1zb3V0aC13YWxlcy13LzQ=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746092700000] Queensland W v New South Wales W (SD|ALPHA5|ENG) [DATE]
-watch/YWxwaGEvcXVlZW5zbGFuZC13LXZzLW5ldy1zb3V0aC13YWxlcy13LzU=
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746093600000] Eschborn-Frankfurt Men (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvZXNjaGJvcm4tZnJhbmtmdXJ0LW1lbi8y
