@@ -435,9 +435,6 @@ watch/YWxwaGEvZ3VhdGVtYWxhLXZzLWphcGFuLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746097200000] Guatemala v Japan (SD|ALPHA2|ESP) [DATE]
 watch/YWxwaGEvZ3VhdGVtYWxhLXZzLWphcGFuLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] Madrid QF 3 (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9tYWRyaWQtcWYtMy0xNjI5NDQxNzAzLzE=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] Manolo Santana: Casper Ruud v Daniil Medvedev (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtY2FzcGVyLXJ1dWQtdnMtZGFuaWlsLW1lZHZlZGV2LzI=
 
@@ -452,9 +449,6 @@ watch/YWxwaGEvc2FsYXZhdC11ZmEtdnMtbG9rb21vdGl2LXlhcm9zbGF2bC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746097200000] Salavat Ufa v Lokomotiv Yaroslavl (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvc2FsYXZhdC11ZmEtdnMtbG9rb21vdGl2LXlhcm9zbGF2bC8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746097200000] Salavat Ufa v Lokomotiv Yaroslavl (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvc2FsYXZhdC11ZmEtdnMtbG9rb21vdGl2LXlhcm9zbGF2bC8z
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzI=
