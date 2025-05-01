@@ -369,18 +369,6 @@ watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtY2FzcGVyLXJ1dWQtdnMtZGFuaWlsLW1lZHZlZGV2LzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] Manolo Santana: Casper Ruud v Daniil Medvedev (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtY2FzcGVyLXJ1dWQtdnMtZGFuaWlsLW1lZHZlZGV2LzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (HD|ALPHA2|ESP) [DATE]
-watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (SD|ALPHA4|ESP) [DATE]
-watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzQ=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746099900000] THE CJ CUP Byron Nelson: Main Feed (First Round) (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tbWFpbi1mZWVkLWZpcnN0LXJvdW5kLzE=
 
@@ -471,20 +459,8 @@ watch/YWxwaGEvY29zZW56YS12cy1iYXJpLzI=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746104400000] Frankfurt v Wurzburg (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjEwNDQwMDAwMC1mcmFua2Z1cnQtd3VyemJ1cmcvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746104400000] Frankfurt v Wurzburg (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvZnJhbmtmdXJ0LXZzLXd1cnpidXJnLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746104400000] Frankfurt v Wurzburg (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvZnJhbmtmdXJ0LXZzLXd1cnpidXJnLzI=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746104400000] Gottingen v Oldenburg (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjEwNDQwMDAwMC1nb3R0aW5nZW4tb2xkZW5idXJnLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746104400000] Gottingen v Oldenburg (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvZ290dGluZ2VuLXZzLW9sZGVuYnVyZy8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746104400000] Gottingen v Oldenburg (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvZ290dGluZ2VuLXZzLW9sZGVuYnVyZy8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746104400000] Mantova vs Cesena (HD|ALPHA1|ITA) [DATE]
 watch/YWxwaGEvbWFudG92YS12cy1jZXNlbmEvMQ==
