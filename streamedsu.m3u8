@@ -363,26 +363,8 @@ watch/YWxwaGEvdGFtcGEtYmF5LXJheXMtdnMta2Fuc2FzLWNpdHktcm95YWxzLzM=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746119400000] Tampa Bay Rays vs Kansas City Royals (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvdGFtcGEtYmF5LXJheXMtdnMta2Fuc2FzLWNpdHktcm95YWxzLzQ=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746121500000] Switzerland v Sweden (HD|BRAVO1|GER) [DATE]
-watch/YnJhdm8vMTc0NjEyMTUwMDAwMC1zd2l0emVybGFuZC1zd2VkZW4tZ2VybWFuLS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746121500000] Switzerland v Sweden (HD|BRAVO2|FRE) [DATE]
-watch/YnJhdm8vMTc0NjEyMTUwMDAwMC1zd2l0emVybGFuZC1zd2VkZW4tZnJlbmNoLS8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746121500000] Switzerland v Sweden (HD|BRAVO3|SWE) [DATE]
-watch/YnJhdm8vMTc0NjEyMTUwMDAwMC1zd2l0emVybGFuZC1zd2VkZW4tc3dlZGlzaC0vMw==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746122400000] ATP Madrid v Manolo Santana Stadium Musetti - Diallo (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjEyMjQwMDAwMC1hdHAtbWFkcmlkLW1hbm9sby1zYW50YW5hLXN0YWRpdW0tbXVzZXR0aS1kaWFsbG8vMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746122400000] Al Fateh FC vs Al Shabab (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjEyMjQwMDAwMC1hbC1mYXRlaC1hbC1zaGFiYWIvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746122400000] Al Fateh FC vs Al Shabab (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvYWwtZmF0ZWgtdnMtYWwtc2hhYmFiLWZvb3RiYWxsLTEyNTI2ODUvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746122400000] Al Fateh FC vs Al Shabab (HD|DELTA2|) [DATE]
-watch/ZGVsdGEvYWwtZmF0ZWgtdnMtYWwtc2hhYmFiLWZvb3RiYWxsLTEyNTI2ODUvMg==
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746122400000] Benfica W v Braga W (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjEyMjQwMDAwMC1iZW5maWNhLXctYnJhZ2Etdy8x
@@ -393,26 +375,11 @@ watch/YWxwaGEva2VueWEtdTIwLXZzLW1vcm9jY28tdTIwLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746122400000] Kenya U20 v Morocco U20 (HD|ALPHA2|ESP) [DATE]
 watch/YWxwaGEva2VueWEtdTIwLXZzLW1vcm9jY28tdTIwLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746122400000] Kenya U20 v Morocco U20 (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjEyMjQwMDAwMC1rZW55YS11MjAtbW9yb2Njby11MjAvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746122400000] Kenya U20 v Morocco U20 (HD|DELTA1|) [DATE]
-watch/ZGVsdGEva2VueWEtdTIwLXZzLW1vcm9jY28tdTIwLWZvb3RiYWxsLTEzNzE1MDkvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746122400000] Kenya U20 v Morocco U20 (HD|DELTA2|) [DATE]
-watch/ZGVsdGEva2VueWEtdTIwLXZzLW1vcm9jY28tdTIwLWZvb3RiYWxsLTEzNzE1MDkvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746122400000] Kenya U20 v Morocco U20 (HD|DELTA3|) [DATE]
-watch/ZGVsdGEva2VueWEtdTIwLXZzLW1vcm9jY28tdTIwLWZvb3RiYWxsLTEzNzE1MDkvMw==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746122400000] Kenya U20 v Morocco U20 (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEva2VueWEtdTIwLXZzLW1vcm9jY28tdTIwLzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746122400000] Kenya U20 v Morocco U20 (SD|ALPHA4|ESP) [DATE]
 watch/YWxwaGEva2VueWEtdTIwLXZzLW1vcm9jY28tdTIwLzQ=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746122400000] Madrid QF 4 (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9tYWRyaWQtcWYtNC0xNjI5NDQxNzE3LzE=
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746122400000] PGE Ekstraliga Zapowiedz (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjEyMjQwMDAwMC1wZ2UtZWtzdHJhbGlnYS16YXBvd2llZHovMQ==
@@ -831,6 +798,9 @@ watch/YnJhdm8vMTc0NjEyNjAwMDAwMC1lbnZpZ2Fkby1vbmNlLWNhbGRhcy8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746126000000] Envigado vs Once Caldas (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvZW52aWdhZG8tdnMtb25jZS1jYWxkYXMtZm9vdGJhbGwtMTMzNjYzNS8x
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746126000000] Envigado vs Once Caldas (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvZW52aWdhZG8tdnMtb25jZS1jYWxkYXMtZm9vdGJhbGwtMTMzNjYzNS8y
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746126000000] Operario-PR v Vasco (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjEyNjAwMDAwMC1vcGVyYXJpby1wci12YXNjby8x
 
@@ -1077,68 +1047,65 @@ watch/YnJhdm8vMTc0NjEyNjkwMDAwMC1oYXVrYXItdy1uamFyZHZpay13LzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746127800000] WTA Madrid v Manolo Santana Stadium Sabalenka - Svitolina (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjEyNzgwMDAwMC13dGEtbWFkcmlkLW1hbm9sby1zYW50YW5hLXN0YWRpdW0tc2FiYWxlbmthLXN2aXRvbGluYS8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746129600000] Manolo Santana: Aryna Sabalenka v Elina Svitolina (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYXJ5bmEtc2FiYWxlbmthLXZzLWVsaW5hLXN2aXRvbGluYS8y
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746129600000] Aryna Sabalenka v Elina Svitolina (Women's Singles) - SF (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9hcnluYS1zYWJhbGVua2EtdnMtZWxpbmEtc3ZpdG9saW5hLXdvbWVucy1zaW5nbGVzLXNmLTE2Mjk0NDIwOTcvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746129600000] Manolo Santana: Aryna Sabalenka v Elina Svitolina (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746129600000] Manolo Santana: Aryna Sabalenka v Elina Svitolina (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYXJ5bmEtc2FiYWxlbmthLXZzLWVsaW5hLXN2aXRvbGluYS8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746129600000] Manolo Santana: Aryna Sabalenka v Elina Svitolina (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYXJ5bmEtc2FiYWxlbmthLXZzLWVsaW5hLXN2aXRvbGluYS8z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746129600000] Manolo Santana: Aryna Sabalenka v Elina Svitolina (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYXJ5bmEtc2FiYWxlbmthLXZzLWVsaW5hLXN2aXRvbGluYS8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] THE CJ CUP Byron Nelson (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjEyOTYwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0xLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] THE CJ CUP Byron Nelson (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjEyOTYwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] THE CJ CUP Byron Nelson (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjEyOTYwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0yLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZS0xNC1maXJzdC1yb3VuZC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmlyc3Qtcm91bmQvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZS0xNC1maXJzdC1yb3VuZC8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZS0xNy1maXJzdC1yb3VuZC8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tdG9tLWtpbS1mZWF0dXJlZC1ncm91cC1maXJzdC1yb3VuZC8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tc2NoZWZmbGVyLWZlYXR1cmVkLWdyb3VwLWZpcnN0LXJvdW5kLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZS0xNC1maXJzdC1yb3VuZC8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZS0xNy1maXJzdC1yb3VuZC8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tdG9tLWtpbS1mZWF0dXJlZC1ncm91cC1maXJzdC1yb3VuZC8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tc2NoZWZmbGVyLWZlYXR1cmVkLWdyb3VwLWZpcnN0LXJvdW5kLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0yLWZpcnN0LXJvdW5kLTE2Mjk0NDE3MjgvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ob2xlLTE0LWZpcnN0LXJvdW5kLWZlYXR1cmVkLWhvbGUtMTYyOTQ0MTcyNi8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0xLWZpcnN0LXJvdW5kLWZlYXR1cmVkLWdyb3VwLTEtMTYyOTQ0MTcyNy8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ob2xlLTE3LWZpcnN0LXJvdW5kLWZlYXR1cmVkLWhvbGUtMTYyOTQ0MTcyNS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZS0xNC1maXJzdC1yb3VuZC8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmlyc3Qtcm91bmQvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZS0xNC1maXJzdC1yb3VuZC8z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZS0xNy1maXJzdC1yb3VuZC8y
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZS0xNy1maXJzdC1yb3VuZC8z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tdG9tLWtpbS1mZWF0dXJlZC1ncm91cC1maXJzdC1yb3VuZC8y
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tdG9tLWtpbS1mZWF0dXJlZC1ncm91cC1maXJzdC1yb3VuZC8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tc2NoZWZmbGVyLWZlYXR1cmVkLWdyb3VwLWZpcnN0LXJvdW5kLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746130500000] Aryna Sabalenka v Elina Svitolina (Women's Singles) - SF (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9hcnluYS1zYWJhbGVua2EtdnMtZWxpbmEtc3ZpdG9saW5hLXdvbWVucy1zaW5nbGVzLXNmLTE2Mjk0NDIwOTcvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746133200000] Minas v Mogi (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbWluYXMtdnMtbW9naS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746133200000] Minas v Mogi (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbWluYXMtdnMtbW9naS8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746133200000] Minas v Mogi (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbWluYXMtdnMtbW9naS8z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tc2NoZWZmbGVyLWZlYXR1cmVkLWdyb3VwLWZpcnN0LXJvdW5kLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746133200000] Santos vs CRB (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvc2FudG9zLXZzLWNyYi8x
@@ -1157,15 +1124,6 @@ watch/YWxwaGEvY3JpY2l1bWEtdnMtcmItYnJhZ2FudGluby8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746135000000] Criciúma vs Bragantino (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvY3JpY2l1bWEtdnMtcmItYnJhZ2FudGluby8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746136800000] Franca v Pato (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvZnJhbmNhLXZzLXBhdG8vMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746136800000] Franca v Pato (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvZnJhbmNhLXZzLXBhdG8vMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746136800000] Franca v Pato (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvZnJhbmNhLXZzLXBhdG8vMw==
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746136800000] Pro Swim Series: Fort Lauderdale 1 (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvcHJvLXN3aW0tc2VyaWVzLWZvcnQtbGF1ZGVyZGFsZS0xLzI=
@@ -1827,9 +1785,27 @@ watch/YWxwaGEvcG9saS1pYXNpLXZzLXNlcHNpLXNmLWdoZW9yZ2hlLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746196200000] Slavia Sofia vs CSKA 1948 (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvc2xhdmlhLXNvZmlhLXZzLWNza2EtMTk0OC1zb2ZpYS8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] Senegal U20 v Central African Rep. U20 (HD|CHARLIE1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] Akron Togliatti v Dynamo Makhachkala (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYWtyb24tdG9nbGlhdHRpLXZzLWR5bmFtby1tYWtoYWNoa2FsYS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] Haka vs Jaro (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvaGFrYS12cy1qYXJvLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746198000000] Islamabad United vs Peshawar Zalmi (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvaXNsYW1hYmFkLXVuaXRlZC12cy1wZXNoYXdhci16YWxtaS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] KTP vs AC Oulu (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEva3RwLXZzLWFjLW91bHUvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] Senegal U20 v Central Africa U20 (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9zZW5lZ2FsLXUyMC12cy1jZW50cmFsLWFmcmljYW4tcmVwLXUyMC0xMzcxNTEwLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] Senegal U20 v Central African Rep. U20 (HD|CHARLIE2|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] Senegal U20 v Central Africa U20 (HD|CHARLIE2|ENG) [DATE]
 watch/Y2hhcmxpZS9zZW5lZ2FsLXUyMC12cy1jZW50cmFsLWFmcmljYW4tcmVwLXUyMC0xMzcxNTEwLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] Senegal U20 v Central Africa U20 (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvc2VuZWdhbC11MjAtdnMtY2VudHJhbC1hZnJpY2EtdTIwLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] VPS vs Ilves (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvdnBzLXZzLWlsdmVzLzE=
 
