@@ -285,9 +285,6 @@ watch/YnJhdm8vMTc0NjA2MTIwMDAwMC11dGFoLXdhcnJpb3JzLXNhbi1kaWVnby1sZWdpb24vMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746063000000] Long Beach State v Arizona State (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjA2MzAwMDAwMC1sb25nLWJlYWNoLXN0YXRlLXZzLWFyaXpvbmEtc3RhdGUvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746063000000] Winnipeg Jets vs St. Louis Blues (HD|ADMIN1|ENG) [DATE]
-watch/YWRtaW4vYWRtaW4td2lubmlwZWctamV0cy12cy1zdC1sb3Vpcy1ibHVlcy8x
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746063000000] Winnipeg Jets vs St. Louis Blues (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvd2lubmlwZWctamV0cy12cy1zdC1sb3Vpcy1ibHVlcy8x
 
@@ -326,12 +323,6 @@ watch/YWxwaGEvbG9zLWFuZ2VsZXMtbGFrZXJzLXZzLW1pbm5lc290YS10aW1iZXJ3b2x2ZXMvNQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746064800000] Los Angeles Lakers vs Minnesota Timberwolves (HD|ALPHA6|POR) [DATE]
 watch/YWxwaGEvbG9zLWFuZ2VsZXMtbGFrZXJzLXZzLW1pbm5lc290YS10aW1iZXJ3b2x2ZXMvNg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746064800000] Los Angeles Lakers vs Minnesota Timberwolves (HD|ECHO1|ENG) [DATE]
-watch/ZWNoby9sb3MtYW5nZWxlcy1sYWtlcnMtbWlubmVzb3RhLXRpbWJlcndvbHZlcy0yNzQ4NS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746064800000] Los Angeles Lakers vs Minnesota Timberwolves (HD|ECHO2|ENG) [DATE]
-watch/ZWNoby9sb3MtYW5nZWxlcy1sYWtlcnMtbWlubmVzb3RhLXRpbWJlcndvbHZlcy0yNzQ4NS8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746064800000] Los Angeles Lakers vs Minnesota Timberwolves (SD|ALPHA10|ESP) [DATE]
 watch/YWxwaGEvbG9zLWFuZ2VsZXMtbGFrZXJzLXZzLW1pbm5lc290YS10aW1iZXJ3b2x2ZXMvMTA=
