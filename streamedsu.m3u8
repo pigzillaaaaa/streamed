@@ -840,6 +840,15 @@ watch/Y2hhcmxpZS9uaWdlcmlhLXUyMC12cy10dW5pc2lhLXUyMC0xMzcxNTA4LzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746111600000] Nigeria U20 v Tunisia U20 (HD|CHARLIE2|ENG) [DATE]
 watch/Y2hhcmxpZS9uaWdlcmlhLXUyMC12cy10dW5pc2lhLXUyMC0xMzcxNTA4LzI=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746111600000] Nigeria U20 v Tunisia U20 (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvbmlnZXJpYS11MjAtdnMtdHVuaXNpYS11MjAtZm9vdGJhbGwtMTM3MTUwOC8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746111600000] Nigeria U20 v Tunisia U20 (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvbmlnZXJpYS11MjAtdnMtdHVuaXNpYS11MjAtZm9vdGJhbGwtMTM3MTUwOC8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746111600000] Nigeria U20 v Tunisia U20 (HD|DELTA3|) [DATE]
+watch/ZGVsdGEvbmlnZXJpYS11MjAtdnMtdHVuaXNpYS11MjAtZm9vdGJhbGwtMTM3MTUwOC8z
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746111600000] Nigeria U20 v Tunisia U20 (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbmlnZXJpYS11MjAtdnMtdHVuaXNpYS11MjAvMQ==
 
