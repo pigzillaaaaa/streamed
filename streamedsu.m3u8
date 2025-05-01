@@ -468,6 +468,9 @@ watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (HD|ALPHA2|ESP) [DATE]
 watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzI=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjA5OTAwMDAwMC1hbnR3ZXJwLWFuZGVybGVjaHQvMQ==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvYW50d2VycC12cy1hbmRlcmxlY2h0LWZvb3RiYWxsLTEzNjE3NDYvMQ==
 
@@ -483,11 +486,20 @@ watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzQ=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746099000000] Tenerife v Unicaja (HD|ALPHA2|POR) [DATE]
 watch/YWxwaGEvdGVuZXJpZmUtdnMtdW5pY2FqYS8y
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746099000000] Tenerife v Unicaja (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjA5OTAwMDAwMC10ZW5lcmlmZS11bmljYWphLzE=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746099000000] Tenerife v Unicaja (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdGVuZXJpZmUtdnMtdW5pY2FqYS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746099000000] Tenerife v Unicaja (SD|ALPHA3|POR) [DATE]
 watch/YWxwaGEvdGVuZXJpZmUtdnMtdW5pY2FqYS8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099300000] Shandong Taishan vs Qingdao Hainiu (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjA5OTMwMDAwMC1zaGFuZG9uZy10YWlzaGFuLXFpbmdkYW8taGFpbml1LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099300000] Shanghai Port vs Beijing Guoan (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjA5OTMwMDAwMC1zaGFuZ2hhaS1wb3J0LWJlaWppbmctZ3VvYW4vMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746099900000] THE CJ CUP Byron Nelson: Main Feed (First Round) (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tbWFpbi1mZWVkLWZpcnN0LXJvdW5kLzI=
