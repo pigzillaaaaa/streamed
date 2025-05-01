@@ -363,18 +363,6 @@ watch/YWxwaGEvdGFtcGEtYmF5LXJheXMtdnMta2Fuc2FzLWNpdHktcm95YWxzLzM=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746119400000] Tampa Bay Rays vs Kansas City Royals (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvdGFtcGEtYmF5LXJheXMtdnMta2Fuc2FzLWNpdHktcm95YWxzLzQ=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746120600000] Sassuolo vs Carrarese (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvc2Fzc3VvbG8tdnMtY2FycmFyZXNlLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746120600000] Sassuolo vs Carrarese (HD|ALPHA2|ITA) [DATE]
-watch/YWxwaGEvc2Fzc3VvbG8tdnMtY2FycmFyZXNlLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746120600000] Sassuolo vs Carrarese (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvc2Fzc3VvbG8tdnMtY2FycmFyZXNlLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746120600000] Sassuolo vs Carrarese (SD|ALPHA4|ITA) [DATE]
-watch/YWxwaGEvc2Fzc3VvbG8tdnMtY2FycmFyZXNlLzQ=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746121500000] Switzerland v Sweden (HD|BRAVO1|GER) [DATE]
 watch/YnJhdm8vMTc0NjEyMTUwMDAwMC1zd2l0emVybGFuZC1zd2VkZW4tZ2VybWFuLS8x
 
@@ -1112,18 +1100,6 @@ watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tdG9tLWtpbS1mZWF0dXJlZC1ncm91cC1maX
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tc2NoZWZmbGVyLWZlYXR1cmVkLWdyb3VwLWZpcnN0LXJvdW5kLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0yLWZpcnN0LXJvdW5kLTE2Mjk0NDE3MjgvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ob2xlLTE3LWZpcnN0LXJvdW5kLWZlYXR1cmVkLWhvbGUtMTYyOTQ0MTcyNS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ob2xlLTE0LWZpcnN0LXJvdW5kLWZlYXR1cmVkLWhvbGUtMTYyOTQ0MTcyNi8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0xLWZpcnN0LXJvdW5kLWZlYXR1cmVkLWdyb3VwLTEtMTYyOTQ0MTcyNy8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZS0xNC1maXJzdC1yb3VuZC8x
