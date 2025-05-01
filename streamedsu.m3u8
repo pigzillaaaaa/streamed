@@ -399,6 +399,12 @@ watch/YWxwaGEvbGV2YW50ZS1iYWRhbG9uYS13LXZzLWJhcmNlbG9uYS13LzI=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746093600000] Levante Badalona W v Barcelona W (HD|ALPHA3|ESP) [DATE]
 watch/YWxwaGEvbGV2YW50ZS1iYWRhbG9uYS13LXZzLWJhcmNlbG9uYS13LzM=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746093600000] Levante Badalona W v Barcelona W (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvZmMtbGV2YW50ZS1iYWRhbG9uYS12cy1iYXJjZWxvbmEtdy1mb290YmFsbC0xMjkzNjQzLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746093600000] Levante Badalona W v Barcelona W (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvZmMtbGV2YW50ZS1iYWRhbG9uYS12cy1iYXJjZWxvbmEtdy1mb290YmFsbC0xMjkzNjQzLzI=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746093600000] Levante Badalona W v Barcelona W (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbGV2YW50ZS1iYWRhbG9uYS13LXZzLWJhcmNlbG9uYS13LzE=
 
@@ -413,6 +419,12 @@ watch/YWxwaGEvanV2ZS1zdGFiaWEtdnMtY2F0YW56YXJvLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746095400000] Juve Stabia vs Catanzaro (HD|ALPHA3|ITA) [DATE]
 watch/YWxwaGEvanV2ZS1zdGFiaWEtdnMtY2F0YW56YXJvLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746095400000] Juve Stabia vs Catanzaro (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvanV2ZS1zdGFiaWEtdnMtY2F0YW56YXJvLWZvb3RiYWxsLTEyMzQ5ODIvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746095400000] Juve Stabia vs Catanzaro (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvanV2ZS1zdGFiaWEtdnMtY2F0YW56YXJvLWZvb3RiYWxsLTEyMzQ5ODIvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746095400000] Juve Stabia vs Catanzaro (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvanV2ZS1zdGFiaWEtdnMtY2F0YW56YXJvLzE=
@@ -491,6 +503,12 @@ watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (HD|ALPHA3|ESP) [DATE]
 watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvYW50d2VycC12cy1hbmRlcmxlY2h0LWZvb3RiYWxsLTEzNjE3NDYvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvYW50d2VycC12cy1hbmRlcmxlY2h0LWZvb3RiYWxsLTEzNjE3NDYvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzE=
@@ -660,6 +678,12 @@ watch/YWxwaGEvc2FtcGRvcmlhLXZzLWNyZW1vbmVzZS8y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746104400000] Sampdoria vs Cremonese (HD|ALPHA3|ITA) [DATE]
 watch/YWxwaGEvc2FtcGRvcmlhLXZzLWNyZW1vbmVzZS8z
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746104400000] Sampdoria vs Cremonese (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvc2FtcGRvcmlhLXZzLWNyZW1vbmVzZS1mb290YmFsbC0xMjM0OTg3LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746104400000] Sampdoria vs Cremonese (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvc2FtcGRvcmlhLXZzLWNyZW1vbmVzZS1mb290YmFsbC0xMjM0OTg3LzI=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746104400000] Sampdoria vs Cremonese (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvc2FtcGRvcmlhLXZzLWNyZW1vbmVzZS8x
 
@@ -713,6 +737,12 @@ watch/YWxwaGEvY2x1Yi1icnVnZ2UtdnMta2FhLWdlbnQvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746108000000] Club Brugge vs Gent (HD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvY2x1Yi1icnVnZ2UtdnMta2FhLWdlbnQvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746108000000] Club Brugge vs Gent (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvY2x1Yi1icnVnZ2Uta3YtdnMtZ2VudC1mb290YmFsbC0xMzYxNzQ3LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746108000000] Club Brugge vs Gent (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvY2x1Yi1icnVnZ2Uta3YtdnMtZ2VudC1mb290YmFsbC0xMzYxNzQ3LzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746108000000] Club Brugge vs Gent (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY2x1Yi1icnVnZ2UtdnMta2FhLWdlbnQvMQ==
