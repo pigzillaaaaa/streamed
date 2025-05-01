@@ -279,9 +279,6 @@ watch/YWxwaGEvY2luY2lubmF0aS1yZWRzLXZzLXN0LWxvdWlzLWNhcmRpbmFscy8z
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746117600000] Cincinnati Reds vs St. Louis Cardinals (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvY2luY2lubmF0aS1yZWRzLXZzLXN0LWxvdWlzLWNhcmRpbmFscy80
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746118800000] Arizona Diamondbacks v New York Mets (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9hcml6b25hLWRpYW1vbmRiYWNrcy12cy1uZXcteW9yay1tZXRzLTE2Mjk0NDE3MTQvMQ==
-
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746118800000] Kevin Lerena v Serhiy Radchenko (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEva2V2aW4tbGVyZW5hLXZzLXNlcmhpeS1yYWRjaGVua28vMQ==
 
@@ -299,9 +296,6 @@ watch/YWxwaGEva2V2aW4tbGVyZW5hLXZzLXNlcmhpeS1yYWRjaGVua28vNQ==
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746118800000] Kevin Lerena v Serhiy Radchenko (SD|ALPHA6|ESP) [DATE]
 watch/YWxwaGEva2V2aW4tbGVyZW5hLXZzLXNlcmhpeS1yYWRjaGVua28vNg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746118800000] Minnesota Twins v Cleveland Guardians (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9taW5uZXNvdGEtdHdpbnMtdnMtY2xldmVsYW5kLWd1YXJkaWFucy0xNjI5NDQxNzE2LzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746119400000] Cleveland Guardians vs Minnesota Twins (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY2xldmVsYW5kLWd1YXJkaWFucy12cy1taW5uZXNvdGEtdHdpbnMvMQ==
@@ -997,13 +991,16 @@ watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYXJ5bmEtc2FiYWxlbmthLXZzLWVsaW5hLXN2aXRvbGluYS
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYXJ5bmEtc2FiYWxlbmthLXZzLWVsaW5hLXN2aXRvbGluYS8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] THE CJ CUP Byron Nelson (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjEyOTYwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0xLzE=
+watch/YnJhdm8vMTc0NjEyOTYwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] THE CJ CUP Byron Nelson (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjEyOTYwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0yLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] THE CJ CUP Byron Nelson (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjEyOTYwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi8x
+watch/YnJhdm8vMTc0NjEyOTYwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0xLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZS0xNC1maXJzdC1yb3VuZC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZS0xNy1maXJzdC1yb3VuZC8x
@@ -1012,13 +1009,10 @@ watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZS0xNy1maXJzdC1yb3
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmlyc3Qtcm91bmQvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tdG9tLWtpbS1mZWF0dXJlZC1ncm91cC1maXJzdC1yb3VuZC8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZS0xNC1maXJzdC1yb3VuZC8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tc2NoZWZmbGVyLWZlYXR1cmVkLWdyb3VwLWZpcnN0LXJvdW5kLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tdG9tLWtpbS1mZWF0dXJlZC1ncm91cC1maXJzdC1yb3VuZC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0yLWZpcnN0LXJvdW5kLTE2Mjk0NDE3MjgvMQ==
@@ -1033,19 +1027,19 @@ watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ob2xlLTE0LWZpcnN0LX
 watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0xLWZpcnN0LXJvdW5kLWZlYXR1cmVkLWdyb3VwLTEtMTYyOTQ0MTcyNy8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZS0xNC1maXJzdC1yb3VuZC8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZS0xNy1maXJzdC1yb3VuZC8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmlyc3Qtcm91bmQvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tdG9tLWtpbS1mZWF0dXJlZC1ncm91cC1maXJzdC1yb3VuZC8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZS0xNC1maXJzdC1yb3VuZC8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tc2NoZWZmbGVyLWZlYXR1cmVkLWdyb3VwLWZpcnN0LXJvdW5kLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tdG9tLWtpbS1mZWF0dXJlZC1ncm91cC1maXJzdC1yb3VuZC8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746131400000] Vargas Torres v Nueve de Octubre (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjEzMTQwMDAwMC12YXJnYXMtdG9ycmVzLW51ZXZlLWRlLW9jdHVicmUvMQ==
