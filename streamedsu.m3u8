@@ -411,23 +411,26 @@ watch/YnJhdm8vMTc0NjA5NTQwMDAwMC13dGEtdmljLWNlbnRlci1jb3VydC1ib2xzb3ZhLXphZG9pbm
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746095400000] WTA Vic v Court 1 Danilina/Khromacheva - Andreescu/Sutjiadi (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjA5NTQwMDAwMC13dGEtdmljLWNvdXJ0LTEtZGFuaWxpbmEta2hyb21hY2hldmEtYW5kcmVlc2N1LXN1dGppYWRpLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] Arantxa Sanchez: Horacio Zeballos/Marcel Granollers v Henry Patten/Harri Heliovaara (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWhvcmFjaW8temViYWxsb3MtbWFyY2VsLWdyYW5vbGxlcnMtdnMtaGVucnktcGF0dGVuLWhhcnJpLWhlbGlvdmFhcmEvMg==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] ATP Madrid v Arantxa Sanchez Stadium Granollers/Zeballos - Heliovaara/Patten (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjA5NzIwMDAwMC1hdHAtbWFkcmlkLWFyYW50eGEtc2FuY2hlei1zdGFkaXVtLWdyYW5vbGxlcnMtemViYWxsb3MtaGVsaW92YWFyYS1wYXR0ZW4vMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] Arantxa Sanchez: Horacio Zeballos/Marcel Granollers v Henry Patten/Harri Heliovaara (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] ATP Madrid v Manolo Santana Stadium Ruud - Medvedev (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjA5NzIwMDAwMC1hdHAtbWFkcmlkLW1hbm9sby1zYW50YW5hLXN0YWRpdW0tcnV1ZC1tZWR2ZWRldi8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] ATP Madrid v Stadium 3 Arevalo/Pavic - Mektic/Venus (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjA5NzIwMDAwMC1hdHAtbWFkcmlkLXN0YWRpdW0tMy1hcmV2YWxvLXBhdmljLW1la3RpYy12ZW51cy8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] Arantxa Sanchez: Horacio Zeballos/Marcel Granollers v Henry Patten/Harri Heliovaara (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWhvcmFjaW8temViYWxsb3MtbWFyY2VsLWdyYW5vbGxlcnMtdnMtaGVucnktcGF0dGVuLWhhcnJpLWhlbGlvdmFhcmEvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] Arantxa Sanchez: Horacio Zeballos/Marcel Granollers v Henry Patten/Harri Heliovaara (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWhvcmFjaW8temViYWxsb3MtbWFyY2VsLWdyYW5vbGxlcnMtdnMtaGVucnktcGF0dGVuLWhhcnJpLWhlbGlvdmFhcmEvMw==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] Arantxa Sanchez: Horacio Zeballos/Marcel Granollers v Henry Patten/Harri Heliovaara (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWhvcmFjaW8temViYWxsb3MtbWFyY2VsLWdyYW5vbGxlcnMtdnMtaGVucnktcGF0dGVuLWhhcnJpLWhlbGlvdmFhcmEvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] Court 3: Mate Pavic/Marcelo Arevalo v Nikola Mektic/Michael Venus (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1tYXRlLXBhdmljLW1hcmNlbG8tYXJldmFsby12cy1uaWtvbGEtbWVrdGljLW1pY2hhZWwtdmVudXMvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] Court 3: Mate Pavic/Marcelo Arevalo v Nikola Mektic/Michael Venus (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] Court 3: Mate Pavic/Marcelo Arevalo v Nikola Mektic/Michael Venus (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY291cnQtMy1tYXRlLXBhdmljLW1hcmNlbG8tYXJldmFsby12cy1uaWtvbGEtbWVrdGljLW1pY2hhZWwtdmVudXMvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] Court 3: Mate Pavic/Marcelo Arevalo v Nikola Mektic/Michael Venus (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1tYXRlLXBhdmljLW1hcmNlbG8tYXJldmFsby12cy1uaWtvbGEtbWVrdGljLW1pY2hhZWwtdmVudXMvMw==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] Court 3: Mate Pavic/Marcelo Arevalo v Nikola Mektic/Michael Venus (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY291cnQtMy1tYXRlLXBhdmljLW1hcmNlbG8tYXJldmFsby12cy1uaWtvbGEtbWVrdGljLW1pY2hhZWwtdmVudXMvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746097200000] Guatemala v Japan (HD|ALPHA1|ESP) [DATE]
 watch/YWxwaGEvZ3VhdGVtYWxhLXZzLWphcGFuLzE=
@@ -435,20 +438,29 @@ watch/YWxwaGEvZ3VhdGVtYWxhLXZzLWphcGFuLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746097200000] Guatemala v Japan (SD|ALPHA2|ESP) [DATE]
 watch/YWxwaGEvZ3VhdGVtYWxhLXZzLWphcGFuLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] Manolo Santana: Casper Ruud v Daniil Medvedev (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtY2FzcGVyLXJ1dWQtdnMtZGFuaWlsLW1lZHZlZGV2LzI=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746097200000] Henan FC vs Wuhan Three Towns (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjA5NzIwMDAwMC1oZW5hbi1zb25nc2hhbi1sb25nbWVuLXd1aGFuLXRocmVlLXRvd25zLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] Manolo Santana: Casper Ruud v Daniil Medvedev (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] Madrid QF 3 (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9tYWRyaWQtcWYtMy0xNjI5NDQxNzAzLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] Manolo Santana: Casper Ruud v Daniil Medvedev (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtY2FzcGVyLXJ1dWQtdnMtZGFuaWlsLW1lZHZlZGV2LzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] Manolo Santana: Casper Ruud v Daniil Medvedev (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtY2FzcGVyLXJ1dWQtdnMtZGFuaWlsLW1lZHZlZGV2LzM=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] Manolo Santana: Casper Ruud v Daniil Medvedev (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtY2FzcGVyLXJ1dWQtdnMtZGFuaWlsLW1lZHZlZGV2LzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746097200000] Salavat Ufa v Lokomotiv Yaroslavl (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjA5NzIwMDAwMC1zYWxhdmF0LXVmYS1sb2tvbW90aXYteWFyb3NsYXZsLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746097200000] Salavat Ufa v Lokomotiv Yaroslavl (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvc2FsYXZhdC11ZmEtdnMtbG9rb21vdGl2LXlhcm9zbGF2bC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746097200000] Salavat Ufa v Lokomotiv Yaroslavl (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvc2FsYXZhdC11ZmEtdnMtbG9rb21vdGl2LXlhcm9zbGF2bC8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746097200000] Zhejiang Professional vs Changchun Yatai (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjA5NzIwMDAwMC16aGVqaWFuZy1wcm9mZXNzaW9uYWwtY2hhbmdjaHVuLXlhdGFpLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzI=
