@@ -363,20 +363,11 @@ watch/YWxwaGEvY291cnQtMy1tYXRlLXBhdmljLW1hcmNlbG8tYXJldmFsby12cy1uaWtvbGEtbWVrdG
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] Court 3: Mate Pavic/Marcelo Arevalo v Nikola Mektic/Michael Venus (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY291cnQtMy1tYXRlLXBhdmljLW1hcmNlbG8tYXJldmFsby12cy1uaWtvbGEtbWVrdGljLW1pY2hhZWwtdmVudXMvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746097200000] Guatemala v Japan (HD|ALPHA1|ESP) [DATE]
-watch/YWxwaGEvZ3VhdGVtYWxhLXZzLWphcGFuLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746097200000] Guatemala v Japan (SD|ALPHA2|ESP) [DATE]
-watch/YWxwaGEvZ3VhdGVtYWxhLXZzLWphcGFuLzI=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] Manolo Santana: Casper Ruud v Daniil Medvedev (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtY2FzcGVyLXJ1dWQtdnMtZGFuaWlsLW1lZHZlZGV2LzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746097200000] Manolo Santana: Casper Ruud v Daniil Medvedev (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtY2FzcGVyLXJ1dWQtdnMtZGFuaWlsLW1lZHZlZGV2LzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746097200000] Salavat Ufa v Lokomotiv Yaroslavl (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjA5NzIwMDAwMC1zYWxhdmF0LXVmYS1sb2tvbW90aXYteWFyb3NsYXZsLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzE=
@@ -384,29 +375,11 @@ watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (HD|ALPHA2|ESP) [DATE]
 watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjA5OTAwMDAwMC1hbnR3ZXJwLWFuZGVybGVjaHQvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvYW50d2VycC12cy1hbmRlcmxlY2h0LWZvb3RiYWxsLTEzNjE3NDYvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (HD|DELTA2|) [DATE]
-watch/ZGVsdGEvYW50d2VycC12cy1hbmRlcmxlY2h0LWZvb3RiYWxsLTEzNjE3NDYvMg==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (SD|ALPHA4|ESP) [DATE]
 watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzQ=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746099000000] Tenerife v Unicaja (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjA5OTAwMDAwMC10ZW5lcmlmZS11bmljYWphLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099300000] Shandong Taishan vs Qingdao Hainiu (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjA5OTMwMDAwMC1zaGFuZG9uZy10YWlzaGFuLXFpbmdkYW8taGFpbml1LzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099300000] Shanghai Port vs Beijing Guoan (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjA5OTMwMDAwMC1zaGFuZ2hhaS1wb3J0LWJlaWppbmctZ3VvYW4vMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746099900000] THE CJ CUP Byron Nelson: Main Feed (First Round) (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tbWFpbi1mZWVkLWZpcnN0LXJvdW5kLzE=
@@ -639,6 +612,15 @@ watch/YWxwaGEvdG91ci1kZS1yb21hbmRpZS1zdGFnZS0yLzM=
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746106200000] Tour de Romandie | Stage 2 (SD|ALPHA4|ESP) [DATE]
 watch/YWxwaGEvdG91ci1kZS1yb21hbmRpZS1zdGFnZS0yLzQ=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746106200000] Trefl Sopot vs Dziki Warszawa (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjEwNjIwMDAwMC10cmVmbC1zb3BvdC1kemlraS13YXJzemF3YS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746106200000] WTA Saint Malo v Center Court Parry - Osaka (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjEwNjIwMDAwMC13dGEtc2FpbnQtbWFsby1jZW50ZXItY291cnQtcGFycnktb3Nha2EvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746106200000] WTA Saint Malo v Court 1 Dartron/Rakotomanga Rajaonah - Kalashnikova/Moratelli (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjEwNjIwMDAwMC13dGEtc2FpbnQtbWFsby1jb3VydC0xLWRhcnRyb24tcmFrb3RvbWFuZ2EtcmFqYW9uYWgta2FsYXNobmlrb3ZhLW1vcmF0ZWxsaS8x
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746108000000] Bayern Munich W v Werder Bremen W (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYmF5ZXJuLW11bmljaC13LXZzLXdlcmRlci1icmVtZW4tdy8y
 
@@ -674,6 +656,9 @@ watch/YWxwaGEvY2x1Yi1icnVnZ2UtdnMta2FhLWdlbnQvNA==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746108000000] Club Brugge vs Gent (SD|ALPHA5|ENG) [DATE]
 watch/YWxwaGEvY2x1Yi1icnVnZ2UtdnMta2FhLWdlbnQvNQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746108000000] Coco Gauff v Iga Swiatek (Women's Singles) - SF (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9jb2NvLWdhdWZmLXZzLWlnYS1zd2lhdGVrLXdvbWVucy1zaW5nbGVzLXNmLTE2Mjk0NDIwOTQvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746108000000] Court 3: Christian Harrison/Evan King v Maximo Gonzalez/Andres Molteni (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY291cnQtMy1jaHJpc3RpYW4taGFycmlzb24tZXZhbi1raW5nLXZzLW1heGltby1nb256YWxlei1hbmRyZXMtbW9sdGVuaS8y
@@ -713,6 +698,9 @@ watch/YWxwaGEvdWQtb2xpdmVpcmVuc2UtdnMtc3BvcnRpbmctY3AvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746108000000] UD Oliveirense v Sporting CP (SD|ALPHA3|POR) [DATE]
 watch/YWxwaGEvdWQtb2xpdmVpcmVuc2UtdnMtc3BvcnRpbmctY3AvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746108600000] Jack Draper v Matteo Arnaldi (Men's Singles) - QF (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9qYWNrLWRyYXBlci12cy1tYXR0ZW8tYXJuYWxkaS1tZW5zLXNpbmdsZXMtcWYtMTYyOTQ0MjA5NS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746108600000] South Africa U20 v Argentina U20 (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvc291dGgtYWZyaWNhLXUyMC12cy1hcmdlbnRpbmEtdTIwLzI=
