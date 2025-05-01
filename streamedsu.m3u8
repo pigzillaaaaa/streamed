@@ -267,9 +267,6 @@ watch/YnJhdm8vMTc0NjExNjEwMDAwMC1sdWJlLWNpdml0YW5vdmEtdHJlbnRpbm8taXRhbGlhbi0vMQ
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746116100000] Lube Civitanova v Trentino (HD|BRAVO2|POL) [DATE]
 watch/YnJhdm8vMTc0NjExNjEwMDAwMC1sdWJlLWNpdml0YW5vdmEtdHJlbnRpbm8tcG9saXNoLS8y
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746117000000] Chicago Cubs v Pittsburgh Pirates (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9jaGljYWdvLWN1YnMtdnMtcGl0dHNidXJnaC1waXJhdGVzLTE2Mjk0NDE3MDQvMQ==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746117000000] St. Louis Cardinals v Cincinnati Reds (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9zdC1sb3Vpcy1jYXJkaW5hbHMtdnMtY2luY2lubmF0aS1yZWRzLTE2Mjk0NDE3MDUvMQ==
 
@@ -404,12 +401,6 @@ watch/YWxwaGEvc2Fzc3VvbG8tdnMtY2FycmFyZXNlLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746120600000] Sassuolo vs Carrarese (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjEyMDYwMDAwMC1zYXNzdW9sby1jYXJyYXJlc2UvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746120600000] Sassuolo vs Carrarese (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvc2Fzc3VvbG8tdnMtY2FycmFyZXNlLWZvb3RiYWxsLTEyMzQ5ODgvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746120600000] Sassuolo vs Carrarese (HD|DELTA2|) [DATE]
-watch/ZGVsdGEvc2Fzc3VvbG8tdnMtY2FycmFyZXNlLWZvb3RiYWxsLTEyMzQ5ODgvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746120600000] Sassuolo vs Carrarese (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvc2Fzc3VvbG8tdnMtY2FycmFyZXNlLzM=
@@ -1134,16 +1125,16 @@ watch/Zm94dHJvdC90b3R0ZW5oYW0tdnMtYm9kb2dsaW10LTIwMjUwNDMwMjEzMC80
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746126000000] Tottenham vs Bodø/Glimt (HD|ADMIN1|ENG) [DATE]
 watch/YWRtaW4vYWRtaW4tdG90dGVuaGFtLXZzLWJvZC1nbGltdC8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746127800000] Aryna Sabalenka v Elina Svitolina (Women's Singles) - SF (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9hcnluYS1zYWJhbGVua2EtdnMtZWxpbmEtc3ZpdG9saW5hLXdvbWVucy1zaW5nbGVzLXNmLTE2Mjk0NDIwOTcvMQ==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746126900000] Haukar W v Njardvik W (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjEyNjkwMDAwMC1oYXVrYXItdy1uamFyZHZpay13LzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746127800000] Manolo Santana: Aryna Sabalenka v Elina Svitolina (HD|ALPHA2|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746128400000] Manolo Santana: Aryna Sabalenka v Elina Svitolina (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYXJ5bmEtc2FiYWxlbmthLXZzLWVsaW5hLXN2aXRvbGluYS8y
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746127800000] Manolo Santana: Aryna Sabalenka v Elina Svitolina (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746128400000] Manolo Santana: Aryna Sabalenka v Elina Svitolina (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYXJ5bmEtc2FiYWxlbmthLXZzLWVsaW5hLXN2aXRvbGluYS8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746127800000] Manolo Santana: Aryna Sabalenka v Elina Svitolina (SD|ALPHA3|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746128400000] Manolo Santana: Aryna Sabalenka v Elina Svitolina (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYXJ5bmEtc2FiYWxlbmthLXZzLWVsaW5hLXN2aXRvbGluYS8z
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|ALPHA1|ENG) [DATE]
@@ -1719,7 +1710,7 @@ watch/YWxwaGEvd29tZW4tcy0zbS1zeW5jaHJvLWZpbmFsLzE=
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746158400000] Women's 3m Synchro Final (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvd29tZW4tcy0zbS1zeW5jaHJvLWZpbmFsLzM=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746162000000] Wellington Phoenix v Perth Glory (HD|CHARLIE1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746162000000] Wellington Phoenix vs Perth Glory (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS93ZWxsaW5ndG9uLXBob2VuaXgtdnMtcGVydGgtZ2xvcnktMTI4MDgzMi8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746167400000] Blues v Force (HD|CHARLIE1|ENG) [DATE]
@@ -1746,19 +1737,19 @@ watch/YWxwaGEvZnJhbmtsaW4tYnVsbHMtdnMtb3RhZ28tbnVnZ2V0cy8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746171000000] Franklin Bulls vs Otago Nuggets (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvZnJhbmtsaW4tYnVsbHMtdnMtb3RhZ28tbnVnZ2V0cy8z
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746171000000] Wellington Phoenix vs Perth Glory (HD|ALPHA2|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746171000000] Wellington Phoenix FC v Perth Glory (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd2VsbGluZ3Rvbi1waG9lbml4LWZjLXZzLXBlcnRoLWdsb3J5LzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746171000000] Wellington Phoenix vs Perth Glory (HD|FOXTROT1|) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746171000000] Wellington Phoenix FC v Perth Glory (HD|FOXTROT1|) [DATE]
 watch/Zm94dHJvdC93ZWxsaW5ndG9uLXBob2VuaXgtdnMtcGVydGgtZ2xvcnktMjAyNTA1MDIwNzAwLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746171000000] Wellington Phoenix vs Perth Glory (HD|FOXTROT2|) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746171000000] Wellington Phoenix FC v Perth Glory (HD|FOXTROT2|) [DATE]
 watch/Zm94dHJvdC93ZWxsaW5ndG9uLXBob2VuaXgtdnMtcGVydGgtZ2xvcnktMjAyNTA1MDIwNzAwLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746171000000] Wellington Phoenix vs Perth Glory (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746171000000] Wellington Phoenix FC v Perth Glory (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvd2VsbGluZ3Rvbi1waG9lbml4LWZjLXZzLXBlcnRoLWdsb3J5LzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746171000000] Wellington Phoenix vs Perth Glory (SD|ALPHA3|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746171000000] Wellington Phoenix FC v Perth Glory (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvd2VsbGluZ3Rvbi1waG9lbml4LWZjLXZzLXBlcnRoLWdsb3J5LzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746172800000] Cronulla Sharks vs Parramatta Eels (SD|ALPHA1|ENG) [DATE]
@@ -1877,6 +1868,9 @@ watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1tYXJxdWVlLWdyb3VwLXNlY29uZC1yb3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746194400000] Dynamo Moscow v Tractor Chelyabinsk (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvZHluYW1vLW1vc2Nvdy12cy10cmFjdG9yLWNoZWx5YWJpbnNrLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746194400000] Gujarat Titans vs Sunrisers Hyderabad (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvZ3VqYXJhdC10aXRhbnMtdnMtc3VucmlzZXJzLWh5ZGVyYWJhZC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746194400000] Madrid SF 1 (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9tYWRyaWQtc2YtMS0xNjI5NDQxNzQyLzE=
