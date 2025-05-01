@@ -462,11 +462,11 @@ watch/YWxwaGEvc2FsYXZhdC11ZmEtdnMtbG9rb21vdGl2LXlhcm9zbGF2bC8y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746097200000] Zhejiang Professional vs Changchun Yatai (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjA5NzIwMDAwMC16aGVqaWFuZy1wcm9mZXNzaW9uYWwtY2hhbmdjaHVuLXlhdGFpLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzI=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (HD|ALPHA3|ESP) [DATE]
-watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzM=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (HD|ALPHA2|ESP) [DATE]
+watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvYW50d2VycC12cy1hbmRlcmxlY2h0LWZvb3RiYWxsLTEzNjE3NDYvMQ==
@@ -474,14 +474,11 @@ watch/ZGVsdGEvYW50d2VycC12cy1hbmRlcmxlY2h0LWZvb3RiYWxsLTEzNjE3NDYvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (HD|DELTA2|) [DATE]
 watch/ZGVsdGEvYW50d2VycC12cy1hbmRlcmxlY2h0LWZvb3RiYWxsLTEzNjE3NDYvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzE=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzM=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (SD|ALPHA4|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (SD|ALPHA4|ESP) [DATE]
 watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzQ=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (SD|ALPHA5|ESP) [DATE]
-watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzU=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746099000000] Tenerife v Unicaja (HD|ALPHA2|POR) [DATE]
 watch/YWxwaGEvdGVuZXJpZmUtdnMtdW5pY2FqYS8y
