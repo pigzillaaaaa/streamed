@@ -297,12 +297,6 @@ watch/YWxwaGEveW9taXVyaS1naWFudHMtdnMtaGlyb3NoaW1hLWNhcnAvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746090000000] Yomiuri Giants v Hiroshima Carp (SD|ALPHA2|日本語) [DATE]
 watch/YWxwaGEveW9taXVyaS1naWFudHMtdnMtaGlyb3NoaW1hLWNhcnAvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746091800000] Italy W v Great Britain W (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvaXRhbHktdy12cy1ncmVhdC1icml0YWluLXcvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746091800000] Italy W v Great Britain W (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvaXRhbHktdy12cy1ncmVhdC1icml0YWluLXcvMg==
-
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746091800000] Tour of Turkey | Stage 5 (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtNS8x
 
@@ -324,27 +318,6 @@ watch/YWxwaGEvZXNjaGJvcm4tZnJhbmtmdXJ0LW1lbi8x
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746093600000] Eschborn-Frankfurt Men (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvZXNjaGJvcm4tZnJhbmtmdXJ0LW1lbi8y
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746095400000] Juve Stabia vs Catanzaro (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjA5NTQwMDAwMC1qdXZlLXN0YWJpYS1jYXRhbnphcm8vMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746095400000] Juve Stabia vs Catanzaro (HD|DELTA1|) [DATE]
-watch/ZGVsdGEvanV2ZS1zdGFiaWEtdnMtY2F0YW56YXJvLWZvb3RiYWxsLTEyMzQ5ODIvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746095400000] Juve Stabia vs Catanzaro (HD|DELTA2|) [DATE]
-watch/ZGVsdGEvanV2ZS1zdGFiaWEtdnMtY2F0YW56YXJvLWZvb3RiYWxsLTEyMzQ5ODIvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746095400000] Juve Stabia vs Catanzaro (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvanV2ZS1zdGFiaWEtdnMtY2F0YW56YXJvLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746095400000] Juve Stabia vs Catanzaro (SD|ALPHA2|ITA) [DATE]
-watch/YWxwaGEvanV2ZS1zdGFiaWEtdnMtY2F0YW56YXJvLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746095400000] Juve Stabia vs Catanzaro (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvanV2ZS1zdGFiaWEtdnMtY2F0YW56YXJvLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746095400000] Juve Stabia vs Catanzaro (SD|ALPHA4|ITA) [DATE]
-watch/YWxwaGEvanV2ZS1zdGFiaWEtdnMtY2F0YW56YXJvLzQ=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746095400000] Multan Sultans v Karachi Kings (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbXVsdGFuLXN1bHRhbnMtdnMta2FyYWNoaS1raW5ncy8x
 
@@ -356,9 +329,6 @@ watch/YWxwaGEvbXVsdGFuLXN1bHRhbnMtdnMta2FyYWNoaS1raW5ncy8z
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746095400000] Multan Sultans v Karachi Kings (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvbXVsdGFuLXN1bHRhbnMtdnMta2FyYWNoaS1raW5ncy80
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746095400000] Shenzhen Xinpengcheng v Tianjin Jinmen Tiger (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjA5NTQwMDAwMC1zaGVuemhlbi14aW5wZW5nY2hlbmctdGlhbmppbi1qaW5tZW4tdGlnZXIvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746095400000] WTA Saint Malo v Center Court Ferro - Dartron (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjA5NTQwMDAwMC13dGEtc2FpbnQtbWFsby1jZW50ZXItY291cnQtZmVycm8tZGFydHJvbi8x
@@ -414,12 +384,6 @@ watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtY2FzcGVyLXJ1dWQtdnMtZGFuaWlsLW1lZHZlZGV2LzI=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746097200000] Salavat Ufa v Lokomotiv Yaroslavl (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjA5NzIwMDAwMC1zYWxhdmF0LXVmYS1sb2tvbW90aXYteWFyb3NsYXZsLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746097200000] Salavat Ufa v Lokomotiv Yaroslavl (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvc2FsYXZhdC11ZmEtdnMtbG9rb21vdGl2LXlhcm9zbGF2bC8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746097200000] Salavat Ufa v Lokomotiv Yaroslavl (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvc2FsYXZhdC11ZmEtdnMtbG9rb21vdGl2LXlhcm9zbGF2bC8y
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746097200000] Zhejiang Professional vs Changchun Yatai (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjA5NzIwMDAwMC16aGVqaWFuZy1wcm9mZXNzaW9uYWwtY2hhbmdjaHVuLXlhdGFpLzE=
 
@@ -444,17 +408,8 @@ watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzM=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099000000] Antwerp vs Anderlecht (SD|ALPHA4|ESP) [DATE]
 watch/YWxwaGEvYW50d2VycC12cy1hbmRlcmxlY2h0LzQ=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746099000000] Tenerife v Unicaja (HD|ALPHA2|POR) [DATE]
-watch/YWxwaGEvdGVuZXJpZmUtdnMtdW5pY2FqYS8y
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746099000000] Tenerife v Unicaja (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjA5OTAwMDAwMC10ZW5lcmlmZS11bmljYWphLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746099000000] Tenerife v Unicaja (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvdGVuZXJpZmUtdnMtdW5pY2FqYS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746099000000] Tenerife v Unicaja (SD|ALPHA3|POR) [DATE]
-watch/YWxwaGEvdGVuZXJpZmUtdnMtdW5pY2FqYS8z
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746099300000] Shandong Taishan vs Qingdao Hainiu (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjA5OTMwMDAwMC1zaGFuZG9uZy10YWlzaGFuLXFpbmdkYW8taGFpbml1LzE=
@@ -504,50 +459,32 @@ watch/YWxwaGEvd29ybGQtc25vb2tlci1jaGFtcGlvbnNoaXAvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1746100800000] World Snooker Championship (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd29ybGQtc25vb2tlci1jaGFtcGlvbnNoaXAvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746101700000] THE CJ CUP Byron Nelson: Griffin Marquee Group (First Round) (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZ3JpZmZpbi1tYXJxdWVlLWdyb3VwLWZpcnN0LXJvdW5kLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746101700000] THE CJ CUP Byron Nelson: Griffin Marquee Group (First Round) (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746101700000] THE CJ CUP Byron Nelson: Griffin Marquee Group (First Round) (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZ3JpZmZpbi1tYXJxdWVlLWdyb3VwLWZpcnN0LXJvdW5kLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746101700000] THE CJ CUP Byron Nelson: Griffin Marquee Group (First Round) (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZ3JpZmZpbi1tYXJxdWVlLWdyb3VwLWZpcnN0LXJvdW5kLzM=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746101700000] THE CJ CUP Byron Nelson: Griffin Marquee Group (First Round) (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZ3JpZmZpbi1tYXJxdWVlLWdyb3VwLWZpcnN0LXJvdW5kLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746102600000] Court 3: Jan Zielinski/Sander Gille v Kevin Krawietz/Tim Putz (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1qYW4temllbGluc2tpLXNhbmRlci1naWxsZS12cy1rZXZpbi1rcmF3aWV0ei10aW0tcHV0ei8y
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746102600000] ATP Madrid v Stadium 3 Gille/Zielinski - Krawietz/Puetz (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjEwMjYwMDAwMC1hdHAtbWFkcmlkLXN0YWRpdW0tMy1naWxsZS16aWVsaW5za2kta3Jhd2lldHotcHVldHovMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746102600000] Court 3: Jan Zielinski/Sander Gille v Kevin Krawietz/Tim Putz (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1qYW4temllbGluc2tpLXNhbmRlci1naWxsZS12cy1rZXZpbi1rcmF3aWV0ei10aW0tcHV0ei8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746102600000] Court 3: Jan Zielinski/Sander Gille v Kevin Krawietz/Tim Putz (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY291cnQtMy1qYW4temllbGluc2tpLXNhbmRlci1naWxsZS12cy1rZXZpbi1rcmF3aWV0ei10aW0tcHV0ei8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746102600000] Mauritania v Iran (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbWF1cml0YW5pYS12cy1pcmFuLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746102600000] Mauritania v Iran (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746102600000] Mauritania v Iran (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbWF1cml0YW5pYS12cy1pcmFuLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746102600000] Mauritania v Iran (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbWF1cml0YW5pYS12cy1pcmFuLzM=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746102600000] Mauritania v Iran (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbWF1cml0YW5pYS12cy1pcmFuLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746102600000] THE CJ CUP Byron Nelson: Featured Holes #4, #7, #14 & #17 (First Round) (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZXMtNC03LTE0LTE3LWZpcnN0LXJvdW5kLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746102600000] THE CJ CUP Byron Nelson: Featured Holes #4, #7, #14 & #17 (First Round) (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746102600000] THE CJ CUP Byron Nelson: Featured Holes #4, #7, #14 & #17 (First Round) (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZXMtNC03LTE0LTE3LWZpcnN0LXJvdW5kLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746102600000] THE CJ CUP Byron Nelson: Featured Holes #4, #7, #14 & #17 (First Round) (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZXMtNC03LTE0LTE3LWZpcnN0LXJvdW5kLzM=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746102600000] THE CJ CUP Byron Nelson: Featured Holes #4, #7, #14 & #17 (First Round) (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZXMtNC03LTE0LTE3LWZpcnN0LXJvdW5kLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746102600000] THE CJ CUP Byron Nelson: Hughes & McCarty Featured Groups (First Round) (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24taHVnaGVzLW1jY2FydHktZmVhdHVyZWQtZ3JvdXBzLWZpcnN0LXJvdW5kLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746102600000] THE CJ CUP Byron Nelson: Hughes & McCarty Featured Groups (First Round) (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746102600000] THE CJ CUP Byron Nelson: Hughes & McCarty Featured Groups (First Round) (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24taHVnaGVzLW1jY2FydHktZmVhdHVyZWQtZ3JvdXBzLWZpcnN0LXJvdW5kLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746102600000] THE CJ CUP Byron Nelson: Hughes & McCarty Featured Groups (First Round) (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24taHVnaGVzLW1jY2FydHktZmVhdHVyZWQtZ3JvdXBzLWZpcnN0LXJvdW5kLzM=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746102600000] THE CJ CUP Byron Nelson: Hughes & McCarty Featured Groups (First Round) (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24taHVnaGVzLW1jY2FydHktZmVhdHVyZWQtZ3JvdXBzLWZpcnN0LXJvdW5kLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746104400000] Arantxa Sanchez: Francisco Cerundolo v Jakub Mensik (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWZyYW5jaXNjby1jZXJ1bmRvbG8tdnMtamFrdWItbWVuc2lrLzI=
@@ -650,6 +587,15 @@ watch/YWxwaGEvc3BlemlhLXZzLXNhbGVybml0YW5hLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746104400000] Spezia vs Salernitana (SD|ALPHA3|ITA) [DATE]
 watch/YWxwaGEvc3BlemlhLXZzLXNhbGVybml0YW5hLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746105000000] Court 3: Jan Zielinski/Sander Gille v Kevin Krawietz/Tim Putz (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY291cnQtMy1qYW4temllbGluc2tpLXNhbmRlci1naWxsZS12cy1rZXZpbi1rcmF3aWV0ei10aW0tcHV0ei8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746105000000] Court 3: Jan Zielinski/Sander Gille v Kevin Krawietz/Tim Putz (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY291cnQtMy1qYW4temllbGluc2tpLXNhbmRlci1naWxsZS12cy1rZXZpbi1rcmF3aWV0ei10aW0tcHV0ei8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746105000000] Court 3: Jan Zielinski/Sander Gille v Kevin Krawietz/Tim Putz (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvY291cnQtMy1qYW4temllbGluc2tpLXNhbmRlci1naWxsZS12cy1rZXZpbi1rcmF3aWV0ei10aW0tcHV0ei8z
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746106200000] Tour de Romandie | Stage 2 (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdG91ci1kZS1yb21hbmRpZS1zdGFnZS0yLzI=
