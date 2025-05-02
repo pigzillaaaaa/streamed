@@ -255,18 +255,6 @@ watch/YWxwaGEvd3dlLW5ldHdvcmsvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/live-logo.png" group-title="24/7",[TIME|0] WWE Network (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd3dlLW5ldHdvcmsvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746139500000] Philadelphia Phillies vs Washington Nationals (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvcGhpbGFkZWxwaGlhLXBoaWxsaWVzLXZzLXdhc2hpbmd0b24tbmF0aW9uYWxzLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746139500000] Philadelphia Phillies vs Washington Nationals (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvcGhpbGFkZWxwaGlhLXBoaWxsaWVzLXZzLXdhc2hpbmd0b24tbmF0aW9uYWxzLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746139500000] Philadelphia Phillies vs Washington Nationals (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvcGhpbGFkZWxwaGlhLXBoaWxsaWVzLXZzLXdhc2hpbmd0b24tbmF0aW9uYWxzLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746139500000] Philadelphia Phillies vs Washington Nationals (SD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEvcGhpbGFkZWxwaGlhLXBoaWxsaWVzLXZzLXdhc2hpbmd0b24tbmF0aW9uYWxzLzQ=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746140400000] Black Desert Championship First Round (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYmxhY2stZGVzZXJ0LWNoYW1waW9uc2hpcC1maXJzdC1yb3VuZC8x
 
@@ -317,12 +305,6 @@ watch/YWxwaGEvdG9yb250by1ibHVlLWpheXMtdnMtYm9zdG9uLXJlZC1zb3gvMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746140820000] Toronto Blue Jays vs Boston Red Sox (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvdG9yb250by1ibHVlLWpheXMtdnMtYm9zdG9uLXJlZC1zb3gvNA==
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746144000000] IMPACT Wrestling (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvaW1wYWN0LXdyZXN0bGluZy8x
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746144000000] IMPACT Wrestling (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvaW1wYWN0LXdyZXN0bGluZy8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746145800000] Kansas State v BYU (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjE0NTgwMDAwMC1rYW5zYXMtc3RhdGUtdnMtYnl1LzE=
@@ -804,8 +786,14 @@ watch/YWxwaGEvZXVyb3BlYW4tZGFydHMtZ3JhbmQtcHJpeC1kYXktMS1zZXNzaW9uLTEvNA==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",[TIME|1746183600000] European Darts Grand Prix | Day 1 (Session 1) (SD|ALPHA5|DUT) [DATE]
 watch/YWxwaGEvZXVyb3BlYW4tZGFydHMtZ3JhbmQtcHJpeC1kYXktMS1zZXNzaW9uLTEvNQ==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746185400000] Arantxa Sanchez: Kevin Krawietz / Tim Putz v Horacio Zeballos/ Marcel Granollers (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWtldmluLWtyYXdpZXR6LXRpbS1wdXR6LXZzLWhvcmFjaW8temViYWxsb3MtbWFyY2VsLWdyYW5vbGxlcnMvMQ==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746185400000] Madrid Doubles SF 1 (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9tYWRyaWQtZG91Ymxlcy1zZi0xLTE2Mjk0NDE3MzcvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746185400000] Manolo Santana: Victoria Azarenka / Ashlyn Krueger v Elise Mertens/ Veronika Kudermetova (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtdmljdG9yaWEtYXphcmVua2EtYXNobHluLWtydWVnZXItdnMtZWxpc2UtbWVydGVucy12ZXJvbmlrYS1rdWRlcm1ldG92YS8x
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746185400000] Tour of Turkey | Stage 6 (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtNi8y
@@ -969,6 +957,9 @@ watch/YWxwaGEvZ3VqYXJhdC10aXRhbnMtdnMtc3VucmlzZXJzLWh5ZGVyYWJhZC81
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746194400000] Madrid SF 1 (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9tYWRyaWQtc2YtMS0xNjI5NDQxNzQyLzE=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746194400000] Manolo Santana: Francisco Cerundolo v Casper Ruud (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZnJhbmNpc2NvLWNlcnVuZG9sby12cy1jYXNwZXItcnV1ZC8x
+
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746194400000] Miami : Free Practice 1 (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9taWFtaS1mcmVlLXByYWN0aWNlLTEtMTYyOTQ0MTc0My8x
 
@@ -1001,6 +992,9 @@ watch/YWxwaGEvc2xhdmlhLXNvZmlhLXZzLWNza2EtMTk0OC1zb2ZpYS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] Akron Togliatti v Dynamo Makhachkala (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYWtyb24tdG9nbGlhdHRpLXZzLWR5bmFtby1tYWtoYWNoa2FsYS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746198000000] Arantxa Sanchez: Mate Pavic / Marcelo Arevalo v Evan King/ Christian Harrison (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LW1hdGUtcGF2aWMtbWFyY2Vsby1hcmV2YWxvLXZzLWV2YW4ta2luZy1jaHJpc3RpYW4taGFycmlzb24vMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] Haka vs Jaro (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvaGFrYS12cy1qYXJvLzE=
