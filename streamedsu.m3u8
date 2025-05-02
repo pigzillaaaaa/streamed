@@ -273,17 +273,8 @@ watch/ZGVsdGEvaW5keWNhci1yYWNpbmctMjAyNS1pbmR5Y2FyLTAxLzM=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/racing-logo.png" group-title="MOTOR-SPORTS",[TIME|1746210600000] IndyCar Racing 2025 (HD|DELTA4|) [DATE]
 watch/ZGVsdGEvaW5keWNhci1yYWNpbmctMjAyNS1pbmR5Y2FyLTAxLzQ=
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746210600000] Torun v Czestochowa (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjIxMDYwMDAwMC10b3J1bi1jemVzdG9jaG93YS8x
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746213300000] FC Porto vs Moreirense (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9mYy1wb3J0by12cy1tb3JlaXJlbnNlLTEyMzIwMTEvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/f1-logo.png" group-title="MOTOR-SPORTS",[TIME|1746213600000] F1 Academy: Miami Practice 2 (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjIxMzYwMDAwMC1mMS1hY2FkZW15LW1pYW1pLXByYWN0aWNlLTIvMQ==
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746214200000] IndyCar Series Alabama Indy Grand Prix Practice 1 (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjIxNDIwMDAwMC1pbmR5Y2FyLXNlcmllcy1hbGFiYW1hLWluZHktZ3JhbmQtcHJpeC1wcmFjdGljZS0xLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746216000000] Canada U18 v Slovakia U18 (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY2FuYWRhLXUxOC12cy1zbG92YWtpYS11MTgvMQ==
@@ -295,10 +286,10 @@ watch/YWxwaGEvY2FuYWRhLXUxOC12cy1zbG92YWtpYS11MTgvMg==
 watch/ZGVsdGEvZ29sZGVuLXN0YXRlLXdhcnJpb3JzLXZzLWhvdXN0b24tcm9ja2V0cy1iYXNrZXRiYWxsLTQ0ODQzNC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] THE CJ CUP Byron Nelson (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjIxNjAwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0xLzE=
+watch/YnJhdm8vMTc0NjIxNjAwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] THE CJ CUP Byron Nelson (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjIxNjAwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi8x
+watch/YnJhdm8vMTc0NjIxNjAwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0xLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] THE CJ CUP Byron Nelson (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjIxNjAwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0yLzE=
@@ -307,16 +298,19 @@ watch/YnJhdm8vMTc0NjIxNjAwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tc2Vjb25kLXJvdW5kLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] The CJ Cup Byron Nelson Second Round (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZS0xNC1zZWNvbmQtcm91bmQvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] The CJ Cup Byron Nelson Second Round (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZS0xNy1zZWNvbmQtcm91bmQvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] The CJ Cup Byron Nelson Second Round (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24ta2l6emlyZS1mZWF0dXJlZC1ncm91cC1zZWNvbmQtcm91bmQvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] The CJ Cup Byron Nelson Second Round (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZS0xNC1zZWNvbmQtcm91bmQvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] The CJ Cup Byron Nelson Second Round (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tc2NoZWZmbGVyLWZlYXR1cmVkLWdyb3VwLXNlY29uZC1yb3VuZC8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] The CJ Cup Byron Nelson Second Round (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0yLXNlY29uZC1yb3VuZC0xNjI5NDQxNzYwLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] The CJ Cup Byron Nelson Second Round (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ob2xlLTE3LXNlY29uZC1yb3VuZC1mZWF0dXJlZC1ob2xlLTE2Mjk0NDE3NjIvMQ==
@@ -325,22 +319,19 @@ watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ob2xlLTE3LXNlY29uZC
 watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ob2xlLTE0LXNlY29uZC1yb3VuZC1mZWF0dXJlZC1ob2xlLTE2Mjk0NDE3NjEvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] The CJ Cup Byron Nelson Second Round (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0yLXNlY29uZC1yb3VuZC0xNjI5NDQxNzYwLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] The CJ Cup Byron Nelson Second Round (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0xLXNlY29uZC1yb3VuZC1mZWF0dXJlZC1ncm91cC0xLTE2Mjk0NDE3NjMvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] The CJ Cup Byron Nelson Second Round (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tc2Vjb25kLXJvdW5kLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] The CJ Cup Byron Nelson Second Round (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZS0xNC1zZWNvbmQtcm91bmQvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] The CJ Cup Byron Nelson Second Round (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZS0xNy1zZWNvbmQtcm91bmQvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] The CJ Cup Byron Nelson Second Round (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24ta2l6emlyZS1mZWF0dXJlZC1ncm91cC1zZWNvbmQtcm91bmQvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] The CJ Cup Byron Nelson Second Round (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmVhdHVyZWQtaG9sZS0xNC1zZWNvbmQtcm91bmQvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] The CJ Cup Byron Nelson Second Round (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tc2NoZWZmbGVyLWZlYXR1cmVkLWdyb3VwLXNlY29uZC1yb3VuZC8y
@@ -411,21 +402,6 @@ watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYW5uYS1rYWxpbnNrYXlhLXNvcmFuYS1jaXJzdGVhLXZzLW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746217800000] Manolo Santana: Anna Kalinskaya/ Sorana Cirstea v Hsieh Su-wei/ Jelena Ostapenko (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtYW5uYS1rYWxpbnNrYXlhLXNvcmFuYS1jaXJzdGVhLXZzLWhzaWVoLXN1LXdlaS1qZWxlbmEtb3N0YXBlbmtvLzI=
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746217800000] Miami Grand Prix Sprint Qualifying (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjIxNzgwMDAwMC1mb3JtdWxhLTEtbWlhbWktZ3JhbmQtcHJpeC1zcHJpbnQtcXVhbGlmeWluZy1lbmdsaXNoLS8x
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746217800000] Miami Grand Prix Sprint Qualifying (HD|BRAVO2|SPA) [DATE]
-watch/YnJhdm8vMTc0NjIxNzgwMDAwMC1mb3JtdWxhLTEtbWlhbWktZ3JhbmQtcHJpeC1zcHJpbnQtcXVhbGlmeWluZy1zcGFuaXNoLS8y
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746217800000] Miami Grand Prix Sprint Qualifying (HD|BRAVO3|POL) [DATE]
-watch/YnJhdm8vMTc0NjIxNzgwMDAwMC1mb3JtdWxhLTEtbWlhbWktZ3JhbmQtcHJpeC1zcHJpbnQtcXVhbGlmeWluZy1wb2xpc2gtLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746217800000] Sport Huancayo vs Atlético Grau (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvc3BvcnQtaHVhbmNheW8tdnMtYXRsZXRpY28tZ3JhdS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746217800000] Sport Huancayo vs Atlético Grau (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvc3BvcnQtaHVhbmNheW8tdnMtYXRsZXRpY28tZ3JhdS8y
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746219600000] 2 de Mayo vs Sportivo Luqueño (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvMi1kZS1tYXlvLXZzLXNwb3J0aXZvLWx1cXVlbm8vMQ==
 
@@ -446,9 +422,6 @@ watch/YWxwaGEvZ3JhbmQtc2xhbS10cmFjay1taWFtaS0xLzE=
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746219600000] Grand Slam Track: Miami 1 (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvZ3JhbmQtc2xhbS10cmFjay1taWFtaS0xLzI=
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746219600000] NASCAR Xfinity Series Practice (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjIxOTYwMDAwMC1uYXNjYXIteGZpbml0eS1zZXJpZXMtcHJhY3RpY2UvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746219600000] Unión vs Belgrano (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdW5pb24tc2FudGEtZmUtdnMtYmVsZ3Jhbm8vMQ==
@@ -591,6 +564,9 @@ watch/YWxwaGEvcGl0dHNidXJnaC1waXJhdGVzLXZzLXNhbi1kaWVnby1wYWRyZXMvMw==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746225600000] Pittsburgh Pirates vs San Diego Padres (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvcGl0dHNidXJnaC1waXJhdGVzLXZzLXNhbi1kaWVnby1wYWRyZXMvNA==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746225900000] Arizona Diamondbacks v Philadelphia Phillies (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9hcml6b25hLWRpYW1vbmRiYWNrcy12cy1waGlsYWRlbHBoaWEtcGhpbGxpZXMtMTYyOTQ0MTc2OC8x
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746225900000] Leeward Islands Thunder v Trinidad & Tobago Legions (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbGVld2FyZC1pc2xhbmRzLXRodW5kZXItdnMtdHJpbmlkYWQtdG9iYWdvLWxlZ2lvbnMvMQ==
 
@@ -603,20 +579,20 @@ watch/YWxwaGEvcGhpbGFkZWxwaGlhLXBoaWxsaWVzLXZzLWFyaXpvbmEtZGlhbW9uZGJhY2tzLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746225900000] Philadelphia Phillies vs Arizona Diamondbacks (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvcGhpbGFkZWxwaGlhLXBoaWxsaWVzLXZzLWFyaXpvbmEtZGlhbW9uZGJhY2tzLzI=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746225900000] Philadelphia Phillies vs Arizona Diamondbacks (HD|BRAVO1|AWA) [DATE]
+watch/YnJhdm8vMTc0NjIyNTkwMDAwMC1hcml6b25hLWRpYW1vbmRiYWNrcy12cy1waGlsYWRlbHBoaWEtcGhpbGxpZXMtYXdheS1mZWVkLS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746225900000] Philadelphia Phillies vs Arizona Diamondbacks (HD|BRAVO2|HOM) [DATE]
+watch/YnJhdm8vMTc0NjIyNTkwMDAwMC1hcml6b25hLWRpYW1vbmRiYWNrcy12cy1waGlsYWRlbHBoaWEtcGhpbGxpZXMtaG9tZS1mZWVkLS8y
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746225900000] Philadelphia Phillies vs Arizona Diamondbacks (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvcGhpbGFkZWxwaGlhLXBoaWxsaWVzLXZzLWFyaXpvbmEtZGlhbW9uZGJhY2tzLzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746225900000] Philadelphia Phillies vs Arizona Diamondbacks (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvcGhpbGFkZWxwaGlhLXBoaWxsaWVzLXZzLWFyaXpvbmEtZGlhbW9uZGJhY2tzLzQ=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746226800000] Athletics v Miami Marlins (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9hdGhsZXRpY3MtdnMtbWlhbWktbWFybGlucy0xNjI5NDQxNzczLzE=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746226800000] Black Desert Championship Second Round (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYmxhY2stZGVzZXJ0LWNoYW1waW9uc2hpcC1zZWNvbmQtcm91bmQvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746226800000] Black Desert Championship Second Round (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9ibGFjay1kZXNlcnQtY2hhbXBpb25zaGlwLXNlY29uZC1yb3VuZC0xNjI5NDQxNzc4LzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746226800000] Black Desert Championship Second Round (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYmxhY2stZGVzZXJ0LWNoYW1waW9uc2hpcC1zZWNvbmQtcm91bmQvMg==
@@ -630,17 +606,8 @@ watch/YWxwaGEvY2F4aWFzLWRvLXN1bC12cy1mbGFtZW5nby8y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746226800000] Caxias do Sul v Flamengo (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvY2F4aWFzLWRvLXN1bC12cy1mbGFtZW5nby8z
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746226800000] Cleveland Guardians v Toronto Blue Jays (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9jbGV2ZWxhbmQtZ3VhcmRpYW5zLXZzLXRvcm9udG8tYmx1ZS1qYXlzLTE2Mjk0NDE3NzEvMQ==
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746226800000] Jared Warren v Joseph Creer (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9qYXJlZC13YXJyZW4tdnMtam9zZXBoLWNyZWVyLTE2Mjk0NDE3NzYvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746226800000] Kansas City Royals v Baltimore Orioles (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9rYW5zYXMtY2l0eS1yb3lhbHMtdnMtYmFsdGltb3JlLW9yaW9sZXMtMTYyOTQ0MTc2OS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746226800000] Las Vegas Aces vs Dallas Wings (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbGFzLXZlZ2FzLWFjZXMtdy12cy1kYWxsYXMtd2luZ3Mtdy8y
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746226800000] Las Vegas Aces vs Dallas Wings (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvbGFzLXZlZ2FzLWFjZXMtdy12cy1kYWxsYXMtd2luZ3Mtdy8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746226800000] Las Vegas Aces vs Dallas Wings (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvbGFzLXZlZ2FzLWFjZXMtdy12cy1kYWxsYXMtd2luZ3Mtdy1iYXNrZXRiYWxsLTQ0ODAzMi8x
@@ -648,29 +615,14 @@ watch/ZGVsdGEvbGFzLXZlZ2FzLWFjZXMtdy12cy1kYWxsYXMtd2luZ3Mtdy1iYXNrZXRiYWxsLTQ0OD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746226800000] Las Vegas Aces vs Dallas Wings (HD|DELTA2|) [DATE]
 watch/ZGVsdGEvbGFzLXZlZ2FzLWFjZXMtdy12cy1kYWxsYXMtd2luZ3Mtdy1iYXNrZXRiYWxsLTQ0ODAzMi8y
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746226800000] Las Vegas Aces vs Dallas Wings (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbGFzLXZlZ2FzLWFjZXMtdy12cy1kYWxsYXMtd2luZ3Mtdy8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746226800000] Las Vegas Aces vs Dallas Wings (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbGFzLXZlZ2FzLWFjZXMtdy12cy1kYWxsYXMtd2luZ3Mtdy8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746226800000] Los Angeles Dodgers v Atlanta Braves (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9sb3MtYW5nZWxlcy1kb2RnZXJzLXZzLWF0bGFudGEtYnJhdmVzLTE2Mjk0NDE3NzQvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746226800000] Richmond Kickers v Greenville (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvcmljaG1vbmQta2lja2Vycy12cy1ncmVlbnZpbGxlLzI=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746226800000] Las Vegas Aces vs Dallas Wings (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbGFzLXZlZ2FzLWFjZXMtdy12cy1kYWxsYXMtd2luZ3Mtdy8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746226800000] Richmond Kickers v Greenville (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvcmljaG1vbmQta2lja2Vycy12cy1ncmVlbnZpbGxlLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746226800000] Richmond Kickers v Greenville (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvcmljaG1vbmQta2lja2Vycy12cy1ncmVlbnZpbGxlLzM=
-
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746226800000] Shooto Brazil 129 (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvc2hvb3RvLWJyYXppbC0xMjkvMg==
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746226800000] Shooto Brazil 129 (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9zaG9vdG8tYnJhemlsLTEyOS0xNjI5NDQxNzc3LzE=
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746226800000] Shooto Brazil 129 (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvc2hvb3RvLWJyYXppbC0xMjkvMQ==
@@ -678,23 +630,17 @@ watch/YWxwaGEvc2hvb3RvLWJyYXppbC0xMjkvMQ==
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746226800000] Shooto Brazil 129 (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvc2hvb3RvLWJyYXppbC0xMjkvMw==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746226800000] Tampa Bay Rays v New York Yankees (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS90YW1wYS1iYXktcmF5cy12cy1uZXcteW9yay15YW5rZWVzLTE2Mjk0NDE3NzAvMQ==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227100000] Baltimore Orioles vs Kansas City Royals (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvYmFsdGltb3JlLW9yaW9sZXMtdnMta2Fuc2FzLWNpdHktcm95YWxzLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227100000] Baltimore Orioles vs Kansas City Royals (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYmFsdGltb3JlLW9yaW9sZXMtdnMta2Fuc2FzLWNpdHktcm95YWxzLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227100000] Baltimore Orioles vs Kansas City Royals (HD|ALPHA3|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227100000] Baltimore Orioles vs Kansas City Royals (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvYmFsdGltb3JlLW9yaW9sZXMtdnMta2Fuc2FzLWNpdHktcm95YWxzLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227100000] Baltimore Orioles vs Kansas City Royals (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvYmFsdGltb3JlLW9yaW9sZXMtdnMta2Fuc2FzLWNpdHktcm95YWxzLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227100000] Baltimore Orioles vs Kansas City Royals (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvYmFsdGltb3JlLW9yaW9sZXMtdnMta2Fuc2FzLWNpdHktcm95YWxzLzQ=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227100000] Baltimore Orioles vs Kansas City Royals (SD|ALPHA5|ENG) [DATE]
-watch/YWxwaGEvYmFsdGltb3JlLW9yaW9sZXMtdnMta2Fuc2FzLWNpdHktcm95YWxzLzU=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227100000] New York Yankees vs Tampa Bay Rays (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbmV3LXlvcmsteWFua2Vlcy12cy10YW1wYS1iYXktcmF5cy8y
@@ -731,9 +677,6 @@ watch/YWxwaGEvYm9zdG9uLXJlZC1zb3gtdnMtbWlubmVzb3RhLXR3aW5zLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227400000] Boston Red Sox vs Minnesota Twins (HD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvYm9zdG9uLXJlZC1zb3gtdnMtbWlubmVzb3RhLXR3aW5zLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227400000] Boston Red Sox vs Minnesota Twins (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9taW5uZXNvdGEtdHdpbnMtdnMtYm9zdG9uLXJlZC1zb3gtMTYyOTQ0MTc3Mi8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227400000] Boston Red Sox vs Minnesota Twins (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYm9zdG9uLXJlZC1zb3gtdnMtbWlubmVzb3RhLXR3aW5zLzE=
@@ -2216,6 +2159,9 @@ watch/YWxwaGEvaGliZXJuaWFuLXZzLWR1bmRlZS11bml0ZWQvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746280800000] Huddersfield v Leyton Orient (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvaHVkZGVyc2ZpZWxkLXZzLWxleXRvbi1vcmllbnQvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746280800000] Inter Turku v HJK (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvaW50ZXItdHVya3UtdnMtaGprLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746280800000] Leicester vs Southampton (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbGVpY2VzdGVyLWNpdHktdnMtc291dGhhbXB0b24vMg==
