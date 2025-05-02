@@ -588,17 +588,35 @@ watch/YWxwaGEvZXVyb3BlYW4tZGFydHMtZ3JhbmQtcHJpeC1kYXktMS1zZXNzaW9uLTEvNA==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",[TIME|1746183600000] European Darts Grand Prix | Day 1 (Session 1) (SD|ALPHA5|DUT) [DATE]
 watch/YWxwaGEvZXVyb3BlYW4tZGFydHMtZ3JhbmQtcHJpeC1kYXktMS1zZXNzaW9uLTEvNQ==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746183600000] Italy v Oman (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvaXRhbHktdnMtb21hbi8y
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746183600000] Italy v Oman (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvaXRhbHktdnMtb21hbi8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746183600000] Italy v Oman (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvaXRhbHktdnMtb21hbi8z
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746185400000] Arantxa Sanchez: Kevin Krawietz / Tim Putz v Horacio Zeballos/ Marcel Granollers (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWtldmluLWtyYXdpZXR6LXRpbS1wdXR6LXZzLWhvcmFjaW8temViYWxsb3MtbWFyY2VsLWdyYW5vbGxlcnMvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746185400000] Arantxa Sanchez: Kevin Krawietz / Tim Putz v Horacio Zeballos/ Marcel Granollers (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWtldmluLWtyYXdpZXR6LXRpbS1wdXR6LXZzLWhvcmFjaW8temViYWxsb3MtbWFyY2VsLWdyYW5vbGxlcnMvMQ==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746185400000] Arantxa Sanchez: Kevin Krawietz / Tim Putz v Horacio Zeballos/ Marcel Granollers (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWtldmluLWtyYXdpZXR6LXRpbS1wdXR6LXZzLWhvcmFjaW8temViYWxsb3MtbWFyY2VsLWdyYW5vbGxlcnMvMw==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746185400000] Madrid Doubles SF 1 (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9tYWRyaWQtZG91Ymxlcy1zZi0xLTE2Mjk0NDE3MzcvMQ==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746185400000] Manolo Santana: Victoria Azarenka / Ashlyn Krueger v Elise Mertens/ Veronika Kudermetova (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtdmljdG9yaWEtYXphcmVua2EtYXNobHluLWtydWVnZXItdnMtZWxpc2UtbWVydGVucy12ZXJvbmlrYS1rdWRlcm1ldG92YS8y
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746185400000] Manolo Santana: Victoria Azarenka / Ashlyn Krueger v Elise Mertens/ Veronika Kudermetova (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtdmljdG9yaWEtYXphcmVua2EtYXNobHluLWtydWVnZXItdnMtZWxpc2UtbWVydGVucy12ZXJvbmlrYS1rdWRlcm1ldG92YS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746185400000] Manolo Santana: Victoria Azarenka / Ashlyn Krueger v Elise Mertens/ Veronika Kudermetova (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtdmljdG9yaWEtYXphcmVua2EtYXNobHluLWtydWVnZXItdnMtZWxpc2UtbWVydGVucy12ZXJvbmlrYS1rdWRlcm1ldG92YS8z
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746185400000] Tour of Turkey | Stage 6 (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtNi8y
@@ -672,11 +690,23 @@ watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tc2NoZWZmbGVyLW1hcnF1ZWUtZ3JvdXAtc2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746188100000] THE CJ CUP Byron Nelson: Scheffler Marquee Group (Second Round) (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tc2NoZWZmbGVyLW1hcnF1ZWUtZ3JvdXAtc2Vjb25kLXJvdW5kLzM=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746189000000] Chile v Tahiti (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY2hpbGUtdnMtdGFoaXRpLzI=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746189000000] Chile v Tahiti (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY2hpbGUtdnMtdGFoaXRpLzE=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746189000000] Chile v Tahiti (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvY2hpbGUtdnMtdGFoaXRpLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746189000000] Livyi Bereg v Karpaty Lviv (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbGl2eWktYmVyZWctdnMta2FycGF0eS1sdml2LzI=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746189000000] Livyi Bereg v Karpaty Lviv (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbGl2eWktYmVyZWctdnMta2FycGF0eS1sdml2LzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746189000000] Livyi Bereg v Karpaty Lviv (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvbGl2eWktYmVyZWctdnMta2FycGF0eS1sdml2LzM=
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746189000000] ONE Friday Fights 106 (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvb25lLWZyaWRheS1maWdodHMtMTA2LzI=
@@ -774,8 +804,14 @@ watch/YWxwaGEvZ3VqYXJhdC10aXRhbnMtdnMtc3VucmlzZXJzLWh5ZGVyYWJhZC81
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746194400000] Madrid SF 1 (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9tYWRyaWQtc2YtMS0xNjI5NDQxNzQyLzE=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746194400000] Manolo Santana: Francisco Cerundolo v Casper Ruud (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZnJhbmNpc2NvLWNlcnVuZG9sby12cy1jYXNwZXItcnV1ZC8y
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746194400000] Manolo Santana: Francisco Cerundolo v Casper Ruud (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZnJhbmNpc2NvLWNlcnVuZG9sby12cy1jYXNwZXItcnV1ZC8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746194400000] Manolo Santana: Francisco Cerundolo v Casper Ruud (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZnJhbmNpc2NvLWNlcnVuZG9sby12cy1jYXNwZXItcnV1ZC8z
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746194400000] Miami : Free Practice 1 (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9taWFtaS1mcmVlLXByYWN0aWNlLTEtMTYyOTQ0MTc0My8x
@@ -828,11 +864,23 @@ watch/YWxwaGEvYWtyb24tdG9nbGlhdHRpLXZzLWR5bmFtby1tYWtoYWNoa2FsYS8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] Akron Togliatti v Dynamo Makhachkala (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvYWtyb24tdG9nbGlhdHRpLXZzLWR5bmFtby1tYWtoYWNoa2FsYS8z
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746198000000] Arantxa Sanchez: Mate Pavic / Marcelo Arevalo v Evan King/ Christian Harrison (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LW1hdGUtcGF2aWMtbWFyY2Vsby1hcmV2YWxvLXZzLWV2YW4ta2luZy1jaHJpc3RpYW4taGFycmlzb24vMg==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746198000000] Arantxa Sanchez: Mate Pavic / Marcelo Arevalo v Evan King/ Christian Harrison (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LW1hdGUtcGF2aWMtbWFyY2Vsby1hcmV2YWxvLXZzLWV2YW4ta2luZy1jaHJpc3RpYW4taGFycmlzb24vMQ==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746198000000] Arantxa Sanchez: Mate Pavic / Marcelo Arevalo v Evan King/ Christian Harrison (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LW1hdGUtcGF2aWMtbWFyY2Vsby1hcmV2YWxvLXZzLWV2YW4ta2luZy1jaHJpc3RpYW4taGFycmlzb24vMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] Brazil v El Salvador (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvYnJhemlsLXZzLWVsLXNhbHZhZG9yLzI=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] Brazil v El Salvador (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYnJhemlsLXZzLWVsLXNhbHZhZG9yLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] Brazil v El Salvador (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvYnJhemlsLXZzLWVsLXNhbHZhZG9yLzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] Haka vs Jaro (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvaGFrYS12cy1qYXJvLzE=
@@ -876,8 +924,14 @@ watch/YWxwaGEvbWFuaXNhLXZzLWdhbGF0YXNhcmF5LzI=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746198000000] Manisa v Galatasaray (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvbWFuaXNhLXZzLWdhbGF0YXNhcmF5LzM=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] Rukh Vynnyky v Kryvbas (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvcnVraC12eW5ueWt5LXZzLWtyeXZiYXMvMg==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] Rukh Vynnyky v Kryvbas (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvcnVraC12eW5ueWt5LXZzLWtyeXZiYXMvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] Rukh Vynnyky v Kryvbas (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvcnVraC12eW5ueWt5LXZzLWtyeXZiYXMvMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] Senegal U20 v Central Africa U20 (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvc2VuZWdhbC11MjAtdnMtY2VudHJhbC1hZnJpY2EtdTIwLzI=
