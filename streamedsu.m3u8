@@ -306,18 +306,6 @@ watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWtldmluLWtyYXdpZXR6LXRpbS1wdXR6LXZzLWhvcmFjaW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746185400000] Arantxa Sanchez: Kevin Krawietz / Tim Putz v Horacio Zeballos/ Marcel Granollers (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWtldmluLWtyYXdpZXR6LXRpbS1wdXR6LXZzLWhvcmFjaW8temViYWxsb3MtbWFyY2VsLWdyYW5vbGxlcnMvMg==
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746185400000] Tour of Turkey | Stage 6 (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtNi8x
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746185400000] Tour of Turkey | Stage 6 (HD|ALPHA2|ESP) [DATE]
-watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtNi8y
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746185400000] Tour of Turkey | Stage 6 (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtNi8z
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746185400000] Tour of Turkey | Stage 6 (SD|ALPHA4|ESP) [DATE]
-watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtNi80
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746185400000] WTA Madrid v Manolo Santana Stadium Azarenka/Krueger - Kudermetova/Mertens (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjE4NTQwMDAwMC13dGEtbWFkcmlkLW1hbm9sby1zYW50YW5hLXN0YWRpdW0tYXphcmVua2Eta3J1ZWdlci1rdWRlcm1ldG92YS1tZXJ0ZW5zLzE=
 
@@ -438,11 +426,20 @@ watch/YWxwaGEvdG91ci1kZS1yb21hbmRpZS1zdGFnZS0zLzM=
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746192600000] Tour de Romandie | Stage 3 (SD|ALPHA4|ESP) [DATE]
 watch/YWxwaGEvdG91ci1kZS1yb21hbmRpZS1zdGFnZS0zLzQ=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746194100000] ATP Madrid v Manolo Santana Stadium Cerundolo - Ruud (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjE5NDEwMDAwMC1hdHAtbWFkcmlkLW1hbm9sby1zYW50YW5hLXN0YWRpdW0tY2VydW5kb2xvLXJ1dWQvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746194100000] WTA Saint Malo v Center Court Volynets - Juvan (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjE5NDEwMDAwMC13dGEtc2FpbnQtbWFsby1jZW50ZXItY291cnQtdm9seW5ldHMtanV2YW4vMQ==
+
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746194100000] World Superbike Italy - Worldssp - Superpole (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvd29ybGQtc3VwZXJiaWtlLWl0YWx5LXdvcmxkc3NwLXN1cGVycG9sZS8x
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746194100000] World Superbike Italy - Worldssp - Superpole (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd29ybGQtc3VwZXJiaWtlLWl0YWx5LXdvcmxkc3NwLXN1cGVycG9sZS8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746194400000] Dynamo Moscow v Tractor Chelyabinsk (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjE5NDEwMDAwMC1keW5hbW8tbW9zY293LXRyYWN0b3ItY2hlbHlhYmluc2svMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746194400000] Dynamo Moscow v Tractor Chelyabinsk (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvZHluYW1vLW1vc2Nvdy12cy10cmFjdG9yLWNoZWx5YWJpbnNrLzE=
@@ -452,9 +449,6 @@ watch/YWxwaGEvZHluYW1vLW1vc2Nvdy12cy10cmFjdG9yLWNoZWx5YWJpbnNrLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746194400000] Dynamo Moscow v Tractor Chelyabinsk (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvZHluYW1vLW1vc2Nvdy12cy10cmFjdG9yLWNoZWx5YWJpbnNrLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746194400000] Francisco Cerundolo v Casper Ruud (Men's Singles) - SF (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9mcmFuY2lzY28tY2VydW5kb2xvLXZzLWNhc3Blci1ydXVkLW1lbnMtc2luZ2xlcy1zZi0xNjI5NDQyMTAxLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746194400000] Gujarat Titans vs Sunrisers Hyderabad (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvZ3VqYXJhdC10aXRhbnMtdnMtc3VucmlzZXJzLWh5ZGVyYWJhZC8x
@@ -467,12 +461,6 @@ watch/YWxwaGEvZ3VqYXJhdC10aXRhbnMtdnMtc3VucmlzZXJzLWh5ZGVyYWJhZC8z
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746194400000] Gujarat Titans vs Sunrisers Hyderabad (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvZ3VqYXJhdC10aXRhbnMtdnMtc3VucmlzZXJzLWh5ZGVyYWJhZC80
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746194400000] Madrid SF 1 (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9tYWRyaWQtc2YtMS0xNjI5NDQxNzQyLzE=
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746194400000] Miami : Free Practice 1 (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9taWFtaS1mcmVlLXByYWN0aWNlLTEtMTYyOTQ0MTc0My8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746194400000] Pogon Szczecin v Legia Warszawa (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvcG9nb24tc3pjemVjaW4tdnMtbGVnaWEtd2Fyc3phd2EtZm9vdGJhbGwtMTM2Nzc2MC8x
@@ -492,14 +480,11 @@ watch/YWxwaGEvZmlhLWZvcm11bGEtMS0yMDI1LXVuaXRlZC1zdGF0ZXMtZjEtYWNhZGVteS1maXJzdC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/f1-logo.png" group-title="MOTOR-SPORTS",[TIME|1746194700000] FIA Formula 1 2025: United States F1 Academy First Practice (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvZmlhLWZvcm11bGEtMS0yMDI1LXVuaXRlZC1zdGF0ZXMtZjEtYWNhZGVteS1maXJzdC1wcmFjdGljZS80
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746194700000] Manolo Santana: Francisco Cerundolo v Casper Ruud (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZnJhbmNpc2NvLWNlcnVuZG9sby12cy1jYXNwZXItcnV1ZC8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746194700000] Manolo Santana: Francisco Cerundolo v Casper Ruud (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746194700000] Manolo Santana: Francisco Cerundolo v Casper Ruud (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZnJhbmNpc2NvLWNlcnVuZG9sby12cy1jYXNwZXItcnV1ZC8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746194700000] Manolo Santana: Francisco Cerundolo v Casper Ruud (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZnJhbmNpc2NvLWNlcnVuZG9sby12cy1jYXNwZXItcnV1ZC8z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746194700000] Manolo Santana: Francisco Cerundolo v Casper Ruud (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZnJhbmNpc2NvLWNlcnVuZG9sby12cy1jYXNwZXItcnV1ZC8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746196200000] Poli Iasi v Sepsi Sf. Gheorghe (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvcG9saS1pYXNpLXZzLXNlcHNpLXNmLWdoZW9yZ2hlLzE=
