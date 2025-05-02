@@ -261,11 +261,14 @@ watch/YnJhdm8vMTc0NjE2OTUwMDAwMC1ibHVlcy13ZXN0ZXJuLWZvcmNlLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746172800000] Cronulla Sharks vs Parramatta Eels (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjE3MjgwMDAwMC1jcm9udWxsYS1zaGFya3MtcGFycmFtYXR0YS1lZWxzLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746176400000] Fukuoka S. Hawks v Chiba Lotte Marines (HD|ALPHA1|日本語) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746176400000] Fukuoka S. Hawks v Chiba Lotte Marines (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvZnVrdW9rYS1zLWhhd2tzLXZzLWNoaWJhLWxvdHRlLW1hcmluZXMvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746176400000] Fukuoka S. Hawks v Chiba Lotte Marines (SD|ALPHA2|日本語) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746176400000] Fukuoka S. Hawks v Chiba Lotte Marines (HD|ALPHA2|日本語) [DATE]
 watch/YWxwaGEvZnVrdW9rYS1zLWhhd2tzLXZzLWNoaWJhLWxvdHRlLW1hcmluZXMvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746176400000] Fukuoka S. Hawks v Chiba Lotte Marines (SD|ALPHA3|日本語) [DATE]
+watch/YWxwaGEvZnVrdW9rYS1zLWhhd2tzLXZzLWNoaWJhLWxvdHRlLW1hcmluZXMvMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746176400000] Hanshin Tigers v Yakult Swallows (HD|ALPHA1|日本語) [DATE]
 watch/YWxwaGEvaGFuc2hpbi10aWdlcnMtdnMteWFrdWx0LXN3YWxsb3dzLzE=
@@ -294,17 +297,8 @@ watch/YWxwaGEvd29ybGQtc25vb2tlci1jaGFtcGlvbnNoaXAvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1746176400000] World Snooker Championship (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd29ybGQtc25vb2tlci1jaGFtcGlvbnNoaXAvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746178500000] Central Coast Mariners vs Brisbane Roar FC (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9jZW50cmFsLWNvYXN0LW1hcmluZXJzLXZzLWJyaXNiYW5lLXJvYXItMTI4MDgzMy8x
-
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746178800000] Osaka Marvelous W v NEC Red Rockets W (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjE3ODgwMDAwMC1vc2FrYS1tYXJ2ZWxvdXMtdy1uZWMtcmVkLXJvY2tldHMtdy8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746181800000] Pohang Steelers v Gimcheon Sangmu FC (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9wb2hhbmctc3RlZWxlcnMtdnMtZ2ltY2hlb24tc2FuZ211LWZjLTEzNDA3NjIvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746181800000] Ulsan Hyundai FC v Gwangju FC (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS91bHNhbi1oeXVuZGFpLWZjLXZzLWd3YW5nanUtZmMtMTM0MDc2MS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746181800000] WTA Saint Malo v Court 1 Lumsden/Ninomiya - Barnett/Lechemia (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjE4MTgwMDAwMC13dGEtc2FpbnQtbWFsby1jb3VydC0xLWx1bXNkZW4tbmlub21peWEtYmFybmV0dC1sZWNoZW1pYS8x
@@ -326,9 +320,6 @@ watch/YWxwaGEvaXRhbHktdnMtb21hbi8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746183600000] Italy v Oman (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvaXRhbHktdnMtb21hbi8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746183600000] Qingdao West Coast vs Meizhou Hakka (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjE4MzYwMDAwMC1xaW5nZGFvLXdlc3QtY29hc3QtbWVpemhvdS1oYWtrYS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746183600000] WTA Saint Malo v Center Court Jacquemot - Osaka (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjE4MzYwMDAwMC13dGEtc2FpbnQtbWFsby1jZW50ZXItY291cnQtamFjcXVlbW90LW9zYWthLzE=
@@ -420,6 +411,15 @@ watch/YWxwaGEvb25lLWZyaWRheS1maWdodHMtMTA2LzE=
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746189000000] ONE Friday Fights 106 (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvb25lLWZyaWRheS1maWdodHMtMTA2LzI=
 
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746189000000] SUPERBIKE | WorldSSP | Round 4 | Italy - Superpole (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvc3VwZXJiaWtlLXdvcmxkc3NwLXJvdW5kLTQtaXRhbHktc3VwZXJwb2xlLXJhY2UtMjAtMDQvMQ==
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746189000000] SUPERBIKE | WorldSSP | Round 4 | Italy - Superpole (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvc3VwZXJiaWtlLXdvcmxkc3NwLXJvdW5kLTQtaXRhbHktc3VwZXJwb2xlLXJhY2UtMjAtMDQvMg==
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746189000000] SUPERBIKE | WorldSSP | Round 4 | Italy - Superpole (HD|DELTA3|) [DATE]
+watch/ZGVsdGEvc3VwZXJiaWtlLXdvcmxkc3NwLXJvdW5kLTQtaXRhbHktc3VwZXJwb2xlLXJhY2UtMjAtMDQvMw==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746189000000] THE CJ CUP Byron Nelson: Featured Groups (Second Round) (Featured Groups) (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cHMtc2Vjb25kLXJvdW5kLWZlYXR1cmVkLWdyb3Vwcy0xNjI5NDQxNzM5LzE=
 
@@ -444,26 +444,35 @@ watch/YnJhdm8vMTc0NjE4OTAwMDAwMC13dGEtc2FpbnQtbWFsby1jZW50ZXItY291cnQta2Vzc2xlci
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746189000000] WTA Vic Andreescu/Sutjiadi v Fernandez/Sun (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjE4OTAwMDAwMC13dGEtdmljLWFuZHJlZXNjdS1zdXRqaWFkaS1mZXJuYW5kZXotc3VuLzE=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746189900000] THE CJ CUP Byron Nelson: Marquee Group (Second Round) (Marquee Group) (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1tYXJxdWVlLWdyb3VwLXNlY29uZC1yb3VuZC1tYXJxdWVlLWdyb3VwLTE2Mjk0NDE3NDEvMQ==
+
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746190500000] World Superbike Italy - Practice 2 (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvd29ybGQtc3VwZXJiaWtlLWl0YWx5LXByYWN0aWNlLTIvMQ==
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746190500000] World Superbike Italy - Practice 2 (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd29ybGQtc3VwZXJiaWtlLWl0YWx5LXByYWN0aWNlLTIvMg==
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746192600000] Tour de Romandie | Stage 3 (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvdG91ci1kZS1yb21hbmRpZS1zdGFnZS0zLzI=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746190800000] Hapoel Kfar Shalem vs Bnei Yehuda (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjE5MDgwMDAwMC1oYXBvZWwta2Zhci1zaGFsZW0tYm5laS15ZWh1ZGEvMQ==
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746192600000] Tour de Romandie | Stage 3 (HD|ALPHA3|ESP) [DATE]
-watch/YWxwaGEvdG91ci1kZS1yb21hbmRpZS1zdGFnZS0zLzM=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746190800000] Hapoel Nof HaGalil vs Hapoel Afula (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjE5MDgwMDAwMC1ub2YtaGFnYWxpbC1oYXBvZWwtYWZ1bGEvMQ==
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746192600000] Tour de Romandie | Stage 3 (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746190800000] Simulcast (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjE5MDgwMDAwMC1zaW11bGNhc3QvMQ==
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746192600000] Tour de Romandie | Stage 3 (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdG91ci1kZS1yb21hbmRpZS1zdGFnZS0zLzE=
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746192600000] Tour de Romandie | Stage 3 (SD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEvdG91ci1kZS1yb21hbmRpZS1zdGFnZS0zLzQ=
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746192600000] Tour de Romandie | Stage 3 (HD|ALPHA2|ESP) [DATE]
+watch/YWxwaGEvdG91ci1kZS1yb21hbmRpZS1zdGFnZS0zLzI=
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746192600000] Tour de Romandie | Stage 3 (SD|ALPHA5|ESP) [DATE]
-watch/YWxwaGEvdG91ci1kZS1yb21hbmRpZS1zdGFnZS0zLzU=
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746192600000] Tour de Romandie | Stage 3 (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvdG91ci1kZS1yb21hbmRpZS1zdGFnZS0zLzM=
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746192600000] Tour de Romandie | Stage 3 (SD|ALPHA4|ESP) [DATE]
+watch/YWxwaGEvdG91ci1kZS1yb21hbmRpZS1zdGFnZS0zLzQ=
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746194100000] World Superbike Italy - Worldssp - Superpole (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd29ybGQtc3VwZXJiaWtlLWl0YWx5LXdvcmxkc3NwLXN1cGVycG9sZS8y
