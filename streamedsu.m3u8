@@ -255,24 +255,6 @@ watch/YWxwaGEvd3dlLW5ldHdvcmsvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/live-logo.png" group-title="24/7",[TIME|0] WWE Network (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd3dlLW5ldHdvcmsvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746145800000] Kansas State v BYU (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjE0NTgwMDAwMC1rYW5zYXMtc3RhdGUtdnMtYnl1LzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746147600000] Santa Clara v Portland (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjE0NzYwMDAwMC1zYW50YS1jbGFyYS12cy1wb3J0bGFuZC8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746149880000] Los Angeles Angels vs Detroit Tigers (HD|BRAVO1|AWA) [DATE]
-watch/YnJhdm8vMTc0NjE0OTg4MDAwMC1kZXRyb2l0LXRpZ2Vycy12cy1sb3MtYW5nZWxlcy1hbmdlbHMtYXdheS1mZWVkLS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746149880000] Los Angeles Angels vs Detroit Tigers (HD|BRAVO2|HOM) [DATE]
-watch/YnJhdm8vMTc0NjE0OTg4MDAwMC1kZXRyb2l0LXRpZ2Vycy12cy1sb3MtYW5nZWxlcy1hbmdlbHMtaG9tZS1mZWVkLS8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746150300000] San Francisco Giants vs Colorado Rockies (HD|BRAVO1|AWA) [DATE]
-watch/YnJhdm8vMTc0NjE1MDMwMDAwMC1jb2xvcmFkby1yb2NraWVzLXZzLXNhbi1mcmFuY2lzY28tZ2lhbnRzLWF3YXktZmVlZC0vMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746150300000] San Francisco Giants vs Colorado Rockies (HD|BRAVO2|HOM) [DATE]
-watch/YnJhdm8vMTc0NjE1MDMwMDAwMC1jb2xvcmFkby1yb2NraWVzLXZzLXNhbi1mcmFuY2lzY28tZ2lhbnRzLWhvbWUtZmVlZC0vMg==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746151200000] LIV Golf League: South Korea (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjE1MTIwMDAwMC1saXYtZ29sZi1sZWFndWUtc291dGgta29yZWEvMQ==
 
@@ -314,6 +296,9 @@ watch/YWxwaGEvYmx1ZXMtdnMtd2VzdGVybi1mb3JjZS80
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746171000000] Franklin Bulls vs Otago Nuggets (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvZnJhbmtsaW4tYnVsbHMtdnMtb3RhZ28tbnVnZ2V0cy8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746171000000] Franklin Bulls vs Otago Nuggets (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjE3MTAwMDAwMC1mcmFua2xpbi1idWxscy1vdGFnby1udWdnZXRzLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746171000000] Franklin Bulls vs Otago Nuggets (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvZnJhbmtsaW4tYnVsbHMtdnMtb3RhZ28tbnVnZ2V0cy8y
