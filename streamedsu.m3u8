@@ -294,9 +294,6 @@ watch/YWxwaGEvd29ybGQtc25vb2tlci1jaGFtcGlvbnNoaXAvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1746176400000] World Snooker Championship (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd29ybGQtc25vb2tlci1jaGFtcGlvbnNoaXAvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746178500000] Central Coast Mariners vs Brisbane Roar FC (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY2VudHJhbC1jb2FzdC1tYXJpbmVycy12cy1icmlzYmFuZS1yb2FyLzE=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746178500000] Central Coast Mariners vs Brisbane Roar FC (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9jZW50cmFsLWNvYXN0LW1hcmluZXJzLXZzLWJyaXNiYW5lLXJvYXItMTI4MDgzMy8x
 
@@ -305,9 +302,6 @@ watch/Zm94dHJvdC9jZW50cmFsLWNvYXN0LW1hcmluZXJzLXZzLWJyaXNiYW5lLXJvYXItMjAyNTA1MD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746178500000] Central Coast Mariners vs Brisbane Roar FC (HD|FOXTROT2|) [DATE]
 watch/Zm94dHJvdC9jZW50cmFsLWNvYXN0LW1hcmluZXJzLXZzLWJyaXNiYW5lLXJvYXItMjAyNTA1MDIwOTA1LzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746178500000] Central Coast Mariners vs Brisbane Roar FC (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY2VudHJhbC1jb2FzdC1tYXJpbmVycy12cy1icmlzYmFuZS1yb2FyLzI=
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746178800000] Osaka Marvelous W v NEC Red Rockets W (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjE3ODgwMDAwMC1vc2FrYS1tYXJ2ZWxvdXMtdy1uZWMtcmVkLXJvY2tldHMtdy8x
@@ -411,6 +405,9 @@ watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtdmljdG9yaWEtYXphcmVua2EtYXNobHluLWtydWVnZXItdn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746186300000] THE CJ CUP Byron Nelson: Main Feed (Second Round) (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tbWFpbi1mZWVkLXNlY29uZC1yb3VuZC8x
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746186300000] THE CJ CUP Byron Nelson: Main Feed (Second Round) (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1tYWluLWZlZWQtc2Vjb25kLXJvdW5kLTE2Mjk0NDE3MzgvMQ==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746186300000] THE CJ CUP Byron Nelson: Main Feed (Second Round) (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tbWFpbi1mZWVkLXNlY29uZC1yb3VuZC8y
 
@@ -444,14 +441,11 @@ watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tc2NoZWZmbGVyLW1hcnF1ZWUtZ3JvdXAtc2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746188100000] THE CJ CUP Byron Nelson: Scheffler Marquee Group (Second Round) (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tc2NoZWZmbGVyLW1hcnF1ZWUtZ3JvdXAtc2Vjb25kLXJvdW5kLzM=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746189000000] Chile v Tahiti (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY2hpbGUtdnMtdGFoaXRpLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746189000000] Chile v Tahiti (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746189000000] Chile v Tahiti (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY2hpbGUtdnMtdGFoaXRpLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746189000000] Chile v Tahiti (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY2hpbGUtdnMtdGFoaXRpLzM=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746189000000] Chile v Tahiti (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY2hpbGUtdnMtdGFoaXRpLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746189000000] Livyi Bereg v Karpaty Lviv (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbGl2eWktYmVyZWctdnMta2FycGF0eS1sdml2LzI=
@@ -708,6 +702,12 @@ watch/Y2hhcmxpZS9zZW5lZ2FsLXUyMC12cy1jZW50cmFsLWFmcmljYW4tcmVwLXUyMC0xMzcxNTEwLz
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] Senegal U20 v Central Africa U20 (HD|CHARLIE2|ENG) [DATE]
 watch/Y2hhcmxpZS9zZW5lZ2FsLXUyMC12cy1jZW50cmFsLWFmcmljYW4tcmVwLXUyMC0xMzcxNTEwLzI=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] Senegal U20 v Central Africa U20 (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvc2VuZWdhbC11MjAtdnMtY2VudHJhbC1hZnJpY2FuLXJlcC11MjAtZm9vdGJhbGwtMTM3MTUxMC8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] Senegal U20 v Central Africa U20 (HD|DELTA2|) [DATE]
+watch/ZGVsdGEvc2VuZWdhbC11MjAtdnMtY2VudHJhbC1hZnJpY2FuLXJlcC11MjAtZm9vdGJhbGwtMTM3MTUxMC8y
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] Senegal U20 v Central Africa U20 (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvc2VuZWdhbC11MjAtdnMtY2VudHJhbC1hZnJpY2EtdTIwLzE=
 
@@ -743,4 +743,7 @@ watch/YWxwaGEvYWwtZXR0aWZhcS12cy1hbC1raGFsZWVqLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746201000000] Al Ettifaq v Al Khaleej (SD|ALPHA3|الع) [DATE]
 watch/YWxwaGEvYWwtZXR0aWZhcS12cy1hbC1raGFsZWVqLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746201000000] Al-Ettifaq vs Al Khaleej (HD|DELTA1|) [DATE]
+watch/ZGVsdGEvYWwtZXR0aWZhcS12cy1hbC1raGFsZWVqLXNhaWhhdC1mb290YmFsbC0xMjUyNjg4LzE=
 
