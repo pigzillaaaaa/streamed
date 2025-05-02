@@ -300,14 +300,11 @@ watch/YWxwaGEvd29ybGQtc3VwZXJiaWtlLWl0YWx5LXByYWN0aWNlLTEvMQ==
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746174000000] World Superbike Italy: Practice 1 (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd29ybGQtc3VwZXJiaWtlLWl0YWx5LXByYWN0aWNlLTEvMg==
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746175500000] Men's 10m Synchro Final (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbWVuLXMtMTBtLXN5bmNocm8tZmluYWwvMg==
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746175500000] Men's 10m Synchro Final (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746175500000] Men's 10m Synchro Final (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbWVuLXMtMTBtLXN5bmNocm8tZmluYWwvMQ==
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746175500000] Men's 10m Synchro Final (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbWVuLXMtMTBtLXN5bmNocm8tZmluYWwvMw==
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746175500000] Men's 10m Synchro Final (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbWVuLXMtMTBtLXN5bmNocm8tZmluYWwvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746176400000] Fukuoka S. Hawks v Chiba Lotte Marines (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvZnVrdW9rYS1zLWhhd2tzLXZzLWNoaWJhLWxvdHRlLW1hcmluZXMvMQ==
