@@ -273,9 +273,6 @@ watch/YWxwaGEvYmx1ZXMtdnMtd2VzdGVybi1mb3JjZS80
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746171000000] Franklin Bulls vs Otago Nuggets (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvZnJhbmtsaW4tYnVsbHMtdnMtb3RhZ28tbnVnZ2V0cy8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746171000000] Franklin Bulls vs Otago Nuggets (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjE3MTAwMDAwMC1mcmFua2xpbi1idWxscy1vdGFnby1udWdnZXRzLzE=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746171000000] Franklin Bulls vs Otago Nuggets (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvZnJhbmtsaW4tYnVsbHMtdnMtb3RhZ28tbnVnZ2V0cy8y
 
@@ -365,6 +362,9 @@ watch/YWxwaGEveW9rb2hhbWEtYmF5c3RhcnMtdnMteW9taXVyaS1naWFudHMvMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746178500000] Central Coast Mariners vs Brisbane Roar FC (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY2VudHJhbC1jb2FzdC1tYXJpbmVycy12cy1icmlzYmFuZS1yb2FyLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746178500000] Central Coast Mariners vs Brisbane Roar FC (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjE3ODUwMDAwMC1jZW50cmFsLWNvYXN0LW1hcmluZXJzLWJyaXNiYW5lLXJvYXIvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746178500000] Central Coast Mariners vs Brisbane Roar FC (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvY2VudHJhbC1jb2FzdC1tYXJpbmVycy12cy1icmlzYmFuZS1yb2FyLWZvb3RiYWxsLTEyODA4MzMvMQ==
