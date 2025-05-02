@@ -315,14 +315,11 @@ watch/YWxwaGEvY3JvbnVsbGEtc2hhcmtzLXZzLXBhcnJhbWF0dGEtZWVscy8z
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746172800000] Cronulla Sharks vs Parramatta Eels (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvY3JvbnVsbGEtc2hhcmtzLXZzLXBhcnJhbWF0dGEtZWVscy80
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746174000000] World Superbike Italy: Practice 1 (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvd29ybGQtc3VwZXJiaWtlLWl0YWx5LXByYWN0aWNlLTEvMg==
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746174000000] World Superbike Italy: Practice 1 (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746174000000] World Superbike Italy: Practice 1 (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvd29ybGQtc3VwZXJiaWtlLWl0YWx5LXByYWN0aWNlLTEvMQ==
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746174000000] World Superbike Italy: Practice 1 (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvd29ybGQtc3VwZXJiaWtlLWl0YWx5LXByYWN0aWNlLTEvMw==
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746174000000] World Superbike Italy: Practice 1 (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvd29ybGQtc3VwZXJiaWtlLWl0YWx5LXByYWN0aWNlLTEvMg==
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746175500000] Men's 10m Synchro Final (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbWVuLXMtMTBtLXN5bmNocm8tZmluYWwvMg==
