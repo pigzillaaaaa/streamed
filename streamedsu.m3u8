@@ -283,10 +283,10 @@ watch/YnJhdm8vMTc0NjExOTQwMDAwMC1taW5uZXNvdGEtdHdpbnMtdnMtY2xldmVsYW5kLWd1YXJkaW
 watch/YnJhdm8vMTc0NjEyOTYwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] THE CJ CUP Byron Nelson (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjEyOTYwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0yLzE=
+watch/YnJhdm8vMTc0NjEyOTYwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0xLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] THE CJ CUP Byron Nelson (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjEyOTYwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0xLzE=
+watch/YnJhdm8vMTc0NjEyOTYwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0yLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746129600000] The CJ Cup Byron Nelson First Round (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tZmlyc3Qtcm91bmQvMQ==
@@ -611,18 +611,6 @@ watch/YWxwaGEvaW1wYWN0LXdyZXN0bGluZy8x
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746144000000] IMPACT Wrestling (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvaW1wYWN0LXdyZXN0bGluZy8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746144000000] Louisville City v Lexington (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbG91aXN2aWxsZS1jaXR5LXZzLWxleGluZ3Rvbi8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746144000000] Louisville City v Lexington (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9sb3Vpc3ZpbGxlLWNpdHktdnMtbGV4aW5ndG9uLTEzMjcwNDQvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746144000000] Louisville City v Lexington (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbG91aXN2aWxsZS1jaXR5LXZzLWxleGluZ3Rvbi8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746144000000] Louisville City v Lexington (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbG91aXN2aWxsZS1jaXR5LXZzLWxleGluZ3Rvbi8z
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746145800000] Cruzeiro vs Vila Nova (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY3J1emVpcm8tdnMtdmlsYS1ub3ZhLzE=
