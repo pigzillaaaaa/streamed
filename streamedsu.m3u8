@@ -258,26 +258,8 @@ watch/YWxwaGEvd3dlLW5ldHdvcmsvMg==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746169500000] Blues v Western Force (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjE2OTUwMDAwMC1ibHVlcy13ZXN0ZXJuLWZvcmNlLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746171000000] Franklin Bulls vs Otago Nuggets (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvZnJhbmtsaW4tYnVsbHMtdnMtb3RhZ28tbnVnZ2V0cy8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746171000000] Franklin Bulls vs Otago Nuggets (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvZnJhbmtsaW4tYnVsbHMtdnMtb3RhZ28tbnVnZ2V0cy8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746172800000] Cronulla Sharks vs Parramatta Eels (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY3JvbnVsbGEtc2hhcmtzLXZzLXBhcnJhbWF0dGEtZWVscy8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746172800000] Cronulla Sharks vs Parramatta Eels (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY3JvbnVsbGEtc2hhcmtzLXZzLXBhcnJhbWF0dGEtZWVscy8y
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746172800000] Cronulla Sharks vs Parramatta Eels (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjE3MjgwMDAwMC1jcm9udWxsYS1zaGFya3MtcGFycmFtYXR0YS1lZWxzLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746172800000] Cronulla Sharks vs Parramatta Eels (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY3JvbnVsbGEtc2hhcmtzLXZzLXBhcnJhbWF0dGEtZWVscy8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746172800000] Cronulla Sharks vs Parramatta Eels (SD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEvY3JvbnVsbGEtc2hhcmtzLXZzLXBhcnJhbWF0dGEtZWVscy80
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746176400000] Fukuoka S. Hawks v Chiba Lotte Marines (HD|ALPHA1|日本語) [DATE]
 watch/YWxwaGEvZnVrdW9rYS1zLWhhd2tzLXZzLWNoaWJhLWxvdHRlLW1hcmluZXMvMQ==
@@ -357,14 +339,26 @@ watch/YWxwaGEvc3lkbmV5LXJvb3N0ZXJzLXZzLWRvbHBoaW5zLzM=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746180000000] Sydney Roosters vs Dolphins (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvc3lkbmV5LXJvb3N0ZXJzLXZzLWRvbHBoaW5zLzQ=
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746181500000] Shanghai - Round 2 (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvc2hhbmdoYWktcm91bmQtMi8y
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746181500000] Shanghai - Round 2 (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746181500000] Shanghai - Round 2 (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvc2hhbmdoYWktcm91bmQtMi8x
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746181500000] Shanghai - Round 2 (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvc2hhbmdoYWktcm91bmQtMi8z
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746181500000] Shanghai - Round 2 (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvc2hhbmdoYWktcm91bmQtMi8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746181800000] Hapoel Jerusalem v Maccabi Ironi Ramat Gan (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjE4MTgwMDAwMC1oYXBvZWwtamVydXNhbGVtLW1hY2NhYmktaXJvbmktcmFtYXQtZ2FuLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746181800000] Pohang Steelers v Gimcheon Sangmu FC (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9wb2hhbmctc3RlZWxlcnMtdnMtZ2ltY2hlb24tc2FuZ211LWZjLTEzNDA3NjIvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746181800000] Ulsan Hyundai FC v Gwangju FC (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS91bHNhbi1oeXVuZGFpLWZjLXZzLWd3YW5nanUtZmMtMTM0MDc2MS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746181800000] WTA Saint Malo v Court 1 Lumsden/Ninomiya - Barnett/Lechemia (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjE4MTgwMDAwMC13dGEtc2FpbnQtbWFsby1jb3VydC0xLWx1bXNkZW4tbmlub21peWEtYmFybmV0dC1sZWNoZW1pYS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746181800000] WTA Vic Sasnovich v Masarova (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjE4MTgwMDAwMC13dGEtdmljLXNhc25vdmljaC1tYXNhcm92YS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",[TIME|1746183600000] 2025 Elten Safety Shoes European Darts Grand Prix - Day One (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS8yMDI1LWVsdGVuLXNhZmV0eS1zaG9lcy1ldXJvcGVhbi1kYXJ0cy1ncmFuZC1wcml4LWRheS1vbmUtMTYyOTQ0MjA5OS8x
