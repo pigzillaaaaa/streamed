@@ -255,30 +255,6 @@ watch/YWxwaGEvd3dlLW5ldHdvcmsvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/live-logo.png" group-title="24/7",[TIME|0] WWE Network (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd3dlLW5ldHdvcmsvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746151200000] LIV Golf League: South Korea (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjE1MTIwMDAwMC1saXYtZ29sZi1sZWFndWUtc291dGgta29yZWEvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746151200000] South Korea Round One (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvc291dGgta29yZWEtcm91bmQtb25lLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746151200000] South Korea Round One (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvc291dGgta29yZWEtcm91bmQtb25lLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746151200000] South Korea Round One (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvc291dGgta29yZWEtcm91bmQtb25lLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746151200000] South Korea Round One (SD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEvc291dGgta29yZWEtcm91bmQtb25lLzQ=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746158400000] The 44th GS Caltex Maekyung Open (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjE1ODQwMDAwMC10aGUtNDR0aC1ncy1jYWx0ZXgtbWFla3l1bmctb3Blbi8x
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746169200000] Women's 10m Synchro Final (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvd29tZW4tcy0xMG0tc3luY2hyby1maW5hbC8x
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746169200000] Women's 10m Synchro Final (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvd29tZW4tcy0xMG0tc3luY2hyby1maW5hbC8y
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746169500000] Blues v Western Force (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYmx1ZXMtdnMtd2VzdGVybi1mb3JjZS8x
 
@@ -308,6 +284,9 @@ watch/YWxwaGEvY3JvbnVsbGEtc2hhcmtzLXZzLXBhcnJhbWF0dGEtZWVscy8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746172800000] Cronulla Sharks vs Parramatta Eels (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY3JvbnVsbGEtc2hhcmtzLXZzLXBhcnJhbWF0dGEtZWVscy8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746172800000] Cronulla Sharks vs Parramatta Eels (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjE3MjgwMDAwMC1jcm9udWxsYS1zaGFya3MtcGFycmFtYXR0YS1lZWxzLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746172800000] Cronulla Sharks vs Parramatta Eels (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvY3JvbnVsbGEtc2hhcmtzLXZzLXBhcnJhbWF0dGEtZWVscy8z
@@ -366,14 +345,11 @@ watch/YWxwaGEvcmFrdXRlbi1nb2xkLWVhZ2xlcy12cy1vcml4LWJ1ZmZhbG9lcy8y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746176400000] Rakuten Gold. Eagles v Orix Buffaloes (SD|ALPHA3|日本語) [DATE]
 watch/YWxwaGEvcmFrdXRlbi1nb2xkLWVhZ2xlcy12cy1vcml4LWJ1ZmZhbG9lcy8z
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1746176400000] World Snooker Championship (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvd29ybGQtc25vb2tlci1jaGFtcGlvbnNoaXAvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1746176400000] World Snooker Championship (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1746176400000] World Snooker Championship (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvd29ybGQtc25vb2tlci1jaGFtcGlvbnNoaXAvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1746176400000] World Snooker Championship (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvd29ybGQtc25vb2tlci1jaGFtcGlvbnNoaXAvMw==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1746176400000] World Snooker Championship (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvd29ybGQtc25vb2tlci1jaGFtcGlvbnNoaXAvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746176400000] Yokohama BayStars v Yomiuri Giants (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEveW9rb2hhbWEtYmF5c3RhcnMtdnMteW9taXVyaS1naWFudHMvMQ==
