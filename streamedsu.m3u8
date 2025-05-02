@@ -525,14 +525,17 @@ watch/YnJhdm8vMTc0NjE5OTgwMDAwMC1rYWxwYS1rdW9waW8tc2FpcGEtYW1iaWVudC0vMg==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746199800000] PK-35 v Ekenas (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjE5OTgwMDAwMC1way0zNS1la2VuYXMvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746201000000] Al Ettifaq v Al Khaleej (HD|ALPHA2|الع) [DATE]
-watch/YWxwaGEvYWwtZXR0aWZhcS12cy1hbC1raGFsZWVqLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746201000000] Al Ettifaq v Al Khaleej (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746201000000] Al Ettifaq v Al Khaleej (HD|ALPHA1|الع) [DATE]
 watch/YWxwaGEvYWwtZXR0aWZhcS12cy1hbC1raGFsZWVqLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746201000000] Al Ettifaq v Al Khaleej (SD|ALPHA3|الع) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746201000000] Al Ettifaq v Al Khaleej (SD|ALPHA2|الع) [DATE]
+watch/YWxwaGEvYWwtZXR0aWZhcS12cy1hbC1raGFsZWVqLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746201000000] Al Ettifaq v Al Khaleej (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvYWwtZXR0aWZhcS12cy1hbC1raGFsZWVqLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746201000000] Al Ettifaq v Al Khaleej (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvYWwtZXR0aWZhcS12cy1hbC1raGFsZWVqLzQ=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746201000000] Al-Ettifaq vs Al Khaleej (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvYWwtZXR0aWZhcS12cy1hbC1raGFsZWVqLXNhaWhhdC1mb290YmFsbC0xMjUyNjg4LzE=
