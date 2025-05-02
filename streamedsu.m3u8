@@ -633,6 +633,9 @@ watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtNi80
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746185400000] Tour of Turkey | Stage 6 (SD|ALPHA5|ESP) [DATE]
 watch/YWxwaGEvdG91ci1vZi10dXJrZXktc3RhZ2UtNi81
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746185400000] Victoria Azarenka / Ashlyn Krueger v Veronika Kudermetova / Elise Mertens (Women's Doubles) - SF (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS92aWN0b3JpYS1hemFyZW5rYS1hc2hseW4ta3J1ZWdlci12cy12ZXJvbmlrYS1rdWRlcm1ldG92YS1lbGlzZS1tZXJ0ZW5zLXdvbWVucy1kb3VibGVzLXNmLTE2Mjk0NDIxMDAvMQ==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746185700000] Beijing v Shanxi Zhongyu (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYmVpamluZy12cy1zaGFueGktemhvbmd5dS8x
 
@@ -785,6 +788,9 @@ watch/YWxwaGEvZHluYW1vLW1vc2Nvdy12cy10cmFjdG9yLWNoZWx5YWJpbnNrLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746194400000] Dynamo Moscow v Tractor Chelyabinsk (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvZHluYW1vLW1vc2Nvdy12cy10cmFjdG9yLWNoZWx5YWJpbnNrLzM=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746194400000] Francisco Cerundolo v Casper Ruud (Men's Singles) - SF (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9mcmFuY2lzY28tY2VydW5kb2xvLXZzLWNhc3Blci1ydXVkLW1lbnMtc2luZ2xlcy1zZi0xNjI5NDQyMTAxLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746194400000] Gujarat Titans vs Sunrisers Hyderabad (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvZ3VqYXJhdC10aXRhbnMtdnMtc3VucmlzZXJzLWh5ZGVyYWJhZC8y
