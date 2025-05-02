@@ -339,6 +339,15 @@ watch/YWxwaGEvcmFrdXRlbi1nb2xkLWVhZ2xlcy12cy1vcml4LWJ1ZmZhbG9lcy8y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746176400000] Rakuten Gold. Eagles v Orix Buffaloes (SD|ALPHA3|日本語) [DATE]
 watch/YWxwaGEvcmFrdXRlbi1nb2xkLWVhZ2xlcy12cy1vcml4LWJ1ZmZhbG9lcy8z
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746176400000] WTA Saint Malo v Center Court Ferro - Jeanjean (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjE3NjQwMDAwMC13dGEtc2FpbnQtbWFsby1jZW50ZXItY291cnQtZmVycm8tamVhbmplYW4vMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746176400000] WTA Vic Galfi v Selekhmeteva (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjE3NjQwMDAwMC13dGEtdmljLWdhbGZpLXNlbGVraG1ldGV2YS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1746176400000] World Championship (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjE3NjQwMDAwMC13b3JsZC1jaGFtcGlvbnNoaXAvMQ==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1746176400000] World Snooker Championship (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvd29ybGQtc25vb2tlci1jaGFtcGlvbnNoaXAvMQ==
 
@@ -356,9 +365,6 @@ watch/YWxwaGEveW9rb2hhbWEtYmF5c3RhcnMtdnMteW9taXVyaS1naWFudHMvMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746178500000] Central Coast Mariners vs Brisbane Roar FC (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvY2VudHJhbC1jb2FzdC1tYXJpbmVycy12cy1icmlzYmFuZS1yb2FyLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746178500000] Central Coast Mariners vs Brisbane Roar FC (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS9jZW50cmFsLWNvYXN0LW1hcmluZXJzLXZzLWJyaXNiYW5lLXJvYXItMTI4MDgzMy8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746178500000] Central Coast Mariners vs Brisbane Roar FC (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvY2VudHJhbC1jb2FzdC1tYXJpbmVycy12cy1icmlzYmFuZS1yb2FyLWZvb3RiYWxsLTEyODA4MzMvMQ==
@@ -381,20 +387,17 @@ watch/YWxwaGEvY2VudHJhbC1jb2FzdC1tYXJpbmVycy12cy1icmlzYmFuZS1yb2FyLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746178500000] Central Coast Mariners vs Brisbane Roar FC (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvY2VudHJhbC1jb2FzdC1tYXJpbmVycy12cy1icmlzYmFuZS1yb2FyLzM=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746180000000] Sydney Roosters vs Dolphins (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvc3lkbmV5LXJvb3N0ZXJzLXZzLWRvbHBoaW5zLzE=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746180000000] Sydney Roosters vs Dolphins (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvc3lkbmV5LXJvb3N0ZXJzLXZzLWRvbHBoaW5zLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746180000000] Sydney Roosters vs Dolphins (HD|ALPHA3|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746180000000] Sydney Roosters vs Dolphins (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvc3lkbmV5LXJvb3N0ZXJzLXZzLWRvbHBoaW5zLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746180000000] Sydney Roosters vs Dolphins (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvc3lkbmV5LXJvb3N0ZXJzLXZzLWRvbHBoaW5zLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746180000000] Sydney Roosters vs Dolphins (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvc3lkbmV5LXJvb3N0ZXJzLXZzLWRvbHBoaW5zLzQ=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746180000000] Sydney Roosters vs Dolphins (SD|ALPHA5|ENG) [DATE]
-watch/YWxwaGEvc3lkbmV5LXJvb3N0ZXJzLXZzLWRvbHBoaW5zLzU=
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746181500000] Shanghai - Round 2 (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvc2hhbmdoYWktcm91bmQtMi8y
