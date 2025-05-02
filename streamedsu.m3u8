@@ -588,14 +588,11 @@ watch/YWxwaGEvc291dGgta29yZWEtcm91bmQtb25lLzM=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746151200000] South Korea Round One (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvc291dGgta29yZWEtcm91bmQtb25lLzQ=
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746158400000] Women's 3m Synchro Final (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvd29tZW4tcy0zbS1zeW5jaHJvLWZpbmFsLzI=
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746158400000] Women's 3m Synchro Final (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746158400000] Women's 3m Synchro Final (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvd29tZW4tcy0zbS1zeW5jaHJvLWZpbmFsLzE=
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746158400000] Women's 3m Synchro Final (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvd29tZW4tcy0zbS1zeW5jaHJvLWZpbmFsLzM=
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746158400000] Women's 3m Synchro Final (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvd29tZW4tcy0zbS1zeW5jaHJvLWZpbmFsLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746162000000] Wellington Phoenix v Perth Glory (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS93ZWxsaW5ndG9uLXBob2VuaXgtdnMtcGVydGgtZ2xvcnktMTI4MDgzMi8x
