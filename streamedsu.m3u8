@@ -300,20 +300,8 @@ watch/YnJhdm8vMTc0NjE4MzYwMDAwMC13dGEtc2FpbnQtbWFsby1jZW50ZXItY291cnQtamFjcXVlbW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746185400000] ATP Madrid v Arantxa Sanchez Stadium Krawietz/Puetz - Granollers/Zeballos (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjE4NTQwMDAwMC1hdHAtbWFkcmlkLWFyYW50eGEtc2FuY2hlei1zdGFkaXVtLWtyYXdpZXR6LXB1ZXR6LWdyYW5vbGxlcnMtemViYWxsb3MvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746185400000] Arantxa Sanchez: Kevin Krawietz / Tim Putz v Horacio Zeballos/ Marcel Granollers (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWtldmluLWtyYXdpZXR6LXRpbS1wdXR6LXZzLWhvcmFjaW8temViYWxsb3MtbWFyY2VsLWdyYW5vbGxlcnMvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746185400000] Arantxa Sanchez: Kevin Krawietz / Tim Putz v Horacio Zeballos/ Marcel Granollers (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvYXJhbnR4YS1zYW5jaGV6LWtldmluLWtyYXdpZXR6LXRpbS1wdXR6LXZzLWhvcmFjaW8temViYWxsb3MtbWFyY2VsLWdyYW5vbGxlcnMvMg==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746185400000] WTA Madrid v Manolo Santana Stadium Azarenka/Krueger - Kudermetova/Mertens (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjE4NTQwMDAwMC13dGEtbWFkcmlkLW1hbm9sby1zYW50YW5hLXN0YWRpdW0tYXphcmVua2Eta3J1ZWdlci1rdWRlcm1ldG92YS1tZXJ0ZW5zLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746185700000] Manolo Santana: Victoria Azarenka / Ashlyn Krueger v Elise Mertens/ Veronika Kudermetova (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtdmljdG9yaWEtYXphcmVua2EtYXNobHluLWtydWVnZXItdnMtZWxpc2UtbWVydGVucy12ZXJvbmlrYS1rdWRlcm1ldG92YS8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746185700000] Manolo Santana: Victoria Azarenka / Ashlyn Krueger v Elise Mertens/ Veronika Kudermetova (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtdmljdG9yaWEtYXphcmVua2EtYXNobHluLWtydWVnZXItdnMtZWxpc2UtbWVydGVucy12ZXJvbmlrYS1rdWRlcm1ldG92YS8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746186300000] THE CJ CUP Byron Nelson: Main Feed (Second Round) (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tbWFpbi1mZWVkLXNlY29uZC1yb3VuZC8x
@@ -480,6 +468,9 @@ watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZnJhbmNpc2NvLWNlcnVuZG9sby12cy1jYXNwZXItcnV1ZC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",[TIME|1746195000000] Manolo Santana: Francisco Cerundolo v Casper Ruud (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbWFub2xvLXNhbnRhbmEtZnJhbmNpc2NvLWNlcnVuZG9sby12cy1jYXNwZXItcnV1ZC8y
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746196200000] Poli Iasi v Sepsi Sf. Gheorghe (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjE5NjIwMDAwMC1wb2xpLWlhc2ktc2Vwc2ktc2YtZ2hlb3JnaGUvMQ==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746196200000] Poli Iasi v Sepsi Sf. Gheorghe (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvcG9saS1pYXNpLXZzLXNlcHNpLXNmLWdoZW9yZ2hlLzE=
 
@@ -491,6 +482,9 @@ watch/YWxwaGEvcG9saS1pYXNpLXZzLXNlcHNpLXNmLWdoZW9yZ2hlLzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746196200000] Slavia Sofia vs CSKA 1948 (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvc2xhdmlhLXNvZmlhLXZzLWNza2EtMTk0OC1zb2ZpYS8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746196200000] Slavia Sofia vs CSKA 1948 (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjE5NjIwMDAwMC1zbGF2aWEtc29maWEtY3NrYS0xOTQ4LXNvZmlhLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746196200000] Slavia Sofia vs CSKA 1948 (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvc2xhdmlhLXNvZmlhLXZzLWNza2EtMTk0OC1zb2ZpYS8y
@@ -525,20 +519,17 @@ watch/YWxwaGEvaGFrYS12cy1qYXJvLzI=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] Haka vs Jaro (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvaGFrYS12cy1qYXJvLzM=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746198000000] Islamabad United vs Peshawar Zalmi (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvaXNsYW1hYmFkLXVuaXRlZC12cy1wZXNoYXdhci16YWxtaS8x
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746198000000] Islamabad United vs Peshawar Zalmi (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvaXNsYW1hYmFkLXVuaXRlZC12cy1wZXNoYXdhci16YWxtaS8y
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746198000000] Islamabad United vs Peshawar Zalmi (HD|ALPHA3|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746198000000] Islamabad United vs Peshawar Zalmi (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvaXNsYW1hYmFkLXVuaXRlZC12cy1wZXNoYXdhci16YWxtaS8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746198000000] Islamabad United vs Peshawar Zalmi (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvaXNsYW1hYmFkLXVuaXRlZC12cy1wZXNoYXdhci16YWxtaS8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746198000000] Islamabad United vs Peshawar Zalmi (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvaXNsYW1hYmFkLXVuaXRlZC12cy1wZXNoYXdhci16YWxtaS80
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746198000000] Islamabad United vs Peshawar Zalmi (SD|ALPHA5|ENG) [DATE]
-watch/YWxwaGEvaXNsYW1hYmFkLXVuaXRlZC12cy1wZXNoYXdhci16YWxtaS81
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746198000000] KTP vs AC Oulu (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEva3RwLXZzLWFjLW91bHUvMQ==
