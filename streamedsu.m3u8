@@ -1056,26 +1056,11 @@ watch/YWxwaGEvYnVybmxleS12cy1taWxsd2FsbC8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Burnley vs Millwall (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvYnVybmxleS12cy1taWxsd2FsbC8z
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Coventry vs Middlesbrough (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY292ZW50cnktY2l0eS12cy1taWRkbGVzYnJvdWdoLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Coventry vs Middlesbrough (HD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY292ZW50cnktY2l0eS12cy1taWRkbGVzYnJvdWdoLzM=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Coventry vs Middlesbrough (HD|FOXTROT1|) [DATE]
 watch/Zm94dHJvdC9jb3ZlbnRyeS12cy1taWRkbGVzYnJvdWdoLTIwMjUwNTAzMTMzMC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Coventry vs Middlesbrough (HD|FOXTROT2|) [DATE]
 watch/Zm94dHJvdC9jb3ZlbnRyeS12cy1taWRkbGVzYnJvdWdoLTIwMjUwNTAzMTMzMC8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Coventry vs Middlesbrough (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY292ZW50cnktY2l0eS12cy1taWRkbGVzYnJvdWdoLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Coventry vs Middlesbrough (SD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEvY292ZW50cnktY2l0eS12cy1taWRkbGVzYnJvdWdoLzQ=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Coventry vs Middlesbrough (SD|ALPHA5|ENG) [DATE]
-watch/YWxwaGEvY292ZW50cnktY2l0eS12cy1taWRkbGVzYnJvdWdoLzU=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Derby vs Stoke (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvZGVyYnktY291bnR5LXZzLXN0b2tlLWNpdHkvMg==
@@ -1205,6 +1190,15 @@ watch/Y2hhcmxpZS9hbGF2ZXMtdnMtYXRsZXRpY28tbWFkcmlkLTEyMDg3OTMvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746273600000] Alaves vs Atletico Madrid (HD|CHARLIE2|ENG) [DATE]
 watch/Y2hhcmxpZS9hbGF2ZXMtdnMtYXRsZXRpY28tbWFkcmlkLTEyMDg3OTMvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746273600000] Alaves vs Atletico Madrid (HD|FOXTROT1|) [DATE]
+watch/Zm94dHJvdC9hbGF2ZXMtdnMtYXRsZXRpY28tbWFkcmlkLTIwMjUwNTAzMjMzMC8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746273600000] Alaves vs Atletico Madrid (HD|FOXTROT2|) [DATE]
+watch/Zm94dHJvdC9hbGF2ZXMtdnMtYXRsZXRpY28tbWFkcmlkLTIwMjUwNTAzMjMzMC8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746273600000] Alaves vs Atletico Madrid (HD|FOXTROT3|) [DATE]
+watch/Zm94dHJvdC9hbGF2ZXMtdnMtYXRsZXRpY28tbWFkcmlkLTIwMjUwNTAzMjMzMC8z
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746273600000] Alaves vs Atletico Madrid (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYWxhdmVzLXZzLWF0bGV0aWNvLW1hZHJpZC8x
@@ -1740,6 +1734,9 @@ watch/YWxwaGEvcmItbGVpcHppZy12cy1iYXllcm4tbXVuaWNoLzQ=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746279000000] RB Leipzig vs Bayern Munich (HD|ALPHA5|DEU) [DATE]
 watch/YWxwaGEvcmItbGVpcHppZy12cy1iYXllcm4tbXVuaWNoLzU=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746279000000] RB Leipzig vs Bayern Munich (HD|FOXTROT1|) [DATE]
+watch/Zm94dHJvdC9yYi1sZWlwemlnLXZzLWJheWVybi1tdW5pY2gtMjAyNTA1MDIyMzMwLzE=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746279000000] RB Leipzig vs Bayern Munich (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvcmItbGVpcHppZy12cy1iYXllcm4tbXVuaWNoLzE=
 
@@ -1904,6 +1901,12 @@ watch/YWxwaGEvaGliZXJuaWFuLXZzLWR1bmRlZS11bml0ZWQvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746280800000] Huddersfield v Leyton Orient (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvaHVkZGVyc2ZpZWxkLXZzLWxleXRvbi1vcmllbnQvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746280800000] Huddersfield v Leyton Orient (HD|FOXTROT1|) [DATE]
+watch/Zm94dHJvdC9odWRkZXJzZmllbGQtdnMtbGV5dG9uLW9yaWVudC0yMDI1MDUwMzEzMzAvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746280800000] Huddersfield v Leyton Orient (HD|FOXTROT2|) [DATE]
+watch/Zm94dHJvdC9odWRkZXJzZmllbGQtdnMtbGV5dG9uLW9yaWVudC0yMDI1MDUwMzEzMzAvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746280800000] Huddersfield v Leyton Orient (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvaHVkZGVyc2ZpZWxkLXZzLWxleXRvbi1vcmllbnQvMQ==
@@ -2177,6 +2180,12 @@ watch/Y2hhcmxpZS92aWxsYXJyZWFsLXZzLW9zYXN1bmEtMTIwODc5OC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746281700000] Villarreal vs Osasuna (HD|CHARLIE2|ENG) [DATE]
 watch/Y2hhcmxpZS92aWxsYXJyZWFsLXZzLW9zYXN1bmEtMTIwODc5OC8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746281700000] Villarreal vs Osasuna (HD|FOXTROT1|) [DATE]
+watch/Zm94dHJvdC92aWxsYXJyZWFsLXZzLW9zYXN1bmEtMjAyNTA1MDMyMzMwLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746281700000] Villarreal vs Osasuna (HD|FOXTROT2|) [DATE]
+watch/Zm94dHJvdC92aWxsYXJyZWFsLXZzLW9zYXN1bmEtMjAyNTA1MDMyMzMwLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746281700000] Villarreal vs Osasuna (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdmlsbGFycmVhbC12cy1vc2FzdW5hLzE=
