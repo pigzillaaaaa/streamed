@@ -256,10 +256,10 @@ watch/YWxwaGEvd3dlLW5ldHdvcmsvMQ==
 watch/YWxwaGEvd3dlLW5ldHdvcmsvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] THE CJ CUP Byron Nelson (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjIxNjAwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi8x
+watch/YnJhdm8vMTc0NjIxNjAwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0xLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] THE CJ CUP Byron Nelson (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjIxNjAwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0xLzE=
+watch/YnJhdm8vMTc0NjIxNjAwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] THE CJ CUP Byron Nelson (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjIxNjAwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0yLzE=
@@ -1389,6 +1389,9 @@ watch/YWxwaGEvZXVyb3BlYW4tZGFydHMtZ3JhbmQtcHJpeC1kYXktMi1zZXNzaW9uLTEvNA==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",[TIME|1746270000000] European Darts Grand Prix Day 2 (Session 1) (SD|ALPHA5|DUT) [DATE]
 watch/YWxwaGEvZXVyb3BlYW4tZGFydHMtZ3JhbmQtcHJpeC1kYXktMi1zZXNzaW9uLTEvNQ==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746270000000] Japan v Belarus (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvamFwYW4tdnMtYmVsYXJ1cy8x
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746270000000] SSV Ulm vs Hannover (HD|ALPHA2|DEU) [DATE]
 watch/YWxwaGEvc3N2LXVsbS0xODQ2LXZzLWhhbm5vdmVyLTk2LzI=
 
@@ -1814,6 +1817,9 @@ watch/YWxwaGEvaW5odWxldHMtdnMtZHluLWt5aXYvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746275400000] Inhulets v Dyn. Kyiv (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvaW5odWxldHMtdnMtZHluLWt5aXYvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746275400000] Paraguay v Iran (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvcGFyYWd1YXktdnMtaXJhbi8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746275400000] Petkim Spor v Buyukcekmece (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvcGV0a2ltLXNwb3ItdnMtYnV5dWtjZWttZWNlLzE=
@@ -2544,29 +2550,8 @@ watch/YWxwaGEvaXNsYW1hYmFkLXVuaXRlZC12cy1xdWV0dGEtZ2xhZGlhdG9ycy81
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746284400000] Misano - Race 2 (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9taXNhbm8tcmFjZS0yLTE2Mjk0NDE4MDQvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746284400000] Strasbourg vs Paris SG (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvc3RyYXNib3VyZy12cy1wYXJpcy1zYWludC1nZXJtYWluLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746284400000] Strasbourg vs Paris SG (HD|ALPHA3|ESP) [DATE]
-watch/YWxwaGEvc3RyYXNib3VyZy12cy1wYXJpcy1zYWludC1nZXJtYWluLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746284400000] Strasbourg vs Paris SG (HD|ALPHA4|FRA) [DATE]
-watch/YWxwaGEvc3RyYXNib3VyZy12cy1wYXJpcy1zYWludC1nZXJtYWluLzQ=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746284400000] Strasbourg vs Paris SG (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9zdHJhc2JvdXJnLXZzLXBhcmlzLXNhaW50LWdlcm1haW4tMTIxNDAzMy8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746284400000] Strasbourg vs Paris SG (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvc3RyYXNib3VyZy12cy1wYXJpcy1zYWludC1nZXJtYWluLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746284400000] Strasbourg vs Paris SG (SD|ALPHA5|ENG) [DATE]
-watch/YWxwaGEvc3RyYXNib3VyZy12cy1wYXJpcy1zYWludC1nZXJtYWluLzU=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746284400000] Strasbourg vs Paris SG (SD|ALPHA6|ESP) [DATE]
-watch/YWxwaGEvc3RyYXNib3VyZy12cy1wYXJpcy1zYWludC1nZXJtYWluLzY=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746284400000] Strasbourg vs Paris SG (SD|ALPHA7|FRA) [DATE]
-watch/YWxwaGEvc3RyYXNib3VyZy12cy1wYXJpcy1zYWludC1nZXJtYWluLzc=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746284400000] Tirol v LASK (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdGlyb2wtdnMtbGFzay8x
@@ -2588,15 +2573,6 @@ watch/YWxwaGEvdXNhLXctdnMtemltYmFid2Utdy8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746284400000] USA W v Zimbabwe W (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvdXNhLXctdnMtemltYmFid2Utdy8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746284400000] Veres-Rivne v Obolon (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvdmVyZXMtcml2bmUtdnMtb2JvbG9uLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746284400000] Veres-Rivne v Obolon (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvdmVyZXMtcml2bmUtdnMtb2JvbG9uLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746284400000] Veres-Rivne v Obolon (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvdmVyZXMtcml2bmUtdnMtb2JvbG9uLzM=
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746285000000] Ferrari Challenge Europe - Misano, Race 2 (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvZmVycmFyaS1jaGFsbGVuZ2UtZXVyb3BlLW1pc2Fuby1yYWNlLTIvMQ==
