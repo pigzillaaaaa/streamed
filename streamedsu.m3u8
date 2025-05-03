@@ -256,13 +256,13 @@ watch/YWxwaGEvd3dlLW5ldHdvcmsvMQ==
 watch/YWxwaGEvd3dlLW5ldHdvcmsvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] THE CJ CUP Byron Nelson (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjIxNjAwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] THE CJ CUP Byron Nelson (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjIxNjAwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0yLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] THE CJ CUP Byron Nelson (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjIxNjAwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0xLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] THE CJ CUP Byron Nelson (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjIxNjAwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi8x
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746221400000] Ryan Garcia v Rolando Romero (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjIyMTQwMDAwMC1yeWFuLWdhcmNpYS12cy1yb2xhbmRvLXJvbWVyby8x
@@ -669,14 +669,11 @@ watch/YWxwaGEvYWxiaXJleC1uaWlnYXRhLXZzLWZjLXRva3lvLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Albirex Niigata vs FC Tokyo (SD|ALPHA3|日本語) [DATE]
 watch/YWxwaGEvYWxiaXJleC1uaWlnYXRhLXZzLWZjLXRva3lvLzM=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Fujieda MYFC v Mito (HD|ALPHA2|日本語) [DATE]
-watch/YWxwaGEvZnVqaWVkYS1teWZjLXZzLW1pdG8vMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Fujieda MYFC v Mito (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Fujieda MYFC v Mito (HD|ALPHA1|日本語) [DATE]
 watch/YWxwaGEvZnVqaWVkYS1teWZjLXZzLW1pdG8vMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Fujieda MYFC v Mito (SD|ALPHA3|日本語) [DATE]
-watch/YWxwaGEvZnVqaWVkYS1teWZjLXZzLW1pdG8vMw==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Fujieda MYFC v Mito (SD|ALPHA2|日本語) [DATE]
+watch/YWxwaGEvZnVqaWVkYS1teWZjLXZzLW1pdG8vMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746248400000] Fukuoka S. Hawks v Chiba Lotte Marines (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvZnVrdW9rYS1zLWhhd2tzLXZzLWNoaWJhLWxvdHRlLW1hcmluZXMvMQ==
@@ -705,50 +702,35 @@ watch/YWxwaGEvaGlyb3NoaW1hLWNhcnAtdnMtY2h1bmljaGktZHJhZ29ucy8y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746248400000] Hiroshima Carp v Chunichi Dragons (SD|ALPHA3|日本語) [DATE]
 watch/YWxwaGEvaGlyb3NoaW1hLWNhcnAtdnMtY2h1bmljaGktZHJhZ29ucy8z
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Imabari v Iwata (HD|ALPHA2|日本語) [DATE]
-watch/YWxwaGEvaW1hYmFyaS12cy1pd2F0YS8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Imabari v Iwata (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Imabari v Iwata (HD|ALPHA1|日本語) [DATE]
 watch/YWxwaGEvaW1hYmFyaS12cy1pd2F0YS8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Imabari v Iwata (SD|ALPHA3|日本語) [DATE]
-watch/YWxwaGEvaW1hYmFyaS12cy1pd2F0YS8z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Imabari v Iwata (SD|ALPHA2|日本語) [DATE]
+watch/YWxwaGEvaW1hYmFyaS12cy1pd2F0YS8y
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Montedio Yamagata vs Hokkaido Consadole Sapporo (HD|ALPHA2|日本語) [DATE]
-watch/YWxwaGEvbW9udGVkaW8teWFtYWdhdGEtdnMtaG9ra2FpZG8tY29uc2Fkb2xlLXNhcHBvcm8vMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Montedio Yamagata vs Hokkaido Consadole Sapporo (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Montedio Yamagata vs Hokkaido Consadole Sapporo (HD|ALPHA1|日本語) [DATE]
 watch/YWxwaGEvbW9udGVkaW8teWFtYWdhdGEtdnMtaG9ra2FpZG8tY29uc2Fkb2xlLXNhcHBvcm8vMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Montedio Yamagata vs Hokkaido Consadole Sapporo (SD|ALPHA3|日本語) [DATE]
-watch/YWxwaGEvbW9udGVkaW8teWFtYWdhdGEtdnMtaG9ra2FpZG8tY29uc2Fkb2xlLXNhcHBvcm8vMw==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Montedio Yamagata vs Hokkaido Consadole Sapporo (SD|ALPHA2|日本語) [DATE]
+watch/YWxwaGEvbW9udGVkaW8teWFtYWdhdGEtdnMtaG9ra2FpZG8tY29uc2Fkb2xlLXNhcHBvcm8vMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746248400000] Nippon Ham Fighters v Seibu Lions (HD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746248400000] Nippon Ham Fighters v Seibu Lions (HD|ALPHA1|日本語) [DATE]
 watch/YWxwaGEvbmlwcG9uLWhhbS1maWdodGVycy12cy1zZWlidS1saW9ucy8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746248400000] Nippon Ham Fighters v Seibu Lions (HD|ALPHA2|日本語) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746248400000] Nippon Ham Fighters v Seibu Lions (SD|ALPHA2|日本語) [DATE]
 watch/YWxwaGEvbmlwcG9uLWhhbS1maWdodGVycy12cy1zZWlidS1saW9ucy8y
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746248400000] Nippon Ham Fighters v Seibu Lions (SD|ALPHA3|日本語) [DATE]
-watch/YWxwaGEvbmlwcG9uLWhhbS1maWdodGVycy12cy1zZWlidS1saW9ucy8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Oita Trinita v Kumamoto (HD|ALPHA2|日本語) [DATE]
-watch/YWxwaGEvb2l0YS10cmluaXRhLXZzLWt1bWFtb3RvLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Oita Trinita v Kumamoto (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Oita Trinita v Kumamoto (HD|ALPHA1|日本語) [DATE]
 watch/YWxwaGEvb2l0YS10cmluaXRhLXZzLWt1bWFtb3RvLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Oita Trinita v Kumamoto (SD|ALPHA3|日本語) [DATE]
-watch/YWxwaGEvb2l0YS10cmluaXRhLXZzLWt1bWFtb3RvLzM=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Oita Trinita v Kumamoto (SD|ALPHA2|日本語) [DATE]
+watch/YWxwaGEvb2l0YS10cmluaXRhLXZzLWt1bWFtb3RvLzI=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Omiya Ardija v Toyama (HD|ALPHA2|日本語) [DATE]
-watch/YWxwaGEvb21peWEtYXJkaWphLXZzLXRveWFtYS8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Omiya Ardija v Toyama (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Omiya Ardija v Toyama (HD|ALPHA1|日本語) [DATE]
 watch/YWxwaGEvb21peWEtYXJkaWphLXZzLXRveWFtYS8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Omiya Ardija v Toyama (SD|ALPHA3|日本語) [DATE]
-watch/YWxwaGEvb21peWEtYXJkaWphLXZzLXRveWFtYS8z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746248400000] Omiya Ardija v Toyama (SD|ALPHA2|日本語) [DATE]
+watch/YWxwaGEvb21peWEtYXJkaWphLXZzLXRveWFtYS8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746248400000] Rakuten Gold. Eagles v Orix Buffaloes (HD|ALPHA1|日本語) [DATE]
 watch/YWxwaGEvcmFrdXRlbi1nb2xkLWVhZ2xlcy12cy1vcml4LWJ1ZmZhbG9lcy8x
@@ -1142,6 +1124,12 @@ watch/YWxwaGEva3lvdG8tc2FuZ2EtdnMtY2VyZXpvLW9zYWthLzM=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746266400000] Mersin SK v Bursaspor (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbWVyc2luLXNrLXZzLWJ1cnNhc3Bvci8x
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746266400000] Mersin SK v Bursaspor (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvbWVyc2luLXNrLXZzLWJ1cnNhc3Bvci8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746266400000] Mersin SK v Bursaspor (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvbWVyc2luLXNrLXZzLWJ1cnNhc3Bvci8z
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746266400000] Valencia W v Eibar W (HD|ALPHA2|ESP) [DATE]
 watch/YWxwaGEvdmFsZW5jaWEtdy12cy1laWJhci13LzI=
@@ -1719,6 +1707,12 @@ watch/YWxwaGEvcGFyYWd1YXktdnMtaXJhbi8z
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746275400000] Petkim Spor v Buyukcekmece (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvcGV0a2ltLXNwb3ItdnMtYnV5dWtjZWttZWNlLzE=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746275400000] Petkim Spor v Buyukcekmece (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvcGV0a2ltLXNwb3ItdnMtYnV5dWtjZWttZWNlLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746275400000] Petkim Spor v Buyukcekmece (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvcGV0a2ltLXNwb3ItdnMtYnV5dWtjZWttZWNlLzM=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746275400000] THE CJ CUP Byron Nelson: Featured Groups (Third Round) (Featured Groups) (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cHMtdGhpcmQtcm91bmQtZmVhdHVyZWQtZ3JvdXBzLTE2Mjk0NDE4MDEvMQ==
 
@@ -2061,6 +2055,12 @@ watch/YWxwaGEvY2hhcmx0b24tdnMtYnVydG9uLzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746280800000] Corinthians Paulista v Uniao Corinthians (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvY29yaW50aGlhbnMtcGF1bGlzdGEtdnMtdW5pYW8tY29yaW50aGlhbnMvMQ==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746280800000] Corinthians Paulista v Uniao Corinthians (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY29yaW50aGlhbnMtcGF1bGlzdGEtdnMtdW5pYW8tY29yaW50aGlhbnMvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746280800000] Corinthians Paulista v Uniao Corinthians (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvY29yaW50aGlhbnMtcGF1bGlzdGEtdnMtdW5pYW8tY29yaW50aGlhbnMvMw==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746280800000] Dundee FC vs Motherwell (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvZHVuZGVlLXZzLW1vdGhlcndlbGwvMQ==
 
@@ -2252,6 +2252,15 @@ watch/YWxwaGEvbm90dHMtY291bnR5LXZzLWRvbmNhc3Rlci1yb3ZlcnMvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746280800000] Notts County vs Doncaster (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvbm90dHMtY291bnR5LXZzLWRvbmNhc3Rlci1yb3ZlcnMvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746280800000] Ovarense v UD Oliveirense (HD|ALPHA2|POR) [DATE]
+watch/YWxwaGEvb3ZhcmVuc2UtdnMtdWQtb2xpdmVpcmVuc2UvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746280800000] Ovarense v UD Oliveirense (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvb3ZhcmVuc2UtdnMtdWQtb2xpdmVpcmVuc2UvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746280800000] Ovarense v UD Oliveirense (SD|ALPHA3|POR) [DATE]
+watch/YWxwaGEvb3ZhcmVuc2UtdnMtdWQtb2xpdmVpcmVuc2UvMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746280800000] Port Vale vs Gillingham (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvcG9ydC12YWxlLXZzLWdpbGxpbmdoYW0vMg==
@@ -2522,6 +2531,12 @@ watch/YWxwaGEvdGlyb2wtdnMtbGFzay8z
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746284400000] Tofas v Bahcesehir Kol. (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdG9mYXMtdnMtYmFoY2VzZWhpci1rb2wvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746284400000] Tofas v Bahcesehir Kol. (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvdG9mYXMtdnMtYmFoY2VzZWhpci1rb2wvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746284400000] Tofas v Bahcesehir Kol. (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvdG9mYXMtdnMtYmFoY2VzZWhpci1rb2wvMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746284400000] USA W v Zimbabwe W (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdXNhLXctdnMtemltYmFid2Utdy8y
