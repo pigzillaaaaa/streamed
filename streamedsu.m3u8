@@ -259,10 +259,10 @@ watch/YWxwaGEvd3dlLW5ldHdvcmsvMg==
 watch/YnJhdm8vMTc0NjIxNjAwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] THE CJ CUP Byron Nelson (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjIxNjAwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0yLzE=
+watch/YnJhdm8vMTc0NjIxNjAwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0xLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746216000000] THE CJ CUP Byron Nelson (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjIxNjAwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0xLzE=
+watch/YnJhdm8vMTc0NjIxNjAwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0yLzE=
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746221400000] Ryan Garcia v Rolando Romero (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjIyMTQwMDAwMC1yeWFuLWdhcmNpYS12cy1yb2xhbmRvLXJvbWVyby8x
@@ -288,20 +288,8 @@ watch/YnJhdm8vMTc0NjIyMzgwMDAwMC13YXNoaW5ndG9uLW5hdGlvbmFscy12cy1jaW5jaW5uYXRpLX
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746225000000] #17 Louisville v Notre Dame (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjIyNTAwMDAwMC0xNy1sb3Vpc3ZpbGxlLXZzLW5vdHJlLWRhbWUvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746225600000] Pittsburgh Pirates vs San Diego Padres (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvcGl0dHNidXJnaC1waXJhdGVzLXZzLXNhbi1kaWVnby1wYWRyZXMvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746225600000] Pittsburgh Pirates vs San Diego Padres (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvcGl0dHNidXJnaC1waXJhdGVzLXZzLXNhbi1kaWVnby1wYWRyZXMvMg==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746225600000] Pittsburgh Pirates vs San Diego Padres (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjIyNTYwMDAwMC1zYW4tZGllZ28tcGFkcmVzLXZzLXBpdHRzYnVyZ2gtcGlyYXRlcy8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746225600000] Pittsburgh Pirates vs San Diego Padres (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvcGl0dHNidXJnaC1waXJhdGVzLXZzLXNhbi1kaWVnby1wYWRyZXMvMw==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746225600000] Pittsburgh Pirates vs San Diego Padres (SD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEvcGl0dHNidXJnaC1waXJhdGVzLXZzLXNhbi1kaWVnby1wYWRyZXMvNA==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746225900000] Philadelphia Phillies vs Arizona Diamondbacks (HD|BRAVO1|AWA) [DATE]
 watch/YnJhdm8vMTc0NjIyNTkwMDAwMC1hcml6b25hLWRpYW1vbmRiYWNrcy12cy1waGlsYWRlbHBoaWEtcGhpbGxpZXMtYXdheS1mZWVkLS8x
@@ -449,9 +437,6 @@ watch/YWxwaGEvbG9zLWFuZ2VsZXMtYW5nZWxzLXZzLWRldHJvaXQtdGlnZXJzLzQ=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746237600000] Iowa v Washington (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjIzNzYwMDAwMC1pb3dhLXZzLXdhc2hpbmd0b24vMQ==
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746237600000] URIJAH FABER'S A-1 COMBAT 27 (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS91cmlqYWgtZmFiZXJzLWEtMS1jb21iYXQtMjctMTYyOTQ0MTc4Ni8x
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746237600000] Vegas Thrill W v Orlando Valkyries W (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjIzNzYwMDAwMC12ZWdhcy10aHJpbGwtdy1vcmxhbmRvLXZhbGt5cmllcy13LzE=
@@ -902,6 +887,15 @@ watch/YWxwaGEvd2VzdGVybi11bml0ZWQtdnMtYXVja2xhbmQtZmMvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746259200000] Western United FC vs Auckland FC (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvd2VzdGVybi11bml0ZWQtdnMtYXVja2xhbmQtZmMvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" group-title="MOTOR-SPORTS",[TIME|1746261000000] Formula E: Monaco Qualifying 1 (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvZm9ybXVsYS1lLW1vbmFjby1xdWFsaWZ5aW5nLTEvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" group-title="MOTOR-SPORTS",[TIME|1746261000000] Formula E: Monaco Qualifying 1 (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvZm9ybXVsYS1lLW1vbmFjby1xdWFsaWZ5aW5nLTEvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" group-title="MOTOR-SPORTS",[TIME|1746261000000] Formula E: Monaco Qualifying 1 (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvZm9ybXVsYS1lLW1vbmFjby1xdWFsaWZ5aW5nLTEvMw==
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746261900000] World Superbike Italy: Worldsbk - Superpole (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd29ybGQtc3VwZXJiaWtlLWl0YWx5LXdvcmxkc2JrLXN1cGVycG9sZS8y
@@ -1484,6 +1478,15 @@ watch/YWxwaGEvZmV5ZW5vb3JkLXctdnMtZXhjZWxzaW9yLXcvMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746273600000] Feyenoord W v Excelsior W (SD|ALPHA3|DUT) [DATE]
 watch/YWxwaGEvZmV5ZW5vb3JkLXctdnMtZXhjZWxzaW9yLXcvMw==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" group-title="MOTOR-SPORTS",[TIME|1746273600000] Formula E: Monaco Race 1 (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvZm9ybXVsYS1lLW1vbmFjby1yYWNlLTEvMg==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" group-title="MOTOR-SPORTS",[TIME|1746273600000] Formula E: Monaco Race 1 (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvZm9ybXVsYS1lLW1vbmFjby1yYWNlLTEvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" group-title="MOTOR-SPORTS",[TIME|1746273600000] Formula E: Monaco Race 1 (SD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvZm9ybXVsYS1lLW1vbmFjby1yYWNlLTEvMw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746273600000] Gnistan v Mariehamn (SD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvZ25pc3Rhbi12cy1tYXJpZWhhbW4vMQ==
