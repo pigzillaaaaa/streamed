@@ -345,6 +345,12 @@ watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ob2xlcy00LTctMTQtYW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746273600000] THE CJ CUP Byron Nelson: Marquee Group (Third Round) (Marquee Group) (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1tYXJxdWVlLWdyb3VwLXRoaXJkLXJvdW5kLW1hcnF1ZWUtZ3JvdXAtMTYyOTQ0MTgwMy8x
 
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746273600000] Tour de Romandie | Stage 4 (HD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvdG91ci1kZS1yb21hbmRpZS1zdGFnZS00LzE=
+
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746273600000] Tour de Romandie | Stage 4 (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvdG91ci1kZS1yb21hbmRpZS1zdGFnZS00LzI=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746273600000] Turbine Potsdam W v VfL Wolfsburg W (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS90dXJiaW5lLXBvdHNkYW0tdy12cy12Zmwtd29sZnNidXJnLXctMTI1MTI1NC8x
 
@@ -372,12 +378,6 @@ watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tbWFpbi1mZWVkLXNlY29uZC1yb3VuZC8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746274500000] THE CJ CUP Byron Nelson: Main Feed (Second Round) (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdGhlLWNqLWN1cC1ieXJvbi1uZWxzb24tbWFpbi1mZWVkLXNlY29uZC1yb3VuZC8y
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746275400000] Paraguay v Iran (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvcGFyYWd1YXktdnMtaXJhbi8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746275400000] Paraguay v Iran (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvcGFyYWd1YXktdnMtaXJhbi8y
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746275400000] THE CJ CUP Byron Nelson (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjI3NTQwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi8x
 
@@ -388,10 +388,10 @@ watch/YnJhdm8vMTc0NjI3NTQwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm
 watch/YnJhdm8vMTc0NjI3NTQwMDAwMC10aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cC0yLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746275400000] THE CJ CUP Byron Nelson (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cHMtdGhpcmQtcm91bmQtZmVhdHVyZWQtZ3JvdXBzLTE2Mjk0NDE4MDEvMQ==
+watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1tYWluLWZlZWQtdGhpcmQtcm91bmQtMTYyOTQ0MTgwMC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746275400000] THE CJ CUP Byron Nelson (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1tYWluLWZlZWQtdGhpcmQtcm91bmQtMTYyOTQ0MTgwMC8x
+watch/Y2hhcmxpZS90aGUtY2otY3VwLWJ5cm9uLW5lbHNvbi1mZWF0dXJlZC1ncm91cHMtdGhpcmQtcm91bmQtZmVhdHVyZWQtZ3JvdXBzLTE2Mjk0NDE4MDEvMQ==
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746276300000] Lublin v Zawiercie (HD|BRAVO1|POL) [DATE]
 watch/YnJhdm8vMTc0NjI3NjMwMDAwMC1sdWJsaW4temF3aWVyY2llLXBvbGlzaC0vMQ==
@@ -401,9 +401,6 @@ watch/YnJhdm8vMTc0NjI3NjMwMDAwMC1sdWJsaW4temF3aWVyY2llLWFtYmllbnQtLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746276300000] Stal Mielec v Rakow (HD|ALPHA1|POL) [DATE]
 watch/YWxwaGEvc3RhbC1taWVsZWMtdnMtcmFrb3cvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746276300000] Stal Mielec v Rakow (HD|BRAVO1|ENG) [DATE]
-watch/YnJhdm8vMTc0NjI3NjMwMDAwMC1zdGFsLW1pZWxlYy1yYWtvdy8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746276300000] Stal Mielec v Rakow (SD|ALPHA2|POL) [DATE]
 watch/YWxwaGEvc3RhbC1taWVsZWMtdnMtcmFrb3cvMg==
@@ -1806,6 +1803,12 @@ watch/ZGVsdGEvc3RyYXNib3VyZy12cy1wYXJpcy1zYWludC1nZXJtYWluLWZvb3RiYWxsLTEyMTQwMz
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746284400000] Strasbourg vs Paris SG (HD|DELTA3|) [DATE]
 watch/ZGVsdGEvc3RyYXNib3VyZy12cy1wYXJpcy1zYWludC1nZXJtYWluLWZvb3RiYWxsLTEyMTQwMzMvMw==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746284400000] Strasbourg vs Paris SG (HD|ECHO1|FRE) [DATE]
+watch/ZWNoby9zdHJhc2JvdXJnLXBhcmlzLXNhaW50LWdlcm1haW4tMjU2OTkvMQ==
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746284400000] Strasbourg vs Paris SG (HD|ECHO2|POR) [DATE]
+watch/ZWNoby9zdHJhc2JvdXJnLXBhcmlzLXNhaW50LWdlcm1haW4tMjU2OTkvMg==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746284400000] Strasbourg vs Paris SG (HD|FOXTROT1|) [DATE]
 watch/Zm94dHJvdC9zdHJhc2JvdXJnLXZzLXBhcmlzLXNhaW50LWdlcm1haW4tMjAyNTA1MDMyMzMwLzE=
 
@@ -1830,14 +1833,11 @@ watch/YWxwaGEvdGFuemFuaWEtdTIwLXZzLXNpZXJyYS1sZW9uZS11MjAvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746284400000] Tanzania U20 v Sierra Leone U20 (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvdGFuemFuaWEtdTIwLXZzLXNpZXJyYS1sZW9uZS11MjAvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746284400000] USA W v Zimbabwe W (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvdXNhLXctdnMtemltYmFid2Utdy8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746284400000] USA W v Zimbabwe W (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746284400000] USA W v Zimbabwe W (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdXNhLXctdnMtemltYmFid2Utdy8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746284400000] USA W v Zimbabwe W (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvdXNhLXctdnMtemltYmFid2Utdy8z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746284400000] USA W v Zimbabwe W (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvdXNhLXctdnMtemltYmFid2Utdy8y
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746285000000] Ferrari Challenge Europe - Misano, Race 2 (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvZmVycmFyaS1jaGFsbGVuZ2UtZXVyb3BlLW1pc2Fuby1yYWNlLTIvMg==
