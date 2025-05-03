@@ -294,18 +294,6 @@ watch/Y2hhcmxpZS9kYWVndS1mYy12cy1qZWp1LXVuaXRlZC1mYy0xMzQwNzY0LzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746257400000] Daejeon Citizen v FC Anyang (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9kYWVqZW9uLWNpdGl6ZW4tdnMtZmMtYW55YW5nLTEzNDA3NjMvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746257400000] New Zealand Warriors v NQ Cowboys (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbmV3LXplYWxhbmQtd2FycmlvcnMtdnMtbnEtY293Ym95cy8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746257400000] New Zealand Warriors v NQ Cowboys (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbmV3LXplYWxhbmQtd2FycmlvcnMtdnMtbnEtY293Ym95cy8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746257400000] New Zealand Warriors v NQ Cowboys (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbmV3LXplYWxhbmQtd2FycmlvcnMtdnMtbnEtY293Ym95cy8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746257400000] New Zealand Warriors v NQ Cowboys (SD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEvbmV3LXplYWxhbmQtd2FycmlvcnMtdnMtbnEtY293Ym95cy80
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746257400000] New Zealand Warriors vs North Queensland Cowboys (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjI1NzQwMDAwMC1uZXctemVhbGFuZC13YXJyaW9ycy1ub3J0aC1xdWVlbnNsYW5kLWNvd2JveXMvMQ==
 
@@ -405,6 +393,9 @@ watch/YWxwaGEvbWFjYXJ0aHVyLWZjLXZzLXdlc3Rlcm4tc3lkbmV5LXdhbmRlcmVycy8y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746264900000] Macarthur FC vs Western Sydney Wanderers FC (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjI2NDkwMDAwMC1tYWNhcnRodXItZmMtd2VzdGVybi1zeWRuZXktd2FuZGVyZXJzLzE=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746264900000] Macarthur FC vs Western Sydney Wanderers FC (HD|CHARLIE1|ENG) [DATE]
+watch/Y2hhcmxpZS9tYWNhcnRodXItdnMtd2VzdGVybi1zeWRuZXktd2FuZGVyZXJzLTEyODA4MzYvMQ==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746264900000] Macarthur FC vs Western Sydney Wanderers FC (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvbWFjYXJ0aHVyLXZzLXdlc3Rlcm4tc3lkbmV5LXdhbmRlcmVycy1mb290YmFsbC0xMjgwODM2LzE=
 
@@ -425,6 +416,9 @@ watch/YWxwaGEvd2VzdHMtdGlnZXJzLXZzLXN0LWdlb3JnZS1pbGxhd2FycmEtZHJhZ29ucy8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746265500000] Wests Tigers v St. George Illawarra Dragons (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd2VzdHMtdGlnZXJzLXZzLXN0LWdlb3JnZS1pbGxhd2FycmEtZHJhZ29ucy8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746265500000] Wests Tigers v St. George Illawarra Dragons (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjI2NTUwMDAwMC13ZXN0cy10aWdlcnMtc3QtZ2VvcmdlLWlsbGF3YXJyYS1kcmFnb25zLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746265500000] Wests Tigers v St. George Illawarra Dragons (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvd2VzdHMtdGlnZXJzLXZzLXN0LWdlb3JnZS1pbGxhd2FycmEtZHJhZ29ucy8z
@@ -479,15 +473,6 @@ watch/YWxwaGEva3lvdG8tc2FuZ2EtdnMtY2VyZXpvLW9zYWthLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746266400000] Kyoto Sanga vs Cerezo Osaka (SD|ALPHA3|日本語) [DATE]
 watch/YWxwaGEva3lvdG8tc2FuZ2EtdnMtY2VyZXpvLW9zYWthLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746266400000] Mersin SK v Bursaspor (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbWVyc2luLXNrLXZzLWJ1cnNhc3Bvci8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746266400000] Mersin SK v Bursaspor (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbWVyc2luLXNrLXZzLWJ1cnNhc3Bvci8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746266400000] Mersin SK v Bursaspor (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbWVyc2luLXNrLXZzLWJ1cnNhc3Bvci8z
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746266400000] Valencia W v Eibar W (HD|ALPHA2|ESP) [DATE]
 watch/YWxwaGEvdmFsZW5jaWEtdy12cy1laWJhci13LzI=
