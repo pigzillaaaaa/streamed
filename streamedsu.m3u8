@@ -315,12 +315,6 @@ watch/YWxwaGEvcGl0dHNidXJnaC1waXJhdGVzLXZzLXNhbi1kaWVnby1wYWRyZXMvMw==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746225600000] Pittsburgh Pirates vs San Diego Padres (SD|ALPHA4|ENG) [DATE]
 watch/YWxwaGEvcGl0dHNidXJnaC1waXJhdGVzLXZzLXNhbi1kaWVnby1wYWRyZXMvNA==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746225900000] Leeward Islands Thunder v Trinidad & Tobago Legions (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbGVld2FyZC1pc2xhbmRzLXRodW5kZXItdnMtdHJpbmlkYWQtdG9iYWdvLWxlZ2lvbnMvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",[TIME|1746225900000] Leeward Islands Thunder v Trinidad & Tobago Legions (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbGVld2FyZC1pc2xhbmRzLXRodW5kZXItdnMtdHJpbmlkYWQtdG9iYWdvLWxlZ2lvbnMvMg==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746225900000] Philadelphia Phillies vs Arizona Diamondbacks (HD|BRAVO1|AWA) [DATE]
 watch/YnJhdm8vMTc0NjIyNTkwMDAwMC1hcml6b25hLWRpYW1vbmRiYWNrcy12cy1waGlsYWRlbHBoaWEtcGhpbGxpZXMtYXdheS1mZWVkLS8x
 
@@ -363,29 +357,11 @@ watch/YnJhdm8vMTc0NjIyNzEwMDAwMC10YW1wYS1iYXktcmF5cy12cy1uZXcteW9yay15YW5rZWVzLW
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227100000] New York Yankees vs Tampa Bay Rays (HD|BRAVO3|SPA) [DATE]
 watch/YnJhdm8vMTc0NjIyNzEwMDAwMC10YW1wYS1iYXktcmF5cy12cy1uZXcteW9yay15YW5rZWVzLXNwYW5pc2gtLzM=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227220000] Toronto Blue Jays vs Cleveland Guardians (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvdG9yb250by1ibHVlLWpheXMtdnMtY2xldmVsYW5kLWd1YXJkaWFucy8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227220000] Toronto Blue Jays vs Cleveland Guardians (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvdG9yb250by1ibHVlLWpheXMtdnMtY2xldmVsYW5kLWd1YXJkaWFucy8y
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227220000] Toronto Blue Jays vs Cleveland Guardians (HD|BRAVO1|AWA) [DATE]
 watch/YnJhdm8vMTc0NjIyNzIyMDAwMC1jbGV2ZWxhbmQtZ3VhcmRpYW5zLXZzLXRvcm9udG8tYmx1ZS1qYXlzLWF3YXktZmVlZC0vMQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227220000] Toronto Blue Jays vs Cleveland Guardians (HD|BRAVO2|HOM) [DATE]
 watch/YnJhdm8vMTc0NjIyNzIyMDAwMC1jbGV2ZWxhbmQtZ3VhcmRpYW5zLXZzLXRvcm9udG8tYmx1ZS1qYXlzLWhvbWUtZmVlZC0vMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227220000] Toronto Blue Jays vs Cleveland Guardians (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvdG9yb250by1ibHVlLWpheXMtdnMtY2xldmVsYW5kLWd1YXJkaWFucy8z
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227220000] Toronto Blue Jays vs Cleveland Guardians (SD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEvdG9yb250by1ibHVlLWpheXMtdnMtY2xldmVsYW5kLWd1YXJkaWFucy80
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227400000] Boston Red Sox vs Minnesota Twins (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvYm9zdG9uLXJlZC1zb3gtdnMtbWlubmVzb3RhLXR3aW5zLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227400000] Boston Red Sox vs Minnesota Twins (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvYm9zdG9uLXJlZC1zb3gtdnMtbWlubmVzb3RhLXR3aW5zLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227400000] Boston Red Sox vs Minnesota Twins (HD|BRAVO1|AWA) [DATE]
 watch/YnJhdm8vMTc0NjIyNzQwMDAwMC1taW5uZXNvdGEtdHdpbnMtdnMtYm9zdG9uLXJlZC1zb3gtYXdheS1mZWVkLS8x
@@ -393,29 +369,11 @@ watch/YnJhdm8vMTc0NjIyNzQwMDAwMC1taW5uZXNvdGEtdHdpbnMtdnMtYm9zdG9uLXJlZC1zb3gtYX
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227400000] Boston Red Sox vs Minnesota Twins (HD|BRAVO2|HOM) [DATE]
 watch/YnJhdm8vMTc0NjIyNzQwMDAwMC1taW5uZXNvdGEtdHdpbnMtdnMtYm9zdG9uLXJlZC1zb3gtaG9tZS1mZWVkLS8y
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227400000] Boston Red Sox vs Minnesota Twins (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvYm9zdG9uLXJlZC1zb3gtdnMtbWlubmVzb3RhLXR3aW5zLzM=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227400000] Boston Red Sox vs Minnesota Twins (SD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEvYm9zdG9uLXJlZC1zb3gtdnMtbWlubmVzb3RhLXR3aW5zLzQ=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227400000] Miami Marlins vs Athletics (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvbWlhbWktbWFybGlucy12cy1hdGhsZXRpY3MvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227400000] Miami Marlins vs Athletics (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvbWlhbWktbWFybGlucy12cy1hdGhsZXRpY3MvMg==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227400000] Miami Marlins vs Athletics (HD|BRAVO1|AWA) [DATE]
 watch/YnJhdm8vMTc0NjIyNzQwMDAwMC1hdGhsZXRpY3MtdnMtbWlhbWktbWFybGlucy1hd2F5LWZlZWQtLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227400000] Miami Marlins vs Athletics (HD|BRAVO2|HOM) [DATE]
 watch/YnJhdm8vMTc0NjIyNzQwMDAwMC1hdGhsZXRpY3MtdnMtbWlhbWktbWFybGlucy1ob21lLWZlZWQtLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227400000] Miami Marlins vs Athletics (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvbWlhbWktbWFybGlucy12cy1hdGhsZXRpY3MvMw==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227400000] Miami Marlins vs Athletics (SD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEvbWlhbWktbWFybGlucy12cy1hdGhsZXRpY3MvNA==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746227700000] Atlanta Braves vs Los Angeles Dodgers (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvYXRsYW50YS1icmF2ZXMtdnMtbG9zLWFuZ2VsZXMtZG9kZ2Vycy8x
@@ -465,24 +423,6 @@ watch/YWxwaGEvY2hpY2Fnby13aGl0ZS1zb3gtdnMtaG91c3Rvbi1hc3Ryb3MvNA==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746230400000] #1 Texas v #11 Arkansas (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjIzMDQwMDAwMC0xLXRleGFzLXZzLTExLWFya2Fuc2FzLzE=
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746230400000] BKFC Fight Night Clearwater Warren vs Creer (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvYmtmYy1maWdodC1uaWdodC1jbGVhcndhdGVyLWphcmVkLXdhcnJlbi12cy1qb3NlcGgtY3JlZXIvMQ==
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746230400000] BKFC Fight Night Clearwater Warren vs Creer (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvYmtmYy1maWdodC1uaWdodC1jbGVhcndhdGVyLWphcmVkLXdhcnJlbi12cy1qb3NlcGgtY3JlZXIvMg==
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746230400000] BKFC Fight Night Clearwater Warren vs Creer (HD|ALPHA3|ESP) [DATE]
-watch/YWxwaGEvYmtmYy1maWdodC1uaWdodC1jbGVhcndhdGVyLWphcmVkLXdhcnJlbi12cy1qb3NlcGgtY3JlZXIvMw==
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746230400000] BKFC Fight Night Clearwater Warren vs Creer (SD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEvYmtmYy1maWdodC1uaWdodC1jbGVhcndhdGVyLWphcmVkLXdhcnJlbi12cy1qb3NlcGgtY3JlZXIvNA==
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746230400000] BKFC Fight Night Clearwater Warren vs Creer (SD|ALPHA5|ENG) [DATE]
-watch/YWxwaGEvYmtmYy1maWdodC1uaWdodC1jbGVhcndhdGVyLWphcmVkLXdhcnJlbi12cy1qb3NlcGgtY3JlZXIvNQ==
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746230400000] BKFC Fight Night Clearwater Warren vs Creer (SD|ALPHA6|ESP) [DATE]
-watch/YWxwaGEvYmtmYy1maWdodC1uaWdodC1jbGVhcndhdGVyLWphcmVkLXdhcnJlbi12cy1qb3NlcGgtY3JlZXIvNg==
-
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="FIGHT",[TIME|1746230400000] BKFC Fight Night: Clearwater (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjIzMDQwMDAwMC1ia2ZjLWZpZ2h0LW5pZ2h0LWNsZWFyd2F0ZXIvMQ==
 
@@ -494,15 +434,6 @@ watch/YnJhdm8vMTc0NjIzMDQwMDAwMC1uYXNjYXItdHJ1Y2stc2VyaWVzLXJhY2Utc3BlZWR5Y2FzaC
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746230400000] SpeedyCash.com 250 (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvbmFzY2FyLWNyYWZ0c21hbi10cnVjay1zZXJpZXMtc3BlZWR5Y2FzaC1jb20tMjUwLXRleGFzLW1vdG9yLXNwZWVkd2F5LzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/football-logo.png" group-title="AMERICAN-FOOTBALL",[TIME|1746230400000] St Louis BattleHawks vs Arlington Renegades (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvc3QtbG91aXMtYmF0dGxlaGF3a3MtdnMtYXJsaW5ndG9uLXJlbmVnYWRlcy8x
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/football-logo.png" group-title="AMERICAN-FOOTBALL",[TIME|1746230400000] St Louis BattleHawks vs Arlington Renegades (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvc3QtbG91aXMtYmF0dGxlaGF3a3MtdnMtYXJsaW5ndG9uLXJlbmVnYWRlcy8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746230400000] St. Louis Blues vs Winnipeg Jets (HD|ADMIN1|ENG) [DATE]
-watch/YWRtaW4vYWRtaW4tc3QtbG91aXMtYmx1ZXMtdnMtd2lubmlwZWctamV0cy8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746230400000] St. Louis Blues vs Winnipeg Jets (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvc3QtbG91aXMtYmx1ZXMtdnMtd2lubmlwZWctamV0cy8x
@@ -521,18 +452,6 @@ watch/YWxwaGEvc3QtbG91aXMtYmx1ZXMtdnMtd2lubmlwZWctamV0cy81
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="HOCKEY",[TIME|1746230400000] St. Louis Blues vs Winnipeg Jets (SD|ALPHA6|ENG) [DATE]
 watch/YWxwaGEvc3QtbG91aXMtYmx1ZXMtdnMtd2lubmlwZWctamV0cy82
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="FIGHT",[TIME|1746230400000] WWE Friday Night Smackdown (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvd3dlLWZyaWRheS1uaWdodC1zbWFja2Rvd24vMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="FIGHT",[TIME|1746230400000] WWE Friday Night Smackdown (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvd3dlLWZyaWRheS1uaWdodC1zbWFja2Rvd24vMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="FIGHT",[TIME|1746230400000] WWE Friday Night Smackdown (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvd3dlLWZyaWRheS1uaWdodC1zbWFja2Rvd24vMw==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="FIGHT",[TIME|1746230400000] WWE Friday Night Smackdown (SD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEvd3dlLWZyaWRheS1uaWdodC1zbWFja2Rvd24vNA==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",[TIME|1746230700000] Texas Rangers vs Seattle Mariners (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvdGV4YXMtcmFuZ2Vycy12cy1zZWF0dGxlLW1hcmluZXJzLzE=
@@ -594,12 +513,6 @@ watch/YnJhdm8vMTc0NjIzMjIwMDAwMC1rYW5zYXMtc3RhdGUtdnMtYnl1LzE=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746232200000] USA W v Canada W (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjIzMjIwMDAwMC11c2Etdy1jYW5hZGEtdy8x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746234000000] Brazil National Team v Chicago Sky (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvYnJhemlsLW5hdGlvbmFsLXRlYW0tdnMtY2hpY2Fnby1za3kvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746234000000] Brazil National Team v Chicago Sky (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvYnJhemlsLW5hdGlvbmFsLXRlYW0tdnMtY2hpY2Fnby1za3kvMg==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746234000000] Golden State Warriors vs Houston Rockets (HD|ADMIN1|ENG) [DATE]
 watch/YWRtaW4vYWRtaW4tZ29sZGVuLXN0YXRlLXdhcnJpb3JzLXZzLWhvdXN0b24tcm9ja2V0cy8x
 
@@ -620,33 +533,6 @@ watch/YWxwaGEvZ29sZGVuLXN0YXRlLXdhcnJpb3JzLXZzLWhvdXN0b24tcm9ja2V0cy81
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746234000000] Golden State Warriors vs Houston Rockets (HD|ALPHA6|POR) [DATE]
 watch/YWxwaGEvZ29sZGVuLXN0YXRlLXdhcnJpb3JzLXZzLWhvdXN0b24tcm9ja2V0cy82
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746234000000] Golden State Warriors vs Houston Rockets (HD|BRAVO1|NAT) [DATE]
-watch/YnJhdm8vMTc0NjIzNDAwMDAwMC1ob3VzdG9uLXJvY2tldHMtdnMtZ29sZGVuLXN0YXRlLXdhcnJpb3JzLW5hdGlvbmFsLWZlZWQtLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746234000000] Golden State Warriors vs Houston Rockets (HD|BRAVO2|AWA) [DATE]
-watch/YnJhdm8vMTc0NjIzNDAwMDAwMC1ob3VzdG9uLXJvY2tldHMtdnMtZ29sZGVuLXN0YXRlLXdhcnJpb3JzLWF3YXktZmVlZC0vMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746234000000] Golden State Warriors vs Houston Rockets (HD|BRAVO3|HOM) [DATE]
-watch/YnJhdm8vMTc0NjIzNDAwMDAwMC1ob3VzdG9uLXJvY2tldHMtdnMtZ29sZGVuLXN0YXRlLXdhcnJpb3JzLWhvbWUtZmVlZC0vMw==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746234000000] Golden State Warriors vs Houston Rockets (HD|BRAVO4|SPA) [DATE]
-watch/YnJhdm8vMTc0NjIzNDAwMDAwMC1ob3VzdG9uLXJvY2tldHMtdnMtZ29sZGVuLXN0YXRlLXdhcnJpb3JzLXNwYW5pc2gtLzQ=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746234000000] Golden State Warriors vs Houston Rockets (HD|BRAVO5|SPA) [DATE]
-watch/YnJhdm8vMTc0NjIzNDAwMDAwMC1ob3VzdG9uLXJvY2tldHMtdnMtZ29sZGVuLXN0YXRlLXdhcnJpb3JzLXNwYW5pc2gtYWx0LS81
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746234000000] Golden State Warriors vs Houston Rockets (HD|BRAVO6|POL) [DATE]
-watch/YnJhdm8vMTc0NjIzNDAwMDAwMC1ob3VzdG9uLXJvY2tldHMtdnMtZ29sZGVuLXN0YXRlLXdhcnJpb3JzLXBvbGlzaC0vNg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746234000000] Golden State Warriors vs Houston Rockets (HD|BRAVO7|POR) [DATE]
-watch/YnJhdm8vMTc0NjIzNDAwMDAwMC1ob3VzdG9uLXJvY2tldHMtdnMtZ29sZGVuLXN0YXRlLXdhcnJpb3JzLXBvcnR1Z3Vlc2UtLzc=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746234000000] Golden State Warriors vs Houston Rockets (HD|BRAVO8|HEB) [DATE]
-watch/YnJhdm8vMTc0NjIzNDAwMDAwMC1ob3VzdG9uLXJvY2tldHMtdnMtZ29sZGVuLXN0YXRlLXdhcnJpb3JzLWhlYnJldy0vOA==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746234000000] Golden State Warriors vs Houston Rockets (HD|BRAVO9|KOR) [DATE]
-watch/YnJhdm8vMTc0NjIzNDAwMDAwMC1ob3VzdG9uLXJvY2tldHMtdnMtZ29sZGVuLXN0YXRlLXdhcnJpb3JzLWtvcmVhbi0vOQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",[TIME|1746234000000] Golden State Warriors vs Houston Rockets (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9ob3VzdG9uLXJvY2tldHMtdnMtZ29sZGVuLXN0YXRlLXdhcnJpb3JzLTE2Mjk0NDE3NTAvMQ==
