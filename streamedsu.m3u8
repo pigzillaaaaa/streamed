@@ -255,12 +255,6 @@ watch/YWxwaGEvd3dlLW5ldHdvcmsvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/live-logo.png" group-title="24/7",[TIME|0] WWE Network (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd3dlLW5ldHdvcmsvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746239400000] South Korea Round Two (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvc291dGgta29yZWEtcm91bmQtdHdvLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746239400000] South Korea Round Two (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvc291dGgta29yZWEtcm91bmQtdHdvLzI=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",[TIME|1746244800000] The 44th GS Caltex Maekyung Open (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjI0NDgwMDAwMC10aGUtNDR0aC1ncy1jYWx0ZXgtbWFla3l1bmctb3Blbi8x
 
@@ -323,12 +317,6 @@ watch/YnJhdm8vMTc0NjI1NTYwMDAwMC12LXZhcmVuLW5hZ2FzYWtpLWVoaW1lLWZjLzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746255600000] V-Varen Nagasaki vs Ehime FC (SD|ALPHA2|日本語) [DATE]
 watch/YWxwaGEvdi12YXJlbi1uYWdhc2FraS12cy1laGltZS8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" group-title="MOTOR-SPORTS",[TIME|1746255900000] Formula E: Monaco Free Practice 2 (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvZm9ybXVsYS1lLW1vbmFjby1mcmVlLXByYWN0aWNlLTIvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" group-title="MOTOR-SPORTS",[TIME|1746255900000] Formula E: Monaco Free Practice 2 (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvZm9ybXVsYS1lLW1vbmFjby1mcmVlLXByYWN0aWNlLTIvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746255900000] Hurricanes v Chiefs (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvaHVycmljYW5lcy12cy1jaGllZnMvMQ==
@@ -396,23 +384,20 @@ watch/ZGVsdGEvd2VzdGVybi11bml0ZWQtdnMtYXVja2xhbmQtZm9vdGJhbGwtMTI4MDgzNS8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746259200000] Western United FC vs Auckland FC (SD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd2VzdGVybi11bml0ZWQtdnMtYXVja2xhbmQtZmMvMg==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" group-title="MOTOR-SPORTS",[TIME|1746261000000] Formula E: Monaco Qualifying 1 (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvZm9ybXVsYS1lLW1vbmFjby1xdWFsaWZ5aW5nLTEvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" group-title="MOTOR-SPORTS",[TIME|1746261000000] Formula E: Monaco Qualifying 1 (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" group-title="MOTOR-SPORTS",[TIME|1746261000000] Formula E: Monaco Qualifying 1 (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvZm9ybXVsYS1lLW1vbmFjby1xdWFsaWZ5aW5nLTEvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" group-title="MOTOR-SPORTS",[TIME|1746261000000] Formula E: Monaco Qualifying 1 (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvZm9ybXVsYS1lLW1vbmFjby1xdWFsaWZ5aW5nLTEvMw==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" group-title="MOTOR-SPORTS",[TIME|1746261000000] Formula E: Monaco Qualifying 1 (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvZm9ybXVsYS1lLW1vbmFjby1xdWFsaWZ5aW5nLTEvMg==
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746261900000] World Superbike Italy: Worldsbk - Superpole (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvd29ybGQtc3VwZXJiaWtlLWl0YWx5LXdvcmxkc2JrLXN1cGVycG9sZS8y
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="OTHER",[TIME|1746261600000] Osaka Marvelous W v NEC Red Rockets W (HD|BRAVO1|ENG) [DATE]
+watch/YnJhdm8vMTc0NjI2MTYwMDAwMC1vc2FrYS1tYXJ2ZWxvdXMtdy1uZWMtcmVkLXJvY2tldHMtdy8x
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746261900000] World Superbike Italy: Worldsbk - Superpole (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746261900000] World Superbike Italy: Worldsbk - Superpole (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvd29ybGQtc3VwZXJiaWtlLWl0YWx5LXdvcmxkc2JrLXN1cGVycG9sZS8x
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746261900000] World Superbike Italy: Worldsbk - Superpole (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvd29ybGQtc3VwZXJiaWtlLWl0YWx5LXdvcmxkc2JrLXN1cGVycG9sZS8z
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746261900000] World Superbike Italy: Worldsbk - Superpole (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvd29ybGQtc3VwZXJiaWtlLWl0YWx5LXdvcmxkc2JrLXN1cGVycG9sZS8y
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mma-logo.png" group-title="FIGHT",[TIME|1746262800000] Eternal MMA 95 (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvZXRlcm5hbC1tbWEtOTUvMg==
@@ -423,14 +408,11 @@ watch/YWxwaGEvZXRlcm5hbC1tbWEtOTUvMQ==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mma-logo.png" group-title="FIGHT",[TIME|1746262800000] Eternal MMA 95 (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvZXRlcm5hbC1tbWEtOTUvMw==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1746262800000] World Snooker Championship (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvd29ybGQtc25vb2tlci1jaGFtcGlvbnNoaXAvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1746262800000] World Snooker Championship (SD|ALPHA1|ENG) [DATE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1746262800000] World Snooker Championship (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvd29ybGQtc25vb2tlci1jaGFtcGlvbnNoaXAvMQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1746262800000] World Snooker Championship (SD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvd29ybGQtc25vb2tlci1jaGFtcGlvbnNoaXAvMw==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/billiards-logo.png" group-title="BILLIARDS",[TIME|1746262800000] World Snooker Championship (SD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvd29ybGQtc25vb2tlci1jaGFtcGlvbnNoaXAvMg==
 
 #EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746263700000] Misano - Race 1 (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9taXNhbm8tcmFjZS0xLTE2Mjk0NDE3OTcvMQ==
@@ -816,26 +798,11 @@ watch/YWxwaGEvYnVybmxleS12cy1taWxsd2FsbC8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Burnley vs Millwall (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvYnVybmxleS12cy1taWxsd2FsbC8z
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Coventry vs Middlesbrough (HD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvY292ZW50cnktY2l0eS12cy1taWRkbGVzYnJvdWdoLzI=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Coventry vs Middlesbrough (HD|ALPHA3|ENG) [DATE]
-watch/YWxwaGEvY292ZW50cnktY2l0eS12cy1taWRkbGVzYnJvdWdoLzM=
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Coventry vs Middlesbrough (HD|FOXTROT1|) [DATE]
 watch/Zm94dHJvdC9jb3ZlbnRyeS12cy1taWRkbGVzYnJvdWdoLTIwMjUwNTAzMTMzMC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Coventry vs Middlesbrough (HD|FOXTROT2|) [DATE]
 watch/Zm94dHJvdC9jb3ZlbnRyeS12cy1taWRkbGVzYnJvdWdoLTIwMjUwNTAzMTMzMC8y
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Coventry vs Middlesbrough (SD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvY292ZW50cnktY2l0eS12cy1taWRkbGVzYnJvdWdoLzE=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Coventry vs Middlesbrough (SD|ALPHA4|ENG) [DATE]
-watch/YWxwaGEvY292ZW50cnktY2l0eS12cy1taWRkbGVzYnJvdWdoLzQ=
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Coventry vs Middlesbrough (SD|ALPHA5|ENG) [DATE]
-watch/YWxwaGEvY292ZW50cnktY2l0eS12cy1taWRkbGVzYnJvdWdoLzU=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Derby vs Stoke (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvZGVyYnktY291bnR5LXZzLXN0b2tlLWNpdHkvMg==
