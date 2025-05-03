@@ -480,12 +480,6 @@ watch/YWxwaGEveW9rb2hhbWEtYmF5c3RhcnMtdnMteW9taXVyaS1naWFudHMvMg==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/formula-logo.png" group-title="MOTOR-SPORTS",[TIME|1746250200000] FIA Formula E: Monaco ePrix Practice 1 (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjI1MDIwMDAwMC1maWEtZm9ybXVsYS1lLW1vbmFjby1lcHJpeC1wcmFjdGljZS0xLzE=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746250200000] Spears Kubota v Wild Knights (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvc3BlYXJzLWt1Ym90YS12cy13aWxkLWtuaWdodHMvMQ==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746250200000] Spears Kubota v Wild Knights (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvc3BlYXJzLWt1Ym90YS12cy13aWxkLWtuaWdodHMvMg==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png" group-title="RUGBY",[TIME|1746252000000] Carlton v Adelaide Crows (HD|CHARLIE1|ENG) [DATE]
 watch/Y2hhcmxpZS9jYXJsdG9uLXZzLWFkZWxhaWRlLWNyb3dzLTE2Mjk0NDE3OTIvMQ==
 
@@ -527,12 +521,6 @@ watch/YWxwaGEvdmlzc2VsLWtvYmUtdnMtZmFnaWFuby1va2F5YW1hLzI=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746252000000] Yamaga v Kanazawa (HD|BRAVO1|ENG) [DATE]
 watch/YnJhdm8vMTc0NjI1MjAwMDAwMC15YW1hZ2Eta2FuYXphd2EvMQ==
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746255300000] World Superbike Italy: Practice 3 (HD|ALPHA1|ENG) [DATE]
-watch/YWxwaGEvd29ybGQtc3VwZXJiaWtlLWl0YWx5LXByYWN0aWNlLTMvMQ==
-
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="MOTOR-SPORTS",[TIME|1746255300000] World Superbike Italy: Practice 3 (SD|ALPHA2|ENG) [DATE]
-watch/YWxwaGEvd29ybGQtc3VwZXJiaWtlLWl0YWx5LXByYWN0aWNlLTMvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746255600000] Melbourne City FC vs Sydney FC (HD|ALPHA1|ENG) [DATE]
 watch/YWxwaGEvbWVsYm91cm5lLWNpdHktZmMtdnMtc3lkbmV5LWZjLzE=
@@ -623,9 +611,6 @@ watch/YWxwaGEvc291dGhsYW5kLXNoYXJrcy12cy1jYW50ZXJidXJ5LXJhbXMvMg==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746259200000] Western United FC vs Auckland FC (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvd2VzdGVybi11bml0ZWQtdnMtYXVja2xhbmQtZmMvMg==
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746259200000] Western United FC vs Auckland FC (HD|CHARLIE1|ENG) [DATE]
-watch/Y2hhcmxpZS93ZXN0ZXJuLXVuaXRlZC12cy1hdWNrbGFuZC0xMjgwODM1LzE=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746259200000] Western United FC vs Auckland FC (HD|DELTA1|) [DATE]
 watch/ZGVsdGEvd2VzdGVybi11bml0ZWQtdnMtYXVja2xhbmQtZm9vdGJhbGwtMTI4MDgzNS8x
@@ -1056,11 +1041,26 @@ watch/YWxwaGEvYnVybmxleS12cy1taWxsd2FsbC8x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Burnley vs Millwall (SD|ALPHA3|ENG) [DATE]
 watch/YWxwaGEvYnVybmxleS12cy1taWxsd2FsbC8z
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Coventry vs Middlesbrough (HD|ALPHA2|ENG) [DATE]
+watch/YWxwaGEvY292ZW50cnktY2l0eS12cy1taWRkbGVzYnJvdWdoLzI=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Coventry vs Middlesbrough (HD|ALPHA3|ENG) [DATE]
+watch/YWxwaGEvY292ZW50cnktY2l0eS12cy1taWRkbGVzYnJvdWdoLzM=
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Coventry vs Middlesbrough (HD|FOXTROT1|) [DATE]
 watch/Zm94dHJvdC9jb3ZlbnRyeS12cy1taWRkbGVzYnJvdWdoLTIwMjUwNTAzMTMzMC8x
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Coventry vs Middlesbrough (HD|FOXTROT2|) [DATE]
 watch/Zm94dHJvdC9jb3ZlbnRyeS12cy1taWRkbGVzYnJvdWdoLTIwMjUwNTAzMTMzMC8y
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Coventry vs Middlesbrough (SD|ALPHA1|ENG) [DATE]
+watch/YWxwaGEvY292ZW50cnktY2l0eS12cy1taWRkbGVzYnJvdWdoLzE=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Coventry vs Middlesbrough (SD|ALPHA4|ENG) [DATE]
+watch/YWxwaGEvY292ZW50cnktY2l0eS12cy1taWRkbGVzYnJvdWdoLzQ=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Coventry vs Middlesbrough (SD|ALPHA5|ENG) [DATE]
+watch/YWxwaGEvY292ZW50cnktY2l0eS12cy1taWRkbGVzYnJvdWdoLzU=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",[TIME|1746271800000] Derby vs Stoke (HD|ALPHA2|ENG) [DATE]
 watch/YWxwaGEvZGVyYnktY291bnR5LXZzLXN0b2tlLWNpdHkvMg==
